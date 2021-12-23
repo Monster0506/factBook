@@ -39,3 +39,5 @@ It was created by Monster0506, and modified by 24tr6637.
 ## 2.3. Credits
 - [24tr6637](https://github.com/24tr6637)
 - [Monster0506](https://github.com/Monster0506)
+- [Water.css](https://watercss.kognise.dev)
+- [CIA Factbook](https://www.cia.gov/the-world-factbook)
