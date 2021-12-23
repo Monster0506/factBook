@@ -22,4 +22,4 @@ To install:
 - Clone the repository to your computer.
 - Open the countries folder
 - Open the index.html file.
-- Alternately, you can launch the page from [this link](countries/index.html)
+- Alternately, you can launch the page from [this link](countries/index.html), if you are currently in the repo. 
