@@ -37,7 +37,7 @@ footer {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(150, 166, 150);
+    background-color: #f2f2f2;
     height: 50px;
     width: 100%;
     position: fixed;

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../javascripts/mainJs.js"></script>
+    <title>More Items Index</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <link rel="stylesheet" href="../stylesheets/mainStyle.css">
+</head>
+
+<body>
+    <nav>
+        <li><button onclick="modeT()" class="mode">Toggle Light/Dark Mode</button></li>
+        <li><a href="../docs/history.html">History</a></li>
+        <li><a href="../docs/contributor_copyright.html">Copyright and Contributors</a></li>
+        <li><a href="../docs/didyouknow.html">Did You Know?</a></li>
+        <li><a href="../docs/customer_comments.html">Customer Comments</a></li>
+        <li><a href="../docs/faqs.html">FAQs</a></li>
+        <li><a href="../index.html">Home</a></li>
+    </nav>
+    <h1>More!!</h1>
+    <div>
+        <form action="countries/index.html" ; method="get" id="form">
+            <form action="#" method="GET">
+                <select id="dropdown-menu" name="place_selector" class="place_selector" id='search-place'
+                    onchange="document.location.href= this.value;"
+                    aria-label='Use this to select the country page to view'>
+                    <option value="">Please select a item to view</option>
+                    <option value="appendix-a.html">
+                        Abbreviations
+                    </option>
+                    <option value="appendix-b.html">
+                        International Organizations and Groups
+                    </option>
+                    <option value="appendix-c.html">
+                        Selected International Environmental Agreements
+                    </option>
+                    <option value="appendix-d.html">
+                        Cross-Reference List of Country Data Codes
+                    </option>
+                    <option value="appendix-e.html">
+                        Cross-Reference List of Hydrographic Data Codes
+                    </option>
+                    <option value="appendix-f.html">
+                        Cross-Reference List of Geographic Names
+                    </option>
+                    <option value="appendix-g.html">
+                        Weights and Measures
+                    </option>
+                    <option value="appendix-h.html">
+                        Strategic Materials
+                    </option>
+                    <option value="appendix-t.html">
+                        Terrorist Organizations
+                    </option>
+                    <option value="../docs/one_page_summaries.html">
+                        One Page Summaries
+                    </option>
+                    <option value="../docs/travel_facts.html">
+                        Travel Facts
+                    </option>
+                    <option value="../docs/whatsnew.html">
+                        What's New
+                </select>
+            </form>
+        </form>
+    </div>
+    <div>
+        <input id="search" type="text" name="search" placeholder="Search..." onkeyup="search()">
+    </div>
+    <div class="results-counter">
+        <span>
+            <p id="results"></p>
+        </span>
+    </div>
+    <div>
+        <ul id="countries">
+            <li class="item">
+                <a href="appendix-a.html">
+                    Appendix A :: Abbreviations
+                </a>
+            </li>
+            <li class="item">
+                <a href="appendix-b.html">
+                    Appendix B :: International Organizations and Groups
+                </a>
+            </li>
+            <li class="item">
+                <a href="appendix-c.html">
+                    Appendix C :: Selected International Environmental Agreements
+                </a>
+            </li>
+            <li class="item">
+                <a href="appendix-d.html">
+                    Appendix D :: Cross-Reference List of Country Data Codes
+                </a>
+            </li>
+            <li class="item">
+                <a href="appendix-e.html">
+                    Appendix E :: Cross-Reference List of Hydrographic Data Codes
+                </a>
+            </li>
+            <li class="item">
+                <a href="appendix-f.html">
+                    Appendix F :: Cross-Reference List of Geographic Names
+                </a>
+            </li>
+            <li class="item">
+                <a href="appendix-g.html">
+                    Appendix G :: Weights and Measures
+                </a>
+            </li>
+            <li class="item">
+                <a href="appendix-h.html">
+                    Appendix H :: Strategic Materials
+                </a>
+            </li>
+            <li class="item">
+                <a href="appendix-t.html">
+                    Appendix T :: Terrorist Organizations
+                </a>
+            </li>
+            <li class="item">
+                <a href="../docs/one_page_summaries.html">Docs :: One Page Summaries</a>
+            </li>
+            <li class="item">
+                <a href="../docs/travel_facts.html">Docs :: Travel Facts</a>
+            </li>
+            <li class="item">
+                <a href="../docs/whatsnew.html">Docs :: What's New</a>
+            </li>
+        </ul>
+    </div>
+    <div>
+        <footer>
+            <li><a href="../docs/refmaps.html">Regional and World Maps</a></li>
+            <li><a href="../docs/flagsoftheworld.html">Flags of the World</a></li>
+            <li><a href="../docs/gallery.html">Gallery of Covers</a></li>
+            <li><a href="../docs/notesanddefs.html">Definitions and Notes</a></li>
+            <li><a href="../docs/profileguide.html">Guide to Country Profiles</a></li>
+            <li><a href="../docs/rankorderguide.html">Guide to Country Comparisons</a></li>
+            <li><a href="../index0.html">View Original</a></li>
+        </footer>
+    </div>
+
+</html>

@@ -1,4 +1,4 @@
-var mode = "light";
+var mode;
 function search() {
     var search = document.getElementById("search").value.toLowerCase();
     var items = document.getElementsByClassName("item");
@@ -29,16 +29,10 @@ function search() {
 //dark mode toggle
 function modeT() {
     if (mode === "light") {
+        dark();
         
-        var link = document.createElement("link");
-        link.rel = "stylesheet";
-        link.href = "https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css";
-        document.head.appendChild(link);
-        mode = "dark";
-
-        document.body.style.marginTop = "50px";
     }
-    else {
+    else if (mode === "dark") {
 
         var link = document.createElement("link");
         link.rel = "stylesheet";
@@ -48,9 +42,23 @@ function modeT() {
         // move body down 50px
         document.body.style.marginTop = "50px";
     }
+    else {
+        dark();
+    }
 
 }
 
 
 
+
+function dark() {
+    var link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.href = "https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css";
+    document.head.appendChild(link);
+    mode = "dark";
+    // move body down 50px
+    document.body.style.marginTop = "50px";
+    return link;
+}
 
