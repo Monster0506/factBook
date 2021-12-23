@@ -5,12 +5,12 @@ It was created by Monster0506, and modified by 24tr6637.
 ## Features
 | Includes? 	    | Pros 	|  	          Includes?          | Cons 	|
 |---	|---	|---	                    |---	|
-|🗸 	 | Easy-to-navigate user interface.  |✗ 	| Complex access. 	|
-|🗸 	 | Minimalistic design. 	         |✗ 	| Many buttons and fields. 	|
-|🗸 	 | Clean, simple look. 	             |✗ 	| Cluttered look. 	|
-|🗸 	 | Water.css theme.                	 |✗ 	| Boring, non-reusable theme. 	|
-|🗸 	 | Search Bar 	                     |✗ 	| Have to scroll through a dropdown  menu for hours and hours and hours and hours.... 	|
-|🗸      | Convenient access to all other pages. |✗ | Have to go through a long list of pages to find what you want. 	|
+|✓ 	 | Easy-to-navigate user interface.  |✗ 	| Complex access. 	|
+|✓ 	 | Minimalistic design. 	         |✗ 	| Many buttons and fields. 	|
+|✓ 	 | Clean, simple look. 	             |✗ 	| Cluttered look. 	|
+|✓ 	 | Water.css theme.                	 |✗ 	| Boring, non-reusable theme. 	|
+|✓ 	 | Search Bar 	                     |✗ 	| Have to scroll through a dropdown  menu for hours and hours and hours and hours.... 	|
+|✓      | Convenient access to all other pages. |✗ | Have to go through a long list of pages to find what you want. 	|
 ## Usage
 - Open a factbook file from the dropdown menu, or by searching.
 - Change the color scheme by clicking the Dark/Light button.
