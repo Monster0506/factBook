@@ -1,0 +1,136 @@
+Country Comparison :: HIV/AIDS - adult prevalence rate
+
+1       Eswatini                                                         27.10        2019 est.
+2       Lesotho                                                          23.10        2019 est.
+3       Botswana                                                         22.20        2019 est.
+4       South Africa                                                     17.30        2019 est.
+5       Zimbabwe                                                         13.40        2019 est.
+6       Namibia                                                          12.70        2019 est.
+7       Mozambique                                                       12.10        2019 est.
+8       Zambia                                                           12.10        2019 est.
+9       Malawi                                                            9.50        2019 est.
+10      Equatorial Guinea                                                 7.00        2019 est.
+11      Uganda                                                            6.10        2019 est.
+12      Tanzania                                                          5.10        2019 est.
+13      Kenya                                                             4.80        2019 est.
+14      Central African Republic                                          3.60        2019 est.
+15      Gabon                                                             3.60        2019 est.
+16      Guinea-Bissau                                                     3.40        2019 est.
+17      Cameroon                                                          3.20        2019 est.
+18      Congo, Republic of the                                            3.10        2019 est.
+19      Rwanda                                                            2.90        2019 est.
+20      Cote d'Ivoire                                                     2.70        2019 est.
+21      South Sudan                                                       2.40        2019 est.
+22      Togo                                                              2.30        2019 est.
+23      Gambia, The                                                       2.00        2019 est.
+24      Belize                                                            1.90        2018 est.
+25      Haiti                                                             1.90        2019 est.
+26      Angola                                                            1.80        2019 est.
+27      Bahamas, The                                                      1.80        2018 est.
+28      Ghana                                                             1.70        2019 est.
+29      Liberia                                                           1.50        2019 est.
+30      Saint Vincent and the Grenadines                                  1.50        2018
+31      Sierra Leone                                                      1.50        2019 est.
+32      Guinea                                                            1.40        2019 est.
+33      Guyana                                                            1.40        2019 est.
+34      Jamaica                                                           1.40        2019 est.
+35      Nigeria                                                           1.30        2019 est.
+36      Suriname                                                          1.30        2019 est.
+37      Burundi                                                           1.20        2019 est.
+38      Chad                                                              1.20        2019 est.
+39      Mali                                                              1.20        2019 est.
+40      Russia                                                            1.20        2017 est.
+41      Antigua and Barbuda                                               1.10        2018
+42      Barbados                                                          1.10        2019 est.
+43      Ethiopia                                                          1.10        2019 est.
+44      Benin                                                             1.00        2019 est.
+45      Mauritius                                                         1.00        2019
+46      Djibouti                                                          0.90        2019 est.
+47      Dominican Republic                                                0.90        2019 est.
+48      Estonia                                                           0.90        2018 est.
+49      Panama                                                            0.90        2018 est.
+50      Trinidad and Tobago                                               0.90        2019 est.
+51      Burkina Faso                                                      0.80        2019 est.
+52      Congo, Democratic Republic of the                                 0.80        2019 est.
+53      Papua New Guinea                                                  0.80        2019 est.
+54      Thailand                                                          0.80        2019 est.
+55      Eritrea                                                           0.70        2019 est.
+56      Sao Tome and Principe                                             0.70        2018
+57      Ukraine                                                           0.70        2019 est.
+58      Burma                                                             0.60        2019 est.
+59      Cabo Verde                                                        0.60        2019 est.
+60      Cambodia                                                          0.60        2019 est.
+61      Dominica                                                          0.60        2018
+62      El Salvador                                                       0.60        2019 est.
+63      Moldova                                                           0.60        2019 est.
+64      Saint Lucia                                                       0.60        2018
+65      Uruguay                                                           0.60        2018 est.
+66      Brazil                                                            0.50        2018 est.
+67      Chile                                                             0.50        2019 est.
+68      Colombia                                                          0.50        2019 est.
+69      Grenada                                                           0.50        2018
+70      Portugal                                                          0.50        2018 est.
+71      Saint Kitts and Nevis                                             0.50        2018
+72      Venezuela                                                         0.50        2019 est.
+73      Argentina                                                         0.40        2019 est.
+74      Belarus                                                           0.40        2019 est.
+75      Costa Rica                                                        0.40        2019 est.
+76      Ecuador                                                           0.40        2019 est.
+77      Honduras                                                          0.40        2019 est.
+78      Indonesia                                                         0.40        2018 est.
+79      Malaysia                                                          0.40        2019 est.
+80      Paraguay                                                          0.40        2019 est.
+81      Peru                                                              0.40        2019 est.
+82      Senegal                                                           0.40        2019 est.
+83      Spain                                                             0.40        2019 est.
+84      Bhutan                                                            0.30        2018
+85      Cuba                                                              0.30        2019 est.
+86      France                                                            0.30        2019 est.
+87      Georgia                                                           0.30        2019 est.
+88      Guatemala                                                         0.30        2019 est.
+89      Italy                                                             0.30        2019 est.
+90      Laos                                                              0.30        2019 est.
+91      Latvia                                                            0.30        2019 est.
+92      Luxembourg                                                        0.30        2018 est.
+93      Niger                                                             0.30        2019 est.
+94      Vietnam                                                           0.30        2019 est.
+95      Bolivia                                                           0.20        2019 est.
+96      Fiji                                                              0.20        2019 est.
+97      Greece                                                            0.20        2017 est.
+98      India                                                             0.20        2017 est.
+99      Ireland                                                           0.20        2019 est.
+100     Israel                                                            0.20        2018
+101     Kazakhstan                                                        0.20        2019 est.
+102     Kyrgyzstan                                                        0.20        2019 est.
+103     Libya                                                             0.20        2019
+104     Madagascar                                                        0.20        2019 est.
+105     Mauritania                                                        0.20        2019 est.
+106     Mexico                                                            0.20        2018 est.
+107     Netherlands                                                       0.20        2019 est.
+108     Nicaragua                                                         0.20        2019 est.
+109     Singapore                                                         0.20        2019 est.
+110     Sudan                                                             0.20        2019 est.
+111     Sweden                                                            0.20        2016 est.
+112     Switzerland                                                       0.20        2019
+113     Tajikistan                                                        0.20        2019 est.
+114     Timor-Leste                                                       0.20        2019
+115     Uzbekistan                                                        0.20        2019 est.
+116     Armenia                                                           0.10        2019 est.
+117     Australia                                                         0.10        2019 est.
+118     Austria                                                           0.10        2017 est.
+119     Azerbaijan                                                        0.10        2019 est.
+120     Cyprus                                                            0.10        2017 est.
+121     Denmark                                                           0.10        2018 est.
+122     Finland                                                           0.10        2018
+123     Germany                                                           0.10        2018 est.
+124     Iceland                                                           0.10        2018
+125     Lithuania                                                         0.10        2019 est.
+126     Malta                                                             0.10        2016 est.
+127     Nepal                                                             0.10        2019 est.
+128     Norway                                                            0.10        2018 est.
+129     Oman                                                              0.10        2019
+130     Pakistan                                                          0.10        2019 est.
+131     Philippines                                                       0.10        2019 est.
+132     Qatar                                                             0.10        2017 est.
+133     Romania                                                           0.10        2019 est.
+134     Somalia                                                           0.10        2019 est.

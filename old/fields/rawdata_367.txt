@@ -1,0 +1,194 @@
+Country Comparison :: Obesity - adult prevalence rate
+
+1       Nauru                                                            61.00        2016
+2       Cook Islands                                                     55.90        2016
+3       Palau                                                            55.30        2016
+4       Marshall Islands                                                 52.90        2016
+5       Tuvalu                                                           51.60        2016
+6       Niue                                                             50.00        2016
+7       Tonga                                                            48.20        2016
+8       Samoa                                                            47.30        2016
+9       Kiribati                                                         46.00        2016
+10      Micronesia, Federated States of                                  45.80        2016
+11      Kuwait                                                           37.90        2016
+12      United States                                                    36.20        2016
+13      Jordan                                                           35.50        2016
+14      Saudi Arabia                                                     35.40        2016
+15      Qatar                                                            35.10        2016
+16      Libya                                                            32.50        2016
+17      Turkey                                                           32.10        2016
+18      Egypt                                                            32.00        2016
+19      Lebanon                                                          32.00        2016
+20      United Arab Emirates                                             31.70        2016
+21      Bahamas, The                                                     31.60        2016
+22      New Zealand                                                      30.80        2016
+23      Iraq                                                             30.40        2016
+24      Fiji                                                             30.20        2016
+25      Bahrain                                                          29.80        2016
+26      Canada                                                           29.40        2016
+27      Australia                                                        29.00        2016
+28      Malta                                                            28.90        2016
+29      Mexico                                                           28.90        2016
+30      Argentina                                                        28.30        2016
+31      South Africa                                                     28.30        2016
+32      Chile                                                            28.00        2016
+33      Dominica                                                         27.90        2016
+34      Uruguay                                                          27.90        2016
+35      Syria                                                            27.80        2016
+36      United Kingdom                                                   27.80        2016
+37      Dominican Republic                                               27.60        2016
+38      Algeria                                                          27.40        2016
+39      Oman                                                             27.00        2016
+40      Tunisia                                                          26.90        2016
+41      Hungary                                                          26.40        2016
+42      Suriname                                                         26.40        2016
+43      Lithuania                                                        26.30        2016
+44      Israel                                                           26.10        2016
+45      Morocco                                                          26.10        2016
+46      Czechia                                                          26.00        2016
+47      Iran                                                             25.80        2016
+48      Costa Rica                                                       25.70        2016
+49      Andorra                                                          25.60        2016
+50      Venezuela                                                        25.60        2016
+51      Ireland                                                          25.30        2016
+52      Vanuatu                                                          25.20        2016
+53      Bulgaria                                                         25.00        2016
+54      Greece                                                           24.90        2016
+55      Jamaica                                                          24.70        2016
+56      Cuba                                                             24.60        2016
+57      El Salvador                                                      24.60        2016
+58      Belarus                                                          24.50        2016
+59      Croatia                                                          24.40        2016
+60      Belize                                                           24.10        2016
+61      Ukraine                                                          24.10        2016
+62      Spain                                                            23.80        2016
+63      Nicaragua                                                        23.70        2016
+64      Saint Vincent and the Grenadines                                 23.70        2016
+65      Latvia                                                           23.60        2016
+66      Montenegro                                                       23.30        2016
+67      Barbados                                                         23.10        2016
+68      Norway                                                           23.10        2016
+69      Poland                                                           23.10        2016
+70      Russia                                                           23.10        2016
+71      Saint Kitts and Nevis                                            22.90        2016
+72      Haiti                                                            22.70        2016
+73      Panama                                                           22.70        2016
+74      Luxembourg                                                       22.60        2016
+75      Romania                                                          22.50        2016
+76      Solomon Islands                                                  22.50        2016
+77      Macedonia                                                        22.40        2016
+78      Colombia                                                         22.30        2016
+79      Germany                                                          22.30        2016
+80      Finland                                                          22.20        2016
+81      Belgium                                                          22.10        2016
+82      Brazil                                                           22.10        2016
+83      Iceland                                                          21.90        2016
+84      Cyprus                                                           21.80        2016
+85      Albania                                                          21.70        2016
+86      Georgia                                                          21.70        2016
+87      France                                                           21.60        2016
+88      Serbia                                                           21.50        2016
+89      Honduras                                                         21.40        2016
+90      Grenada                                                          21.30        2016
+91      Papua New Guinea                                                 21.30        2016
+92      Estonia                                                          21.20        2016
+93      Guatemala                                                        21.20        2016
+94      Kazakhstan                                                       21.00        2016
+95      Portugal                                                         20.80        2016
+96      Mongolia                                                         20.60        2016
+97      Sweden                                                           20.60        2016
+98      Slovakia                                                         20.50        2016
+99      Netherlands                                                      20.40        2016
+100     Paraguay                                                         20.30        2016
+101     Armenia                                                          20.20        2016
+102     Bolivia                                                          20.20        2016
+103     Guyana                                                           20.20        2016
+104     Slovenia                                                         20.20        2016
+105     Austria                                                          20.10        2016
+106     Azerbaijan                                                       19.90        2016
+107     Ecuador                                                          19.90        2016
+108     Italy                                                            19.90        2016
+109     Denmark                                                          19.70        2016
+110     Peru                                                             19.70        2016
+111     Saint Lucia                                                      19.70        2016
+112     Switzerland                                                      19.50        2016
+113     Antigua and Barbuda                                              18.90        2016
+114     Botswana                                                         18.90        2016
+115     Moldova                                                          18.90        2016
+116     Trinidad and Tobago                                              18.60        2016
+117     Turkmenistan                                                     18.60        2016
+118     Bosnia and Herzegovina                                           17.90        2016
+119     Namibia                                                          17.20        2016
+120     Yemen                                                            17.10        2016
+121     Kyrgyzstan                                                       16.60        2016
+122     Lesotho                                                          16.60        2016
+123     Uzbekistan                                                       16.60        2016
+124     Eswatini                                                         16.50        2016
+125     Malaysia                                                         15.60        2016
+126     Zimbabwe                                                         15.50        2016
+127     Gabon                                                            15.00        2016
+128     Tajikistan                                                       14.20        2016
+129     Brunei                                                           14.10        2016
+130     Seychelles                                                       14.00        2016
+131     Djibouti                                                         13.50        2016
+132     Mauritania                                                       12.70        2016
+133     Sao Tome and Principe                                            12.40        2016
+134     Cabo Verde                                                       11.80        2016
+135     Cameroon                                                         11.40        2016
+136     Ghana                                                            10.90        2016
+137     Mauritius                                                        10.80        2016
+138     Cote d'Ivoire                                                    10.30        2016
+139     Gambia, The                                                      10.30        2016
+140     Thailand                                                         10.00        2016
+141     Liberia                                                           9.90        2016
+142     Benin                                                             9.60        2016
+143     Congo, Republic of the                                            9.60        2016
+144     Guinea-Bissau                                                     9.50        2016
+145     Nigeria                                                           8.90        2016
+146     Senegal                                                           8.80        2016
+147     Sierra Leone                                                      8.70        2016
+148     Maldives                                                          8.60        2016
+149     Mali                                                              8.60        2016
+150     Pakistan                                                          8.60        2016
+151     Tanzania                                                          8.40        2016
+152     Togo                                                              8.40        2016
+153     Somalia                                                           8.30        2016
+154     Angola                                                            8.20        2016
+155     Zambia                                                            8.10        2016
+156     Equatorial Guinea                                                 8.00        2016
+157     Comoros                                                           7.80        2016
+158     Guinea                                                            7.70        2016
+159     Central African Republic                                          7.50        2016
+160     Mozambique                                                        7.20        2016
+161     Kenya                                                             7.10        2016
+162     Indonesia                                                         6.90        2016
+163     Korea, North                                                      6.80        2016
+164     Congo, Democratic Republic of the                                 6.70        2016
+165     South Sudan                                                       6.60        2014
+166     Sudan                                                             6.60        2014
+167     Bhutan                                                            6.40        2016
+168     Philippines                                                       6.40        2016
+169     China                                                             6.20        2016
+170     Chad                                                              6.10        2016
+171     Singapore                                                         6.10        2016
+172     Burma                                                             5.80        2016
+173     Malawi                                                            5.80        2016
+174     Rwanda                                                            5.80        2016
+175     Burkina Faso                                                      5.60        2016
+176     Afghanistan                                                       5.50        2016
+177     Niger                                                             5.50        2016
+178     Burundi                                                           5.40        2016
+179     Laos                                                              5.30        2016
+180     Madagascar                                                        5.30        2016
+181     Uganda                                                            5.30        2016
+182     Sri Lanka                                                         5.20        2016
+183     Eritrea                                                           5.00        2016
+184     Korea, South                                                      4.70        2016
+185     Ethiopia                                                          4.50        2016
+186     Japan                                                             4.30        2016
+187     Nepal                                                             4.10        2016
+188     Cambodia                                                          3.90        2016
+189     India                                                             3.90        2016
+190     Timor-Leste                                                       3.80        2016
+191     Bangladesh                                                        3.60        2016
+192     Vietnam                                                           2.10        2016

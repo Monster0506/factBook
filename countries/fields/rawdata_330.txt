@@ -1,0 +1,160 @@
+Country Comparison :: Military expenditures
+
+1       Oman                                                              8.80        2019
+2       Saudi Arabia                                                      8.00        2019
+3       Algeria                                                           6.00        2019
+4       United Arab Emirates                                              5.70        2016
+5       Kuwait                                                            5.60        2019
+6       Israel                                                            5.00        2019
+7       Armenia                                                           4.90        2019
+8       Jordan                                                            4.70        2019
+9       Lebanon                                                           4.20        2019
+10      Azerbaijan                                                        4.00        2019
+11      Pakistan                                                          4.00        2019
+12      Uzbekistan                                                        4.00        2018
+13      Yemen                                                             3.98        2014
+14      Russia                                                            3.90        2019
+15      Ukraine                                                           3.90        2019
+16      Iran                                                              3.80        2019 est.
+17      Bahrain                                                           3.70        2019
+18      Iraq                                                              3.50        2019
+19      South Sudan                                                       3.50        2019
+20      United States                                                     3.42        2019 est.
+21      Brunei                                                            3.30        2019
+22      Bulgaria                                                          3.25        2019 est.
+23      Colombia                                                          3.20        2019
+24      Singapore                                                         3.20        2019
+25      Morocco                                                           3.10        2019
+26      Togo                                                              3.10        2019
+27      Namibia                                                           3.00        2019
+28      Burma                                                             2.90        2018
+29      Cuba                                                              2.90        2018
+30      Botswana                                                          2.80        2019
+31      Mauritania                                                        2.80        2019
+32      Congo, Republic of the                                            2.70        2019
+33      Korea, South                                                      2.70        2019
+34      Mali                                                              2.70        2019
+35      Tunisia                                                           2.60        2019
+36      Burkina Faso                                                      2.40        2019
+37      India                                                             2.40        2019
+38      Cambodia                                                          2.30        2019
+39      Ecuador                                                           2.30        2019
+40      Vietnam                                                           2.30        2018
+41      Greece                                                            2.28        2019 est.
+42      Chad                                                              2.20        2019
+43      Serbia                                                            2.20        2019
+44      Estonia                                                           2.14        2019 est.
+45      United Kingdom                                                    2.14        2019 est.
+46      Uganda                                                            2.10        2019
+47      Romania                                                           2.04        2019 est.
+48      Lithuania                                                         2.03        2019 est.
+49      Latvia                                                            2.01        2019 est.
+50      Georgia                                                           2.00        2019
+51      Guinea                                                            2.00        2019
+52      Poland                                                            2.00        2019 est.
+53      Uruguay                                                           2.00        2019
+54      Australia                                                         1.90        2019
+55      China                                                             1.90        2019
+56      Sri Lanka                                                         1.90        2019
+57      Turkey                                                            1.89        2019 est.
+58      France                                                            1.84        2019 est.
+59      Burundi                                                           1.80        2019
+60      Chile                                                             1.80        2019
+61      Eswatini                                                          1.80        2019
+62      Niger                                                             1.80        2019
+63      Norway                                                            1.80        2019 est.
+64      Slovakia                                                          1.74        2019 est.
+65      Guyana                                                            1.70        2019
+66      Taiwan                                                            1.70        2019
+67      Croatia                                                           1.68        2019 est.
+68      Montenegro                                                        1.66        2019 est.
+69      Angola                                                            1.60        2019
+70      Cyprus                                                            1.60        2019
+71      Fiji                                                              1.60        2019
+72      Gabon                                                             1.60        2019
+73      Honduras                                                          1.60        2019
+74      Jamaica                                                           1.60        2019
+75      Nepal                                                             1.60        2019
+76      Sudan                                                             1.60        2019
+77      Portugal                                                          1.52        2019 est.
+78      Brazil                                                            1.50        2019
+79      Central African Republic                                          1.50        2019
+80      Finland                                                           1.50        2019
+81      Kyrgyzstan                                                        1.50        2019
+82      Lesotho                                                           1.50        2019
+83      New Zealand                                                       1.50        2019
+84      Senegal                                                           1.50        2019 est.
+85      Bolivia                                                           1.40        2019
+86      Guinea-Bissau                                                     1.40        2017
+87      Germany                                                           1.38        2019 est.
+88      Netherlands                                                       1.36        2019 est.
+89      Denmark                                                           1.32        2019
+90      Canada                                                            1.31        2019 est.
+91      Albania                                                           1.30        2019 est.
+92      Bangladesh                                                        1.30        2019
+93      Kenya                                                             1.30        2019
+94      Seychelles                                                        1.30        2019
+95      Tanzania                                                          1.30        2019
+96      Thailand                                                          1.30        2019
+97      Italy                                                             1.22        2019 est.
+98      Hungary                                                           1.21        2019 est.
+99      Afghanistan                                                       1.20        2019
+100     Belarus                                                           1.20        2019
+101     Belize                                                            1.20        2019
+102     Egypt                                                             1.20        2019
+103     El Salvador                                                       1.20        2019
+104     North Macedonia                                                   1.20        2019
+105     Peru                                                              1.20        2019
+106     Rwanda                                                            1.20        2019
+107     Tajikistan                                                        1.20        2015
+108     Zambia                                                            1.20        2019
+109     Czechia                                                           1.19        2019 est.
+110     Cameroon                                                          1.10        2019
+111     Cote d'Ivoire                                                     1.10        2019
+112     Equatorial Guinea                                                 1.10        2018
+113     Kazakhstan                                                        1.10        2019
+114     Sweden                                                            1.10        2019
+115     Slovenia                                                          1.04        2019 est.
+116     Malaysia                                                          1.00        2019
+117     Paraguay                                                          1.00        2019
+118     Philippines                                                       1.00        2019
+119     South Africa                                                      1.00        2019
+120     Timor-Leste                                                       1.00        2019
+121     Zimbabwe                                                          1.00        2019
+122     Mozambique                                                        0.99        2018
+123     Belgium                                                           0.93        2019
+124     Japan                                                             0.93        2019
+125     Spain                                                             0.92        2019 est.
+126     Bosnia and Herzegovina                                            0.90        2019
+127     Macedonia                                                         0.90        2017
+128     Malawi                                                            0.90        2019
+129     Gambia, The                                                       0.80        2019
+130     Kosovo                                                            0.80        2019
+131     Argentina                                                         0.70        2019
+132     Austria                                                           0.70        2019
+133     Benin                                                             0.70        2019
+134     Congo, Democratic Republic of the                                 0.70        2019
+135     Dominican Republic                                                0.70        2019
+136     Ethiopia                                                          0.70        2019
+137     Indonesia                                                         0.70        2019
+138     Mongolia                                                          0.70        2019
+139     Nicaragua                                                         0.70        2019
+140     Sierra Leone                                                      0.70        2019
+141     Switzerland                                                       0.70        2019
+142     Trinidad and Tobago                                               0.70        2019
+143     Madagascar                                                        0.60        2019
+144     Malta                                                             0.60        2019
+145     Luxembourg                                                        0.56        2019 est.
+146     Cabo Verde                                                        0.50        2019
+147     Liberia                                                           0.50        2019
+148     Mexico                                                            0.50        2019
+149     Nigeria                                                           0.50        2019
+150     Venezuela                                                         0.50        2017
+151     Ghana                                                             0.40        2019
+152     Guatemala                                                         0.40        2019
+153     Moldova                                                           0.40        2019
+154     Papua New Guinea                                                  0.40        2019
+155     Iceland                                                           0.30        2018
+156     Ireland                                                           0.30        2019
+157     Laos                                                              0.20        2013
+158     Mauritius                                                         0.20        2018

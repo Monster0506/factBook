@@ -1,0 +1,219 @@
+Country Comparison :: Crude oil - imports
+
+1       United States                                                7,969,000        2017 est.
+2       China                                                        6,710,000        2015 est.
+3       India                                                        4,057,000        2015 est.
+4       Japan                                                        3,208,000        2017 est.
+5       Korea, South                                                 3,057,000        2017 est.
+6       Germany                                                      1,836,000        2017 est.
+7       Italy                                                        1,341,000        2017 est.
+8       Spain                                                        1,325,000        2017 est.
+9       France                                                       1,147,000        2017 est.
+10      Netherlands                                                  1,094,000        2017 est.
+11      United Kingdom                                                 907,100        2017 est.
+12      Thailand                                                       875,400        2015 est.
+13      Taiwan                                                         846,400        2015 est.
+14      Canada                                                         806,700        2017 est.
+15      Singapore                                                      783,300        2015 est.
+16      Belgium                                                        687,600        2017 est.
+17      Turkey                                                         521,500        2017 est.
+18      Indonesia                                                      498,500        2015 est.
+19      Poland                                                         493,100        2017 est.
+20      Greece                                                         484,300        2017 est.
+21      Belarus                                                        468,400        2015 est.
+22      South Africa                                                   404,000        2015 est.
+23      Sweden                                                         400,200        2017 est.
+24      Australia                                                      341,700        2017 est.
+25      Brazil                                                         297,700        2015 est.
+26      Portugal                                                       285,200        2017 est.
+27      Finland                                                        236,700        2017 est.
+28      Israel                                                         231,600        2017 est.
+29      Bahrain                                                        226,200        2015 est.
+30      Philippines                                                    211,400        2015 est.
+31      Curacao                                                        191,300        2015 est.
+32      Lithuania                                                      182,900        2015 est.
+33      Chile                                                          169,600        2017 est.
+34      Pakistan                                                       168,200        2015 est.
+35      Malaysia                                                       166,000        2015 est.
+36      Czechia                                                        155,900        2017 est.
+37      Austria                                                        146,600        2017 est.
+38      Romania                                                        145,300        2015 est.
+39      Bulgaria                                                       133,900        2015 est.
+40      Hungary                                                        121,000        2017 est.
+41      Cuba                                                           112,400        2015 est.
+42      Slovakia                                                       111,200        2017 est.
+43      New Zealand                                                    108,900        2017 est.
+44      Denmark                                                         98,240        2017 est.
+45      Syria                                                           87,660        2015 est.
+46      Peru                                                            86,060        2015 est.
+47      Trinidad and Tobago                                             80,860        2015 est.
+48      Russia                                                          76,220        2015 est.
+49      Jordan                                                          67,980        2015 est.
+50      Ireland                                                         66,210        2017 est.
+51      Egypt                                                           64,760        2015 est.
+52      Cote d'Ivoire                                                   62,350        2015 est.
+53      Morocco                                                         61,160        2015 est.
+54      Switzerland                                                     57,400        2017 est.
+55      Croatia                                                         55,400        2015 est.
+56      Serbia                                                          40,980        2015 est.
+57      Uruguay                                                         40,200        2015 est.
+58      Norway                                                          36,550        2017 est.
+59      Cameroon                                                        36,480        2015 est.
+60      Sri Lanka                                                       33,540        2015 est.
+61      Jamaica                                                         24,360        2015 est.
+62      Papua New Guinea                                                22,220        2015 est.
+63      Bangladesh                                                      21,860        2015 est.
+64      Bosnia and Herzegovina                                          18,480        2015 est.
+65      Senegal                                                         17,880        2015 est.
+66      Tunisia                                                         17,580        2015 est.
+67      Dominican Republic                                              16,980        2015 est.
+68      Argentina                                                       16,740        2015 est.
+69      Nicaragua                                                       16,180        2015 est.
+70      Zambia                                                          12,860        2015 est.
+71      Kenya                                                           12,550        2015 est.
+72      Korea, North                                                    10,640        2015 est.
+73      Sudan                                                            9,440        2015 est.
+74      Ghana                                                            6,220        2015 est.
+75      Algeria                                                          5,340        2015 est.
+76      Ukraine                                                          4,720        2015 est.
+77      Kyrgyzstan                                                       4,480        2015 est.
+78      Georgia                                                          2,660        2015 est.
+79      Kazakhstan                                                       1,480        2015 est.
+80      Suriname                                                           820        2015 est.
+81      Uzbekistan                                                         420        2015 est.
+82      Brunei                                                             160        2015 est.
+83      Moldova                                                             20        2015 est.
+84      Afghanistan                                                          0        2015 est.
+85      Albania                                                              0        2015 est.
+86      American Samoa                                                       0        2015 est.
+87      Andorra                                                              0        2016
+88      Angola                                                               0        2015 est.
+89      Antigua and Barbuda                                                  0        2015 est.
+90      Armenia                                                              0        2015 est.
+91      Aruba                                                                0        2015 est.
+92      Azerbaijan                                                           0        2015 est.
+93      Bahamas, The                                                         0        2015 est.
+94      Barbados                                                             0        2015 est.
+95      Belize                                                               0        2015 est.
+96      Benin                                                                0        2015 est.
+97      Bermuda                                                              0        2015 est.
+98      Bhutan                                                               0        2015 est.
+99      Bolivia                                                              0        2015 est.
+100     Botswana                                                             0        2015 est.
+101     British Virgin Islands                                               0        2015 est.
+102     Burkina Faso                                                         0        2015 est.
+103     Burma                                                                0        2015 est.
+104     Burundi                                                              0        2015 est.
+105     Cabo Verde                                                           0        2015 est.
+106     Cambodia                                                             0        2015 est.
+107     Cayman Islands                                                       0        2015 est.
+108     Central African Republic                                             0        2015 est.
+109     Chad                                                                 0        2015 est.
+110     Colombia                                                             0        2015 est.
+111     Comoros                                                              0        2015 est.
+112     Congo, Democratic Republic of the                                    0        2015 est.
+113     Congo, Republic of the                                               0        2015 est.
+114     Cook Islands                                                         0        2015 est.
+115     Costa Rica                                                           0        2015 est.
+116     Cyprus                                                               0        2015 est.
+117     Djibouti                                                             0        2015 est.
+118     Dominica                                                             0        2015 est.
+119     Ecuador                                                              0        2015 est.
+120     El Salvador                                                          0        2015 est.
+121     Equatorial Guinea                                                    0        2015 est.
+122     Eritrea                                                              0        2015 est.
+123     Estonia                                                              0        2017 est.
+124     Eswatini                                                             0        2015 est.
+125     Ethiopia                                                             0        2015 est.
+126     Falkland Islands (Islas Malvinas)                                    0        2015 est.
+127     Faroe Islands                                                        0        2015 est.
+128     Fiji                                                                 0        2015 est.
+129     French Polynesia                                                     0        2015 est.
+130     Gabon                                                                0        2015 est.
+131     Gambia, The                                                          0        2015 est.
+132     Gibraltar                                                            0        2015 est.
+133     Greenland                                                            0        2015 est.
+134     Grenada                                                              0        2015 est.
+135     Guam                                                                 0        2015 est.
+136     Guatemala                                                            0        2015 est.
+137     Guinea                                                               0        2015 est.
+138     Guinea-Bissau                                                        0        2015 est.
+139     Guyana                                                               0        2015 est.
+140     Haiti                                                                0        2015 est.
+141     Honduras                                                             0        2015 est.
+142     Hong Kong                                                            0        2015 est.
+143     Iceland                                                              0        2017 est.
+144     Iran                                                                 0        2015 est.
+145     Iraq                                                                 0        2015 est.
+146     Kiribati                                                             0        2015 est.
+147     Kosovo                                                               0        2015 est.
+148     Kuwait                                                               0        2015 est.
+149     Laos                                                                 0        2015 est.
+150     Latvia                                                               0        2017 est.
+151     Lebanon                                                              0        2015 est.
+152     Lesotho                                                              0        2015 est.
+153     Liberia                                                              0        2015 est.
+154     Libya                                                                0        2015 est.
+155     Luxembourg                                                           0        2017 est.
+156     Macau                                                                0        2015 est.
+157     Macedonia                                                            0        2015 est.
+158     Madagascar                                                           0        2015 est.
+159     Malawi                                                               0        2015 est.
+160     Maldives                                                             0        2015 est.
+161     Mali                                                                 0        2015 est.
+162     Malta                                                                0        2015 est.
+163     Marshall Islands                                                     0        2015 est.
+164     Mauritania                                                           0        2015 est.
+165     Mauritius                                                            0        2015 est.
+166     Mexico                                                               0        2017 est.
+167     Micronesia, Federated States of                                      0        2014
+168     Mongolia                                                             0        2015 est.
+169     Montenegro                                                           0        2015 est.
+170     Montserrat                                                           0        2015 est.
+171     Mozambique                                                           0        2015 est.
+172     Namibia                                                              0        2015 est.
+173     Nauru                                                                0        2015 est.
+174     Nepal                                                                0        2015 est.
+175     New Caledonia                                                        0        2015 est.
+176     Niger                                                                0        2015 est.
+177     Nigeria                                                              0        2015 est.
+178     Niue                                                                 0        2015 est.
+179     Oman                                                                 0        2015 est.
+180     Panama                                                               0        2015 est.
+181     Paraguay                                                             0        2015 est.
+182     Puerto Rico                                                          0        2015 est.
+183     Qatar                                                                0        2015 est.
+184     Rwanda                                                               0        2015 est.
+185     Saint Helena, Ascension, and Tristan da Cunha                        0        2015 est.
+186     Saint Kitts and Nevis                                                0        2015 est.
+187     Saint Lucia                                                          0        2015 est.
+188     Saint Pierre and Miquelon                                            0        2015 est.
+189     Saint Vincent and the Grenadines                                     0        2015 est.
+190     Samoa                                                                0        2015 est.
+191     Sao Tome and Principe                                                0        2015 est.
+192     Saudi Arabia                                                         0        2015 est.
+193     Seychelles                                                           0        2015 est.
+194     Sierra Leone                                                         0        2015 est.
+195     Sint Maarten                                                         0        2015 est.
+196     Slovenia                                                             0        2017 est.
+197     Solomon Islands                                                      0        2015 est.
+198     Somalia                                                              0        2015 est.
+199     South Sudan                                                          0        2015 est.
+200     Svalbard                                                             0        2012 est.
+201     Tajikistan                                                           0        2015 est.
+202     Tanzania                                                             0        2015 est.
+203     Timor-Leste                                                          0        2015 est.
+204     Togo                                                                 0        2015 est.
+205     Tonga                                                                0        2015 est.
+206     Turkmenistan                                                         0        2015 est.
+207     Turks and Caicos Islands                                             0        2015 est.
+208     Tuvalu                                                               0        2014 est.
+209     Uganda                                                               0        2015 est.
+210     United Arab Emirates                                                 0        2015 est.
+211     Vanuatu                                                              0        2015 est.
+212     Venezuela                                                            0        2015 est.
+213     Vietnam                                                              0        2015 est.
+214     Virgin Islands                                                       0        2015 est.
+215     West Bank                                                            0        2015 est.
+216     Yemen                                                                0        2015 est.
+217     Zimbabwe                                                             0        2015 est.

@@ -1,0 +1,221 @@
+Country Comparison :: Electricity - production
+
+1       China                                                5,883,000,000,000        2016 est.
+2       United States                                        4,095,000,000,000        2016 est.
+3       India                                                1,386,000,000,000        2016 est.
+4       Russia                                               1,031,000,000,000        2016 est.
+5       Japan                                                  989,300,000,000        2016 est.
+6       Canada                                                 649,600,000,000        2016 est.
+7       Germany                                                612,800,000,000        2016 est.
+8       Brazil                                                 567,900,000,000        2016 est.
+9       France                                                 529,100,000,000        2016 est.
+10      Korea, South                                           526,000,000,000        2016 est.
+11      Saudi Arabia                                           324,100,000,000        2016 est.
+12      United Kingdom                                         318,200,000,000        2016 est.
+13      Mexico                                                 302,700,000,000        2016 est.
+14      Italy                                                  275,300,000,000        2016 est.
+15      Iran                                                   272,300,000,000        2016 est.
+16      Turkey                                                 261,900,000,000        2016 est.
+17      Spain                                                  258,600,000,000        2016 est.
+18      Taiwan                                                 246,100,000,000        2016 est.
+19      Australia                                              243,000,000,000        2016 est.
+20      Indonesia                                              235,400,000,000        2016 est.
+21      South Africa                                           234,500,000,000        2016 est.
+22      Egypt                                                  183,500,000,000        2016 est.
+23      Thailand                                               181,500,000,000        2016 est.
+24      Vietnam                                                158,200,000,000        2016 est.
+25      Poland                                                 156,900,000,000        2016 est.
+26      Ukraine                                                153,600,000,000        2016 est.
+27      Sweden                                                 152,900,000,000        2016 est.
+28      Malaysia                                               148,300,000,000        2016 est.
+29      Norway                                                 147,700,000,000        2016 est.
+30      Argentina                                              131,900,000,000        2016 est.
+31      United Arab Emirates                                   121,800,000,000        2016 est.
+32      Pakistan                                               109,700,000,000        2016 est.
+33      Netherlands                                            109,300,000,000        2016 est.
+34      Venezuela                                              109,300,000,000        2016 est.
+35      Kazakhstan                                             100,800,000,000        2016 est.
+36      Philippines                                             86,590,000,000        2016 est.
+37      Belgium                                                 79,830,000,000        2016 est.
+38      Czechia                                                 77,390,000,000        2016 est.
+39      Chile                                                   76,090,000,000        2016 est.
+40      Iraq                                                    75,450,000,000        2016 est.
+41      Colombia                                                74,920,000,000        2016 est.
+42      Algeria                                                 66,890,000,000        2016 est.
+43      Finland                                                 66,540,000,000        2016 est.
+44      Kuwait                                                  65,950,000,000        2016 est.
+45      Paraguay                                                63,130,000,000        2016 est.
+46      Israel                                                  63,090,000,000        2016 est.
+47      Romania                                                 61,780,000,000        2016 est.
+48      Austria                                                 60,780,000,000        2016 est.
+49      Bangladesh                                              60,510,000,000        2016 est.
+50      Switzerland                                             59,010,000,000        2016 est.
+51      Portugal                                                56,900,000,000        2016 est.
+52      Uzbekistan                                              55,550,000,000        2016 est.
+53      Greece                                                  52,050,000,000        2016 est.
+54      Peru                                                    50,130,000,000        2016 est.
+55      Singapore                                               48,660,000,000        2016 est.
+56      New Zealand                                             42,530,000,000        2016 est.
+57      Bulgaria                                                42,290,000,000        2016 est.
+58      Qatar                                                   39,780,000,000        2016 est.
+59      Serbia                                                  36,540,000,000        2016 est.
+60      Hong Kong                                               35,970,000,000        2016 est.
+61      Libya                                                   34,240,000,000        2016 est.
+62      Oman                                                    32,160,000,000        2016 est.
+63      Belarus                                                 31,580,000,000        2016 est.
+64      Hungary                                                 30,220,000,000        2016 est.
+65      Denmark                                                 29,840,000,000        2016 est.
+66      Laos                                                    29,740,000,000        2016 est.
+67      Nigeria                                                 29,350,000,000        2016 est.
+68      Morocco                                                 28,750,000,000        2016 est.
+69      Ireland                                                 28,530,000,000        2016 est.
+70      Bahrain                                                 26,810,000,000        2016 est.
+71      Ecuador                                                 26,500,000,000        2016 est.
+72      Slovakia                                                25,320,000,000        2016 est.
+73      Azerbaijan                                              23,570,000,000        2016 est.
+74      Turkmenistan                                            21,180,000,000        2016 est.
+75      Puerto Rico                                             20,950,000,000        2016 est.
+76      Cuba                                                    19,280,000,000        2016 est.
+77      Jordan                                                  18,600,000,000        2016 est.
+78      Tunisia                                                 18,440,000,000        2016 est.
+79      Mozambique                                              18,390,000,000        2016 est.
+80      Iceland                                                 18,170,000,000        2016 est.
+81      Dominican Republic                                      18,030,000,000        2016 est.
+82      Lebanon                                                 17,590,000,000        2016 est.
+83      Burma                                                   17,320,000,000        2016 est.
+84      Syria                                                   17,070,000,000        2016 est.
+85      Tajikistan                                              17,030,000,000        2016 est.
+86      Bosnia and Herzegovina                                  16,990,000,000        2016 est.
+87      Korea, North                                            16,570,000,000        2016 est.
+88      Slovenia                                                15,460,000,000        2016 est.
+89      Sudan                                                   13,990,000,000        2016 est.
+90      Sri Lanka                                               13,660,000,000        2016 est.
+91      Georgia                                                 13,240,000,000        2016 est.
+92      Uruguay                                                 13,130,000,000        2016 est.
+93      Kyrgyzstan                                              13,040,000,000        2016 est.
+94      Ghana                                                   12,520,000,000        2016 est.
+95      Croatia                                                 12,200,000,000        2016 est.
+96      Guatemala                                               12,120,000,000        2016 est.
+97      Estonia                                                 11,550,000,000        2016 est.
+98      Zambia                                                  11,550,000,000        2016 est.
+99      Ethiopia                                                11,150,000,000        2016 est.
+100     Costa Rica                                              10,790,000,000        2016 est.
+101     Panama                                                  10,600,000,000        2016 est.
+102     Angola                                                  10,200,000,000        2016 est.
+103     Trinidad and Tobago                                     10,070,000,000        2016 est.
+104     Cote d'Ivoire                                            9,730,000,000        2016 est.
+105     Kenya                                                    9,634,000,000        2016 est.
+106     Congo, Democratic Republic of the                        9,046,000,000        2016 est.
+107     Bolivia                                                  8,951,000,000        2016 est.
+108     Honduras                                                 8,501,000,000        2016 est.
+109     Cameroon                                                 8,108,000,000        2016 est.
+110     Bhutan                                                   7,883,000,000        2016 est.
+111     Albania                                                  7,138,000,000        2016 est.
+112     Armenia                                                  6,951,000,000        2016 est.
+113     Zimbabwe                                                 6,800,000,000        2016 est.
+114     Tanzania                                                 6,699,000,000        2016 est.
+115     Latvia                                                   6,241,000,000        2016 est.
+116     El Salvador                                              5,830,000,000        2016 est.
+117     Kosovo                                                   5,638,000,000        2016 est.
+118     Moldova                                                  5,490,000,000        2016 est.
+119     Macedonia                                                5,396,000,000        2016 est.
+120     Mongolia                                                 5,339,000,000        2016 est.
+121     Cambodia                                                 5,210,000,000        2016 est.
+122     Yemen                                                    4,784,000,000        2016 est.
+123     Cyprus                                                   4,618,000,000        2016 est.
+124     Nicaragua                                                4,454,000,000        2016 est.
+125     Nepal                                                    4,244,000,000        2016 est.
+126     Senegal                                                  4,167,000,000        2016 est.
+127     Brunei                                                   4,014,000,000        2016 est.
+128     Jamaica                                                  4,007,000,000        2016 est.
+129     Papua New Guinea                                         3,481,000,000        2016 est.
+130     Uganda                                                   3,463,000,000        2016 est.
+131     Lithuania                                                3,131,000,000        2016 est.
+132     Montenegro                                               3,045,000,000        2016 est.
+133     New Caledonia                                            2,945,000,000        2016 est.
+134     Mauritius                                                2,898,000,000        2016 est.
+135     Botswana                                                 2,527,000,000        2016 est.
+136     Mali                                                     2,489,000,000        2016 est.
+137     Gabon                                                    2,244,000,000        2016 est.
+138     Suriname                                                 1,967,000,000        2016 est.
+139     Curacao                                                  1,785,000,000        2012 est.
+140     Bahamas, The                                             1,778,000,000        2016 est.
+141     Guam                                                     1,722,000,000        2016 est.
+142     Madagascar                                               1,706,000,000        2016 est.
+143     Congo, Republic of the                                   1,696,000,000        2016 est.
+144     Malawi                                                   1,420,000,000        2016 est.
+145     Namibia                                                  1,403,000,000        2016 est.
+146     Afghanistan                                              1,211,000,000        2016 est.
+147     Mauritania                                               1,139,000,000        2016 est.
+148     West Bank                                                1,093,000,000        2016 est.
+149     Haiti                                                    1,023,000,000        2016 est.
+150     Barbados                                                 1,010,000,000        2016 est.
+151     Guyana                                                   1,010,000,000        2016 est.
+152     Burkina Faso                                               990,000,000        2016 est.
+153     Aruba                                                      939,000,000        2016 est.
+154     Macau                                                      929,000,000        2016 est.
+155     Fiji                                                       914,000,000        2016 est.
+156     Malta                                                      813,000,000        2016 est.
+157     Virgin Islands                                             704,000,000        2016 est.
+158     French Polynesia                                           677,300,000        2016 est.
+159     Bermuda                                                    650,000,000        2016 est.
+160     Cayman Islands                                             650,000,000        2016 est.
+161     Marshall Islands                                           650,000,000        2016 est.
+162     Guinea                                                     598,000,000        2016 est.
+163     Greenland                                                  538,000,000        2016 est.
+164     Rwanda                                                     525,000,000        2016 est.
+165     Lesotho                                                    510,000,000        2016 est.
+166     Equatorial Guinea                                          500,000,000        2016 est.
+167     Niger                                                      494,700,000        2016 est.
+168     Eritrea                                                    415,900,000        2016 est.
+169     South Sudan                                                412,800,000        2016 est.
+170     Djibouti                                                   405,500,000        2016 est.
+171     Maldives                                                   402,000,000        2016 est.
+172     Cabo Verde                                                 395,000,000        2016 est.
+173     Eswatini                                                   381,000,000        2016 est.
+174     Saint Lucia                                                369,000,000        2016 est.
+175     Seychelles                                                 350,000,000        2016 est.
+176     Somalia                                                    339,000,000        2016 est.
+177     Benin                                                      335,000,000        2016 est.
+178     Luxembourg                                                 334,500,000        2016 est.
+179     Antigua and Barbuda                                        331,000,000        2016 est.
+180     Faroe Islands                                              307,000,000        2016 est.
+181     Sint Maarten                                               304,300,000        2008 est.
+182     Gambia, The                                                304,100,000        2016 est.
+183     Burundi                                                    304,000,000        2016 est.
+184     Liberia                                                    300,000,000        2016 est.
+185     Sierra Leone                                               300,000,000        2016 est.
+186     Belize                                                     280,000,000        2016 est.
+187     Gibraltar                                                  238,800,000        2016 est.
+188     Turks and Caicos Islands                                   235,000,000        2016 est.
+189     Togo                                                       232,600,000        2016 est.
+190     Chad                                                       224,300,000        2016 est.
+191     Saint Kitts and Nevis                                      208,000,000        2016 est.
+192     Grenada                                                    202,100,000        2016 est.
+193     Micronesia, Federated States of                            192,000,000        2002
+194     Central African Republic                                   171,400,000        2016 est.
+195     American Samoa                                             169,000,000        2016 est.
+196     Saint Vincent and the Grenadines                           157,000,000        2016 est.
+197     Samoa                                                      132,000,000        2016 est.
+198     British Virgin Islands                                     126,300,000        2016 est.
+199     Dominica                                                   111,400,000        2016 est.
+200     Solomon Islands                                            103,000,000        2016 est.
+201     Andorra                                                     99,480,000        2015 est.
+202     Liechtenstein                                               68,430,000        2015 est.
+203     Sao Tome and Principe                                       66,000,000        2016 est.
+204     Vanuatu                                                     63,000,000        2016 est.
+205     Tonga                                                       52,000,000        2016 est.
+206     Saint Pierre and Miquelon                                   46,000,000        2016 est.
+207     Comoros                                                     42,000,000        2016 est.
+208     Guinea-Bissau                                               39,000,000        2016 est.
+209     Cook Islands                                                34,000,000        2016 est.
+210     Kiribati                                                    29,000,000        2016 est.
+211     Montserrat                                                  24,000,000        2016 est.
+212     Nauru                                                       24,000,000        2016 est.
+213     Falkland Islands (Islas Malvinas)                           19,000,000        2016 est.
+214     Tuvalu                                                      11,800,000        2011 est.
+215     Saint Helena, Ascension, and Tristan da Cunha                7,000,000        2016 est.
+216     Niue                                                         3,000,000        2016 est.
+217     Northern Mariana Islands                                        60,600        2009
+218     Gaza Strip                                                      51,000        2011 est.
+219     Timor-Leste                                                          0        2016 est.

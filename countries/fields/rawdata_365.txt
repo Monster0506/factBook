@@ -1,0 +1,62 @@
+Country Comparison :: HIV/AIDS - deaths
+
+1       South Africa                                                    72,000        2019 est.
+2       India                                                           69,000        2017 est.
+3       Mozambique                                                      51,000        2019 est.
+4       Nigeria                                                         45,000        2019 est.
+5       Indonesia                                                       38,000        2018 est.
+6       Tanzania                                                        27,000        2019 est.
+7       Kenya                                                           21,000        2019 est.
+8       Uganda                                                          21,000        2019 est.
+9       Zimbabwe                                                        20,000        2019 est.
+10      Zambia                                                          17,000        2019 est.
+11      Congo, Democratic Republic of the                               15,000        2019 est.
+12      Brazil                                                          14,000        2019 est.
+13      Cameroon                                                        14,000        2019 est.
+14      Ghana                                                           14,000        2019 est.
+15      Thailand                                                        14,000        2019 est.
+16      Angola                                                          13,000        2019 est.
+17      Cote d'Ivoire                                                   13,000        2019 est.
+18      Malawi                                                          13,000        2019 est.
+19      Ethiopia                                                        12,000        2019 est.
+20      South Sudan                                                      9,100        2019 est.
+21      Burma                                                            7,700        2019 est.
+22      Pakistan                                                         6,800        2019 est.
+23      Ukraine                                                          5,900        2019 est.
+24      Mali                                                             5,800        2019 est.
+25      Botswana                                                         5,000        2019 est.
+26      Vietnam                                                          5,000        2019 est.
+27      Lesotho                                                          4,800        2019 est.
+28      Congo, Republic of the                                           4,500        2019 est.
+29      Colombia                                                         4,100        2019 est.
+30      Mexico                                                           4,000        2017 est.
+31      Central African Republic                                         3,800        2019 est.
+32      Chad                                                             3,200        2019 est.
+33      Burkina Faso                                                     3,100        2019 est.
+34      Guinea                                                           3,100        2019 est.
+35      Namibia                                                          3,000        2019 est.
+36      Togo                                                             3,000        2019 est.
+37      Rwanda                                                           2,800        2019 est.
+38      Haiti                                                            2,700        2019 est.
+39      Malaysia                                                         2,700        2019 est.
+40      Sierra Leone                                                     2,600        2019 est.
+41      Iran                                                             2,500        2019 est.
+42      Benin                                                            2,300        2019 est.
+43      Eswatini                                                         2,300        2019 est.
+44      Sudan                                                            2,300        2019 est.
+45      Dominican Republic                                               1,900        2019 est.
+46      Liberia                                                          1,900        2019 est.
+47      Burundi                                                          1,800        2019 est.
+48      Equatorial Guinea                                                1,800        2019 est.
+49      Philippines                                                      1,600        2019 est.
+50      Guinea-Bissau                                                    1,500        2019 est.
+51      Argentina                                                        1,400        2019 est.
+52      Madagascar                                                       1,400        2019 est.
+53      Cambodia                                                         1,300        2019 est.
+54      Guatemala                                                        1,200        2019 est.
+55      Senegal                                                          1,200        2019 est.
+56      Gabon                                                            1,100        2019 est.
+57      Gambia, The                                                      1,100        2019 est.
+58      Niger                                                            1,100        2019 est.
+59      Jamaica                                                          1,000        2019 est.
+60      Macedonia                                                          300        2018 est.

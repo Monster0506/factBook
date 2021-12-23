@@ -1,0 +1,215 @@
+Country Comparison :: Electricity - from other renewable sources
+
+1       Timor-Leste                                                      100.0        2017 est.
+2       Luxembourg                                                        67.0        2017 est.
+3       Denmark                                                           54.0        2017 est.
+4       Germany                                                           52.0        2017 est.
+5       Uruguay                                                           42.0        2017 est.
+6       Eswatini                                                          41.0        2017 est.
+7       United Kingdom                                                    39.0        2017 est.
+8       Belgium                                                           36.0        2017 est.
+9       Nicaragua                                                         35.0        2017 est.
+10      Portugal                                                          35.0        2017 est.
+11      Honduras                                                          34.0        2017 est.
+12      Ireland                                                           33.0        2017 est.
+13      Kenya                                                             33.0        2017 est.
+14      Italy                                                             32.0        2017 est.
+15      Spain                                                             32.0        2017 est.
+16      Sweden                                                            32.0        2017 est.
+17      Austria                                                           31.0        2017 est.
+18      El Salvador                                                       29.0        2017 est.
+19      Greece                                                            29.0        2017 est.
+20      Samoa                                                             29.0        2017 est.
+21      Vanuatu                                                           29.0        2017 est.
+22      Estonia                                                           28.0        2017 est.
+23      Guatemala                                                         28.0        2017 est.
+24      Fiji                                                              27.0        2017 est.
+25      Kiribati                                                          27.0        2017 est.
+26      Falkland Islands (Islas Malvinas)                                 26.0        2017 est.
+27      Sierra Leone                                                      26.0        2017 est.
+28      Tonga                                                             26.0        2017 est.
+29      Iceland                                                           25.0        2017 est.
+30      Finland                                                           23.0        2017 est.
+31      Lithuania                                                         23.0        2017 est.
+32      Netherlands                                                       23.0        2017 est.
+33      Belize                                                            22.0        2017 est.
+34      West Bank                                                         22.0        2017 est.
+35      Cabo Verde                                                        21.0        2017 est.
+36      Cook Islands                                                      21.0        2017 est.
+37      Yemen                                                             21.0        2017 est.
+38      Japan                                                             20.0        2017 est.
+39      Mauritania                                                        20.0        2017 est.
+40      New Zealand                                                       20.0        2017 est.
+41      Bulgaria                                                          19.0        2017 est.
+42      France                                                            19.0        2017 est.
+43      Malta                                                             19.0        2017 est.
+44      Poland                                                            19.0        2017 est.
+45      Romania                                                           19.0        2017 est.
+46      Brazil                                                            18.0        2017 est.
+47      China                                                             18.0        2017 est.
+48      Costa Rica                                                        18.0        2017 est.
+49      Australia                                                         17.0        2017 est.
+50      Croatia                                                           16.0        2017 est.
+51      Czechia                                                           16.0        2017 est.
+52      Faroe Islands                                                     16.0        2017 est.
+53      India                                                             16.0        2017 est.
+54      Philippines                                                       16.0        2017 est.
+55      Thailand                                                          16.0        2017 est.
+56      Andorra                                                           15.0        2010 est.
+57      Chile                                                             15.0        2017 est.
+58      Cyprus                                                            15.0        2017 est.
+59      Jamaica                                                           15.0        2017 est.
+60      Morocco                                                           15.0        2017 est.
+61      Burundi                                                           14.0        2017 est.
+62      Mauritius                                                         14.0        2017 est.
+63      Nauru                                                             14.0        2017 est.
+64      Turkey                                                            14.0        2017 est.
+65      United States                                                     14.0        2017 est.
+66      Aruba                                                             13.0        2017 est.
+67      Hungary                                                           13.0        2017 est.
+68      Niue                                                              13.0        2017 est.
+69      Panama                                                            13.0        2017 est.
+70      Slovakia                                                          13.0        2017 est.
+71      Switzerland                                                       13.0        2017 est.
+72      Burkina Faso                                                      12.0        2017 est.
+73      Canada                                                            12.0        2017 est.
+74      Jordan                                                            12.0        2017 est.
+75      Uganda                                                            12.0        2017 est.
+76      Ethiopia                                                          11.0        2017 est.
+77      French Polynesia                                                  11.0        2017 est.
+78      Guyana                                                            11.0        2017 est.
+79      Mongolia                                                          11.0        2017 est.
+80      Senegal                                                           11.0        2017 est.
+81      South Africa                                                      10.0        2017 est.
+82      Mexico                                                             9.0        2017 est.
+83      Seychelles                                                         9.0        2017 est.
+84      Slovenia                                                           9.0        2017 est.
+85      Cuba                                                               8.0        2017 est.
+86      Korea, South                                                       8.0        2017 est.
+87      Latvia                                                             8.0        2017 est.
+88      Montenegro                                                         8.0        2017 est.
+89      Namibia                                                            8.0        2017 est.
+90      Solomon Islands                                                    8.0        2017 est.
+91      Barbados                                                           7.0        2017 est.
+92      Bolivia                                                            7.0        2017 est.
+93      Dominican Republic                                                 7.0        2017 est.
+94      Pakistan                                                           7.0        2017 est.
+95      Papua New Guinea                                                   7.0        2017 est.
+96      Rwanda                                                             7.0        2017 est.
+97      Somalia                                                            7.0        2017 est.
+98      Guam                                                               6.0        2017 est.
+99      Indonesia                                                          6.0        2017 est.
+100     Malawi                                                             6.0        2017 est.
+101     New Caledonia                                                      6.0        2017 est.
+102     Saint Kitts and Nevis                                              6.0        2017 est.
+103     Sri Lanka                                                          6.0        2017 est.
+104     Sudan                                                              6.0        2017 est.
+105     Taiwan                                                             6.0        2017 est.
+106     Tanzania                                                           6.0        2017 est.
+107     Israel                                                             5.0        2017 est.
+108     Niger                                                              5.0        2017 est.
+109     Tunisia                                                            5.0        2017 est.
+110     Zimbabwe                                                           5.0        2017 est.
+111     Afghanistan                                                        4.0        2017 est.
+112     Grenada                                                            4.0        2017 est.
+113     Malaysia                                                           4.0        2017 est.
+114     Maldives                                                           4.0        2017 est.
+115     Norway                                                             4.0        2017 est.
+116     Peru                                                               4.0        2017 est.
+117     Puerto Rico                                                        4.0        2017 est.
+118     Saint Pierre and Miquelon                                          4.0        2017 est.
+119     Antigua and Barbuda                                                3.0        2017 est.
+120     Argentina                                                          3.0        2017 est.
+121     Belarus                                                            3.0        2017 est.
+122     British Virgin Islands                                             3.0        2017 est.
+123     Chad                                                               3.0        2017 est.
+124     Dominica                                                           3.0        2017 est.
+125     Gambia, The                                                        3.0        2017 est.
+126     Macedonia                                                          3.0        2017 est.
+127     Micronesia, Federated States of                                    3.0        2013 est.
+128     Nepal                                                              3.0        2017 est.
+129     Ukraine                                                            3.0        2017 est.
+130     Algeria                                                            2.0        2017 est.
+131     American Samoa                                                     2.0        2017 est.
+132     Angola                                                             2.0        2017 est.
+133     Azerbaijan                                                         2.0        2017 est.
+134     Bangladesh                                                         2.0        2017 est.
+135     Benin                                                              2.0        2017 est.
+136     Cambodia                                                           2.0        2017 est.
+137     Colombia                                                           2.0        2017 est.
+138     Ecuador                                                            2.0        2017 est.
+139     Egypt                                                              2.0        2017 est.
+140     Equatorial Guinea                                                  2.0        2017 est.
+141     Madagascar                                                         2.0        2017 est.
+142     Moldova                                                            2.0        2017 est.
+143     Saint Vincent and the Grenadines                                   2.0        2017 est.
+144     Singapore                                                          2.0        2017 est.
+145     Suriname                                                           2.0        2017 est.
+146     Virgin Islands                                                     2.0        2017 est.
+147     Zambia                                                             2.0        2017 est.
+148     Bosnia and Herzegovina                                             1.0        2017 est.
+149     Burma                                                              1.0        2017 est.
+150     Cameroon                                                           1.0        2017 est.
+151     Central African Republic                                           1.0        2017 est.
+152     Eritrea                                                            1.0        2017 est.
+153     Ghana                                                              1.0        2017 est.
+154     Guinea-Bissau                                                      1.0        2017 est.
+155     Kazakhstan                                                         1.0        2017 est.
+156     Kosovo                                                             1.0        2017 est.
+157     Laos                                                               1.0        2017 est.
+158     Lebanon                                                            1.0        2017 est.
+159     Lesotho                                                            1.0        2017 est.
+160     Mali                                                               1.0        2017 est.
+161     Mozambique                                                         1.0        2017 est.
+162     Paraguay                                                           1.0        2017 est.
+163     Qatar                                                              1.0        2017 est.
+164     Russia                                                             1.0        2017 est.
+165     Saint Lucia                                                        1.0        2017 est.
+166     Sao Tome and Principe                                              1.0        2017 est.
+167     Serbia                                                             1.0        2017 est.
+168     South Sudan                                                        1.0        2017 est.
+169     Togo                                                               1.0        2017 est.
+170     United Arab Emirates                                               1.0        2017 est.
+171     Vietnam                                                            1.0        2017 est.
+172     Albania                                                            0.0        2017 est.
+173     Armenia                                                            0.0        2017 est.
+174     Bahamas, The                                                       0.0        2017 est.
+175     Bahrain                                                            0.0        2017 est.
+176     Bermuda                                                            0.0        2017 est.
+177     Bhutan                                                             0.0        2017 est.
+178     Botswana                                                           0.0        2017 est.
+179     Brunei                                                             0.0        2017 est.
+180     Cayman Islands                                                     0.0        2017 est.
+181     Comoros                                                            0.0        2017 est.
+182     Congo, Democratic Republic of the                                  0.0        2017 est.
+183     Congo, Republic of the                                             0.0        2017 est.
+184     Cote d'Ivoire                                                      0.0        2017 est.
+185     Djibouti                                                           0.0        2017 est.
+186     Gabon                                                              0.0        2017 est.
+187     Georgia                                                            0.0        2017 est.
+188     Gibraltar                                                          0.0        2017 est.
+189     Greenland                                                          0.0        2017 est.
+190     Guinea                                                             0.0        2017 est.
+191     Haiti                                                              0.0        2017 est.
+192     Hong Kong                                                          0.0        2017 est.
+193     Iran                                                               0.0        2017 est.
+194     Iraq                                                               0.0        2017 est.
+195     Korea, North                                                       0.0        2017 est.
+196     Kuwait                                                             0.0        2017 est.
+197     Kyrgyzstan                                                         0.0        2017 est.
+198     Liberia                                                            0.0        2017 est.
+199     Libya                                                              0.0        2017 est.
+200     Macau                                                              0.0        2017 est.
+201     Marshall Islands                                                   0.0        2017 est.
+202     Montserrat                                                         0.0        2017 est.
+203     Nigeria                                                            0.0        2017 est.
+204     Oman                                                               0.0        2017 est.
+205     Saint Helena, Ascension, and Tristan da Cunha                      0.0        2017 est.
+206     Saudi Arabia                                                       0.0        2017 est.
+207     Syria                                                              0.0        2017 est.
+208     Tajikistan                                                         0.0        2017 est.
+209     Trinidad and Tobago                                                0.0        2017 est.
+210     Turkmenistan                                                       0.0        2017 est.
+211     Turks and Caicos Islands                                           0.0        2017 est.
+212     Uzbekistan                                                         0.0        2017 est.
+213     Venezuela                                                          0.0        2017 est.

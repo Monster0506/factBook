@@ -1,0 +1,226 @@
+Country Comparison :: Imports
+
+1       United States                                       $3,214,184,000,000        2019 est.
+2       China                                               $2,140,000,000,000        2018
+3       Germany                                             $1,804,453,000,000        2019 est.
+4       Japan                                               $1,032,112,000,000        2019 est.
+5       France                                              $1,021,633,000,000        2019 est.
+6       United Kingdom                                        $987,018,000,000        2019 est.
+7       Netherlands                                           $755,650,000,000        2019 est.
+8       Italy                                                 $647,058,000,000        2019 est.
+9       Canada                                                $629,402,000,000        2019 est.
+10      India                                                 $624,314,000,000        2019 est.
+11      Korea, South                                          $599,705,000,000        2019 est.
+12      Hong Kong                                             $565,253,000,000        2019 est.
+13      Curacao                                               $540,300,000,000        2018 est.
+14      Singapore                                             $533,478,000,000        2019 est.
+15      Ireland                                               $489,957,000,000        2019 est.
+16      Mexico                                                $480,886,000,000        2019 est.
+17      Belgium                                               $473,129,000,000        2019 est.
+18      Spain                                                 $463,145,000,000        2019 est.
+19      Russia                                                $366,919,000,000        2019 est.
+20      Poland                                                $364,993,000,000        2019 est.
+21      Switzerland                                           $344,477,000,000        2019 est.
+22      Australia                                             $334,279,000,000        2019 est.
+23      Taiwan                                                $308,744,000,000        2019 est.
+24      Sweden                                                $276,622,000,000        2019 est.
+25      Brazil                                                $271,257,000,000        2019 est.
+26      Vietnam                                               $266,066,000,000        2019 est.
+27      Turkey                                                $258,385,000,000        2019 est.
+28      Thailand                                              $257,873,000,000        2019 est.
+29      Austria                                               $253,276,000,000        2019 est.
+30      Malaysia                                              $233,719,000,000        2019 est.
+31      United Arab Emirates                                  $229,200,000,000        2017 est.
+32      Indonesia                                             $223,440,000,000        2019 est.
+33      Czechia                                               $211,922,000,000        2019 est.
+34      Ukraine                                               $207,335,000,000        2019 est.
+35      Denmark                                               $197,818,000,000        2019 est.
+36      Hungary                                               $159,630,000,000        2019 est.
+37      Philippines                                           $158,307,000,000        2019 est.
+38      Norway                                                $158,037,000,000        2019 est.
+39      Romania                                               $136,091,000,000        2019 est.
+40      South Africa                                          $131,721,000,000        2019 est.
+41      Finland                                               $120,437,000,000        2019 est.
+42      Portugal                                              $120,334,000,000        2019 est.
+43      Saudi Arabia                                          $119,300,000,000        2017 est.
+44      Israel                                                $116,230,000,000        2019 est.
+45      Egypt                                                 $115,345,000,000        2018 est.
+46      Luxembourg                                            $111,287,000,000        2019 est.
+47      Slovakia                                              $107,880,000,000        2019 est.
+48      Greece                                                 $94,597,000,000        2019 est.
+49      Somalia                                                $94,430,000,000        2018 est.
+50      Samoa                                                  $89,290,000,000        2018 est.
+51      Chile                                                  $87,505,000,000        2019 est.
+52      Colombia                                               $87,072,000,000        2019 est.
+53      Iran                                                   $76,390,000,000        2017 est.
+54      Argentina                                              $72,162,000,000        2019 est.
+55      Kazakhstan                                             $69,117,000,000        2019 est.
+56      Morocco                                                $64,120,000,000        2019 est.
+57      New Zealand                                            $63,622,000,000        2019 est.
+58      Kuwait                                                 $54,556,000,000        2018 est.
+59      Puerto Rico                                            $49,010,000,000        2017 est.
+60      Algeria                                                $48,540,000,000        2017 est.
+61      Peru                                                   $48,211,000,000        2019 est.
+62      Slovenia                                               $45,489,000,000        2019 est.
+63      Bulgaria                                               $44,853,000,000        2019 est.
+64      Bangladesh                                             $44,801,000,000        2019 est.
+65      Lithuania                                              $43,733,000,000        2019 est.
+66      Pakistan                                               $42,270,000,000        2019 est.
+67      Iraq                                                   $39,470,000,000        2017 est.
+68      Croatia                                                $37,612,000,000        2019 est.
+69      Nigeria                                                $32,670,000,000        2017 est.
+70      Belarus                                                $31,580,000,000        2017 est.
+71      Qatar                                                  $30,770,000,000        2017 est.
+72      Panama                                                 $28,978,000,000        2018 est.
+73      Ecuador                                                $26,096,000,000        2019 est.
+74      Sri Lanka                                              $24,984,000,000        2019 est.
+75      Oman                                                   $24,120,000,000        2017 est.
+76      Bahrain                                                $23,399,000,000        2018 est.
+77      Estonia                                                $23,323,000,000        2019 est.
+78      Latvia                                                 $22,049,000,000        2019 est.
+79      Malta                                                  $21,940,000,000        2019 est.
+80      Cyprus                                                 $21,070,000,000        2019 est.
+81      Tuvalu                                                 $20,690,000,000        2018 est.
+82      Serbia                                                 $20,440,000,000        2017 est.
+83      Jordan                                                 $19,669,000,000        2018 est.
+84      Angola                                                 $19,500,000,000        2017 est.
+85      Congo, Democratic Republic of the                      $19,500,000,000        2019 est.
+86      Tunisia                                                $19,090,000,000        2017 est.
+87      Kenya                                                  $18,729,000,000        2019 est.
+88      Venezuela                                              $18,432,000,000        2018 est.
+89      Lebanon                                                $18,340,000,000        2017 est.
+90      Dominican Republic                                     $17,700,000,000        2017 est.
+91      Guatemala                                              $17,110,000,000        2017 est.
+92      Ethiopia                                               $15,590,000,000        2017 est.
+93      Costa Rica                                             $15,150,000,000        2017 est.
+94      Burma                                                  $14,958,000,000        2018 est.
+95      Cambodia                                               $14,370,000,000        2017 est.
+96      Cote d'Ivoire                                          $14,248,000,000        2018 est.
+97      Malawi                                                 $12,818,000,000        2019 est.
+98      Ghana                                                  $12,650,000,000        2017 est.
+99      Bosnia and Herzegovina                                 $12,561,000,000        2019 est.
+100     Uzbekistan                                             $11,420,000,000        2017 est.
+101     Libya                                                  $11,360,000,000        2017 est.
+102     Paraguay                                               $11,350,000,000        2017 est.
+103     Honduras                                               $11,320,000,000        2017 est.
+104     Macau                                                  $11,100,000,000        2018
+105     Cuba                                                   $11,060,000,000        2017 est.
+106     Bolivia                                                $10,142,000,000        2019 est.
+107     Nepal                                                  $10,000,000,000        2017 est.
+108     Uganda                                                  $9,991,000,000        2019 est.
+109     Tanzania                                                $9,972,000,000        2017 est.
+110     Namibia                                                 $9,921,000,000        2019 est.
+111     El Salvador                                             $9,499,000,000        2017 est.
+112     Iceland                                                 $9,399,000,000        2019 est.
+113     Azerbaijan                                              $9,037,000,000        2017 est.
+114     Uruguay                                                 $8,607,000,000        2017 est.
+115     Gaza Strip                                              $8,590,000,000        2018 est.
+116     Sudan                                                   $8,220,000,000        2017 est.
+117     Guinea                                                  $7,924,000,000        2019 est.
+118     Zambia                                                  $7,852,000,000        2017 est.
+119     Afghanistan                                             $7,616,000,000        2017 est.
+120     Georgia                                                 $7,415,000,000        2017 est.
+121     Mozambique                                              $7,371,000,000        2019 est.
+122     Jamaica                                                 $7,314,000,000        2018 est.
+123     Zimbabwe                                                $7,215,000,000        2018 est.
+124     Moldova                                                 $7,113,000,000        2019 est.
+125     Macedonia                                               $6,630,000,000        2017 est.
+126     Nicaragua                                               $6,613,000,000        2017 est.
+127     West Bank                                               $6,565,000,000        2017 est.
+128     Syria                                                   $6,279,000,000        2017 est.
+129     Equatorial Guinea                                       $6,245,000,000        2019 est.
+130     Trinidad and Tobago                                     $6,105,000,000        2017 est.
+131     Mongolia                                                $5,875,000,000        2018
+132     Madagascar                                              $5,855,000,000        2019 est.
+133     Kyrgyzstan                                              $5,477,000,000        2019 est.
+134     Benin                                                   $5,458,000,000        2019 est.
+135     Burkina Faso                                            $5,294,000,000        2019 est.
+136     Senegal                                                 $5,217,000,000        2017 est.
+137     Gabon                                                   $5,020,000,000        2019 est.
+138     Botswana                                                $5,005,000,000        2017 est.
+139     Mauritius                                               $4,986,000,000        2017 est.
+140     Laos                                                    $4,976,000,000        2017 est.
+141     Cameroon                                                $4,812,000,000        2017 est.
+142     Palau                                                   $4,715,000,000        2018 est.
+143     Turkmenistan                                            $4,571,000,000        2017 est.
+144     Albania                                                 $4,103,000,000        2017 est.
+145     Yemen                                                   $4,079,000,000        2017 est.
+146     South Sudan                                             $3,795,000,000        2016 est.
+147     Armenia                                                 $3,771,000,000        2017 est.
+148     Mali                                                    $3,644,000,000        2017 est.
+149     Haiti                                                   $3,618,000,000        2017 est.
+150     Kosovo                                                  $3,223,000,000        2017 est.
+151     Bahamas, The                                            $3,180,000,000        2017 est.
+152     Niger                                                   $2,999,000,000        2018 est.
+153     Brunei                                                  $2,998,000,000        2017 est.
+154     Gibraltar                                               $2,967,000,000        2004 est.
+155     Guam                                                    $2,964,000,000        2016 est.
+156     Togo                                                    $2,911,000,000        2018 est.
+157     New Caledonia                                           $2,715,000,000        2015 est.
+158     Sierra Leone                                            $2,619,000,000        2020 est.
+159     Montenegro                                              $2,618,000,000        2017 est.
+160     Lesotho                                                 $2,613,000,000        2019 est.
+161     Eswatini                                                $2,605,000,000        2018 est.
+162     San Marino                                              $2,551,000,000        2011 est.
+163     Congo, Republic of the                                  $2,501,000,000        2017 est.
+164     Virgin Islands                                          $2,489,000,000        2016 est.
+165     Tajikistan                                              $2,390,000,000        2017 est.
+166     Korea, North                                            $2,320,000,000        2018 est.
+167     French Polynesia                                        $2,235,000,000        2014 est.
+168     Liechtenstein                                           $2,230,000,000        2014 est.
+169     Chad                                                    $2,160,000,000        2017 est.
+170     Maldives                                                $2,125,000,000        2016 est.
+171     Rwanda                                                  $1,922,000,000        2017 est.
+172     Fiji                                                    $1,911,000,000        2017 est.
+173     Papua New Guinea                                        $1,876,000,000        2017 est.
+174     Liberia                                                 $1,820,000,000        2019 est.
+175     Guyana                                                  $1,626,000,000        2017 est.
+176     Barbados                                                $1,520,000,000        2017 est.
+177     Monaco                                                  $1,371,000,000        2017 est.
+178     Suriname                                                $1,293,000,000        2017 est.
+179     Andorra                                                 $1,257,000,000        2015 est.
+180     Gambia, The                                             $1,246,000,000        2019 est.
+181     Seychelles                                              $1,155,000,000        2017 est.
+182     Eritrea                                                 $1,127,000,000        2017 est.
+183     Aruba                                                   $1,122,000,000        2017 est.
+184     Bermuda                                                 $1,094,000,000        2017 est.
+185     Burundi                                                 $1,040,000,000        2019 est.
+186     Bhutan                                                  $1,025,000,000        2017 est.
+187     Faroe Islands                                             $978,400,000        2016 est.
+188     Northern Mariana Islands                                  $893,000,000        2016 est.
+189     Belize                                                    $845,900,000        2017 est.
+190     Cabo Verde                                                $836,100,000        2017 est.
+191     Cayman Islands                                            $787,300,000        2017 est.
+192     Greenland                                                 $783,500,000        2015 est.
+193     Djibouti                                                  $726,400,000        2017 est.
+194     Timor-Leste                                               $681,200,000        2017 est.
+195     American Samoa                                            $615,000,000        2016 est.
+196     Saint Lucia                                               $600,000,000        2017 est.
+197     Turks and Caicos Islands                                  $591,300,000        2008 est.
+198     Antigua and Barbuda                                       $560,000,000        2017 est.
+199     Comoros                                                   $471,000,000        2018 est.
+200     Solomon Islands                                           $462,100,000        2017 est.
+201     Central African Republic                                  $393,100,000        2017 est.
+202     Guinea-Bissau                                             $383,000,000        2018 est.
+203     Saint Kitts and Nevis                                     $335,300,000        2017 est.
+204     Mauritania                                                $318,000,000        2019 est.
+205     Grenada                                                   $316,000,000        2017 est.
+206     British Virgin Islands                                    $300,000,000        2017 est.
+207     Saint Vincent and the Grenadines                          $295,900,000        2017 est.
+208     Vanuatu                                                   $273,700,000        2017 est.
+209     Tonga                                                     $250,200,000        2017 est.
+210     Dominica                                                  $206,600,000        2017 est.
+211     Anguilla                                                  $186,200,000        2017 est.
+212     Micronesia, Federated States of                           $167,800,000        2015 est.
+213     Sao Tome and Principe                                     $127,700,000        2017 est.
+214     Cook Islands                                              $109,300,000        2011 est.
+215     Kiribati                                                  $107,100,000        2016 est.
+216     Marshall Islands                                          $103,800,000        2016 est.
+217     Saint Pierre and Miquelon                                  $95,350,000        2010 est.
+218     Falkland Islands (Islas Malvinas)                          $90,000,000        2004 est.
+219     Nauru                                                      $64,900,000        2016 est.
+220     Wallis and Futuna                                          $61,170,000        2004 est.
+221     Montserrat                                                 $39,440,000        2017 est.
+222     Saint Helena, Ascension, and Tristan da Cunha              $20,530,000        2010 est.
+223     Tokelau                                                    $15,792,720        2015 est.
+224     Niue                                                        $9,038,000        2004 est.
