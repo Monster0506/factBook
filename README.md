@@ -1,6 +1,4 @@
-█▀▄▀█ █▀▀█ █▀▀▄ █▀▀ ▀▀█▀▀ █▀▀ █▀▀█ █▀▀█ █▀▀ █▀▀█ ▄▀▀▄ █ █▀▀   █▀▀ █▀▀█ █▀▀ ▀▀█▀▀ █▀▀▄ █▀▀█ █▀▀█ █░█
-█░▀░█ █░░█ █░░█ ▀▀█ ░░█░░ █▀▀ █▄▄▀ █▄▀█ ▀▀▄ █▄▀█ █▄▄░ ░ ▀▀█   █▀▀ █▄▄█ █░░ ░░█░░ █▀▀▄ █░░█ █░░█ █▀▄
-▀░░░▀ ▀▀▀▀ ▀░░▀ ▀▀▀ ░░▀░░ ▀▀▀ ▀░▀▀ █▄▄█ ▄▄▀ █▄▄█ ▀▄▄▀ ░ ▀▀▀   ▀░░ ▀░░▀ ▀▀▀ ░░▀░░ ▀▀▀░ ▀▀▀▀ ▀▀▀▀ ▀░▀
+# Monster0506 World FactBook Edit
 # 1. Main Notes
 ## 1.1. Introduction
 This is a world factbook edit by Monster0506.
@@ -24,6 +22,7 @@ It was created by Monster0506, and modified by 24tr6637.
 
 # 2. Other Notes
 ## 2.1. Table of Contents
+- [Monster0506 World FactBook Edit](#monster0506-world-factbook-edit)
 - [1. Main Notes](#1-main-notes)
   - [1.1. Introduction](#11-introduction)
   - [1.2. Features](#12-features)
@@ -39,7 +38,7 @@ It was created by Monster0506, and modified by 24tr6637.
 - Alternately, you can launch the page from [this link](countries/index.html), if you are currently in the repo. 
 ## 2.3. Credits
 - [@24tr6637](https://github.com/24tr6637)
-- [@Monster0506](https://github.com/Monster0506)
+- [Monster0506](https://github.com/Monster0506)
 - [Water.css](https://watercss.kognise.dev)
 - [Water.css Github](https://github.com/kognise/water.css)
 - [CIA Factbook](https://www.cia.gov/the-world-factbook)
