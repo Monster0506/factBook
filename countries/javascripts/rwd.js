@@ -120,3 +120,4 @@ function initFullScreen() {
     $('.connect').insertAfter($('.gallery-panel'));
 }
 
+
