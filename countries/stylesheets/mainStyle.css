@@ -29,22 +29,20 @@ nav {
 body {
     margin-top: 50px;
 }
-.go-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background: rgba(73, 122, 255, .8);
-    width: 50px;
+footer {
+    margin-top: 50px;
+    list-style: none;
+    /* horizontal list */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(150, 166, 150);
     height: 50px;
-    display: block;
-    text-decoration: none;
-    -webkit-border-radius: 35px;
-    -moz-border-radius: 35px;
-    border-radius: 35px;
-    display: none;
-    -webkit-transition: all 0.3s linear;
-    -moz-transition: all 0.3s ease;
-    -ms-transition: all 0.3s ease;
-    -o-transition: all 0.3s ease;
-    transition: all 0.3s ease;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    
 }

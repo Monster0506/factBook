@@ -35,6 +35,8 @@ function modeT() {
         link.href = "https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css";
         document.head.appendChild(link);
         mode = "dark";
+
+        document.body.style.marginTop = "50px";
     }
     else {
 
@@ -43,6 +45,12 @@ function modeT() {
         link.href = "https://cdn.jsdelivr.net/npm/water.css@2/out/light.css";
         document.head.appendChild(link);
         mode = "light";
+        // move body down 50px
+        document.body.style.marginTop = "50px";
     }
 
 }
+
+
+
+
