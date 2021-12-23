@@ -1,4 +1,6 @@
-# Monster0506 World FactBook Edit
+█▀▄▀█ █▀▀█ █▀▀▄ █▀▀ ▀▀█▀▀ █▀▀ █▀▀█ █▀▀█ █▀▀ █▀▀█ ▄▀▀▄ █ █▀▀   █▀▀ █▀▀█ █▀▀ ▀▀█▀▀ █▀▀▄ █▀▀█ █▀▀█ █░█
+█░▀░█ █░░█ █░░█ ▀▀█ ░░█░░ █▀▀ █▄▄▀ █▄▀█ ▀▀▄ █▄▀█ █▄▄░ ░ ▀▀█   █▀▀ █▄▄█ █░░ ░░█░░ █▀▀▄ █░░█ █░░█ █▀▄
+▀░░░▀ ▀▀▀▀ ▀░░▀ ▀▀▀ ░░▀░░ ▀▀▀ ▀░▀▀ █▄▄█ ▄▄▀ █▄▄█ ▀▄▄▀ ░ ▀▀▀   ▀░░ ▀░░▀ ▀▀▀ ░░▀░░ ▀▀▀░ ▀▀▀▀ ▀▀▀▀ ▀░▀
 # 1. Main Notes
 ## 1.1. Introduction
 This is a world factbook edit by Monster0506.
@@ -22,7 +24,6 @@ It was created by Monster0506, and modified by 24tr6637.
 
 # 2. Other Notes
 ## 2.1. Table of Contents
-- [Monster0506 World FactBook Edit](#monster0506-world-factbook-edit)
 - [1. Main Notes](#1-main-notes)
   - [1.1. Introduction](#11-introduction)
   - [1.2. Features](#12-features)
