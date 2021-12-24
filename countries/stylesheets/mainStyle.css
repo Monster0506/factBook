@@ -14,7 +14,7 @@ nav {
     justify-content: space-around;
     align-items: center;
     background-color: #f2f2f2;
-    height: 50px;
+    height: 80px;
     width: 100%;
     position: fixed;
     top: 0;
@@ -27,10 +27,11 @@ nav {
 /* move others down */
 
 body {
-    margin-top: 50px;
+    margin-top: 80px;
 }
+
 footer {
-    margin-top: 50px;
+    margin-top: 80px;
     list-style: none;
     /* horizontal list */
     display: flex;
@@ -38,11 +39,38 @@ footer {
     justify-content: space-around;
     align-items: center;
     background-color: #f2f2f2;
-    height: 50px;
+    height: 80px;
     width: 100%;
     position: fixed;
     bottom: 0;
     left: 0;
     z-index: 1;
-    
+}
+
+.github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+    0%,
+    100% {
+        transform: rotate(0)
+    }
+    20%,
+    60% {
+        transform: rotate(-25deg)
+    }
+    40%,
+    80% {
+        transform: rotate(10deg)
+    }
+}
+
+@media (max-width:500px) {
+    .github-corner:hover .octo-arm {
+        animation: none
+    }
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out
+    }
 }

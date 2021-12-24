@@ -1,4 +1,5 @@
 var mode;
+
 function search() {
     var search = document.getElementById("search").value.toLowerCase();
     var items = document.getElementsByClassName("item");
@@ -12,8 +13,7 @@ function search() {
             items[i].style.display = "none";
         }
         results.innerHTML = "";
-    }
-    else {
+    } else {
         for (var i = 0; i < items.length; i++) {
             var item = items[i];
             if (item.innerHTML.toLowerCase().indexOf(search) > -1) {
@@ -30,26 +30,21 @@ function search() {
 function modeT() {
     if (mode === "light") {
         dark();
-        
-    }
-    else if (mode === "dark") {
+
+    } else if (mode === "dark") {
 
         var link = document.createElement("link");
         link.rel = "stylesheet";
         link.href = "https://cdn.jsdelivr.net/npm/water.css@2/out/light.css";
         document.head.appendChild(link);
         mode = "light";
-        // move body down 50px
-        document.body.style.marginTop = "50px";
-    }
-    else {
+        // move body down 80px
+        document.body.style.marginTop = "80px";
+    } else {
         dark();
     }
 
 }
-
-
-
 
 function dark() {
     var link = document.createElement("link");
@@ -57,8 +52,7 @@ function dark() {
     link.href = "https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css";
     document.head.appendChild(link);
     mode = "dark";
-    // move body down 50px
-    document.body.style.marginTop = "50px";
+    // move body down 80px
+    document.body.style.marginTop = "80px";
     return link;
 }
-
