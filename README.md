@@ -5,6 +5,7 @@
 ### 1.1.1. Introduction
 
 This is a world factbook edit by Monster0506.
+
 It was created by Monster0506, and modified by 24tr6637.
 
 ### 1.1.2. Features
@@ -26,7 +27,7 @@ It was created by Monster0506, and modified by 24tr6637.
 - See how many search results you have by looking at the results counter, updating in real-time!
 - To view the original page of the factbook, click the "View Original" button.
 
-## 1.2. Other Notes
+## 1.2. Other Information
 
 ### 1.2.1. Table of Contents
 
@@ -35,7 +36,7 @@ It was created by Monster0506, and modified by 24tr6637.
     - [1.1.1. Introduction](#111-introduction)
     - [1.1.2. Features](#112-features)
     - [1.1.3. Usage](#113-usage)
-  - [1.2. Other Notes](#12-other-notes)
+  - [1.2. Other Information](#12-other-information)
     - [1.2.1. Table of Contents](#121-table-of-contents)
     - [1.2.2. To install](#122-to-install)
     - [1.2.3. Credits](#123-credits)

@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "crypto-js": "^4.1.1",
-    "datamap": "^0.0.2",
-    "dependencies": "^0.0.1",
-    "map": "^1.0.1"
-  }
-}
