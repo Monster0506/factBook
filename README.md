@@ -56,5 +56,5 @@ It was created by Monster0506, and modified by 24tr6637.
 - [Water.css Github](https://github.com/kognise/water.css)
 - [CIA Factbook](https://www.cia.gov/the-world-factbook)
 ## 2.4 License
-Licensed under Creative Commons Attribution Share Alike 4.0 International
+Licensed under Creative Commons Attribution Share Alike 4.0 International.
 See [LICENSE](LICENSE) for more information. 
