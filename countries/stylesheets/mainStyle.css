@@ -5,9 +5,6 @@
     display: none;
 }
 
-
-/* make horizontal nav bar */
-
 nav {
     display: flex;
     flex-direction: row;
@@ -22,9 +19,6 @@ nav {
     z-index: 1;
     list-style: none;
 }
-
-
-/* move others down */
 
 body {
     margin-top: 80px;
