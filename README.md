@@ -28,7 +28,6 @@ It was created by Monster0506, and modified by 24tr6637.
 
 # 2. Other Notes
 
-
 ## 2.1. Table of Contents
 
 - [Monster0506 World FactBook Edit](#monster0506-world-factbook-edit)
@@ -40,6 +39,7 @@ It was created by Monster0506, and modified by 24tr6637.
   - [2.1. Table of Contents](#21-table-of-contents)
   - [2.2. To install](#22-to-install)
   - [2.3. Credits](#23-credits)
+  - [2.4 License](#24-license)
 
 ## 2.2. To install
 
@@ -55,3 +55,6 @@ It was created by Monster0506, and modified by 24tr6637.
 - [Water.css](https://watercss.kognise.dev)
 - [Water.css Github](https://github.com/kognise/water.css)
 - [CIA Factbook](https://www.cia.gov/the-world-factbook)
+## 2.4 License
+Licensed under Creative Commons Attribution Share Alike 4.0 International
+See [LICENSE](LICENSE) for more information. 
