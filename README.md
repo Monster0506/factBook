@@ -79,7 +79,7 @@ This is a work in progress, so please be patient and feel free to create a pull 
 
 Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
-See [LICENSE](docs/LICENSE) for more information.
+See [LICENSE](LICENSE) for more information.
 
 ### 1.2.4. Modifications/Contributions
 
