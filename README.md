@@ -83,10 +83,10 @@ See [LICENSE](LICENSE) for more information.
 
 ### 1.2.4. Modifications/Contributions
 
-Please see [CONTRIBUTING.md](contributions.md) for more information.
+Please see [CONTRIBUTING.md](https://github.com/Monster0506/factBook/CONTRIBUTING.md) for more information.
 
 ### 1.2.5. Contributors
 
-[<img src="https://contrib.rocks/image?repo=monster0506/factBook" />](https://github.com/monster0506/factBook/graphs/contributors)
+[<img src="https://contrib.rocks/image?repo=monster0506/factBook" />](/CONTRIBUTING.md)
 
 Made with [contrib.rocks](https://contrib.rocks).
