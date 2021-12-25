@@ -11,3 +11,12 @@ It is intended to be used to help with formatting.
   - [1.2. HTML](#12-html)
 
 ## 1.2. HTML
+
+```html
+<html>
+<nav>
+<head>
+<body>
+<footer>
+<div>
+```
