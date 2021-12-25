@@ -83,7 +83,7 @@ See [LICENSE](LICENSE) for more information.
 
 ### 1.2.4. Modifications/Contributions
 
-Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for more information.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ### 1.2.5. Contributors
 
