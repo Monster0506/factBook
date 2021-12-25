@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +15,8 @@
 
 <body>
 
-    <nav>
+    <nav class>
+
         <li><button onclick="modeT()" class="mode">Toggle Light/Dark Mode</button></li>
         <li><a href="docs/history.html">History</a></li>
         <li><a href="docs/contributor_copyright.html">Copyright and Contributors</a></li>
@@ -35,13 +37,17 @@
             </svg></a>
 
     </nav>
-    <!-- dark/light mode button -->
 
     <h1>Use menu to select a country!</h1>
+
     <div id="menu">
+
         <form action="countries/index.html" ; method="get" id="form">
+
             <form action="#" method="GET">
+
                 <select id="dropdown-menu" name="place_selector" class="place_selector" id='search-place' onchange="document.location.href= this.value;" aria-label='Use this to select the country page to view'>
+
                     <option value="">Please select a country to view</option>
                     <option value="geos/xx.html">
                         World

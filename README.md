@@ -1,4 +1,4 @@
-# 1. Monster0506 World FactBook Edit  
+# 1. Monster0506 World FactBook Edit
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/monster0506/factBook?style=flat-square) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/monster0506/factBook) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/monster0506/factBook)
 
@@ -17,10 +17,11 @@ It was created by Monster0506, and modified by 24tr6637.
     - [1.1.3. Features](#113-features)
     - [1.1.4. Usage](#114-usage)
   - [1.2. Other Information](#12-other-information)
-    - [1.2.1. To install](#121-to-install)
+    - [1.2.1. To install/use](#121-to-installuse)
     - [1.2.2. Credits](#122-credits)
     - [1.2.3. License](#123-license)
-    - [1.2.4. Contributors](#124-contributors)
+    - [1.2.4. Modifications/Contributions](#124-modificationscontributions)
+    - [1.2.5. Contributors](#125-contributors)
 
 ### 1.1.2. Introduction
 
@@ -57,7 +58,7 @@ This is a work in progress, so please be patient and feel free to create a pull 
 
 ## 1.2. Other Information
 
-### 1.2.1. To install
+### 1.2.1. To install/use
 
 - Clone the repository to your computer.
 - Open the countries folder
@@ -78,7 +79,15 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 See [LICENSE](LICENSE) for more information.
 
-### 1.2.4. Contributors
+### 1.2.4. Modifications/Contributions
+
+To learn the proper style and structure of this project, please see the [README.md](style/README.md) file.
+
+If you contribute, make sure to follow the guidelines linked above.
+
+__DO NOT__ contribute to this project without following the guidelines, as they are there for a reason, and must not be ignored.
+
+### 1.2.5. Contributors
 
 <a href="https://github.com/monster0506/factBook/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=monster0506/factBook" />

@@ -1,0 +1,40 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# All files
+[*]
+
+# line/file style
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+end_of_file = lf
+
+# charset
+charset = utf-8
+
+# indentation
+tab_width = 4
+max_line_length = 120
+indent_style = space
+
+# Markdown
+[*.md]
+
+indent_size = 4
+
+# JSON
+[*.json]
+
+indent_size = 2
+
+# JavaScript
+[*.js]
+
+indent_size = 8
+
+# HTML
+[*.html]
+indent_size = 4
+
+
+
