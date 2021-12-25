@@ -1,6 +1,6 @@
 # 1. Monster0506 World FactBook Edit
 
-![GitHub last commit](https://img.shields.io/github/last-commit/monster0506/factBook) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/monster0506/factBook) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/monster0506/factBook)[![GitHub license](https://img.shields.io/github/license/monster0506/factBook)](https://github.com/Monster0506/factBook/blob/master/LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/monster0506/factBook) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/monster0506/factBook) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/monster0506/factBook) [![GitHub license](https://img.shields.io/github/license/monster0506/factBook)](https://github.com/Monster0506/factBook/blob/master/LICENSE)
 
 This is a world factbook edit by Monster0506.
 
