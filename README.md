@@ -79,14 +79,14 @@ This is a work in progress, so please be patient and feel free to create a pull 
 
 Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
-See [LICENSE](LICENSE) for more information.
+See [LICENSE](docs/LICENSE) for more information.
 
 ### 1.2.4. Modifications/Contributions
 
-Please see [CONTRIBUTING.md](https://github.com/Monster0506/factBook/CONTRIBUTING.md) for more information.
+Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for more information.
 
 ### 1.2.5. Contributors
 
-[<img src="https://contrib.rocks/image?repo=monster0506/factBook" />](/blob/master/CONTRIBUTING.md)
+[<img src="https://contrib.rocks/image?repo=monster0506/factBook" />](https://github.com/monster0506/factBook/graphs/contributors)
 
 Made with [contrib.rocks](https://contrib.rocks).
