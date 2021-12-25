@@ -8,11 +8,17 @@ Please read this document carefully, and make sure to follow the guidelines, as 
 
 - [1. Style and Formatting Guidelines](#1-style-and-formatting-guidelines)
   - [1.1. Table of Contents](#11-table-of-contents)
-  - [1.2. Markdown Formatting Guidelines](#12-markdown-formatting-guidelines)
-  - [1.3. HTML/CSS Formatting Guidelines](#13-htmlcss-formatting-guidelines)
-  - [1.4. Further Guidelines](#14-further-guidelines)
+  - [1.2. All Files](#12-all-files)
+  - [1.3. Markdown Formatting Guidelines](#13-markdown-formatting-guidelines)
+  - [1.4. HTML/CSS Formatting Guidelines](#14-htmlcss-formatting-guidelines)
+  - [1.5. Further Guidelines](#15-further-guidelines)
 
-## 1.2. Markdown Formatting Guidelines
+## 1.2. All Files
+
+__DO NOT USE EMOTICONS IN ANY FILE, FORK, PULL REQUEST, OR ANYTHING ELSE.__ This is considered an unforgivable
+crime in the style of the project.
+
+## 1.3. Markdown Formatting Guidelines
 
 Please follow the rules listed in [this page](https://github.com/DavidAnson/markdownlint/blob/v0.24.0/doc/Rules.md), however, *try* to follow rule 033, but if necessary, you may break it.
 
@@ -44,7 +50,7 @@ Each subsection of the document has an additional number, i.e 1.x., where x is t
 
 For further refrence, use this docum    ent as refrence for following acceptable practices.
 
-## 1.3. HTML/CSS Formatting Guidelines
+## 1.4. HTML/CSS Formatting Guidelines
 
 Please *try* to follow the recommendations given in [this document](https://google.github.io/styleguide/htmlcssguide.html#CSS).
 
@@ -54,6 +60,6 @@ Please also make sure that the page follows the [Frontend Checklist](https://git
 
 Each [(major) HTML tag](majorTags.md) should have a line of whitespace before it, and a line of whitespace after it, and should be on its own line.
 
-## 1.4. Further Guidelines
+## 1.5. Further Guidelines
 
 Please use the [.editorconfig file](../.editorconfig) to set your editor preferences.
