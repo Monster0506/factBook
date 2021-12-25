@@ -23,7 +23,8 @@ Main section notes.
     - [1.2.2. Credits](#122-credits)
     - [1.2.3. License](#123-license)
     - [1.2.4. Modifications/Contributions](#124-modificationscontributions)
-    - [1.2.5. Contributors](#125-contributors)
+    - [1.2.5. Code of Conduct](#125-code-of-conduct)
+    - [1.2.6. Contributors](#126-contributors)
 
 ### 1.1.2. Introduction
 
@@ -85,7 +86,11 @@ See [LICENSE](LICENSE) for more information.
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
-### 1.2.5. Contributors
+### 1.2.5. Code of Conduct
+
+Although this is a community effort, we take inclusiveness very seriously, and we ask that you follow the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
+
+### 1.2.6. Contributors
 
 [<img src="https://contrib.rocks/image?repo=monster0506/factBook" />](https://github.com/monster0506/factBook/graphs/contributors)
 
