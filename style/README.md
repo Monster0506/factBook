@@ -8,21 +8,18 @@ Please read this document carefully, and make sure to follow the guidelines, as 
 
 - [1. Style and Formatting Guidelines](#1-style-and-formatting-guidelines)
   - [1.1. Table of Contents](#11-table-of-contents)
-  - [1.2. All Files](#12-all-files)
-  - [1.3. Markdown Formatting Guidelines](#13-markdown-formatting-guidelines)
-  - [1.4. HTML/CSS Formatting Guidelines](#14-htmlcss-formatting-guidelines)
-  - [1.5. Further Guidelines](#15-further-guidelines)
+  - [1.2. Markdown Formatting Guidelines](#12-markdown-formatting-guidelines)
+  - [1.3. HTML/CSS Formatting Guidelines](#13-htmlcss-formatting-guidelines)
+  - [1.4. Further Guidelines](#14-further-guidelines)
 
-## 1.2. All Files
+## 1.2. Markdown Formatting Guidelines
 
-__DO NOT USE EMOTICONS IN ANY FILE, FORK, PULL REQUEST, OR ANYTHING ELSE.__ This is considered an unforgivable
-crime in the style of the project.
+Please follow the rules listed in
+[this page](https://github.com/DavidAnson/markdownlint/blob/v0.24.0/doc/Rules.md)
+, however, *try* to follow rule 033, but if necessary, you may break it.
 
-## 1.3. Markdown Formatting Guidelines
-
-Please follow the rules listed in [this page](https://github.com/DavidAnson/markdownlint/blob/v0.24.0/doc/Rules.md), however, *try* to follow rule 033, but if necessary, you may break it.
-
-Also, follow [this document](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md), however, if conflicts arise, the first takes precedence.
+Also, follow
+[this document](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md), however, if conflicts arise, the first takes precedence.
 
 The document layout is as follows:
 
@@ -35,6 +32,7 @@ Short introduction.
 - 1. Document Title
     - 1.1. Table of Contents
     - 1.x. Other Headings
+        - 1.x.x. Subheadings
 # 1.x. Other Headings
 ```
 
@@ -48,18 +46,28 @@ Markdown is formatted using section numbers. Section numbers always start with `
 
 Each subsection of the document has an additional number, i.e 1.x., where x is the subsection number. This is expandable, as seen in the [main readme](../README.md#123-license)
 
-For further refrence, use this docum    ent as refrence for following acceptable practices.
+For further refrence, use this document as refrence for following acceptable practices.
 
-## 1.4. HTML/CSS Formatting Guidelines
+## 1.3. HTML/CSS Formatting Guidelines
 
-Please *try* to follow the recommendations given in [this document](https://google.github.io/styleguide/htmlcssguide.html#CSS).
+Please *try* to follow the recommendations given in
+[this document](https://google.github.io/styleguide/htmlcssguide.html#CSS).
 
-Also, follow [this document](https://github.com/necolas/idiomatic-css), however, if conflicts arise, the first takes precedence.
+Also, follow
+[this document](https://github.com/necolas/idiomatic-css), however, if conflicts arise,
+the first takes precedence.
 
-Please also make sure that the page follows the [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist). This takes lowest priority, but is a good way to ensure that the page is ready for the frontend.
+Please also make sure that the page follows the
+[Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist).
+This takes lowest priority, but is a good way to ensure that the page is ready for the frontend.
 
 Each [(major) HTML tag](majorTags.md) should have a line of whitespace before it, and a line of whitespace after it, and should be on its own line.
 
-## 1.5. Further Guidelines
+## 1.4. Further Guidelines
 
 Please use the [.editorconfig file](../.editorconfig) to set your editor preferences.
+
+__DO NOT USE EMOTICONS IN ANY FILE, FORK, PULL REQUEST, OR ANYTHING ELSE.__ This is
+considered to be an unforgivable crime in the style of the project.
+
+The reccommended line length is 120 characters.
