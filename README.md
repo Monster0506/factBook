@@ -87,6 +87,6 @@ Please see [CONTRIBUTING.md](https://github.com/Monster0506/factBook/CONTRIBUTIN
 
 ### 1.2.5. Contributors
 
-[<img src="https://contrib.rocks/image?repo=monster0506/factBook" />](/CONTRIBUTING.md)
+[<img src="https://contrib.rocks/image?repo=monster0506/factBook" />](CONTRIBUTING.md)
 
 Made with [contrib.rocks](https://contrib.rocks).
