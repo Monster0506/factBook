@@ -8,6 +8,8 @@ It was created by Monster0506, and modified by 24tr6637.
 
 ## 1.1. Main Notes
 
+Main section notes.
+
 ### 1.1.1. Table of Contents
 
 - [1. Monster0506 World FactBook Edit](#1-monster0506-world-factbook-edit)
