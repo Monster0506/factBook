@@ -35,4 +35,3 @@ In addition to the README you're reading right now, this repo includes other REA
 - [style/majorTags.md](style/majorTags.md)
 - [countries/README.md](countries/README.md)
 - [old/README.md](old/README.md)
--
