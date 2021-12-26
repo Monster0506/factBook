@@ -1,6 +1,7 @@
 var mode;
 
 function search() {
+    // get searcg abd search list for it.
     var search = document.getElementById("search").value.toLowerCase();
     var items = document.getElementsByClassName("item");
     // create a number of results counter, and change the text to the number of results
@@ -10,7 +11,7 @@ function search() {
     // if blank search, hide all
     if (search == "") {
         for (var i = 0; i < items.length; i++) {
-            items[i].style.display = "none";
+            const newLocal = items[i].style.display = "none";
         }
         results.innerHTML = "";
     } else {
@@ -47,6 +48,7 @@ function modeT() {
 }
 
 function dark() {
+    // set theme to dark mode
     var link = document.createElement("link");
     link.rel = "stylesheet";
     link.href = "https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css";
