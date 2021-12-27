@@ -19,6 +19,12 @@ This page is a work in progress, and does not follow the style guidelines.
 <nav>
 <head>
 <body>
+<form>
 <footer>
+<li>
+<ul>
+<ol>
 <div>
+<select>
 ```
+

@@ -10,9 +10,15 @@ Please read this document carefully, and make sure to follow the guidelines, as 
   - [1.1. Table of Contents](#11-table-of-contents)
   - [1.2. Markdown Formatting Guidelines](#12-markdown-formatting-guidelines)
   - [1.3. HTML/CSS Formatting Guidelines](#13-htmlcss-formatting-guidelines)
-  - [1.4. Further Guidelines](#14-further-guidelines)
+  - [1.4. JavaScript](#14-javascript)
+  - [1.5. File Naming](#15-file-naming)
+  - [1.6. Pull request formatting](#16-pull-request-formatting)
+  - [1.7. Further Guidelines](#17-further-guidelines)
 
 ## 1.2. Markdown Formatting Guidelines
+
+Markdown files are the most commonly seen files by a non-constibuer, and as such, should
+be formatted in a specific manner. Please follow these guidelines.
 
 Please follow the rules listed in
 [this page](https://github.com/DavidAnson/markdownlint/blob/v0.24.0/doc/Rules.md)
@@ -50,6 +56,9 @@ For further refrence, use this document as refrence for following acceptable pra
 
 ## 1.3. HTML/CSS Formatting Guidelines
 
+HTML and CSS should both be formatted in a specific way to improve readibility.
+Please follow these conventions
+
 Please *try* to follow the recommendations given in
 [this document](https://google.github.io/styleguide/htmlcssguide.html#CSS).
 
@@ -61,13 +70,53 @@ Please also make sure that the page follows the
 [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist).
 This takes lowest priority, but is a good way to ensure that the page is ready for the frontend.
 
-Each [(major) HTML tag](majorTags.md) should have a line of whitespace before it, and a line of whitespace after it, and should be on its own line.
+Each [major HTML tag](majorTags.md) should have a line of whitespace before it, and a line of whitespace after it, and should be on its own line.
 
-## 1.4. Further Guidelines
+## 1.4. JavaScript
 
-Please use the [.editorconfig file](../.editorconfig) to set your editor preferences.
+All code should be written cleanly, as it is often easier to write than to read it. To
+improve readibility, please follow these conventions.
+
+Please follow [this document](https://google.github.io/styleguide/jguide.html) for JS
+styling.
+
+Also, please follow [this document](https://github.com/airbnb/javascript), however, if conflicts arise, the first takes precendence.
+
+## 1.5. File Naming
+
+File naming is a very specific convention, and is important for the continuity of a
+project.
+
+File and directory names should be lowercase, excluding READMEs, which should be
+UPPERCASE.
+
+Do not change given files to reflect these guides, as it may break links to those pages.
+
+Hypens should be used instead of underscores to denotate spaces. Camel case is also
+acceptable (i.e. majorTags.md)
+
+Do not use non-standered english characters in filenames.
+
+Try to avoid generic filenames.
+
+Try to stick to a consistant style of spelling.
+
+Both suffixing and prefixing numbers are acceptable, however, start at `0`. If there
+are going to be more than 10 of the numbered file, pad with a left `0`.
+
+## 1.6. Pull request formatting
+
+This is a simple style to follow. The first word of a sentance should be capilitsed.
+If there is more than one sentance, suffix only the first sentance with a full stop`.`
+
+If something is changed or modified, prefix with `update`.
+
+## 1.7. Further Guidelines
+
+Please use the [.editorconfig file](.editorconfig) to set your editor preferences. It is
+located
 
 __DO NOT USE EMOTICONS IN ANY FILE, FORK, PULL REQUEST, OR ANYTHING ELSE.__ This is
 considered to be an unforgivable crime in the style of the project.
 
-The reccommended line length is 120 characters.
+The recommended line length is 120 characters.

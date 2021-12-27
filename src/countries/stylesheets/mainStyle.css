@@ -68,3 +68,91 @@ footer {
         animation: octocat-wave 560ms ease-in-out
     }
 }
+
+.btn-print {
+    float: right;
+    display: flex;
+    text-decoration: none;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: blue;
+    background-color: rgba(0, 128, 0, 0.164);
+}
+
+a {
+    color: green;
+}
+
+.brief {
+    margin-top: 80px;
+    width: auto;
+}
+
+.evol {
+    margin-top: 80px;
+    width: auto;
+}
+
+.year {
+    font-size: 18px;
+    color: #999999;
+    vertical-align: top;
+    line-height: 18px;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 150px;
+    text-align: left;
+}
+
+.year:hover {
+    color: #1d4196
+}
+
+.navBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f2f2f2;
+    height: 80px;
+    width: 100%;
+}
+
+.nav a:visited {
+    color: green;
+}
+
+.nav a:hover {
+    color: blue;
+    background-color: rgba(0, 128, 0, 0.164);
+}
+
+.nav a {
+    color: green;
+}
+
+nav:hover {
+    background-color: rgba(255, 166, 0, 0.062);
+}
+
+.footer a:visited {
+    color: green;
+}
+
+.footer a:hover {
+    color: blue;
+    background-color: rgba(0, 128, 0, 0.164);
+}
+
+.footer a {
+    color: green;
+}
+
+footer:hover {
+    background-color: rgba(255, 166, 0, 0.062);
+}
