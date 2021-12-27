@@ -1,0 +1,215 @@
+Country Comparison :: Carbon dioxide emissions from consumption of energy
+
+1       China                                                11,670,000,000.00        2017 est.
+2       United States                                         5,242,000,000.00        2017 est.
+3       India                                                 2,383,000,000.00        2017 est.
+4       Russia                                                1,847,000,000.00        2017 est.
+5       Japan                                                 1,268,000,000.00        2017 est.
+6       Germany                                                 847,600,000.00        2017 est.
+7       Korea, South                                            778,400,000.00        2017 est.
+8       Saudi Arabia                                            657,100,000.00        2017 est.
+9       Canada                                                  640,600,000.00        2017 est.
+10      Iran                                                    638,300,000.00        2017 est.
+11      South Africa                                            572,300,000.00        2017 est.
+12      Indonesia                                               540,700,000.00        2017 est.
+13      Brazil                                                  513,800,000.00        2017 est.
+14      Mexico                                                  454,100,000.00        2017 est.
+15      Australia                                               439,100,000.00        2017 est.
+16      United Kingdom                                          424,000,000.00        2017 est.
+17      Turkey                                                  379,500,000.00        2017 est.
+18      Poland                                                  359,000,000.00        2017 est.
+19      Thailand                                                355,000,000.00        2017 est.
+20      Italy                                                   351,000,000.00        2017 est.
+21      Taiwan                                                  348,800,000.00        2017 est.
+22      France                                                  341,200,000.00        2017 est.
+23      Kazakhstan                                              304,600,000.00        2017 est.
+24      United Arab Emirates                                    289,400,000.00        2017 est.
+25      Spain                                                   286,700,000.00        2017 est.
+26      Netherlands                                             250,200,000.00        2017 est.
+27      Singapore                                               249,500,000.00        2017 est.
+28      Ukraine                                                 238,900,000.00        2017 est.
+29      Vietnam                                                 235,300,000.00        2017 est.
+30      Egypt                                                   232,700,000.00        2017 est.
+31      Malaysia                                                226,800,000.00        2017 est.
+32      Argentina                                               203,700,000.00        2017 est.
+33      Pakistan                                                179,500,000.00        2017 est.
+34      Algeria                                                 135,900,000.00        2017 est.
+35      Belgium                                                 134,700,000.00        2017 est.
+36      Venezuela                                               129,900,000.00        2017 est.
+37      Iraq                                                    117,900,000.00        2017 est.
+38      Philippines                                             117,200,000.00        2017 est.
+39      Czechia                                                 115,800,000.00        2017 est.
+40      Qatar                                                   114,200,000.00        2017 est.
+41      Kuwait                                                  106,500,000.00        2017 est.
+42      Nigeria                                                 104,000,000.00        2017 est.
+43      Hong Kong                                               102,500,000.00        2017 est.
+44      Turkmenistan                                            100,500,000.00        2017 est.
+45      Colombia                                                 95,590,000.00        2017 est.
+46      Uzbekistan                                               95,580,000.00        2017 est.
+47      Chile                                                    88,230,000.00        2017 est.
+48      Bangladesh                                               79,970,000.00        2017 est.
+49      Israel                                                   73,820,000.00        2017 est.
+50      Romania                                                  72,070,000.00        2017 est.
+51      Greece                                                   69,370,000.00        2017 est.
+52      Oman                                                     68,940,000.00        2017 est.
+53      Austria                                                  63,930,000.00        2017 est.
+54      Belarus                                                  56,070,000.00        2017 est.
+55      Peru                                                     55,940,000.00        2017 est.
+56      Morocco                                                  55,400,000.00        2017 est.
+57      Portugal                                                 54,970,000.00        2017 est.
+58      Sweden                                                   52,310,000.00        2017 est.
+59      Hungary                                                  51,280,000.00        2017 est.
+60      Serbia                                                   50,210,000.00        2017 est.
+61      Trinidad and Tobago                                      48,920,000.00        2017 est.
+62      Libya                                                    46,480,000.00        2017 est.
+63      Bulgaria                                                 46,310,000.00        2017 est.
+64      Finland                                                  46,010,000.00        2017 est.
+65      Norway                                                   39,800,000.00        2017 est.
+66      Switzerland                                              38,950,000.00        2017 est.
+67      Bahrain                                                  37,980,000.00        2017 est.
+68      New Zealand                                              37,750,000.00        2017 est.
+69      Ecuador                                                  37,540,000.00        2017 est.
+70      Denmark                                                  37,450,000.00        2017 est.
+71      Ireland                                                  36,910,000.00        2017 est.
+72      Azerbaijan                                               35,600,000.00        2017 est.
+73      Slovakia                                                 34,860,000.00        2017 est.
+74      Korea, North                                             27,830,000.00        2017 est.
+75      Syria                                                    27,510,000.00        2017 est.
+76      Jordan                                                   27,390,000.00        2017 est.
+77      Burma                                                    27,010,000.00        2017 est.
+78      Cuba                                                     26,940,000.00        2017 est.
+79      Panama                                                   26,080,000.00        2017 est.
+80      Sri Lanka                                                25,190,000.00        2017 est.
+81      Dominican Republic                                       23,790,000.00        2017 est.
+82      Tunisia                                                  23,420,000.00        2017 est.
+83      Lebanon                                                  23,360,000.00        2017 est.
+84      Bosnia and Herzegovina                                   22,070,000.00        2017 est.
+85      Angola                                                   20,950,000.00        2017 est.
+86      Mongolia                                                 19,860,000.00        2017 est.
+87      Puerto Rico                                              19,850,000.00        2017 est.
+88      Kenya                                                    17,980,000.00        2017 est.
+89      Croatia                                                  17,960,000.00        2017 est.
+90      Bolivia                                                  17,660,000.00        2017 est.
+91      Guatemala                                                17,150,000.00        2017 est.
+92      Sudan                                                    16,030,000.00        2017 est.
+93      Tanzania                                                 14,570,000.00        2017 est.
+94      Slovenia                                                 14,370,000.00        2017 est.
+95      Yemen                                                    13,680,000.00        2017 est.
+96      Ghana                                                    13,670,000.00        2017 est.
+97      Lithuania                                                13,490,000.00        2017 est.
+98      Gibraltar                                                13,340,000.00        2017 est.
+99      Ethiopia                                                 12,180,000.00        2017 est.
+100     Zimbabwe                                                 12,060,000.00        2017 est.
+101     Cote d'Ivoire                                            11,540,000.00        2017 est.
+102     Mozambique                                               11,120,000.00        2017 est.
+103     Luxembourg                                               10,720,000.00        2017 est.
+104     Cambodia                                                 10,550,000.00        2017 est.
+105     Laos                                                     10,420,000.00        2017 est.
+106     Kosovo                                                   10,050,000.00        2017 est.
+107     Brunei                                                   10,040,000.00        2017 est.
+108     Kyrgyzstan                                               10,020,000.00        2017 est.
+109     Georgia                                                   9,912,000.00        2017 est.
+110     Honduras                                                  9,436,000.00        2017 est.
+111     Afghanistan                                               9,067,000.00        2017 est.
+112     Jamaica                                                   8,900,000.00        2017 est.
+113     Senegal                                                   8,644,000.00        2017 est.
+114     Latvia                                                    8,632,000.00        2017 est.
+115     Nepal                                                     8,396,000.00        2017 est.
+116     Malta                                                     8,141,000.00        2017 est.
+117     Paraguay                                                  7,740,000.00        2017 est.
+118     Cyprus                                                    7,720,000.00        2017 est.
+119     Cameroon                                                  7,672,000.00        2017 est.
+120     Costa Rica                                                7,653,000.00        2017 est.
+121     Moldova                                                   7,653,000.00        2017 est.
+122     Uruguay                                                   7,554,000.00        2017 est.
+123     Macedonia                                                 7,459,000.00        2017 est.
+124     El Salvador                                               7,331,000.00        2017 est.
+125     Mauritius                                                 6,429,000.00        2017 est.
+126     Tajikistan                                                6,329,000.00        2017 est.
+127     Botswana                                                  6,235,000.00        2017 est.
+128     New Caledonia                                             6,165,000.00        2017 est.
+129     Papua New Guinea                                          6,082,000.00        2017 est.
+130     Benin                                                     5,664,000.00        2017 est.
+131     Armenia                                                   5,501,000.00        2017 est.
+132     Nicaragua                                                 5,405,000.00        2017 est.
+133     Estonia                                                   5,306,000.00        2017 est.
+134     Congo, Republic of the                                    5,239,000.00        2017 est.
+135     Uganda                                                    4,703,000.00        2017 est.
+136     Albania                                                   4,500,000.00        2017 est.
+137     Gabon                                                     4,293,000.00        2017 est.
+138     Madagascar                                                4,021,000.00        2017 est.
+139     Namibia                                                   3,958,000.00        2017 est.
+140     Zambia                                                    3,777,000.00        2017 est.
+141     Haiti                                                     3,595,000.00        2017 est.
+142     Burkina Faso                                              3,421,000.00        2017 est.
+143     Mali                                                      3,388,000.00        2017 est.
+144     Iceland                                                   3,228,000.00        2017 est.
+145     Congo, Democratic Republic of the                         3,146,000.00        2017 est.
+146     West Bank                                                 3,113,000.00        2017 est.
+147     Bahamas, The                                              3,089,000.00        2017 est.
+148     Equatorial Guinea                                         3,062,000.00        2017 est.
+149     Guinea                                                    2,794,000.00        2017 est.
+150     Virgin Islands                                            2,764,000.00        2017 est.
+151     Togo                                                      2,651,000.00        2017 est.
+152     Mauritania                                                2,615,000.00        2017 est.
+153     Macau                                                     2,563,000.00        2017 est.
+154     Niger                                                     2,534,000.00        2017 est.
+155     Fiji                                                      2,369,000.00        2017 est.
+156     Montenegro                                                2,287,000.00        2017 est.
+157     Guam                                                      2,214,000.00        2017 est.
+158     Guyana                                                    2,131,000.00        2017 est.
+159     Suriname                                                  2,075,000.00        2017 est.
+160     Barbados                                                  1,760,000.00        2017 est.
+161     Maldives                                                  1,648,000.00        2017 est.
+162     Aruba                                                     1,266,000.00        2017 est.
+163     South Sudan                                               1,224,000.00        2017 est.
+164     Liberia                                                   1,163,000.00        2017 est.
+165     Seychelles                                                1,150,000.00        2017 est.
+166     Eswatini                                                  1,140,000.00        2017 est.
+167     Malawi                                                    1,082,000.00        2017 est.
+168     French Polynesia                                          1,030,000.00        2017 est.
+169     Rwanda                                                      985,600.00        2017 est.
+170     Sierra Leone                                                984,800.00        2017 est.
+171     Djibouti                                                    950,200.00        2017 est.
+172     Cabo Verde                                                  867,800.00        2017 est.
+173     Somalia                                                     852,500.00        2017 est.
+174     Bermuda                                                     793,700.00        2017 est.
+175     Antigua and Barbuda                                         740,300.00        2017 est.
+176     Faroe Islands                                               739,300.00        2017 est.
+177     Lesotho                                                     711,100.00        2017 est.
+178     Cayman Islands                                              643,800.00        2017 est.
+179     Greenland                                                   613,800.00        2017 est.
+180     Gambia, The                                                 607,300.00        2017 est.
+181     Bhutan                                                      604,900.00        2017 est.
+182     Eritrea                                                     597,100.00        2017 est.
+183     Belize                                                      556,700.00        2017 est.
+184     Timor-Leste                                                 533,400.00        2017 est.
+185     Jersey                                                      450,000.00        2012 est.
+186     Saint Lucia                                                 437,900.00        2017 est.
+187     Central African Republic                                    413,800.00        2017 est.
+188     Guinea-Bissau                                               397,900.00        2017 est.
+189     American Samoa                                              361,100.00        2017 est.
+190     Chad                                                        342,200.00        2017 est.
+191     Samoa                                                       341,100.00        2017 est.
+192     Marshall Islands                                            293,700.00        2017 est.
+193     Grenada                                                     283,600.00        2017 est.
+194     Saint Kitts and Nevis                                       248,100.00        2017 est.
+195     Solomon Islands                                             233,500.00        2017 est.
+196     Saint Vincent and the Grenadines                            226,800.00        2017 est.
+197     Turks and Caicos Islands                                    221,800.00        2017 est.
+198     Burundi                                                     217,000.00        2017 est.
+199     Dominica                                                    199,600.00        2017 est.
+200     Comoros                                                     193,600.00        2017 est.
+201     British Virgin Islands                                      183,300.00        2017 est.
+202     Vanuatu                                                     164,800.00        2017 est.
+203     Sao Tome and Principe                                       148,100.00        2017 est.
+204     Tonga                                                       139,700.00        2017 est.
+205     Saint Pierre and Miquelon                                   100,200.00        2017 est.
+206     Cook Islands                                                 88,810.00        2017 est.
+207     Nauru                                                        76,540.00        2017 est.
+208     Kiribati                                                     58,850.00        2017 est.
+209     Montserrat                                                   57,180.00        2017 est.
+210     Falkland Islands (Islas Malvinas)                            44,070.00        2017 est.
+211     Saint Helena, Ascension, and Tristan da Cunha                10,650.00        2017 est.
+212     Niue                                                          7,252.00        2017 est.
+213     Micronesia, Federated States of                                 105.00        2010 est.

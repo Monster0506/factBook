@@ -1,0 +1,183 @@
+Country Comparison :: Unemployment, youth ages 15-24
+
+1       French Polynesia                                                  56.7         est.
+2       Kosovo                                                            55.4         est.
+3       South Africa                                                      53.4         est.
+4       Libya                                                             48.7         est.
+5       Eswatini                                                          47.1        
+6       Saint Lucia                                                       46.2         est.
+7       Macedonia                                                         45.4         est.
+8       Gaza Strip                                                        42.2         est.
+9       West Bank                                                         42.2         est.
+10      Malawi                                                            40.5         est.
+11      Greece                                                            39.9         est.
+12      Angola                                                            39.4         est.
+13      Algeria                                                           39.3         est.
+14      South Sudan                                                       38.6         est.
+15      New Caledonia                                                     38.4         est.
+16      Namibia                                                           38.0         est.
+17      Armenia                                                           36.3         est.
+18      Botswana                                                          36.0         est.
+19      Syria                                                             35.8         est.
+20      Gabon                                                             35.7         est.
+21      Jordan                                                            35.6         est.
+22      Tunisia                                                           35.0         est.
+23      Lesotho                                                           34.4         est.
+24      Spain                                                             34.3         est.
+25      Bosnia and Herzegovina                                            33.8         est.
+26      Italy                                                             32.2         est.
+27      Albania                                                           31.9         est.
+28      Samoa                                                             31.9         est.
+29      Georgia                                                           29.9         est.
+30      Serbia                                                            29.7         est.
+31      Barbados                                                          29.6         est.
+32      Egypt                                                             29.6         est.
+33      Guam                                                              29.4         est.
+34      Montenegro                                                        29.4         est.
+35      Bermuda                                                           29.3         est.
+36      Curacao                                                           29.3         est.
+37      Brunei                                                            28.9         est.
+38      Saudi Arabia                                                      28.8         est.
+39      Brazil                                                            28.5         est.
+40      Cabo Verde                                                        27.8        
+41      Iran                                                              27.6         est.
+42      San Marino                                                        27.4         est.
+43      Monaco                                                            26.6         est.
+44      Nauru                                                             26.6        
+45      Puerto Rico                                                       26.6         est.
+46      Uruguay                                                           25.9         est.
+47      Bahamas, The                                                      25.8         est.
+48      Iraq                                                              25.6        
+49      Ethiopia                                                          25.2         est.
+50      Yemen                                                             24.5         est.
+51      Jamaica                                                           24.2         est.
+52      Zambia                                                            24.0         est.
+53      Mauritius                                                         23.9         est.
+54      Argentina                                                         23.7         est.
+55      Croatia                                                           23.7         est.
+56      India                                                             22.5         est.
+57      Morocco                                                           22.2         est.
+58      Guyana                                                            21.5         est.
+59      Nepal                                                             21.4         est.
+60      Sri Lanka                                                         21.0         est.
+61      France                                                            20.8         est.
+62      Sao Tome and Principe                                             20.8         est.
+63      Costa Rica                                                        20.6         est.
+64      Rwanda                                                            20.6         est.
+65      Tuvalu                                                            20.6        
+66      Portugal                                                          20.3         est.
+67      Cyprus                                                            20.2         est.
+68      Turkey                                                            20.2         est.
+69      Comoros                                                           19.5        
+70      Micronesia, Federated States of                                   18.9        
+71      Colombia                                                          18.5         est.
+72      Laos                                                              18.2         est.
+73      Chile                                                             18.1         est.
+74      Ukraine                                                           17.9         est.
+75      Afghanistan                                                       17.6        
+76      Kiribati                                                          17.1         est.
+77      Finland                                                           17.0         est.
+78      Russia                                                            17.0         est.
+79      Mali                                                              16.9         est.
+80      Mongolia                                                          16.8         est.
+81      Sweden                                                            16.8         est.
+82      Indonesia                                                         16.5         est.
+83      Zimbabwe                                                          16.5         est.
+84      Romania                                                           16.2         est.
+85      Maldives                                                          15.9         est.
+86      Belgium                                                           15.8         est.
+87      Fiji                                                              15.4         est.
+88      Kuwait                                                            15.4         est.
+89      Belize                                                            15.3         est.
+90      Mauritania                                                        15.2         est.
+91      Slovakia                                                          14.9         est.
+92      Uganda                                                            14.8         est.
+93      Peru                                                              14.7         est.
+94      Venezuela                                                         14.6         est.
+95      Paraguay                                                          14.5         est.
+96      Kyrgyzstan                                                        14.2         est.
+97      Luxembourg                                                        14.2         est.
+98      Cayman Islands                                                    13.8         est.
+99      Ireland                                                           13.8         est.
+100     Nigeria                                                           13.8         est.
+101     Oman                                                              13.7        
+102     Dominican Republic                                                13.5         est.
+103     Azerbaijan                                                        13.4         est.
+104     Suriname                                                          13.4         est.
+105     Timor-Leste                                                       13.2         est.
+106     Gambia, The                                                       13.1         est.
+107     Bangladesh                                                        12.8         est.
+108     Bulgaria                                                          12.7         est.
+109     Latvia                                                            12.2         est.
+110     Australia                                                         11.8         est.
+111     Estonia                                                           11.8         est.
+112     Poland                                                            11.7         est.
+113     Seychelles                                                        11.6         est.
+114     New Zealand                                                       11.5         est.
+115     United Kingdom                                                    11.3         est.
+116     Canada                                                            11.1         est.
+117     Lithuania                                                         11.1         est.
+118     Marshall Islands                                                  11.0         est.
+119     Bhutan                                                            10.7         est.
+120     Honduras                                                          10.7         est.
+121     Belarus                                                           10.6         est.
+122     Malaysia                                                          10.5         est.
+123     Hungary                                                           10.2         est.
+124     Korea, South                                                      10.2         est.
+125     Panama                                                            10.2         est.
+126     Isle of Man                                                       10.1         est.
+127     Norway                                                             9.7         est.
+128     El Salvador                                                        9.6        
+129     Austria                                                            9.4         est.
+130     Denmark                                                            9.4         est.
+131     Sierra Leone                                                       9.4         est.
+132     Ghana                                                              9.1         est.
+133     Malta                                                              9.1         est.
+134     Singapore                                                          9.1         est.
+135     Slovenia                                                           8.8         est.
+136     Burkina Faso                                                       8.7        
+137     Congo, Democratic Republic of the                                  8.7         est.
+138     Hong Kong                                                          8.7         est.
+139     Trinidad and Tobago                                                8.7         est.
+140     United States                                                      8.6         est.
+141     Nicaragua                                                          8.5         est.
+142     Senegal                                                            8.1         est.
+143     Ecuador                                                            7.9         est.
+144     Switzerland                                                        7.9         est.
+145     Pakistan                                                           7.8         est.
+146     Kenya                                                              7.4        
+147     Moldova                                                            7.4         est.
+148     Mozambique                                                         7.4         est.
+149     Israel                                                             7.2         est.
+150     Netherlands                                                        7.2         est.
+151     Bolivia                                                            6.9         est.
+152     Mexico                                                             6.9         est.
+153     United Arab Emirates                                               6.9         est.
+154     Vietnam                                                            6.9         est.
+155     Czechia                                                            6.7         est.
+156     Philippines                                                        6.7         est.
+157     Cameroon                                                           6.3         est.
+158     Germany                                                            6.2         est.
+159     Cuba                                                               6.1         est.
+160     Iceland                                                            6.1         est.
+161     Benin                                                              5.6         est.
+162     Palau                                                              5.6        
+163     Cote d'Ivoire                                                      5.5         est.
+164     Bahrain                                                            5.3         est.
+165     Macau                                                              5.3         est.
+166     Guatemala                                                          5.0         est.
+167     Tanzania                                                           3.9         est.
+168     Togo                                                               3.9         est.
+169     Kazakhstan                                                         3.8         est.
+170     Thailand                                                           3.7         est.
+171     Japan                                                              3.6         est.
+172     Papua New Guinea                                                   3.6         est.
+173     Burundi                                                            2.9         est.
+174     Liberia                                                            2.3         est.
+175     Burma                                                              2.0         est.
+176     Solomon Islands                                                    1.3        
+177     Cambodia                                                           1.1         est.
+178     Guinea                                                             1.0         est.
+179     Madagascar                                                         1.0         est.
+180     Niger                                                              0.7         est.
+181     Qatar                                                              0.4         est.

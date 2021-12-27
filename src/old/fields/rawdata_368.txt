@@ -1,0 +1,133 @@
+Country Comparison :: Children under the age of 5 years underweight
+
+1       Yemen                                                            39.90        2013
+2       Eritrea                                                          39.40        2010
+3       Timor-Leste                                                      37.50        2013
+4       India                                                            33.40        2016/18
+5       Sudan                                                            33.10        2014
+6       Djibouti                                                         29.90        2012
+7       Chad                                                             29.40        2015
+8       Papua New Guinea                                                 27.80        2010
+9       South Sudan                                                      27.70        2010
+10      Burundi                                                          27.20        2018/19
+11      Nepal                                                            27.20        2016
+12      Madagascar                                                       26.40        2018
+13      Cambodia                                                         24.10        2014
+14      Congo, Democratic Republic of the                                23.40        2013
+15      Pakistan                                                         23.10        2018
+16      Somalia                                                          23.00        2009
+17      Bangladesh                                                       21.90        2017/18
+18      Niger                                                            21.80        2018
+19      Nigeria                                                          21.80        2018
+20      Ethiopia                                                         21.10        2019
+21      Laos                                                             21.10        2017
+22      Central African Republic                                         20.80        2018
+23      Sri Lanka                                                        20.50        2016
+24      Mauritania                                                       19.20        2018
+25      Afghanistan                                                      19.10        2018
+26      Philippines                                                      19.10        2018
+27      Angola                                                           19.00        2016
+28      Mali                                                             18.60        2018
+29      Burma                                                            18.50        2016
+30      Burkina Faso                                                     17.70        2018
+31      Indonesia                                                        17.70        2018
+32      Maldives                                                         17.70        2009
+33      Guinea-Bissau                                                    17.00        2014
+34      Comoros                                                          16.90        2012
+35      Benin                                                            16.80        2018
+36      Guinea                                                           16.30        2018
+37      Solomon Islands                                                  16.20        2015
+38      Mozambique                                                       15.60        2014/15
+39      Togo                                                             15.20        2017
+40      Kiribati                                                         14.90        2009
+41      Tanzania                                                         14.60        2018
+42      Malaysia                                                         13.70        2016
+43      Liberia                                                          13.60        2016
+44      Sierra Leone                                                     13.60        2019
+45      Vietnam                                                          13.40        2017
+46      Senegal                                                          13.30        2019
+47      Namibia                                                          13.20        2013
+48      Cote d'Ivoire                                                    12.80        2016
+49      Bhutan                                                           12.70        2010
+50      Ghana                                                            12.60        2017/18
+51      Guatemala                                                        12.40        2015
+52      Congo, Republic of the                                           12.30        2015
+53      Marshall Islands                                                 11.90        2017
+54      Malawi                                                           11.80        2018
+55      Zambia                                                           11.80        2018/19
+56      Libya                                                            11.70        2014
+57      Vanuatu                                                          11.70        2013
+58      Kenya                                                            11.20        2014
+59      Oman                                                             11.20        2017
+60      Cameroon                                                         11.00        2018
+61      Lesotho                                                          10.50        2018
+62      Uganda                                                           10.40        2016
+63      Gambia, The                                                      10.30        2018
+64      Zimbabwe                                                          9.70        2019
+65      Brunei                                                            9.60        2009
+66      Rwanda                                                            9.60        2015
+67      Haiti                                                             9.50        2017
+68      Korea, North                                                      9.30        2017
+69      Sao Tome and Principe                                             8.80        2014
+70      Guyana                                                            8.20        2014
+71      Tajikistan                                                        7.60        2017
+72      Honduras                                                          7.10        2012
+73      Egypt                                                             7.00        2014
+74      Thailand                                                          6.70        2016
+75      Gabon                                                             6.40        2012
+76      South Africa                                                      5.90        2016
+77      Eswatini                                                          5.80        2014
+78      Suriname                                                          5.80        2010
+79      Syria                                                             5.80        2009/10
+80      Equatorial Guinea                                                 5.60        2011
+81      Ecuador                                                           5.10        2014
+82      El Salvador                                                       5.00        2014
+83      Azerbaijan                                                        4.90        2013
+84      Trinidad and Tobago                                               4.90        2011
+85      Belize                                                            4.60        2015
+86      Nicaragua                                                         4.60        2012
+87      Mexico                                                            4.20        2016
+88      Iran                                                              4.10        2011
+89      Dominican Republic                                                4.00        2013
+90      Uruguay                                                           4.00        2011
+91      Iraq                                                              3.90        2018
+92      Colombia                                                          3.70        2015/16
+93      Seychelles                                                        3.60        2012
+94      Barbados                                                          3.50        2012
+95      Bolivia                                                           3.40        2016
+96      Japan                                                             3.40        2010
+97      Samoa                                                             3.20        2014
+98      Turkmenistan                                                      3.20        2015
+99      Algeria                                                           3.00        2012
+100     Jordan                                                            3.00        2012
+101     Kuwait                                                            3.00        2014
+102     Uzbekistan                                                        2.90        2017
+103     Venezuela                                                         2.90        2009
+104     Saint Lucia                                                       2.80        2012
+105     Armenia                                                           2.60        2016
+106     Morocco                                                           2.60        2017/18
+107     Peru                                                              2.60        2018
+108     China                                                             2.40        2013
+109     Jamaica                                                           2.20        2014
+110     Moldova                                                           2.20        2012
+111     Kazakhstan                                                        2.00        2015
+112     Bulgaria                                                          1.90        2014
+113     Mongolia                                                          1.90        2018
+114     Tonga                                                             1.90        2012
+115     Kyrgyzstan                                                        1.80        2018
+116     Serbia                                                            1.80        2014
+117     Argentina                                                         1.70        2018/19
+118     Bosnia and Herzegovina                                            1.60        2012
+119     Tunisia                                                           1.60        2018
+120     Albania                                                           1.50        2017
+121     Turkey                                                            1.50        2018/19
+122     Gaza Strip                                                        1.40        2014
+123     West Bank                                                         1.40        2014
+124     Macedonia                                                         1.30        2011
+125     Paraguay                                                          1.30        2016
+126     Georgia                                                           1.10        2009
+127     Montenegro                                                        1.00        2013
+128     Korea, South                                                      0.70        2010
+129     Chile                                                             0.50        2014
+130     Germany                                                           0.50        2014/17
+131     United States                                                     0.50        2012

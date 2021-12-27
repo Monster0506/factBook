@@ -1,0 +1,229 @@
+Country Comparison :: GDP - per capita (PPP)
+
+1       Liechtenstein                                                 $139,100        2009 est.
+2       Macau                                                         $122,000        2018
+3       Monaco                                                        $115,700        2015 est.
+4       Luxembourg                                                    $112,009        2019 est.
+5       Bermuda                                                        $99,400        2016 est.
+6       Norway                                                         $91,781        2019 est.
+7       Isle of Man                                                    $84,600        2014 est.
+8       Switzerland                                                    $81,475        2019 est.
+9       Ireland                                                        $81,340        2019 est.
+10      Brunei                                                         $78,900        2017 est.
+11      Falkland Islands (Islas Malvinas)                              $70,800        2015 est.
+12      United Arab Emirates                                           $68,600        2017 est.
+13      Sint Maarten                                                   $66,800        2014 est.
+14      Denmark                                                        $66,351        2019 est.
+15      Australia                                                      $62,753        2019 est.
+16      Qatar                                                          $62,019        2019 est.
+17      Gibraltar                                                      $61,700        2014 est.
+18      Sweden                                                         $59,699        2019 est.
+19      San Marino                                                     $59,000        2017 est.
+20      Singapore                                                      $57,853        2019 est.
+21      Jersey                                                         $56,600        2016 est.
+22      Netherlands                                                    $56,329        2019 est.
+23      United States                                                  $55,761        2019 est.
+24      Iceland                                                        $54,696        2019 est.
+25      Saudi Arabia                                                   $54,500        2017 est.
+26      Guernsey                                                       $52,500        2014 est.
+27      Canada                                                         $52,205        2019 est.
+28      Germany                                                        $50,800        2017 est.
+29      Austria                                                        $50,205        2019 est.
+30      Andorra                                                        $49,900        2015 est.
+31      Finland                                                        $49,380        2019 est.
+32      Japan                                                          $48,979        2019 est.
+33      Belgium                                                        $47,478        2019 est.
+34      Saint Pierre and Miquelon                                      $46,200        2006 est.
+35      Oman                                                           $46,000        2017 est.
+36      France                                                         $45,739        2019 est.
+37      Cayman Islands                                                 $43,800        2004 est.
+38      United Kingdom                                                 $43,111        2019 est.
+39      Greenland                                                      $41,800        2015 est.
+40      Faroe Islands                                                  $40,000        2014 est.
+41      New Zealand                                                    $39,815        2019 est.
+42      Puerto Rico                                                    $39,400        2017 est.
+43      Hong Kong                                                      $38,293        2019 est.
+44      Israel                                                         $37,527        2019 est.
+45      Aruba                                                          $37,500        2017 est.
+46      Malta                                                          $37,300        2019 est.
+47      Virgin Islands                                                 $37,000        2016 est.
+48      Guam                                                           $35,600        2016 est.
+49      Italy                                                          $35,589        2019 est.
+50      British Virgin Islands                                         $34,200        2017 est.
+51      Montserrat                                                     $34,000        2011 est.
+52      Spain                                                          $33,698        2019 est.
+53      Kuwait                                                         $33,087        2018 est.
+54      Bahamas, The                                                   $32,400        2017 est.
+55      New Caledonia                                                  $31,100        2015 est.
+56      Korea, South                                                   $28,941        2019 est.
+57      Saint Kitts and Nevis                                          $28,200        2017 est.
+58      Slovenia                                                       $27,631        2019 est.
+59      Turks and Caicos Islands                                       $27,100        2018 est.
+60      Antigua and Barbuda                                            $26,400        2017 est.
+61      Czechia                                                        $25,816        2019 est.
+62      Portugal                                                       $24,808        2019 est.
+63      Greece                                                         $24,588        2019 est.
+64      Taiwan                                                         $24,502        2018 est.
+65      Northern Mariana Islands                                       $24,500        2016 est.
+66      Cyprus                                                         $23,948        2019 est.
+67      Bahrain                                                        $23,441        2019 est.
+68      Uruguay                                                        $22,400        2017 est.
+69      Mauritius                                                      $22,300        2017 est.
+70      Slovakia                                                       $21,066        2019 est.
+71      Estonia                                                        $20,897        2019 est.
+72      Iran                                                           $20,100        2017 est.
+73      Lebanon                                                        $19,600        2017 est.
+74      Saint Martin                                                   $19,300        2005 est.
+75      Maldives                                                       $19,200        2017 est.
+76      Lithuania                                                      $18,844        2019 est.
+77      Poland                                                         $18,768        2019 est.
+78      Barbados                                                       $18,600        2017 est.
+79      Montenegro                                                     $17,800        2017 est.
+80      Hungary                                                        $17,749        2019 est.
+81      Botswana                                                       $17,000        2017 est.
+82      Dominican Republic                                             $17,000        2017 est.
+83      French Polynesia                                               $17,000        2015 est.
+84      Croatia                                                        $16,923        2019 est.
+85      Costa Rica                                                     $16,900        2017 est.
+86      Latvia                                                         $16,778        2019 est.
+87      Cook Islands                                                   $16,700        2016 est.
+88      Algeria                                                        $15,200        2017 est.
+89      Trinidad and Tobago                                            $15,185        2019 est.
+90      Grenada                                                        $15,100        2017 est.
+91      Chile                                                          $15,098        2019 est.
+92      Turkey                                                         $15,075        2019 est.
+93      Curacao                                                        $15,000        2004 est.
+94      Seychelles                                                     $14,955        2019 est.
+95      Macedonia                                                      $14,900        2017 est.
+96      Suriname                                                       $14,900        2017 est.
+97      Palau                                                          $14,700        2017 est.
+98      Saint Lucia                                                    $14,400        2017 est.
+99      Mongolia                                                       $13,700        2018
+100     Russia                                                         $12,842        2019 est.
+101     Paraguay                                                       $12,800        2017 est.
+102     Malaysia                                                       $12,482        2019 est.
+103     Cuba                                                           $12,300        2016 est.
+104     Nauru                                                          $12,300        2017 est.
+105     Anguilla                                                       $12,200        2008 est.
+106     Romania                                                        $12,011        2019 est.
+107     Panama                                                         $11,910        2019 est.
+108     Tunisia                                                        $11,900        2017 est.
+109     Kazakhstan                                                     $11,845        2019 est.
+110     Saint Vincent and the Grenadines                               $11,500        2017 est.
+111     American Samoa                                                 $11,200        2016 est.
+112     Brazil                                                         $11,117        2019 est.
+113     Dominica                                                       $11,000        2017 est.
+114     Georgia                                                        $10,700        2017 est.
+115     Mexico                                                         $10,275        2019 est.
+116     Bulgaria                                                        $9,888        2019 est.
+117     Argentina                                                       $9,807        2019 est.
+118     Fiji                                                            $9,800        2017 est.
+119     Armenia                                                         $9,500        2017 est.
+120     Equatorial Guinea                                               $9,228        2019 est.
+121     Jamaica                                                         $9,200        2017 est.
+122     Gabon                                                           $9,119        2019 est.
+123     Bhutan                                                          $9,000        2017 est.
+124     Belize                                                          $8,300        2017 est.
+125     Guatemala                                                       $8,200        2017 est.
+126     Libya                                                           $8,141        2019 est.
+127     Guyana                                                          $8,100        2017 est.
+128     China                                                           $8,041        2019 est.
+129     El Salvador                                                     $8,000        2017 est.
+130     Namibia                                                         $7,873        2019 est.
+131     Colombia                                                        $7,838        2019 est.
+132     Saint Helena, Ascension, and Tristan da Cunha                   $7,800        FY09/10 est.
+133     Venezuela                                                       $7,704        2018 est.
+134     Turkmenistan                                                    $7,644        2018 est.
+135     Ukraine                                                         $7,439        2019 est.
+136     Laos                                                            $7,400        2017 est.
+137     South Africa                                                    $7,341        2019 est.
+138     Serbia                                                          $7,268        2019 est.
+139     Uzbekistan                                                      $6,900        2017 est.
+140     Congo, Republic of the                                          $6,800        2017 est.
+141     Belarus                                                         $6,695        2019 est.
+142     Bosnia and Herzegovina                                          $6,641        2019 est.
+143     Thailand                                                        $6,623        2019 est.
+144     Peru                                                            $6,550        2019 est.
+145     Burma                                                           $6,300        2017 est.
+146     Tokelau                                                         $6,004        2017 est.
+147     Timor-Leste                                                     $6,000        2017 est.
+148     Nicaragua                                                       $5,900        2017 est.
+149     Nigeria                                                         $5,900        2017 est.
+150     Tonga                                                           $5,900        2017 est.
+151     Azerbaijan                                                      $5,863        2019 est.
+152     Niue                                                            $5,800        2003 est.
+153     Samoa                                                           $5,700        2017 est.
+154     Iraq                                                            $5,604        2019 est.
+155     Honduras                                                        $5,600        2017 est.
+156     Albania                                                         $5,156        2019 est.
+157     Ecuador                                                         $5,097        2019 est.
+158     Eswatini                                                        $4,821        2019 est.
+159     Ghana                                                           $4,700        2017 est.
+160     Indonesia                                                       $4,455        2019 est.
+161     West Bank                                                       $4,300        2014 est.
+162     Kosovo                                                          $4,281        2018 est.
+163     Sri Lanka                                                       $4,103        2019 est.
+164     Cambodia                                                        $4,000        2017 est.
+165     Zambia                                                          $4,000        2017 est.
+166     Cabo Verde                                                      $3,980        2019 est.
+167     Tuvalu                                                          $3,800        2017 est.
+168     Wallis and Futuna                                               $3,800        2004 est.
+169     Cameroon                                                        $3,700        2017 est.
+170     Papua New Guinea                                                $3,700        2017 est.
+171     Djibouti                                                        $3,600        2017 est.
+172     Marshall Islands                                                $3,600        2017 est.
+173     Morocco                                                         $3,450        2019 est.
+174     Micronesia, Federated States of                                 $3,400        2017 est.
+175     Philippines                                                     $3,340        2019 est.
+176     Jordan                                                          $3,291        2019 est.
+177     Tajikistan                                                      $3,200        2017 est.
+178     Angola                                                          $3,097        2019 est.
+179     Egypt                                                           $2,943        2019 est.
+180     Syria                                                           $2,900        2015 est.
+181     Nepal                                                           $2,700        2017 est.
+182     Vanuatu                                                         $2,700        2017 est.
+183     Bolivia                                                         $2,579        2019 est.
+184     Yemen                                                           $2,500        2017 est.
+185     Moldova                                                         $2,441        2019 est.
+186     Uganda                                                          $2,400        2017 est.
+187     Solomon Islands                                                 $2,200        2017 est.
+188     Vietnam                                                         $2,125        2019 est.
+189     India                                                           $2,100        2019 est.
+190     Rwanda                                                          $2,100        2017 est.
+191     Afghanistan                                                     $2,000        2017 est.
+192     Kiribati                                                        $2,000        2017 est.
+193     Sudan                                                           $1,929        2019 est.
+194     Haiti                                                           $1,800        2017 est.
+195     Korea, North                                                    $1,700        2015 est.
+196     Cote d'Ivoire                                                   $1,692        2018 est.
+197     Eritrea                                                         $1,600        2017 est.
+198     Sierra Leone                                                    $1,600        2017 est.
+199     South Sudan                                                     $1,600        2017 est.
+200     Senegal                                                         $1,583        2019 est.
+201     Comoros                                                         $1,406        2019 est.
+202     Pakistan                                                        $1,404        2019 est.
+203     Lesotho                                                         $1,384        2019 est.
+204     Kenya                                                           $1,354        2019 est.
+205     Zimbabwe                                                        $1,306        2018 est.
+206     Mozambique                                                      $1,300        2017 est.
+207     Bangladesh                                                      $1,281        2019 est.
+208     Benin                                                           $1,224        2018 est.
+209     Malawi                                                          $1,200        2017 est.
+210     Kyrgyzstan                                                      $1,127        2019 est.
+211     Tanzania                                                          $959        2019 est.
+212     Guinea                                                            $937        2019 est.
+213     Burkina Faso                                                      $821        2019 est.
+214     Gambia, The                                                       $815        2019 est.
+215     Chad                                                              $813        2019 est.
+216     Mali                                                              $792        2019 est.
+217     Central African Republic                                          $700        2017 est.
+218     Togo                                                              $672        2018 est.
+219     Guinea-Bissau                                                     $598        2018 est.
+220     Ethiopia                                                          $537        2019 est.
+221     Liberia                                                           $516        2019 est.
+222     Madagascar                                                        $497        2019 est.
+223     Niger                                                             $472        2018 est.
+224     Congo, Democratic Republic of the                                 $421        2019 est.
+225     Burundi                                                           $208        2019 est.
+226     Mauritania                                                        $175        2019 est.
+227     Sao Tome and Principe                                               $1        2019 est.

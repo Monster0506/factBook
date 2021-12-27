@@ -36,7 +36,7 @@ __N.B. THIS DOES NOT MODIFY THE ACTUAL CONTENT OF THE WORLDFACTBOOK.__
 
 The intention of this project is to simply provide a simple way to open and access the documents provided by the CIA.
 
-This also provides all of the original documents, in the ["old"](old/) folder.
+This also provides all of the original documents, in the ["old"](src/old/) folder.
 
 This is a work in progress, so please be patient and feel free to create a pull request if you feel something is lacking.
 
@@ -66,7 +66,7 @@ This is a work in progress, so please be patient and feel free to create a pull 
 - Clone the repository to your computer.
 - Open the countries folder
 - Open the index.html file.
-- Alternately, you can launch the page from [this link](countries/index.html), if you are currently in the repo.
+- Alternately, you can launch the page from [this link (src/countries/index.html)](src/countries/index.html), if you are currently in the repo.
 
 ### 1.2.2. Credits
 

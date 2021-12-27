@@ -1,0 +1,233 @@
+Country Comparison :: Labor force
+
+1       China                                                      774,710,000        2019 est.
+2       India                                                      521,900,000        2017 est.
+3       Indonesia                                                  129,366,000        2019 est.
+4       Brazil                                                      86,621,000        2020 est.
+5       Russia                                                      69,923,000        2020 est.
+6       Bangladesh                                                  66,640,000        2017 est.
+7       Japan                                                       66,540,000        2020 est.
+8       Pakistan                                                    61,710,000        2017 est.
+9       Nigeria                                                     60,080,000        2017 est.
+10      Vietnam                                                     54,659,000        2019 est.
+11      Ethiopia                                                    52,820,000        2017 est.
+12      Mexico                                                      50,914,000        2020 est.
+13      Germany                                                     44,585,000        2020 est.
+14      Philippines                                                 41,533,000        2020 est.
+15      Thailand                                                    37,546,000        2020 est.
+16      United States                                               35,412,000        2020 est.
+17      Iran                                                        30,500,000        2017 est.
+18      France                                                      27,742,000        2020 est.
+19      Korea, South                                                26,839,000        2020 est.
+20      Turkey                                                      25,677,000        2020 est.
+21      Tanzania                                                    24,890,000        2017 est.
+22      Egypt                                                       24,113,000        2020 est.
+23      Italy                                                       22,920,000        2020 est.
+24      Burma                                                       22,300,000        2017 est.
+25      Congo, Democratic Republic of the                           20,692,000        2012 est.
+26      Kenya                                                       19,600,000        2017 est.
+27      Colombia                                                    19,309,000        2020 est.
+28      Spain                                                       19,057,000        2020 est.
+29      Canada                                                      18,136,000        2020 est.
+30      Argentina                                                   18,000,000        2017 est.
+31      Ukraine                                                     17,990,000        2017 est.
+32      Nepal                                                       16,810,000        2017 est.
+33      United Kingdom                                              16,033,000        2020 est.
+34      Uganda                                                      15,840,000        2015 est.
+35      Malaysia                                                    15,139,000        2020 est.
+36      South Africa                                                14,687,000        2020 est.
+37      Venezuela                                                   14,210,000        2017 est.
+38      Korea, North                                                14,000,000        2014 est.
+39      Saudi Arabia                                                13,800,000        2017 est.
+40      Madagascar                                                  13,400,000        2017 est.
+41      Uzbekistan                                                  13,273,000        2018 est.
+42      Mozambique                                                  12,900,000        2017 est.
+43      Australia                                                   12,568,000        2020 est.
+44      Angola                                                      12,510,000        2017 est.
+45      Ghana                                                       12,490,000        2017 est.
+46      Sudan                                                       11,920,000        2007 est.
+47      Taiwan                                                      11,498,000        2020 est.
+48      Algeria                                                     10,859,000        2017 est.
+49      Morocco                                                     10,399,000        2020 est.
+50      Cameroon                                                     9,912,000        2017 est.
+51      Poland                                                       9,561,000        2020 est.
+52      Cambodia                                                     8,913,000        2017 est.
+53      Netherlands                                                  8,907,000        2020 est.
+54      Iraq                                                         8,900,000        2010 est.
+55      Cote d'Ivoire                                                8,747,000        2017 est.
+56      Kazakhstan                                                   8,685,000        2020 est.
+57      Burkina Faso                                                 8,501,000        2016 est.
+58      Afghanistan                                                  8,478,000        2017 est.
+59      Ecuador                                                      8,086,000        2017 est.
+60      Sri Lanka                                                    8,000,000        2020 est.
+61      Zimbabwe                                                     7,907,000        2017 est.
+62      Yemen                                                        7,425,000        2017 est.
+63      Chile                                                        7,249,000        2020 est.
+64      Malawi                                                       7,000,000        2013 est.
+65      Senegal                                                      6,966,000        2017 est.
+66      Zambia                                                       6,898,000        2017 est.
+67      Guatemala                                                    6,664,000        2017 est.
+68      Niger                                                        6,500,000        2017 est.
+69      Mali                                                         6,447,000        2017 est.
+70      Rwanda                                                       6,227,000        2017 est.
+71      Bolivia                                                      5,719,000        2016 est.
+72      Chad                                                         5,654,000        2017 est.
+73      Guinea                                                       5,558,000        2017 est.
+74      United Arab Emirates                                         5,344,000        2017 est.
+75      Czechia                                                      5,222,000        2020 est.
+76      Switzerland                                                  5,067,000        2020 est.
+77      Sweden                                                       5,029,000        2020 est.
+78      Burundi                                                      5,012,000        2017 est.
+79      Azerbaijan                                                   4,939,000        2019 est.
+80      Romania                                                      4,889,000        2020 est.
+81      Dominican Republic                                           4,732,000        2017 est.
+82      Portugal                                                     4,717,000        2020 est.
+83      Cuba                                                         4,691,000        2017 est.
+84      Haiti                                                        4,594,000        2014 est.
+85      Hungary                                                      4,414,000        2020 est.
+86      Belarus                                                      4,381,000        2016 est.
+87      Somalia                                                      4,154,000        2016 est.
+88      Belgium                                                      4,122,000        2020 est.
+89      Tunisia                                                      4,054,000        2017 est.
+90      Greece                                                       4,000,000        2020 est.
+91      Israel                                                       3,893,000        2020 est.
+92      Singapore                                                    3,778,000        2019 est.
+93      Syria                                                        3,767,000        2017 est.
+94      Austria                                                      3,739,000        2020 est.
+95      Honduras                                                     3,735,000        2017 est.
+96      Papua New Guinea                                             3,681,000        2017 est.
+97      Benin                                                        3,662,000        2007 est.
+98      Hong Kong                                                    3,627,000        2020 est.
+99      Laos                                                         3,582,000        2017 est.
+100     Paraguay                                                     3,428,000        2017 est.
+101     Peru                                                         3,421,000        2020 est.
+102     Bulgaria                                                     3,113,000        2020 est.
+103     Nicaragua                                                    3,046,000        2017 est.
+104     Serbia                                                       3,000,000        2020 est.
+105     El Salvador                                                  2,908,000        2019 est.
+106     Kyrgyzstan                                                   2,841,000        2017 est.
+107     Denmark                                                      2,736,000        2020 est.
+108     Eritrea                                                      2,710,000        2017 est.
+109     New Zealand                                                  2,709,000        2020 est.
+110     Norway                                                       2,699,000        2020 est.
+111     Kuwait                                                       2,695,000        2017 est.
+112     Togo                                                         2,595,000        2007 est.
+113     Finland                                                      2,520,000        2020 est.
+114     Slovakia                                                     2,511,000        2020 est.
+115     Turkmenistan                                                 2,305,000        2013 est.
+116     Tajikistan                                                   2,295,000        2016 est.
+117     Ireland                                                      2,289,000        2020 est.
+118     Oman                                                         2,255,000        2016 est.
+119     Central African Republic                                     2,242,000        2017 est.
+120     Lebanon                                                      2,166,000        2016 est.
+121     Congo, Republic of the                                       2,055,000        2016 est.
+122     Qatar                                                        1,953,000        2017 est.
+123     Costa Rica                                                   1,843,000        2020 est.
+124     Uruguay                                                      1,748,000        2017 est.
+125     Liberia                                                      1,677,000        2017 est.
+126     Croatia                                                      1,656,000        2020 est.
+127     Panama                                                       1,633,000        2017 est.
+128     Armenia                                                      1,507,000        2017 est.
+129     Mauritania                                                   1,437,000        2017 est.
+130     Lithuania                                                    1,333,000        2020 est.
+131     Moldova                                                      1,295,000        2017 est.
+132     Mongolia                                                     1,241,000        2017 est.
+133     Gaza Strip                                                   1,240,000        2017 est.
+134     West Bank                                                    1,240,000        2017 est.
+135     Botswana                                                     1,177,000        2017 est.
+136     Puerto Rico                                                  1,139,000        December 2014 est.
+137     Libya                                                        1,114,000        2017 est.
+138     Jamaica                                                      1,113,000        2020 est.
+139     Albania                                                      1,104,000        2020 est.
+140     Namibia                                                        956,800        2017 est.
+141     Lesotho                                                        930,800        2017 est.
+142     Latvia                                                         885,000        2020 est.
+143     Slovenia                                                       885,000        2020 est.
+144     Bahrain                                                        831,600        2017 est.
+145     Bosnia and Herzegovina                                         806,000        2020 est.
+146     Macedonia                                                      793,000        2020 est.
+147     Gambia, The                                                    777,100        2007 est.
+148     Guinea-Bissau                                                  731,300        2013 est.
+149     Jordan                                                         731,000        2020 est.
+150     Georgia                                                        686,000        2019 est.
+151     Estonia                                                        648,000        2020 est.
+152     Trinidad and Tobago                                            629,400        2017 est.
+153     Gabon                                                          557,800        2017 est.
+154     Mauritius                                                      554,000        2020 est.
+155     Kosovo                                                         500,300        2017 est.
+156     Luxembourg                                                     476,000        2020 est.
+157     Eswatini                                                       427,900        2016 est.
+158     Cyprus                                                         416,000        2019 est.
+159     Bhutan                                                         397,900        2017 est.
+160     Macau                                                          392,000        2020 est.
+161     Fiji                                                           353,100        2017 est.
+162     Guyana                                                         313,800        2013 est.
+163     Djibouti                                                       294,600        2012
+164     Timor-Leste                                                    286,700        2016 est.
+165     Comoros                                                        278,500        2016 est.
+166     Malta                                                          223,000        2019 est.
+167     Maldives                                                       222,200        2017 est.
+168     Brunei                                                         203,600        2014 est.
+169     Solomon Islands                                                202,500        2007 est.
+170     Iceland                                                        200,000        2020 est.
+171     Bahamas, The                                                   196,900        2013 est.
+172     Cabo Verde                                                     196,100        2007 est.
+173     Equatorial Guinea                                              195,200        2007 est.
+174     Montenegro                                                     167,000        2020 est.
+175     Barbados                                                       144,000        2017 est.
+176     Suriname                                                       144,000        2014 est.
+177     Sierra Leone                                                   132,000        2013 est.
+178     French Polynesia                                               126,300        2016 est.
+179     Belize                                                         120,500        2008 est.
+180     New Caledonia                                                  119,500        2016 est.
+181     Vanuatu                                                        115,900        2007 est.
+182     Saint Lucia                                                     79,700        2012 est.
+183     Guam                                                            73,210        2016 est.
+184     Curacao                                                         73,010        2013
+185     Sao Tome and Principe                                           72,600        2017 est.
+186     Jersey                                                          59,950        2017 est.
+187     Saint Vincent and the Grenadines                                57,520        2007 est.
+188     Grenada                                                         55,270        2017 est.
+189     Monaco                                                          52,000        2014 est.
+190     Aruba                                                           51,610        2007 est.
+191     Seychelles                                                      51,000        2018 est.
+192     Samoa                                                           50,700        2016 est.
+193     Virgin Islands                                                  48,550        2016 est.
+194     Isle of Man                                                     41,790        2006
+195     Andorra                                                         39,750        2016
+196     Cayman Islands                                                  39,000        2007 est.
+197     Kiribati                                                        39,000        2010 est.
+198     Liechtenstein                                                   38,520        2015 est.
+199     Micronesia, Federated States of                                 37,920        2010 est.
+200     Tonga                                                           33,800        2011 est.
+201     Bermuda                                                         33,480        2016 est.
+202     Guernsey                                                        31,470        March 2006
+203     Antigua and Barbuda                                             30,000        1991
+204     Northern Mariana Islands                                        27,970        2010 est.
+205     Faroe Islands                                                   27,540        2017 est.
+206     Greenland                                                       26,840        2015 est.
+207     Dominica                                                        25,000        2000 est.
+208     Gibraltar                                                       24,420        2014 est.
+209     Sint Maarten                                                    23,200        2008 est.
+210     San Marino                                                      21,960        September 2013 est.
+211     Saint Kitts and Nevis                                           18,170        June 1995 est.
+212     American Samoa                                                  17,850        2015 est.
+213     Saint Martin                                                    17,300        
+214     British Virgin Islands                                          12,770        2004
+215     Palau                                                           11,610        2016
+216     Marshall Islands                                                10,670        2013 est.
+217     Cook Islands                                                     6,820        2001
+218     Anguilla                                                         6,049        2001
+219     Turks and Caicos Islands                                         4,848        1990 est.
+220     Holy See (Vatican City)                                          4,822        2016
+221     Montserrat                                                       4,521        2012
+222     Wallis and Futuna                                                4,482        2013
+223     Saint Pierre and Miquelon                                        4,429        2015
+224     Tuvalu                                                           3,615        2004 est.
+225     Saint Helena, Ascension, and Tristan da Cunha                    2,486        1998 est.
+226     Falkland Islands (Islas Malvinas)                                1,850        2016 est.
+227     Svalbard                                                         1,590        2013
+228     Tokelau                                                          1,100        2019 est.
+229     Norfolk Island                                                     978        2006
+230     Niue                                                               663        2001
+231     Pitcairn Islands                                                    15        2004

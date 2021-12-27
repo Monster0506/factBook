@@ -1,0 +1,229 @@
+Country Comparison :: Life expectancy at birth
+
+1       Monaco                                                           89.30        
+2       Japan                                                            86.00        
+3       Singapore                                                        86.00        
+4       Macau                                                            84.60        
+5       San Marino                                                       83.50        
+6       Canada                                                           83.40        
+7       Iceland                                                          83.30        
+8       Hong Kong                                                        83.20        
+9       Andorra                                                          83.00        
+10      Israel                                                           83.00        
+11      Guernsey                                                         82.80        
+12      Malta                                                            82.80        
+13      Switzerland                                                      82.80        
+14      Australia                                                        82.70        
+15      Korea, South                                                     82.60        
+16      Luxembourg                                                       82.60        
+17      Italy                                                            82.50        
+18      Sweden                                                           82.40        
+19      France                                                           82.20        
+20      Jersey                                                           82.20        
+21      Liechtenstein                                                    82.20        
+22      New Zealand                                                      82.10        
+23      Norway                                                           82.10        
+24      Spain                                                            82.00        
+25      Austria                                                          81.90        
+26      Anguilla                                                         81.80        
+27      Bermuda                                                          81.70        
+28      Netherlands                                                      81.70        
+29      Cayman Islands                                                   81.60        
+30      Isle of Man                                                      81.60        
+31      Belgium                                                          81.40        
+32      Slovenia                                                         81.40        
+33      Finland                                                          81.30        
+34      Puerto Rico                                                      81.30        
+35      Denmark                                                          81.20        
+36      Ireland                                                          81.20        
+37      Germany                                                          81.10        
+38      Greece                                                           81.10        
+39      Portugal                                                         81.10        
+40      United Kingdom                                                   81.10        
+41      Saint Pierre and Miquelon                                        81.00        
+42      Faroe Islands                                                    80.80        
+43      Taiwan                                                           80.60        
+44      Turks and Caicos Islands                                         80.30        
+45      United States                                                    80.30        
+46      Saint Barthelemy                                                 80.20        
+47      Saint Martin                                                     80.20        
+48      Wallis and Futuna                                                80.20        
+49      Gibraltar                                                        80.00        
+50      Saint Helena, Ascension, and Tristan da Cunha                    80.00        
+51      Virgin Islands                                                   79.80        
+52      Bahrain                                                          79.40        
+53      Chile                                                            79.40        
+54      Qatar                                                            79.40        
+55      Cyprus                                                           79.30        
+56      Czechia                                                          79.30        
+57      British Virgin Islands                                           79.20        
+58      Costa Rica                                                       79.20        
+59      Cuba                                                             79.20        
+60      Panama                                                           79.20        
+61      Albania                                                          79.00        
+62      Curacao                                                          79.00        
+63      United Arab Emirates                                             79.00        
+64      Sint Maarten                                                     78.80        
+65      Kuwait                                                           78.60        
+66      Saint Lucia                                                      78.50        
+67      New Caledonia                                                    78.40        
+68      Lebanon                                                          78.30        
+69      Poland                                                           78.30        
+70      Brunei                                                           77.90        
+71      French Polynesia                                                 77.90        
+72      Paraguay                                                         77.90        
+73      Uruguay                                                          77.90        
+74      Argentina                                                        77.80        
+75      Slovakia                                                         77.80        
+76      Dominica                                                         77.70        
+77      Algeria                                                          77.50        
+78      Aruba                                                            77.50        
+79      Bosnia and Herzegovina                                           77.50        
+80      Ecuador                                                          77.50        
+81      Sri Lanka                                                        77.50        
+82      Estonia                                                          77.40        
+83      Antigua and Barbuda                                              77.30        
+84      Montenegro                                                       77.30        
+85      Georgia                                                          77.00        
+86      Guam                                                             77.00        
+87      Tonga                                                            77.00        
+88      Croatia                                                          76.70        
+89      Hungary                                                          76.70        
+90      Libya                                                            76.70        
+91      Mexico                                                           76.70        
+92      Colombia                                                         76.60        
+93      Cook Islands                                                     76.60        
+94      Saint Kitts and Nevis                                            76.60        
+95      Mauritius                                                        76.50        
+96      Maldives                                                         76.40        
+97      Macedonia                                                        76.30        
+98      Oman                                                             76.30        
+99      Serbia                                                           76.30        
+100     Tunisia                                                          76.30        
+101     Saint Vincent and the Grenadines                                 76.20        
+102     Saudi Arabia                                                     76.20        
+103     Solomon Islands                                                  76.20        
+104     China                                                            76.10        
+105     Northern Mariana Islands                                         76.10        
+106     Barbados                                                         76.00        
+107     Romania                                                          76.00        
+108     Malaysia                                                         75.90        
+109     West Bank                                                        75.90        
+110     Turkey                                                           75.70        
+111     Armenia                                                          75.60        
+112     Seychelles                                                       75.60        
+113     Thailand                                                         75.60        
+114     Jordan                                                           75.50        
+115     Lithuania                                                        75.50        
+116     Latvia                                                           75.40        
+117     Belize                                                           75.30        
+118     Montserrat                                                       75.30        
+119     Grenada                                                          75.20        
+120     Jamaica                                                          75.20        
+121     Bulgaria                                                         75.00        
+122     Gaza Strip                                                       74.90        
+123     American Samoa                                                   74.80        
+124     El Salvador                                                      74.80        
+125     Uzbekistan                                                       74.80        
+126     Brazil                                                           74.70        
+127     Peru                                                             74.70        
+128     Samoa                                                            74.70        
+129     Honduras                                                         74.60        
+130     Vanuatu                                                          74.60        
+131     Iran                                                             74.50        
+132     Vietnam                                                          74.40        
+133     Bangladesh                                                       74.20        
+134     Nicaragua                                                        74.20        
+135     Marshall Islands                                                 74.10        
+136     Palau                                                            74.10        
+137     Micronesia, Federated States of                                  73.90        
+138     Trinidad and Tobago                                              73.90        
+139     Belarus                                                          73.80        
+140     Egypt                                                            73.70        
+141     Fiji                                                             73.70        
+142     Indonesia                                                        73.70        
+143     Syria                                                            73.70        
+144     Azerbaijan                                                       73.60        
+145     Greenland                                                        73.40        
+146     Bahamas, The                                                     73.30        
+147     Morocco                                                          73.30        
+148     Suriname                                                         73.30        
+149     Cabo Verde                                                       73.20        
+150     Ukraine                                                          72.90        
+151     Kosovo                                                           72.70        
+152     Iraq                                                             72.60        
+153     Guatemala                                                        72.40        
+154     Bhutan                                                           72.10        
+155     Dominican Republic                                               72.00        
+156     Kazakhstan                                                       72.00        
+157     Moldova                                                          71.90        
+158     Russia                                                           71.90        
+159     Kyrgyzstan                                                       71.80        
+160     Nepal                                                            71.80        
+161     Korea, North                                                     71.60        
+162     Turkmenistan                                                     71.30        
+163     Venezuela                                                        71.00        
+164     Mongolia                                                         70.80        
+165     Bolivia                                                          70.40        
+166     Philippines                                                      70.00        
+167     India                                                            69.70        
+168     Guyana                                                           69.50        
+169     Burma                                                            69.30        
+170     Timor-Leste                                                      69.30        
+171     Pakistan                                                         69.20        
+172     Gabon                                                            69.00        
+173     Kenya                                                            69.00        
+174     Tajikistan                                                       69.00        
+175     Nauru                                                            68.40        
+176     Ghana                                                            68.20        
+177     Uganda                                                           68.20        
+178     Tuvalu                                                           67.90        
+179     Papua New Guinea                                                 67.80        
+180     Ethiopia                                                         67.50        
+181     Kiribati                                                         67.50        
+182     Madagascar                                                       67.30        
+183     Yemen                                                            66.90        
+184     Burundi                                                          66.70        
+185     Togo                                                             66.60        
+186     Sudan                                                            66.50        
+187     Sao Tome and Principe                                            66.30        
+188     Eritrea                                                          66.20        
+189     Cambodia                                                         65.90        
+190     Gambia, The                                                      65.80        
+191     Comoros                                                          65.70        
+192     Equatorial Guinea                                                65.70        
+193     Laos                                                             65.70        
+194     Haiti                                                            65.30        
+195     Namibia                                                          65.30        
+196     Rwanda                                                           65.10        
+197     Botswana                                                         64.80        
+198     South Africa                                                     64.80        
+199     Djibouti                                                         64.70        
+200     Liberia                                                          64.70        
+201     Mauritania                                                       64.50        
+202     Tanzania                                                         63.90        
+203     Guinea                                                           63.20        
+204     Malawi                                                           63.20        
+205     Senegal                                                          63.20        
+206     Guinea-Bissau                                                    62.80        
+207     Burkina Faso                                                     62.70        
+208     Cameroon                                                         62.30        
+209     Zimbabwe                                                         62.30        
+210     Mali                                                             61.60        
+211     Benin                                                            61.40        
+212     Angola                                                           61.30        
+213     Congo, Republic of the                                           61.30        
+214     Cote d'Ivoire                                                    61.30        
+215     Congo, Democratic Republic of the                                61.00        
+216     Nigeria                                                          60.40        
+217     Sierra Leone                                                     59.80        
+218     Niger                                                            59.30        
+219     Eswatini                                                         58.60        
+220     Chad                                                             58.30        
+221     Mozambique                                                       55.90        
+222     South Sudan                                                      55.50        
+223     Central African Republic                                         54.20        
+224     Somalia                                                          54.00        
+225     Zambia                                                           53.60        
+226     Lesotho                                                          53.00        
+227     Afghanistan                                                      52.80        

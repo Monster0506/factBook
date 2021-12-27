@@ -1,0 +1,218 @@
+Country Comparison :: Natural gas - production
+
+1       United States                                          772,800,000,000        2017 est.
+2       Russia                                                 665,600,000,000        2017 est.
+3       Iran                                                   214,500,000,000        2017 est.
+4       Qatar                                                  166,400,000,000        2017 est.
+5       Canada                                                 159,100,000,000        2017 est.
+6       China                                                  145,900,000,000        2017 est.
+7       Norway                                                 123,900,000,000        2017 est.
+8       Saudi Arabia                                           109,300,000,000        2017 est.
+9       Australia                                              105,200,000,000        2017 est.
+10      Algeria                                                 93,500,000,000        2017 est.
+11      Turkmenistan                                            77,450,000,000        2017 est.
+12      Indonesia                                               72,090,000,000        2017 est.
+13      Malaysia                                                69,490,000,000        2017 est.
+14      United Arab Emirates                                    62,010,000,000        2017 est.
+15      Uzbekistan                                              52,100,000,000        2017 est.
+16      Egypt                                                   50,860,000,000        2017 est.
+17      Netherlands                                             45,330,000,000        2017 est.
+18      Nigeria                                                 44,480,000,000        2017 est.
+19      United Kingdom                                          42,110,000,000        2017 est.
+20      Argentina                                               40,920,000,000        2017 est.
+21      Pakistan                                                39,050,000,000        2017 est.
+22      Thailand                                                38,590,000,000        2017 est.
+23      Trinidad and Tobago                                     36,730,000,000        2017 est.
+24      Mexico                                                  31,570,000,000        2017 est.
+25      India                                                   31,540,000,000        2017 est.
+26      Oman                                                    31,230,000,000        2017 est.
+27      Bangladesh                                              29,530,000,000        2017 est.
+28      Venezuela                                               27,070,000,000        2017 est.
+29      Brazil                                                  23,960,000,000        2017 est.
+30      Kazakhstan                                              22,410,000,000        2017 est.
+31      Ukraine                                                 19,730,000,000        2017 est.
+32      Bolivia                                                 18,690,000,000        2017 est.
+33      Burma                                                   18,410,000,000        2017 est.
+34      Kuwait                                                  17,100,000,000        2017 est.
+35      Azerbaijan                                              16,960,000,000        2017 est.
+36      Bahrain                                                 15,890,000,000        2017 est.
+37      Peru                                                    12,990,000,000        2017 est.
+38      Brunei                                                  12,740,000,000        2017 est.
+39      Papua New Guinea                                        11,180,000,000        2017 est.
+40      Romania                                                 10,870,000,000        2017 est.
+41      Colombia                                                10,020,000,000        2017 est.
+42      Israel                                                   9,826,000,000        2017 est.
+43      Libya                                                    9,089,000,000        2017 est.
+44      Vietnam                                                  8,098,000,000        2017 est.
+45      Germany                                                  7,900,000,000        2017 est.
+46      Equatorial Guinea                                        6,069,000,000        2017 est.
+47      Mozambique                                               6,003,000,000        2017 est.
+48      Timor-Leste                                              5,776,000,000        2017 est.
+49      Poland                                                   5,748,000,000        2017 est.
+50      Italy                                                    5,550,000,000        2017 est.
+51      New Zealand                                              5,097,000,000        2017 est.
+52      Denmark                                                  4,842,000,000        2017 est.
+53      Syria                                                    3,738,000,000        2017 est.
+54      Ireland                                                  3,511,000,000        2017 est.
+55      Angola                                                   3,115,000,000        2017 est.
+56      Tanzania                                                 3,115,000,000        2017 est.
+57      Japan                                                    3,058,000,000        2017 est.
+58      Philippines                                              3,058,000,000        2017 est.
+59      Cote d'Ivoire                                            2,322,000,000        2017 est.
+60      Hungary                                                  1,812,000,000        2017 est.
+61      Congo, Republic of the                                   1,387,000,000        2017 est.
+62      Austria                                                  1,274,000,000        2017 est.
+63      Iraq                                                     1,274,000,000        2017 est.
+64      Tunisia                                                  1,274,000,000        2017 est.
+65      Chile                                                    1,218,000,000        2017 est.
+66      Cuba                                                     1,189,000,000        2017 est.
+67      Croatia                                                  1,048,000,000        2017 est.
+68      Ghana                                                      914,400,000        2017 est.
+69      Cameroon                                                   910,400,000        2017 est.
+70      South Africa                                               906,100,000        2017 est.
+71      Serbia                                                     509,700,000        2017 est.
+72      Yemen                                                      481,400,000        2017 est.
+73      Ecuador                                                    477,800,000        2017 est.
+74      Gabon                                                      401,000,000        2017 est.
+75      Turkey                                                     368,100,000        2017 est.
+76      Korea, South                                               339,800,000        2017 est.
+77      Taiwan                                                     237,900,000        2017 est.
+78      Czechia                                                    229,400,000        2017 est.
+79      Afghanistan                                                164,200,000        2017 est.
+80      Jordan                                                     121,800,000        2017 est.
+81      Slovakia                                                   104,800,000        2017 est.
+82      Morocco                                                     87,780,000        2017 est.
+83      Bulgaria                                                    79,280,000        2017 est.
+84      Belarus                                                     59,460,000        2017 est.
+85      Senegal                                                     59,460,000        2017 est.
+86      Albania                                                     50,970,000        2017 est.
+87      Spain                                                       36,810,000        2017 est.
+88      Kyrgyzstan                                                  28,320,000        2017 est.
+89      Tajikistan                                                  19,820,000        2017 est.
+90      France                                                      16,990,000        2017 est.
+91      Barbados                                                    14,160,000        2017 est.
+92      Moldova                                                     11,330,000        2017 est.
+93      Greece                                                       8,000,000        2017 est.
+94      Slovenia                                                     8,000,000        2017 est.
+95      Georgia                                                      7,363,000        2017 est.
+96      Aruba                                                                1        2017 est.
+97      American Samoa                                                       0        2017 est.
+98      Andorra                                                              0        2016
+99      Antigua and Barbuda                                                  0        2017 est.
+100     Armenia                                                              0        2017 est.
+101     Bahamas, The                                                         0        2017 est.
+102     Belgium                                                              0        2017 est.
+103     Belize                                                               0        2017 est.
+104     Benin                                                                0        2017 est.
+105     Bermuda                                                              0        2017 est.
+106     Bhutan                                                               0        2017 est.
+107     Bosnia and Herzegovina                                               0        2017 est.
+108     Botswana                                                             0        2017 est.
+109     British Virgin Islands                                               0        2017 est.
+110     Burkina Faso                                                         0        2017 est.
+111     Burundi                                                              0        2017 est.
+112     Cabo Verde                                                           0        2017 est.
+113     Cambodia                                                             0        2017 est.
+114     Cayman Islands                                                       0        2017 est.
+115     Central African Republic                                             0        2017 est.
+116     Chad                                                                 0        2017 est.
+117     Comoros                                                              0        2017 est.
+118     Congo, Democratic Republic of the                                    0        2017 est.
+119     Cook Islands                                                         0        2017 est.
+120     Costa Rica                                                           0        2017 est.
+121     Curacao                                                              0        2009 est.
+122     Cyprus                                                               0        2017 est.
+123     Djibouti                                                             0        2017 est.
+124     Dominica                                                             0        2017 est.
+125     Dominican Republic                                                   0        2017 est.
+126     El Salvador                                                          0        2017 est.
+127     Eritrea                                                              0        2017 est.
+128     Estonia                                                              0        2017 est.
+129     Eswatini                                                             0        2017 est.
+130     Ethiopia                                                             0        2017 est.
+131     Falkland Islands (Islas Malvinas)                                    0        2017 est.
+132     Faroe Islands                                                        0        2017 est.
+133     Fiji                                                                 0        2017 est.
+134     Finland                                                              0        2017 est.
+135     French Polynesia                                                     0        2017 est.
+136     Gambia, The                                                          0        2017 est.
+137     Gibraltar                                                            0        2017 est.
+138     Greenland                                                            0        2017 est.
+139     Grenada                                                              0        2017 est.
+140     Guam                                                                 0        2017 est.
+141     Guatemala                                                            0        2017 est.
+142     Guinea                                                               0        2017 est.
+143     Guinea-Bissau                                                        0        2017 est.
+144     Guyana                                                               0        2017 est.
+145     Haiti                                                                0        2017 est.
+146     Honduras                                                             0        2017 est.
+147     Hong Kong                                                            0        2017 est.
+148     Iceland                                                              0        2017 est.
+149     Jamaica                                                              0        2017 est.
+150     Kenya                                                                0        2017 est.
+151     Kiribati                                                             0        2017 est.
+152     Korea, North                                                         0        2017 est.
+153     Kosovo                                                               0        2017 est.
+154     Laos                                                                 0        2017 est.
+155     Latvia                                                               0        2017 est.
+156     Lebanon                                                              0        2017 est.
+157     Lesotho                                                              0        2017 est.
+158     Liberia                                                              0        2017 est.
+159     Lithuania                                                            0        2017 est.
+160     Luxembourg                                                           0        2017 est.
+161     Macau                                                                0        2017 est.
+162     Macedonia                                                            0        2017 est.
+163     Madagascar                                                           0        2017 est.
+164     Malawi                                                               0        2017 est.
+165     Maldives                                                             0        2017 est.
+166     Mali                                                                 0        2017 est.
+167     Malta                                                                0        2017 est.
+168     Marshall Islands                                                     0        2017 est.
+169     Mauritania                                                           0        2017 est.
+170     Mauritius                                                            0        2017 est.
+171     Micronesia, Federated States of                                      0        2014
+172     Mongolia                                                             0        2017 est.
+173     Montenegro                                                           0        2017 est.
+174     Montserrat                                                           0        2017 est.
+175     Namibia                                                              0        2017 est.
+176     Nauru                                                                0        2017 est.
+177     Nepal                                                                0        2017 est.
+178     New Caledonia                                                        0        2017 est.
+179     Nicaragua                                                            0        2017 est.
+180     Niger                                                                0        2017 est.
+181     Niue                                                                 0        2017 est.
+182     Panama                                                               0        2017 est.
+183     Paraguay                                                             0        2017 est.
+184     Portugal                                                             0        2017 est.
+185     Puerto Rico                                                          0        2017 est.
+186     Rwanda                                                               0        2017 est.
+187     Saint Helena, Ascension, and Tristan da Cunha                        0        2017 est.
+188     Saint Kitts and Nevis                                                0        2017 est.
+189     Saint Lucia                                                          0        2017 est.
+190     Saint Pierre and Miquelon                                            0        2017 est.
+191     Saint Vincent and the Grenadines                                     0        2017 est.
+192     Samoa                                                                0        2017 est.
+193     Sao Tome and Principe                                                0        2017 est.
+194     Seychelles                                                           0        2017 est.
+195     Sierra Leone                                                         0        2017 est.
+196     Singapore                                                            0        2017 est.
+197     Solomon Islands                                                      0        2017 est.
+198     Somalia                                                              0        2017 est.
+199     South Sudan                                                          0        2017 est.
+200     Sri Lanka                                                            0        2017 est.
+201     Sudan                                                                0        2017 est.
+202     Suriname                                                             0        2017 est.
+203     Svalbard                                                             0        2013 est.
+204     Sweden                                                               0        2017 est.
+205     Switzerland                                                          0        2017 est.
+206     Togo                                                                 0        2017 est.
+207     Tonga                                                                0        2017 est.
+208     Turks and Caicos Islands                                             0        2017 est.
+209     Tuvalu                                                               0        2014 est.
+210     Uganda                                                               0        2017 est.
+211     Uruguay                                                              0        2017 est.
+212     Vanuatu                                                              0        2017 est.
+213     Virgin Islands                                                       0        2017 est.
+214     West Bank                                                            0        2017 est.
+215     Zambia                                                               0        2017 est.
+216     Zimbabwe                                                             0        2017 est.
