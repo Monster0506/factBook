@@ -12,7 +12,8 @@ Please read this document carefully, and make sure to follow the guidelines, as 
   - [1.3. HTML/CSS Formatting Guidelines](#13-htmlcss-formatting-guidelines)
   - [1.4. JavaScript](#14-javascript)
   - [1.5. File Naming](#15-file-naming)
-  - [1.6. Further Guidelines](#16-further-guidelines)
+  - [1.6. Pull request formatting](#16-pull-request-formatting)
+  - [1.7. Further Guidelines](#17-further-guidelines)
 
 ## 1.2. Markdown Formatting Guidelines
 
@@ -103,7 +104,12 @@ Try to stick to a consistant style of spelling.
 Both suffixing and prefixing numbers are acceptable, however, start at `0`. If there
 are going to be more than 10 of the numbered file, pad with a left `0`.
 
-## 1.6. Further Guidelines
+## 1.6. Pull request formatting
+
+This is a simple style to follow. The first word of a sentance should be capilitsed.
+If there is more than one sentance, suffix only the first with a full stop`.`
+
+## 1.7. Further Guidelines
 
 Please use the [.editorconfig file](.editorconfig) to set your editor preferences. It is
 located
