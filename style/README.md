@@ -107,7 +107,9 @@ are going to be more than 10 of the numbered file, pad with a left `0`.
 ## 1.6. Pull request formatting
 
 This is a simple style to follow. The first word of a sentance should be capilitsed.
-If there is more than one sentance, suffix only the first with a full stop`.`
+If there is more than one sentance, suffix only the first sentance with a full stop`.`
+
+If something is changed or modified, prefix with `update`.
 
 ## 1.7. Further Guidelines
 
