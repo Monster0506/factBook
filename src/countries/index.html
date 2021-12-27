@@ -1,0 +1,1704 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="javascripts/mainJs.js"></script>
+    <title>Home</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <link rel="stylesheet" href="stylesheets/mainStyle.css">
+
+
+</head>
+
+<body>
+    <noscript>Please enable Javascript for this page to work</noscript>
+
+    <nav class>
+
+        <li><button onclick="modeT()" class="mode">Toggle Light/Dark Mode</button></li>
+        <li><a href="docs/history.html">History</a></li>
+        <li><a href="docs/contributor_copyright.html">Copyright and Contributors</a></li>
+        <li><a href="docs/didyouknow.html">Did You Know?</a></li>
+        <li><a href="docs/customer_comments.html">Customer Comments</a></li>
+        <li><a href="docs/faqs.html">FAQs</a></li>
+        <li><a href="appendix/index.html">More</a></li>
+        <a href="https://github.com/monster0506/factBook" class="github-corner" aria-label="View source on GitHub"><svg
+                width="80" height="80" viewBox="0 0 250 250"
+                style="fill:#FD6C6C; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true">
+                <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+                <path
+                    d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
+                    fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
+                <path
+                    d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"
+                    fill="currentColor" class="octo-body"></path>
+            </svg></a>
+
+    </nav>
+
+    <h1>Use menu to select a country!</h1>
+
+    <div id="menu">
+
+        <form action="countries/index.html" ; method="get" id="form">
+
+            <form action="#" method="GET">
+
+                <select id="dropdown-menu" name="place_selector" class="place_selector" id='search-place' onchange="document.location.href= this.value;" aria-label='Use this to select the country page to view'>
+
+                    <option value="">Please select a country to view</option>
+                    <option value="geos/xx.html">
+                        World
+                    </option>
+                    <option value="geos/af.html">
+                        Afghanistan
+                    </option>
+                    <option value="geos/ax.html">
+                        Akrotiri
+                    </option>
+                    <option value="geos/al.html">
+                        Albania
+                    </option>
+                    <option value="geos/ag.html">
+                        Algeria
+                    </option>
+                    <option value="geos/aq.html">
+                        American Samoa
+                    </option>
+                    <option value="geos/an.html">
+                        Andorra
+                    </option>
+                    <option value="geos/ao.html">
+                        Angola
+                    </option>
+                    <option value="geos/av.html">
+                        Anguilla
+                    </option>
+                    <option value="geos/ay.html">
+                        Antarctica
+                    </option>
+                    <option value="geos/ac.html">
+                        Antigua and Barbuda
+                    </option>
+                    <option value="geos/xq.html">
+                        Arctic Ocean
+                    </option>
+                    <option value="geos/ar.html">
+                        Argentina
+                    </option>
+                    <option value="geos/am.html">
+                        Armenia
+                    </option>
+                    <option value="geos/aa.html">
+                        Aruba
+                    </option>
+                    <option value="geos/at.html">
+                        Ashmore and Cartier Islands
+                    </option>
+                    <option value="geos/zh.html">
+                        Atlantic Ocean
+                    </option>
+                    <option value="geos/as.html">
+                        Australia
+                    </option>
+                    <option value="geos/au.html">
+                        Austria
+                    </option>
+                    <option value="geos/aj.html">
+                        Azerbaijan
+                    </option>
+                    <option value="geos/bf.html">
+                        Bahamas, The
+                    </option>
+                    <option value="geos/ba.html">
+                        Bahrain
+                    </option>
+                    <option value="geos/um.html">
+                        Baker Island
+                    </option>
+                    <option value="geos/bg.html">
+                        Bangladesh
+                    </option>
+                    <option value="geos/bb.html">
+                        Barbados
+                    </option>
+                    <option value="geos/bo.html">
+                        Belarus
+                    </option>
+                    <option value="geos/be.html">
+                        Belgium
+                    </option>
+                    <option value="geos/bh.html">
+                        Belize
+                    </option>
+                    <option value="geos/bn.html">
+                        Benin
+                    </option>
+                    <option value="geos/bd.html">
+                        Bermuda
+                    </option>
+                    <option value="geos/bt.html">
+                        Bhutan
+                    </option>
+                    <option value="geos/bl.html">
+                        Bolivia
+                    </option>
+                    <option value="geos/bk.html">
+                        Bosnia and Herzegovina
+                    </option>
+                    <option value="geos/bc.html">
+                        Botswana
+                    </option>
+                    <option value="geos/bv.html">
+                        Bouvet Island
+                    </option>
+                    <option value="geos/br.html">
+                        Brazil
+                    </option>
+                    <option value="geos/io.html">
+                        British Indian Ocean Territory
+                    </option>
+                    <option value="geos/vi.html">
+                        British Virgin Islands
+                    </option>
+                    <option value="geos/bx.html">
+                        Brunei
+                    </option>
+                    <option value="geos/bu.html">
+                        Bulgaria
+                    </option>
+                    <option value="geos/uv.html">
+                        Burkina Faso
+                    </option>
+                    <option value="geos/bm.html">
+                        Burma
+                    </option>
+                    <option value="geos/by.html">
+                        Burundi
+                    </option>
+                    <option value="geos/cv.html">
+                        Cabo Verde
+                    </option>
+                    <option value="geos/cb.html">
+                        Cambodia
+                    </option>
+                    <option value="geos/cm.html">
+                        Cameroon
+                    </option>
+                    <option value="geos/ca.html">
+                        Canada
+                    </option>
+                    <option value="geos/cj.html">
+                        Cayman Islands
+                    </option>
+                    <option value="geos/ct.html">
+                        Central African Republic
+                    </option>
+                    <option value="geos/cd.html">
+                        Chad
+                    </option>
+                    <option value="geos/ci.html">
+                        Chile
+                    </option>
+                    <option value="geos/ch.html">
+                        China
+                    </option>
+                    <option value="geos/kt.html">
+                        Christmas Island
+                    </option>
+                    <option value="geos/ip.html">
+                        Clipperton Island
+                    </option>
+                    <option value="geos/ck.html">
+                        Cocos (Keeling) Islands
+                    </option>
+                    <option value="geos/co.html">
+                        Colombia
+                    </option>
+                    <option value="geos/cn.html">
+                        Comoros
+                    </option>
+                    <option value="geos/cg.html">
+                        Congo, Democratic Republic of the
+                    </option>
+                    <option value="geos/cf.html">
+                        Congo, Republic of the
+                    </option>
+                    <option value="geos/cw.html">
+                        Cook Islands
+                    </option>
+                    <option value="geos/cr.html">
+                        Coral Sea Islands
+                    </option>
+                    <option value="geos/cs.html">
+                        Costa Rica
+                    </option>
+                    <option value="geos/iv.html">
+                        Cote d&#39;Ivoire
+                    </option>
+                    <option value="geos/hr.html">
+                        Croatia
+                    </option>
+                    <option value="geos/cu.html">
+                        Cuba
+                    </option>
+                    <option value="geos/uc.html">
+                        Curacao
+                    </option>
+                    <option value="geos/cy.html">
+                        Cyprus
+                    </option>
+                    <option value="geos/ez.html">
+                        Czechia
+                    </option>
+                    <option value="geos/da.html">
+                        Denmark
+                    </option>
+                    <option value="geos/dx.html">
+                        Dhekelia
+                    </option>
+                    <option value="geos/dj.html">
+                        Djibouti
+                    </option>
+                    <option value="geos/do.html">
+                        Dominica
+                    </option>
+                    <option value="geos/dr.html">
+                        Dominican Republic
+                    </option>
+                    <option value="geos/ec.html">
+                        Ecuador
+                    </option>
+                    <option value="geos/eg.html">
+                        Egypt
+                    </option>
+                    <option value="geos/es.html">
+                        El Salvador
+                    </option>
+                    <option value="geos/ek.html">
+                        Equatorial Guinea
+                    </option>
+                    <option value="geos/er.html">
+                        Eritrea
+                    </option>
+                    <option value="geos/en.html">
+                        Estonia
+                    </option>
+                    <option value="geos/wz.html">
+                        Eswatini
+                    </option>
+                    <option value="geos/et.html">
+                        Ethiopia
+                    </option>
+                    <option value="geos/fk.html">
+                        Falkland Islands (Islas Malvinas)
+                    </option>
+                    <option value="geos/fo.html">
+                        Faroe Islands
+                    </option>
+                    <option value="geos/fj.html">
+                        Fiji
+                    </option>
+                    <option value="geos/fi.html">
+                        Finland
+                    </option>
+                    <option value="geos/fr.html">
+                        France
+                    </option>
+                    <option value="geos/fp.html">
+                        French Polynesia
+                    </option>
+                    <option value="geos/fs.html">
+                        French Southern and Antarctic Lands
+                    </option>
+                    <option value="geos/gb.html">
+                        Gabon
+                    </option>
+                    <option value="geos/ga.html">
+                        Gambia, The
+                    </option>
+                    <option value="geos/gz.html">
+                        Gaza Strip
+                    </option>
+                    <option value="geos/gg.html">
+                        Georgia
+                    </option>
+                    <option value="geos/gm.html">
+                        Germany
+                    </option>
+                    <option value="geos/gh.html">
+                        Ghana
+                    </option>
+                    <option value="geos/gi.html">
+                        Gibraltar
+                    </option>
+                    <option value="geos/gr.html">
+                        Greece
+                    </option>
+                    <option value="geos/gl.html">
+                        Greenland
+                    </option>
+                    <option value="geos/gj.html">
+                        Grenada
+                    </option>
+                    <option value="geos/gq.html">
+                        Guam
+                    </option>
+                    <option value="geos/gt.html">
+                        Guatemala
+                    </option>
+                    <option value="geos/gk.html">
+                        Guernsey
+                    </option>
+                    <option value="geos/gv.html">
+                        Guinea
+                    </option>
+                    <option value="geos/pu.html">
+                        Guinea-Bissau
+                    </option>
+                    <option value="geos/gy.html">
+                        Guyana
+                    </option>
+                    <option value="geos/ha.html">
+                        Haiti
+                    </option>
+                    <option value="geos/hm.html">
+                        Heard Island and McDonald Islands
+                    </option>
+                    <option value="geos/vt.html">
+                        Holy See (Vatican City)
+                    </option>
+                    <option value="geos/ho.html">
+                        Honduras
+                    </option>
+                    <option value="geos/hk.html">
+                        Hong Kong
+                    </option>
+                    <option value="geos/um.html">
+                        Howland Island
+                    </option>
+                    <option value="geos/hu.html">
+                        Hungary
+                    </option>
+                    <option value="geos/ic.html">
+                        Iceland
+                    </option>
+                    <option value="geos/in.html">
+                        India
+                    </option>
+                    <option value="geos/xo.html">
+                        Indian Ocean
+                    </option>
+                    <option value="geos/id.html">
+                        Indonesia
+                    </option>
+                    <option value="geos/ir.html">
+                        Iran
+                    </option>
+                    <option value="geos/iz.html">
+                        Iraq
+                    </option>
+                    <option value="geos/ei.html">
+                        Ireland
+                    </option>
+                    <option value="geos/im.html">
+                        Isle of Man
+                    </option>
+                    <option value="geos/is.html">
+                        Israel
+                    </option>
+                    <option value="geos/it.html">
+                        Italy
+                    </option>
+                    <option value="geos/jm.html">
+                        Jamaica
+                    </option>
+                    <option value="geos/jn.html">
+                        Jan Mayen
+                    </option>
+                    <option value="geos/ja.html">
+                        Japan
+                    </option>
+                    <option value="geos/um.html">
+                        Jarvis Island
+                    </option>
+                    <option value="geos/je.html">
+                        Jersey
+                    </option>
+                    <option value="geos/um.html">
+                        Johnston Atoll
+                    </option>
+                    <option value="geos/jo.html">
+                        Jordan
+                    </option>
+                    <option value="geos/kz.html">
+                        Kazakhstan
+                    </option>
+                    <option value="geos/ke.html">
+                        Kenya
+                    </option>
+                    <option value="geos/um.html">
+                        Kingman Reef
+                    </option>
+                    <option value="geos/kr.html">
+                        Kiribati
+                    </option>
+                    <option value="geos/kn.html">
+                        Korea, North
+                    </option>
+                    <option value="geos/ks.html">
+                        Korea, South
+                    </option>
+                    <option value="geos/kv.html">
+                        Kosovo
+                    </option>
+                    <option value="geos/ku.html">
+                        Kuwait
+                    </option>
+                    <option value="geos/kg.html">
+                        Kyrgyzstan
+                    </option>
+                    <option value="geos/la.html">
+                        Laos
+                    </option>
+                    <option value="geos/lg.html">
+                        Latvia
+                    </option>
+                    <option value="geos/le.html">
+                        Lebanon
+                    </option>
+                    <option value="geos/lt.html">
+                        Lesotho
+                    </option>
+                    <option value="geos/li.html">
+                        Liberia
+                    </option>
+                    <option value="geos/ly.html">
+                        Libya
+                    </option>
+                    <option value="geos/ls.html">
+                        Liechtenstein
+                    </option>
+                    <option value="geos/lh.html">
+                        Lithuania
+                    </option>
+                    <option value="geos/lu.html">
+                        Luxembourg
+                    </option>
+                    <option value="geos/mc.html">
+                        Macau
+                    </option>
+                    <option value="geos/ma.html">
+                        Madagascar
+                    </option>
+                    <option value="geos/mi.html">
+                        Malawi
+                    </option>
+                    <option value="geos/my.html">
+                        Malaysia
+                    </option>
+                    <option value="geos/mv.html">
+                        Maldives
+                    </option>
+                    <option value="geos/ml.html">
+                        Mali
+                    </option>
+                    <option value="geos/mt.html">
+                        Malta
+                    </option>
+                    <option value="geos/rm.html">
+                        Marshall Islands
+                    </option>
+                    <option value="geos/mr.html">
+                        Mauritania
+                    </option>
+                    <option value="geos/mp.html">
+                        Mauritius
+                    </option>
+                    <option value="geos/mx.html">
+                        Mexico
+                    </option>
+                    <option value="geos/fm.html">
+                        Micronesia, Federated States of
+                    </option>
+                    <option value="geos/um.html">
+                        Midway Islands
+                    </option>
+                    <option value="geos/md.html">
+                        Moldova
+                    </option>
+                    <option value="geos/mn.html">
+                        Monaco
+                    </option>
+                    <option value="geos/mg.html">
+                        Mongolia
+                    </option>
+                    <option value="geos/mj.html">
+                        Montenegro
+                    </option>
+                    <option value="geos/mh.html">
+                        Montserrat
+                    </option>
+                    <option value="geos/mo.html">
+                        Morocco
+                    </option>
+                    <option value="geos/mz.html">
+                        Mozambique
+                    </option>
+                    <option value="geos/wa.html">
+                        Namibia
+                    </option>
+                    <option value="geos/nr.html">
+                        Nauru
+                    </option>
+                    <option value="geos/bq.html">
+                        Navassa Island
+                    </option>
+                    <option value="geos/np.html">
+                        Nepal
+                    </option>
+                    <option value="geos/nl.html">
+                        Netherlands
+                    </option>
+                    <option value="geos/nc.html">
+                        New Caledonia
+                    </option>
+                    <option value="geos/nz.html">
+                        New Zealand
+                    </option>
+                    <option value="geos/nu.html">
+                        Nicaragua
+                    </option>
+                    <option value="geos/ng.html">
+                        Niger
+                    </option>
+                    <option value="geos/ni.html">
+                        Nigeria
+                    </option>
+                    <option value="geos/ne.html">
+                        Niue
+                    </option>
+                    <option value="geos/nf.html">
+                        Norfolk Island
+                    </option>
+                    <option value="geos/mk.html">
+                        North Macedonia
+                    </option>
+                    <option value="geos/cq.html">
+                        Northern Mariana Islands
+                    </option>
+                    <option value="geos/no.html">
+                        Norway
+                    </option>
+                    <option value="geos/mu.html">
+                        Oman
+                    </option>
+                    <option value="geos/zn.html">
+                        Pacific Ocean
+                    </option>
+                    <option value="geos/pk.html">
+                        Pakistan
+                    </option>
+                    <option value="geos/ps.html">
+                        Palau
+                    </option>
+                    <option value="geos/um.html">
+                        Palmyra Atoll
+                    </option>
+                    <option value="geos/pm.html">
+                        Panama
+                    </option>
+                    <option value="geos/pp.html">
+                        Papua New Guinea
+                    </option>
+                    <option value="geos/pf.html">
+                        Paracel Islands
+                    </option>
+                    <option value="geos/pa.html">
+                        Paraguay
+                    </option>
+                    <option value="geos/pe.html">
+                        Peru
+                    </option>
+                    <option value="geos/rp.html">
+                        Philippines
+                    </option>
+                    <option value="geos/pc.html">
+                        Pitcairn Islands
+                    </option>
+                    <option value="geos/pl.html">
+                        Poland
+                    </option>
+                    <option value="geos/po.html">
+                        Portugal
+                    </option>
+                    <option value="geos/rq.html">
+                        Puerto Rico
+                    </option>
+                    <option value="geos/qa.html">
+                        Qatar
+                    </option>
+                    <option value="geos/ro.html">
+                        Romania
+                    </option>
+                    <option value="geos/rs.html">
+                        Russia
+                    </option>
+                    <option value="geos/rw.html">
+                        Rwanda
+                    </option>
+                    <option value="geos/tb.html">
+                        Saint Barthelemy
+                    </option>
+                    <option value="geos/sh.html">
+                        Saint Helena, Ascension, and Tristan da Cunha
+                    </option>
+                    <option value="geos/sc.html">
+                        Saint Kitts and Nevis
+                    </option>
+                    <option value="geos/st.html">
+                        Saint Lucia
+                    </option>
+                    <option value="geos/rn.html">
+                        Saint Martin
+                    </option>
+                    <option value="geos/sb.html">
+                        Saint Pierre and Miquelon
+                    </option>
+                    <option value="geos/vc.html">
+                        Saint Vincent and the Grenadines
+                    </option>
+                    <option value="geos/ws.html">
+                        Samoa
+                    </option>
+                    <option value="geos/sm.html">
+                        San Marino
+                    </option>
+                    <option value="geos/tp.html">
+                        Sao Tome and Principe
+                    </option>
+                    <option value="geos/sa.html">
+                        Saudi Arabia
+                    </option>
+                    <option value="geos/sg.html">
+                        Senegal
+                    </option>
+                    <option value="geos/ri.html">
+                        Serbia
+                    </option>
+                    <option value="geos/se.html">
+                        Seychelles
+                    </option>
+                    <option value="geos/sl.html">
+                        Sierra Leone
+                    </option>
+                    <option value="geos/sn.html">
+                        Singapore
+                    </option>
+                    <option value="geos/nn.html">
+                        Sint Maarten
+                    </option>
+                    <option value="geos/lo.html">
+                        Slovakia
+                    </option>
+                    <option value="geos/si.html">
+                        Slovenia
+                    </option>
+                    <option value="geos/bp.html">
+                        Solomon Islands
+                    </option>
+                    <option value="geos/so.html">
+                        Somalia
+                    </option>
+                    <option value="geos/sf.html">
+                        South Africa
+                    </option>
+                    <option value="geos/sx.html">
+                        South Georgia and South Sandwich Islands
+                    </option>
+                    <option value="geos/od.html">
+                        South Sudan
+                    </option>
+                    <option value="geos/oo.html">
+                        Southern Ocean
+                    </option>
+                    <option value="geos/sp.html">
+                        Spain
+                    </option>
+                    <option value="geos/pg.html">
+                        Spratly Islands
+                    </option>
+                    <option value="geos/ce.html">
+                        Sri Lanka
+                    </option>
+                    <option value="geos/su.html">
+                        Sudan
+                    </option>
+                    <option value="geos/ns.html">
+                        Suriname
+                    </option>
+                    <option value="geos/sv.html">
+                        Svalbard
+                    </option>
+                    <option value="geos/sw.html">
+                        Sweden
+                    </option>
+                    <option value="geos/sz.html">
+                        Switzerland
+                    </option>
+                    <option value="geos/sy.html">
+                        Syria
+                    </option>
+                    <option value="geos/tw.html">
+                        Taiwan
+                    </option>
+                    <option value="geos/ti.html">
+                        Tajikistan
+                    </option>
+                    <option value="geos/tz.html">
+                        Tanzania
+                    </option>
+                    <option value="geos/th.html">
+                        Thailand
+                    </option>
+                    <option value="geos/tt.html">
+                        Timor-Leste
+                    </option>
+                    <option value="geos/to.html">
+                        Togo
+                    </option>
+                    <option value="geos/tl.html">
+                        Tokelau
+                    </option>
+                    <option value="geos/tn.html">
+                        Tonga
+                    </option>
+                    <option value="geos/td.html">
+                        Trinidad and Tobago
+                    </option>
+                    <option value="geos/ts.html">
+                        Tunisia
+                    </option>
+                    <option value="geos/tu.html">
+                        Turkey
+                    </option>
+                    <option value="geos/tx.html">
+                        Turkmenistan
+                    </option>
+                    <option value="geos/tk.html">
+                        Turks and Caicos Islands
+                    </option>
+                    <option value="geos/tv.html">
+                        Tuvalu
+                    </option>
+                    <option value="geos/ug.html">
+                        Uganda
+                    </option>
+                    <option value="geos/up.html">
+                        Ukraine
+                    </option>
+                    <option value="geos/ae.html">
+                        United Arab Emirates
+                    </option>
+                    <option value="geos/uk.html">
+                        United Kingdom
+                    </option>
+                    <option value="geos/us.html">
+                        United States
+                    </option>
+                    <option value="geos/um.html">
+                        United States Pacific Island Wildlife Refuges
+                    </option>
+                    <option value="geos/uy.html">
+                        Uruguay
+                    </option>
+                    <option value="geos/uz.html">
+                        Uzbekistan
+                    </option>
+                    <option value="geos/nh.html">
+                        Vanuatu
+                    </option>
+                    <option value="geos/ve.html">
+                        Venezuela
+                    </option>
+                    <option value="geos/vm.html">
+                        Vietnam
+                    </option>
+                    <option value="geos/vq.html">
+                        Virgin Islands
+                    </option>
+                    <option value="geos/wq.html">
+                        Wake Island
+                    </option>
+                    <option value="geos/wf.html">
+                        Wallis and Futuna
+                    </option>
+                    <option value="geos/we.html">
+                        West Bank
+                    </option>
+                    <option value="geos/ym.html">
+                        Yemen
+                    </option>
+                    <option value="geos/za.html">
+                        Zambia
+                    </option>
+                    <option value="geos/zi.html">
+                        Zimbabwe
+                    </option>
+                    <option value="geos/ee.html">
+                        European Union
+                    </option>
+                </select>
+            </form>
+
+        </form>
+
+    </div>
+
+
+    <div>
+
+        <input id="search" type="text" name="search" placeholder="Search..." onkeyup="search()">
+    </div>
+
+    <div class="results-counter">
+        <span>
+            <p id="results"></p>
+        </span>
+    </div>
+
+    <!-- create a ul for the list of countries -->
+    <ul id="countries">
+        <li class="item">
+            <a href="geos/xx.html">
+                World
+            </a>
+        </li>
+        <li class="item"> <a href="geos/af.html">
+                Afghanistan
+            </a></li>
+        <li class="item"> <a href="geos/ax.html">
+                Akrotiri
+            </a></li>
+        <li class="item"> <a href="geos/al.html">
+                Albania
+            </a></li>
+        <li class="item"> <a href="geos/ag.html">
+                Algeria
+            </a></li>
+        <li class="item"> <a href="geos/aq.html">
+                American Samoa
+            </a></li>
+        <li class="item"> <a href="geos/an.html">
+                Andorra
+            </a></li>
+        <li class="item"> <a href="geos/ao.html">
+                Angola
+            </a></li>
+        <li class="item"> <a href="geos/av.html">
+                Anguilla
+            </a></li>
+        <li class="item"> <a href="geos/ay.html">
+                Antarctica
+            </a></li>
+        <li class="item"> <a href="geos/ac.html">
+                Antigua and Barbuda
+            </a></li>
+        <li class="item"> <a href="geos/xq.html">
+                Arctic Ocean
+            </a></li>
+        <li class="item"> <a href="geos/ar.html">
+                Argentina
+            </a></li>
+        <li class="item"> <a href="geos/am.html">
+                Armenia
+            </a></li>
+        <li class="item"> <a href="geos/aa.html">
+                Aruba
+            </a></li>
+        <li class="item"> <a href="geos/at.html">
+                Ashmore and Cartier Islands
+            </a></li>
+        <li class="item"> <a href="geos/zh.html">
+                Atlantic Ocean
+            </a></li>
+        <li class="item"> <a href="geos/as.html">
+                Australia
+            </a></li>
+        <li class="item"> <a href="geos/au.html">
+                Austria
+            </a></li>
+        <li class="item"> <a href="geos/aj.html">
+                Azerbaijan
+            </a></li>
+        <li class="item"> <a href="geos/bf.html">
+                Bahamas, The
+            </a></li>
+        <li class="item"> <a href="geos/ba.html">
+                Bahrain
+            </a></li>
+        <li class="item"> <a href="geos/um.html">
+                Baker Island
+            </a></li>
+        <li class="item"> <a href="geos/bg.html">
+                Bangladesh
+            </a></li>
+        <li class="item"> <a href="geos/bb.html">
+                Barbados
+            </a></li>
+        <li class="item"> <a href="geos/bo.html">
+                Belarus
+            </a></li>
+        <li class="item"> <a href="geos/be.html">
+                Belgium
+            </a></li>
+        <li class="item"> <a href="geos/bh.html">
+                Belize
+            </a></li>
+        <li class="item"> <a href="geos/bn.html">
+                Benin
+            </a></li>
+        <li class="item"> <a href="geos/bd.html">
+                Bermuda
+            </a></li>
+        <li class="item"> <a href="geos/bt.html">
+                Bhutan
+            </a></li>
+        <li class="item"> <a href="geos/bl.html">
+                Bolivia
+            </a></li>
+        <li class="item"> <a href="geos/bk.html">
+                Bosnia and Herzegovina
+            </a></li>
+        <li class="item"> <a href="geos/bc.html">
+                Botswana
+            </a></li>
+        <li class="item"> <a href="geos/bv.html">
+                Bouvet Island
+            </a></li>
+        <li class="item"> <a href="geos/br.html">
+                Brazil
+            </a></li>
+        <li class="item"> <a href="geos/io.html">
+                British Indian Ocean Territory
+            </a></li>
+        <li class="item"> <a href="geos/vi.html">
+                British Virgin Islands
+            </a></li>
+        <li class="item"> <a href="geos/bx.html">
+                Brunei
+            </a></li>
+        <li class="item"> <a href="geos/bu.html">
+                Bulgaria
+            </a></li>
+        <li class="item"> <a href="geos/uv.html">
+                Burkina Faso
+            </a></li>
+        <li class="item"> <a href="geos/bm.html">
+                Burma
+            </a></li>
+        <li class="item"> <a href="geos/by.html">
+                Burundi
+            </a></li>
+        <li class="item"> <a href="geos/cv.html">
+                Cabo Verde
+            </a></li>
+        <li class="item"> <a href="geos/cb.html">
+                Cambodia
+            </a></li>
+        <li class="item"> <a href="geos/cm.html">
+                Cameroon
+            </a></li>
+        <li class="item"> <a href="geos/ca.html">
+                Canada
+            </a></li>
+        <li class="item"> <a href="geos/cj.html">
+                Cayman Islands
+            </a></li>
+        <li class="item"> <a href="geos/ct.html">
+                Central African Republic
+            </a></li>
+        <li class="item"> <a href="geos/cd.html">
+                Chad
+            </a></li>
+        <li class="item"> <a href="geos/ci.html">
+                Chile
+            </a></li>
+        <li class="item"> <a href="geos/ch.html">
+                China
+            </a></li>
+        <li class="item"> <a href="geos/kt.html">
+                Christmas Island
+            </a></li>
+        <li class="item"> <a href="geos/ip.html">
+                Clipperton Island
+            </a></li>
+        <li class="item"> <a href="geos/ck.html">
+                Cocos (Keeling) Islands
+            </a></li>
+        <li class="item"> <a href="geos/co.html">
+                Colombia
+            </a></li>
+        <li class="item"> <a href="geos/cn.html">
+                Comoros
+            </a></li>
+        <li class="item"> <a href="geos/cg.html">
+                Congo, Democratic Republic of the
+            </a></li>
+        <li class="item"> <a href="geos/cf.html">
+                Congo, Republic of the
+            </a></li>
+        <li class="item"> <a href="geos/cw.html">
+                Cook Islands
+            </a></li>
+        <li class="item"> <a href="geos/cr.html">
+                Coral Sea Islands
+            </a></li>
+        <li class="item"> <a href="geos/cs.html">
+                Costa Rica
+            </a></li>
+        <li class="item"> <a href="geos/iv.html">
+                Cote d&#39;Ivoire
+            </a></li>
+        <li class="item"> <a href="geos/hr.html">
+                Croatia
+            </a></li>
+        <li class="item"> <a href="geos/cu.html">
+                Cuba
+            </a></li>
+        <li class="item"> <a href="geos/uc.html">
+                Curacao
+            </a></li>
+        <li class="item"> <a href="geos/cy.html">
+                Cyprus
+            </a></li>
+        <li class="item"> <a href="geos/ez.html">
+                Czechia
+            </a></li>
+        <li class="item"> <a href="geos/da.html">
+                Denmark
+            </a></li>
+        <li class="item"> <a href="geos/dx.html">
+                Dhekelia
+            </a></li>
+        <li class="item"> <a href="geos/dj.html">
+                Djibouti
+            </a></li>
+        <li class="item"> <a href="geos/do.html">
+                Dominica
+            </a></li>
+        <li class="item"> <a href="geos/dr.html">
+                Dominican Republic
+            </a></li>
+        <li class="item"> <a href="geos/ec.html">
+                Ecuador
+            </a></li>
+        <li class="item"> <a href="geos/eg.html">
+                Egypt
+            </a></li>
+        <li class="item"> <a href="geos/es.html">
+                El Salvador
+            </a></li>
+        <li class="item"> <a href="geos/ek.html">
+                Equatorial Guinea
+            </a></li>
+        <li class="item"> <a href="geos/er.html">
+                Eritrea
+            </a></li>
+        <li class="item"> <a href="geos/en.html">
+                Estonia
+            </a></li>
+        <li class="item"> <a href="geos/wz.html">
+                Eswatini
+            </a></li>
+        <li class="item"> <a href="geos/et.html">
+                Ethiopia
+            </a></li>
+        <li class="item"> <a href="geos/fk.html">
+                Falkland Islands (Islas Malvinas)
+            </a></li>
+        <li class="item"> <a href="geos/fo.html">
+                Faroe Islands
+            </a></li>
+        <li class="item"> <a href="geos/fj.html">
+                Fiji
+            </a></li>
+        <li class="item"> <a href="geos/fi.html">
+                Finland
+            </a></li>
+        <li class="item"> <a href="geos/fr.html">
+                France
+            </a></li>
+        <li class="item"> <a href="geos/fp.html">
+                French Polynesia
+            </a></li>
+        <li class="item"> <a href="geos/fs.html">
+                French Southern and Antarctic Lands
+            </a></li>
+        <li class="item"> <a href="geos/gb.html">
+                Gabon
+            </a></li>
+        <li class="item"> <a href="geos/ga.html">
+                Gambia, The
+            </a></li>
+        <li class="item"> <a href="geos/gz.html">
+                Gaza Strip
+            </a></li>
+        <li class="item"> <a href="geos/gg.html">
+                Georgia
+            </a></li>
+        <li class="item"> <a href="geos/gm.html">
+                Germany
+            </a></li>
+        <li class="item"> <a href="geos/gh.html">
+                Ghana
+            </a></li>
+        <li class="item"> <a href="geos/gi.html">
+                Gibraltar
+            </a></li>
+        <li class="item"> <a href="geos/gr.html">
+                Greece
+            </a></li>
+        <li class="item"> <a href="geos/gl.html">
+                Greenland
+            </a></li>
+        <li class="item"> <a href="geos/gj.html">
+                Grenada
+            </a></li>
+        <li class="item"> <a href="geos/gq.html">
+                Guam
+            </a></li>
+        <li class="item"> <a href="geos/gt.html">
+                Guatemala
+            </a></li>
+        <li class="item"> <a href="geos/gk.html">
+                Guernsey
+            </a></li>
+        <li class="item"> <a href="geos/gv.html">
+                Guinea
+            </a></li>
+        <li class="item"> <a href="geos/pu.html">
+                Guinea-Bissau
+            </a></li>
+        <li class="item"> <a href="geos/gy.html">
+                Guyana
+            </a></li>
+        <li class="item"> <a href="geos/ha.html">
+                Haiti
+            </a></li>
+        <li class="item"> <a href="geos/hm.html">
+                Heard Island and McDonald Islands
+            </a></li>
+        <li class="item"> <a href="geos/vt.html">
+                Holy See (Vatican City)
+            </a></li>
+        <li class="item"> <a href="geos/ho.html">
+                Honduras
+            </a></li>
+        <li class="item"> <a href="geos/hk.html">
+                Hong Kong
+            </a></li>
+        <li class="item"> <a href="geos/um.html">
+                Howland Island
+            </a></li>
+        <li class="item"> <a href="geos/hu.html">
+                Hungary
+            </a></li>
+        <li class="item"> <a href="geos/ic.html">
+                Iceland
+            </a></li>
+        <li class="item"> <a href="geos/in.html">
+                India
+            </a></li>
+        <li class="item"> <a href="geos/xo.html">
+                Indian Ocean
+            </a></li>
+        <li class="item"> <a href="geos/id.html">
+                Indonesia
+            </a></li>
+        <li class="item"> <a href="geos/ir.html">
+                Iran
+            </a></li>
+        <li class="item"> <a href="geos/iz.html">
+                Iraq
+            </a></li>
+        <li class="item"> <a href="geos/ei.html">
+                Ireland
+            </a></li>
+        <li class="item"> <a href="geos/im.html">
+                Isle of Man
+            </a></li>
+        <li class="item"> <a href="geos/is.html">
+                Israel
+            </a></li>
+        <li class="item"> <a href="geos/it.html">
+                Italy
+            </a></li>
+        <li class="item"> <a href="geos/jm.html">
+                Jamaica
+            </a></li>
+        <li class="item"> <a href="geos/jn.html">
+                Jan Mayen
+            </a></li>
+        <li class="item"> <a href="geos/ja.html">
+                Japan
+            </a></li>
+        <li class="item"> <a href="geos/um.html">
+                Jarvis Island
+            </a></li>
+        <li class="item"> <a href="geos/je.html">
+                Jersey
+            </a></li>
+        <li class="item"> <a href="geos/um.html">
+                Johnston Atoll
+            </a></li>
+        <li class="item"> <a href="geos/jo.html">
+                Jordan
+            </a></li>
+        <li class="item"> <a href="geos/kz.html">
+                Kazakhstan
+            </a></li>
+        <li class="item"> <a href="geos/ke.html">
+                Kenya
+            </a></li>
+        <li class="item"> <a href="geos/um.html">
+                Kingman Reef
+            </a></li>
+        <li class="item"> <a href="geos/kr.html">
+                Kiribati
+            </a></li>
+        <li class="item"> <a href="geos/kn.html">
+                Korea, North
+            </a></li>
+        <li class="item"> <a href="geos/ks.html">
+                Korea, South
+            </a></li>
+        <li class="item"> <a href="geos/kv.html">
+                Kosovo
+            </a></li>
+        <li class="item"> <a href="geos/ku.html">
+                Kuwait
+            </a></li>
+        <li class="item"> <a href="geos/kg.html">
+                Kyrgyzstan
+            </a></li>
+        <li class="item"> <a href="geos/la.html">
+                Laos
+            </a></li>
+        <li class="item"> <a href="geos/lg.html">
+                Latvia
+            </a></li>
+        <li class="item"> <a href="geos/le.html">
+                Lebanon
+            </a></li>
+        <li class="item"> <a href="geos/lt.html">
+                Lesotho
+            </a></li>
+        <li class="item"> <a href="geos/li.html">
+                Liberia
+            </a></li>
+        <li class="item"> <a href="geos/ly.html">
+                Libya
+            </a></li>
+        <li class="item"> <a href="geos/ls.html">
+                Liechtenstein
+            </a></li>
+        <li class="item"> <a href="geos/lh.html">
+                Lithuania
+            </a></li>
+        <li class="item"> <a href="geos/lu.html">
+                Luxembourg
+            </a></li>
+        <li class="item"> <a href="geos/mc.html">
+                Macau
+            </a></li>
+        <li class="item"> <a href="geos/ma.html">
+                Madagascar
+            </a></li>
+        <li class="item"> <a href="geos/mi.html">
+                Malawi
+            </a></li>
+        <li class="item"> <a href="geos/my.html">
+                Malaysia
+            </a></li>
+        <li class="item"> <a href="geos/mv.html">
+                Maldives
+            </a></li>
+        <li class="item"> <a href="geos/ml.html">
+                Mali
+            </a></li>
+        <li class="item"> <a href="geos/mt.html">
+                Malta
+            </a></li>
+        <li class="item"> <a href="geos/rm.html">
+                Marshall Islands
+            </a></li>
+        <li class="item"> <a href="geos/mr.html">
+                Mauritania
+            </a></li>
+        <li class="item"> <a href="geos/mp.html">
+                Mauritius
+            </a></li>
+        <li class="item"> <a href="geos/mx.html">
+                Mexico
+            </a></li>
+        <li class="item"> <a href="geos/fm.html">
+                Micronesia, Federated States of
+            </a></li>
+        <li class="item"> <a href="geos/um.html">
+                Midway Islands
+            </a></li>
+        <li class="item"> <a href="geos/md.html">
+                Moldova
+            </a></li>
+        <li class="item"> <a href="geos/mn.html">
+                Monaco
+            </a></li>
+        <li class="item"> <a href="geos/mg.html">
+                Mongolia
+            </a></li>
+        <li class="item"> <a href="geos/mj.html">
+                Montenegro
+            </a></li>
+        <li class="item"> <a href="geos/mh.html">
+                Montserrat
+            </a></li>
+        <li class="item"> <a href="geos/mo.html">
+                Morocco
+            </a></li>
+        <li class="item"> <a href="geos/mz.html">
+                Mozambique
+            </a></li>
+        <li class="item"> <a href="geos/wa.html">
+                Namibia
+            </a></li>
+        <li class="item"> <a href="geos/nr.html">
+                Nauru
+            </a></li>
+        <li class="item"> <a href="geos/bq.html">
+                Navassa Island
+            </a></li>
+        <li class="item"> <a href="geos/np.html">
+                Nepal
+            </a></li>
+        <li class="item"> <a href="geos/nl.html">
+                Netherlands
+            </a></li>
+        <li class="item"> <a href="geos/nc.html">
+                New Caledonia
+            </a></li>
+        <li class="item"> <a href="geos/nz.html">
+                New Zealand
+            </a></li>
+        <li class="item"> <a href="geos/nu.html">
+                Nicaragua
+            </a></li>
+        <li class="item"> <a href="geos/ng.html">
+                Niger
+            </a></li>
+        <li class="item"> <a href="geos/ni.html">
+                Nigeria
+            </a></li>
+        <li class="item"> <a href="geos/ne.html">
+                Niue
+            </a></li>
+        <li class="item"> <a href="geos/nf.html">
+                Norfolk Island
+            </a></li>
+        <li class="item"> <a href="geos/mk.html">
+                North Macedonia
+            </a></li>
+        <li class="item"> <a href="geos/cq.html">
+                Northern Mariana Islands
+            </a></li>
+        <li class="item"> <a href="geos/no.html">
+                Norway
+            </a></li>
+        <li class="item"> <a href="geos/mu.html">
+                Oman
+            </a></li>
+        <li class="item"> <a href="geos/zn.html">
+                Pacific Ocean
+            </a></li>
+        <li class="item"> <a href="geos/pk.html">
+                Pakistan
+            </a></li>
+        <li class="item"> <a href="geos/ps.html">
+                Palau
+            </a></li>
+        <li class="item"> <a href="geos/um.html">
+                Palmyra Atoll
+            </a></li>
+        <li class="item"> <a href="geos/pm.html">
+                Panama
+            </a></li>
+        <li class="item"> <a href="geos/pp.html">
+                Papua New Guinea
+            </a></li>
+        <li class="item"> <a href="geos/pf.html">
+                Paracel Islands
+            </a></li>
+        <li class="item"> <a href="geos/pa.html">
+                Paraguay
+            </a></li>
+        <li class="item"> <a href="geos/pe.html">
+                Peru
+            </a></li>
+        <li class="item"> <a href="geos/rp.html">
+                Philippines
+            </a></li>
+        <li class="item"> <a href="geos/pc.html">
+                Pitcairn Islands
+            </a></li>
+        <li class="item"> <a href="geos/pl.html">
+                Poland
+            </a></li>
+        <li class="item"> <a href="geos/po.html">
+                Portugal
+            </a></li>
+        <li class="item"> <a href="geos/rq.html">
+                Puerto Rico
+            </a></li>
+        <li class="item"> <a href="geos/qa.html">
+                Qatar
+            </a></li>
+        <li class="item"> <a href="geos/ro.html">
+                Romania
+            </a></li>
+        <li class="item"> <a href="geos/rs.html">
+                Russia
+            </a></li>
+        <li class="item"> <a href="geos/rw.html">
+                Rwanda
+            </a></li>
+        <li class="item"> <a href="geos/tb.html">
+                Saint Barthelemy
+            </a></li>
+        <li class="item"> <a href="geos/sh.html">
+                Saint Helena, Ascension, and Tristan da Cunha
+            </a></li>
+        <li class="item"> <a href="geos/sc.html">
+                Saint Kitts and Nevis
+            </a></li>
+        <li class="item"> <a href="geos/st.html">
+                Saint Lucia
+            </a></li>
+        <li class="item"> <a href="geos/rn.html">
+                Saint Martin
+            </a></li>
+        <li class="item"> <a href="geos/sb.html">
+                Saint Pierre and Miquelon
+            </a></li>
+        <li class="item"> <a href="geos/vc.html">
+                Saint Vincent and the Grenadines
+            </a></li>
+        <li class="item"> <a href="geos/ws.html">
+                Samoa
+            </a></li>
+        <li class="item"> <a href="geos/sm.html">
+                San Marino
+            </a></li>
+        <li class="item"> <a href="geos/tp.html">
+                Sao Tome and Principe
+            </a></li>
+        <li class="item"> <a href="geos/sa.html">
+                Saudi Arabia
+            </a></li>
+        <li class="item"> <a href="geos/sg.html">
+                Senegal
+            </a></li>
+        <li class="item"> <a href="geos/ri.html">
+                Serbia
+            </a></li>
+        <li class="item"> <a href="geos/se.html">
+                Seychelles
+            </a></li>
+        <li class="item"> <a href="geos/sl.html">
+                Sierra Leone
+            </a></li>
+        <li class="item"> <a href="geos/sn.html">
+                Singapore
+            </a></li>
+        <li class="item"> <a href="geos/nn.html">
+                Sint Maarten
+            </a></li>
+        <li class="item"> <a href="geos/lo.html">
+                Slovakia
+            </a></li>
+        <li class="item"> <a href="geos/si.html">
+                Slovenia
+            </a></li>
+        <li class="item"> <a href="geos/bp.html">
+                Solomon Islands
+            </a></li>
+        <li class="item"> <a href="geos/so.html">
+                Somalia
+            </a></li>
+        <li class="item"> <a href="geos/sf.html">
+                South Africa
+            </a></li>
+        <li class="item"> <a href="geos/sx.html">
+                South Georgia and South Sandwich Islands
+            </a></li>
+        <li class="item"> <a href="geos/od.html">
+                South Sudan
+            </a></li>
+        <li class="item"> <a href="geos/oo.html">
+                Southern Ocean
+            </a></li>
+        <li class="item"> <a href="geos/sp.html">
+                Spain
+            </a></li>
+        <li class="item"> <a href="geos/pg.html">
+                Spratly Islands
+            </a></li>
+        <li class="item"> <a href="geos/ce.html">
+                Sri Lanka
+            </a></li>
+        <li class="item"> <a href="geos/su.html">
+                Sudan
+            </a></li>
+        <li class="item"> <a href="geos/ns.html">
+                Suriname
+            </a></li>
+        <li class="item"> <a href="geos/sv.html">
+                Svalbard
+            </a></li>
+        <li class="item"> <a href="geos/sw.html">
+                Sweden
+            </a></li>
+        <li class="item"> <a href="geos/sz.html">
+                Switzerland
+            </a></li>
+        <li class="item"> <a href="geos/sy.html">
+                Syria
+            </a></li>
+        <li class="item"> <a href="geos/tw.html">
+                Taiwan
+            </a></li>
+        <li class="item"> <a href="geos/ti.html">
+                Tajikistan
+            </a></li>
+        <li class="item"> <a href="geos/tz.html">
+                Tanzania
+            </a></li>
+        <li class="item"> <a href="geos/th.html">
+                Thailand
+            </a></li>
+        <li class="item"> <a href="geos/tt.html">
+                Timor-Leste
+            </a></li>
+        <li class="item"> <a href="geos/to.html">
+                Togo
+            </a></li>
+        <li class="item"> <a href="geos/tl.html">
+                Tokelau
+            </a></li>
+        <li class="item"> <a href="geos/tn.html">
+                Tonga
+            </a></li>
+        <li class="item"> <a href="geos/td.html">
+                Trinidad and Tobago
+            </a></li>
+        <li class="item"> <a href="geos/ts.html">
+                Tunisia
+            </a></li>
+        <li class="item"> <a href="geos/tu.html">
+                Turkey
+            </a></li>
+        <li class="item"> <a href="geos/tx.html">
+                Turkmenistan
+            </a></li>
+        <li class="item"> <a href="geos/tk.html">
+                Turks and Caicos Islands
+            </a></li>
+        <li class="item"> <a href="geos/tv.html">
+                Tuvalu
+            </a></li>
+        <li class="item"> <a href="geos/ug.html">
+                Uganda
+            </a></li>
+        <li class="item"> <a href="geos/up.html">
+                Ukraine
+            </a></li>
+        <li class="item"> <a href="geos/ae.html">
+                United Arab Emirates
+            </a></li>
+        <li class="item"> <a href="geos/uk.html">
+                United Kingdom
+            </a></li>
+        <li class="item"> <a href="geos/us.html">
+                United States
+            </a></li>
+        <li class="item"> <a href="geos/um.html">
+                United States Pacific Island Wildlife Refuges
+            </a></li>
+        <li class="item"> <a href="geos/uy.html">
+                Uruguay
+            </a></li>
+        <li class="item"> <a href="geos/uz.html">
+                Uzbekistan
+            </a></li>
+        <li class="item"> <a href="geos/nh.html">
+                Vanuatu
+            </a></li>
+        <li class="item"> <a href="geos/ve.html">
+                Venezuela
+            </a></li>
+        <li class="item"> <a href="geos/vm.html">
+                Vietnam
+            </a></li>
+        <li class="item"> <a href="geos/vq.html">
+                Virgin Islands
+            </a></li>
+        <li class="item"> <a href="geos/wq.html">
+                Wake Island
+            </a></li>
+        <li class="item"> <a href="geos/wf.html">
+                Wallis and Futuna
+            </a></li>
+        <li class="item"> <a href="geos/we.html">
+                West Bank
+            </a></li>
+        <li class="item"> <a href="geos/ym.html">
+                Yemen
+            </a></li>
+        <li class="item"> <a href="geos/za.html">
+                Zambia
+            </a></li>
+        <li class="item"> <a href="geos/zi.html">
+                Zimbabwe
+            </a></li>
+        <li class="item"> <a href="geos/ee.html">
+                European Union
+
+            </a></li>
+    </ul>
+    <!-- add a number of results counter -->
+
+
+
+    <div>
+
+        <footer>
+
+            <li><a href="docs/refmaps.html">Regional and World Maps</a></li>
+            <li><a href="docs/flagsoftheworld.html">Flags of the World</a></li>
+            <li><a href="docs/gallery.html">Gallery of Covers</a></li>
+            <li><a href="docs/notesanddefs.html">Definitions and Notes</a></li>
+            <li><a href="docs/profileguide.html">Guide to Country Profiles</a></li>
+            <li><a href="docs/rankorderguide.html">Guide to Country Comparisons</a></li>
+            <li><a href="../old/index.html">View Original</a></li>
+
+        </footer>
+
+    </div>
+
+
+</body>
+
+</html>
