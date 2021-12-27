@@ -72,8 +72,8 @@ This is a work in progress, so please be patient and feel free to create a pull 
 
 - [@24tr6637](https://github.com/24tr6637)
 - [Monster0506](https://github.com/Monster0506)
-- [Water.css](https://watercss.kognise.dev)
-- [Water.css Github](https://github.com/kognise/water.css)
+- [Water.css](https://watercss.kognise.dev) [(github)](https://github.com/kognise/water.css)
+
 - [CIA Factbook](https://www.cia.gov/the-world-factbook)
 
 ### 1.2.3. License
