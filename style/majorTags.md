@@ -27,4 +27,3 @@ This page is a work in progress, and does not follow the style guidelines.
 <div>
 <select>
 ```
-
