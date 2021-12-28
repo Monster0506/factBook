@@ -5,3 +5,6 @@ enabled = true
 exclude_patterns = [
   "src/countries/javascripts/*.min.js"
 ]
+[[transformers]]
+name = "standardjs"
+enabled = true
