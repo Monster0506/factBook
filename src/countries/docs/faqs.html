@@ -1,398 +1,448 @@
 <!DOCTYPE html>
-<!-- THIS TEMPLATE IS USED TO GENERATE THE STANDALONE VERSION OF THE WFB SITE -->
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en">
-<![endif]--><!--[if IE 7]>
-<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]--><!--[if IE 8]>
-<html class="no-js lt-ie9" lang="en"> <![endif]--><!--[if gt IE 8]>
-<!--><html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" xml:lang="en"><!--<![endif]-->
-<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <title> Frequently Asked Questions — The World Factbook</title>
-  <meta name="description" content="" />
-  <meta name="viewport" content="width=device-width" />
-  <meta name="LastModified" content="FEB 1, 2018" />
-  
-  <link href="../stylesheets/smallscreen.css" rel="stylesheet" type="text/css">
-<!--[if lt IE 9]>
-  <link href="../stylesheets/fullscreen.css" rel="stylesheet" type="text/css">
-<![endif]-->
-<link media="only screen and (min-width: 993px)" type="text/css" rel="stylesheet" href="../stylesheets/fullscreen.css">
+<html lang="en">
 
-<script>var isIElt9 = false;</script>
-<script src="../javascripts/modernizr.js"></script>
-<script src="../javascripts/jquery-1.js" type="text/javascript"></script>
-<script src="../javascripts/response.js" type="text/javascript"></script>
-<script src="../javascripts/rwd.js" type="text/javascript"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <link rel="stylesheet" href="../stylesheets/mainStyle.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css">
 
-<link href="../stylesheets/bootstrap_customized.css" type="text/css" rel="stylesheet">
-<link media="screen" href="../stylesheets/wfb_styles.css" type="text/css" rel="stylesheet">
-<link media="screen" href="../stylesheets/expandcollapse.css" type="text/css" rel="stylesheet">
-<script src="../javascripts/jquery.min.js"></script>
-<script src="../javascripts/bootstrap.min.js" type="text/javascript"></script>
-<script src="../javascripts/jquery.main.js" type="text/javascript"></script>
-
-<!-- SmartMenus jQuery plugin and core CSS files -->
-<script src="../javascripts/jquery.smartmenus.min.js" type="text/javascript"></script>
-<link href="../stylesheets/sm-core-css.css" rel='stylesheet' type='text/css' />
-<link href="../stylesheets/font-awesome.min.css" rel='stylesheet' type='text/css' />
-<script src="../javascripts/wfb.js" type="text/javascript"></script>
-
-<!--[if lt IE 9]>
-  <script>var isIElt9 = true;</script>
-<![endif]--><!--   jquery code added for popup -->
-<script>
-  prePic = new Image();
-  prePic.src ="../images/separator-2.gif";
-  prePic2 = new Image();
-  prePic2.src ="../images/arrow-5.gif";
-  prePic3 = new Image();
-  prePic3.src ="../images/bg-heading-panel.jpg";
-  prePic4 = new Image();
-  prePic4.src ="../images/CHI12052_Headers_contact.jpg";
-</script>
-<script src="../javascripts/expandcollapse.js" type="text/javascript"></script>
-
+    <title>History</title>
 </head>
-<body class='standalone-site'>
-<div><noscript>Javascript must be enabled for the correct page display</noscript>
-  <div>
-    <div class="main-block">
-      <div id="wfb-main">
-     	<section id="main">
-          <div class="main-holder threecol">
-            <div id="content">
 
-	      <article class="description-box"><a id="main-content" tabindex="-1">&#160;</a>
-                <div class="text-holder-full">
-
-                  <div id="content-core">
-                    <!-- content goes here -->                      
-
-                    <div id="wfb-text-holder" role='main'>
-                      <h1 id='mainContent' class="visuallyhidden">Main Content</h1>
-
-                      
-
-
-                      
-
-<div class='wfb-text-box'>
-  <div class="region reference">
-    
-    <span class="region_name">Frequently Asked Questions</span>
-    (By Category)
-      <span class="btn-print">
-          <a href="../docs/print_faqs.html" title='Print'>
-            <i class="fa fa-print" aria-hidden='true'></i>
-            <span class='sr-only'>Print</span>
-          </a>
-      </span>
-  </div>
-
-  <section class="reference_content">
-    <div class="category_data">Answers to many frequently asked questions (FAQs) are explained in the <a href="notesanddefs.html">Definitions and Notes</a> section in <em>The World Factbook</em>. Please review this section to see if your question is already answered there. In addition, we have compiled the following list of FAQs to answer other common questions.</div>
-
-<ul id='questions' class='expandcollapse'>
-
-
-    <li class='faq-category' id='general-category-section-anchor'>
-      <a href="#" class="tabHead">
-        <div class='question category'>General ::</div>
-      </a>
-    </li>
-    <li id='general-category-section'>
+<body>
+    <nav>
+        <ul class="navBar">
+            <li class="nav">
+                <a href="javascript:showDiv('gen')">General</a>
+            </li>
+            <li class="nav">
+                <a href="javascript:showDiv('geo')">Geography</a>
+            </li>
+            <li class="nav">
+                <a href="javascript:showDiv('photo')">Photos</a>
+            </li>
+            <li class="nav">
+                <a href="javascript:showDiv('proc')">Policies and Procedures</a>
+            </li>
+            <li class="nav">
+                <a href="javascript:showDiv('spell')">Spelling and Pronunciation</a>
+            </li>
+            <li class="nav">
+                <a href="javascript:showDiv('tech')">Technical</a>
+            </li>
+            <li class="nav">
+                <a class=".btn-print" href="print_faqs.html">Print</a>
+            </li>
+            <li class="nav">
+                <a href="../index.html">Home</a>
+            </li>
+            <li class="nav">
+                <a href="https://github.com/monster0506/factBook" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250"
+                        style="fill:#FD6C6C; color:#fff; position: absolute; top: 0; border: 0; right: 0;"
+                        aria-hidden="true">
+                        <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+                        <path
+                            d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
+                            fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
+                        <path
+                            d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"
+                            fill="currentColor" class="octo-body"></path>
+                    </svg></a>
+            </li>
+        </ul>
+    </nav>
+    <div id="gen">
         <div>
-          <div class='faqQuestion'>Can you provide additional information for a specific country?</div>
-          <div class='faqAnswer category_data'>The staff cannot provide data beyond what appears in <em>The World Factbook</em>. The format and information in the <em>Factbook</em> are tailored to the specific requirements of US Government officials and content is focused on their current and anticipated needs. The staff welcomes suggestions for new entries.</div>
+            <div class='faqQuestion'>Can you provide additional information for a specific country?</div>
+            <div class='faqAnswer category_data'>The staff cannot provide data beyond what appears in <em>The World
+                    Factbook</em>. The format and information in the <em>Factbook</em> are tailored to the specific requirements of US Government officials and content is focused on their current and anticipated needs. The staff welcomes suggestions for
+                new entries.</div>
         </div>
         <div>
-          <div class='faqQuestion'><em></em>How often is <em>The World Factbook</em> updated?</div>
-          <div class='faqAnswer category_data'>Formerly the website and the published <em>Factbook</em> were only updated annually. In November 2001, the <em>Factbook</em> began more frequent online updating and for many years bi-weekly updates were the norm. In late 2010, online updating on weekly basis began and that schedule continues today. <br /><br />The CIA discontinued publishing the printed <em>Factbook</em> after the 2007 edition; subsequent annual editions were published by the US Government Printing Office through the 2016-17 edition. Although no longer produced in hardcopy, annual online editions of <em>The World Factbook</em> are accessible on the <em>Factbook</em> website and may be downloaded in whole or in part.</div>
+            <div class='faqQuestion'><em></em>How often is <em>The World Factbook</em> updated?</div>
+            <div class='faqAnswer category_data'>Formerly the website and the published <em>Factbook</em> were only updated annually. In November 2001, the <em>Factbook</em> began more frequent online updating and for many years bi-weekly updates were the norm. In late 2010, online updating
+                on weekly basis began and that schedule continues today. <br /><br />The CIA discontinued publishing the printed <em>Factbook</em> after the 2007 edition; subsequent annual editions were published by the US Government Printing Office through
+                the 2016-17 edition. Although no longer produced in hardcopy, annual online editions of <em>The World Factbook</em> are accessible on the <em>Factbook</em> website and may be downloaded in whole or in part.</div>
         </div>
         <div>
-          <div class='faqQuestion'>Can I use some or all of <em>The World Factbook</em> for my website (book, research project, homework, etc.)?</div>
-          <div class='faqAnswer category_data'><em>The World Factbook</em> is in the public domain and may be used freely by anyone at anytime without seeking permission. However, US Code (Section 403m) prohibits use of the CIA seal in a manner which implies that the CIA approved, endorsed, or authorized such use. For any questions about your intended use, you should consult with legal counsel. Further information on use of <em>The World Factbook</em> is described on the <a class="Normal" href="contributor_copyright.html">Contributors and Copyright Information</a> page. As a courtesy, please cite <em>The World Factbook</em> when used.</div>
+            <div class='faqQuestion'>Can I use some or all of <em>The World Factbook</em> for my website (book, research project, homework, etc.)?</div>
+            <div class='faqAnswer category_data'><em>The World Factbook</em> is in the public domain and may be used freely by anyone at anytime without seeking permission. However, US Code (Section 403m) prohibits use of the CIA seal in a manner which implies that the CIA approved, endorsed,
+                or authorized such use. For any questions about your intended use, you should consult with legal counsel. Further information on use of <em>The World Factbook</em> is described on the <a class="Normal" href="contributor_copyright.html">Contributors and Copyright
+                    Information</a> page. As a courtesy, please cite <em>The World Factbook</em> when used.</div>
         </div>
         <div>
-          <div class='faqQuestion'>Why are there discrepancies between <em>The World Factbook's</em> demographic statistics and other sources?</div>
-          <div class='faqAnswer category_data'>Although estimates and projections start with the same basic data from censuses, surveys, and registration systems, final estimates and projections can differ as a result of factors including <em>data availability, assessment, and methods and protocols</em>.
-<p><em>Data availability</em>&nbsp;&nbsp;Researchers may obtain specific country data at different times. Estimates or projections developed before the results of a census have been released will not be as accurate as those that take into account new census results.</p>
-<p><em>Assessment</em>&nbsp;&nbsp;Researchers can differ in their assessment of data quality and in their estimates based on the available country data. They often need to adjust their estimates due to such factors as undercounting in a census or underregistration of births or deaths.</p>
-<p><em>Methods and protocols</em>&nbsp;&nbsp;Differences in methods and protocols can shape the way estimates and projections are made of fertility, mortality, and international migration, and how these data are integrated with the population data. For example, the US Census Bureau uses a model that projects the population ahead by single years of age, a single year at a time (population statistics used in the <em>Factbook </em> are based on this model), whereas the United Nations model projects five-year age groups forward, five years at a time.</p></div>
+            <div class='faqQuestion'>Why are there discrepancies between <em>The World Factbook's</em> demographic statistics and other sources?</div>
+            <div class='faqAnswer category_data'>Although estimates and projections start with the same basic data from censuses, surveys, and registration systems, final estimates and projections can differ as a result of factors including <em>data availability, assessment, and methods and protocols</em>.
+                <p><em>Data availability</em>&nbsp;&nbsp;Researchers may obtain specific country data at different times. Estimates or projections developed before the results of a census have been released will not be as accurate as those that take into
+                    account new census results.</p>
+                <p><em>Assessment</em>&nbsp;&nbsp;Researchers can differ in their assessment of data quality and in their estimates based on the available country data. They often need to adjust their estimates due to such factors as undercounting in a census
+                    or underregistration of births or deaths.</p>
+                <p><em>Methods and protocols</em>&nbsp;&nbsp;Differences in methods and protocols can shape the way estimates and projections are made of fertility, mortality, and international migration, and how these data are integrated with the population
+                    data. For example, the US Census Bureau uses a model that projects the population ahead by single years of age, a single year at a time (population statistics used in the
+                    <em>Factbook </em> are based on this model), whereas the United Nations model projects five-year age groups forward, five years at a time.</p>
+            </div>
         </div>
         <div>
-          <div class='faqQuestion'>When I do the arithmetic using your information I get a different answer for some fields. For example, the per capita GDP that I calculated using <em>World Factbook</em> GDP and population numbers differs substantially for some countries from the GDP - per capita numbers provided in the Economy section of the <em>Factbook</em>.</div>
-          <div class='faqAnswer category_data'><em>World Factbook</em> data may be based on different dates of information. In the above example, the GDP - per capita numbers are for <strong>past</strong> years where each year's GDP is the population number divided by the relevant year. The population numbers shown in the People category are estimates for the <strong>current year</strong> and should not be used to calculate per capita income for earlier years.</div>
+            <div class='faqQuestion'>When I do the arithmetic using your information I get a different answer for some fields. For example, the per capita GDP that I calculated using <em>World Factbook</em> GDP and population numbers differs substantially for some countries from
+                the GDP - per capita numbers provided in the Economy section of the <em>Factbook</em>.</div>
+            <div class='faqAnswer category_data'><em>World Factbook</em> data may be based on different dates of information. In the above example, the GDP - per capita numbers are for <strong>past</strong> years where each year's GDP is the population number divided by the relevant year.
+                The population numbers shown in the People category are estimates for the <strong>current year</strong> and should not be used to calculate per capita income for earlier years.</div>
         </div>
         <div>
-          <div class='faqQuestion'>Why doesn't <em>The World Factbook</em> include information on states, departments, provinces, etc., for each country?</div>
-          <div class='faqAnswer category_data'><em>The World Factbook</em> provides national-level information on countries, territories, and dependencies, but not subnational administrative units within a country. A comprehensive encyclopedia might be a source for state/province-level information.</div>
+            <div class='faqQuestion'>Why doesn't <em>The World Factbook</em> include information on states, departments, provinces, etc., for each country?</div>
+            <div class='faqAnswer category_data'><em>The World Factbook</em> provides national-level information on countries, territories, and dependencies, but not subnational administrative units within a country. A comprehensive encyclopedia might be a source for state/province-level
+                information.
+            </div>
         </div>
         <div>
-          <div class='faqQuestion'>Would it be possible to set up a partnership or collaboration between the producers of <em>The World Factbook</em> and other organizations or individuals?</div>
-          <div class='faqAnswer category_data'><em>The World Factbook</em> does not partner with other organizations or individuals, but we do welcome comments and suggestions that such groups or persons choose to provide.</div>
+            <div class='faqQuestion'>Would it be possible to set up a partnership or collaboration between the producers of
+                <em>The World Factbook</em> and other organizations or individuals?</div>
+            <div class='faqAnswer category_data'><em>The World Factbook</em> does not partner with other organizations or individuals, but we do welcome comments and suggestions that such groups or persons choose to provide.</div>
         </div>
         <div>
-          <div class='faqQuestion'>Is it possible to access older editions of <em>The World Factbook</em> to do comparative research and trend analysis?</div>
-          <div class='faqAnswer category_data'>Previous editions of the <em>Factbook</em>, beginning with 2000, are available for downloading - but not browsing - on the CIA website. Rehosted versions of earlier editions of the <em>Factbook </em> are available for browsing, as well as for downloading, at other Internet web sites. We urge caution, however, in attempting to create time series by stringing together economic data - especially dollar values - from previous editions of the <em>Factbook </em>. Over time, data sources, definitions, and economic accounting methods have changed. We occasionally have made these changes ourselves in order to provide our readers with the best information available. Also, in the case of dollar values, changes in relative exchange rates and prices may make trends difficult to comprehend. Therefore, individuals should consult additional resources when doing comparative research or trend analysis.</div>
+            <div class='faqQuestion'>Is it possible to access older editions of <em>The World Factbook</em> to do comparative research and trend analysis?</div>
+            <div class='faqAnswer category_data'>Previous editions of the <em>Factbook</em>, beginning with 2000, are available for downloading - but not browsing - on the CIA website. Rehosted versions of earlier editions of the
+                <em>Factbook </em> are available for browsing, as well as for downloading, at other Internet web sites. We urge caution, however, in attempting to create time series by stringing together economic data - especially dollar values - from
+                previous editions of the <em>Factbook </em>. Over time, data sources, definitions, and economic accounting methods have changed. We occasionally have made these changes ourselves in order to provide our readers with the best information
+                available. Also, in the case of dollar values, changes in relative exchange rates and prices may make trends difficult to comprehend. Therefore, individuals should consult additional resources when doing comparative research or trend analysis.</div>
         </div>
-    </li>
-
-    <li class='faq-category' id='geography-category-section-anchor'>
-      <a href="#" class="tabHead">
-        <div class='question category'>Geography ::</div>
-      </a>
-    </li>
-    <li id='geography-category-section'>
-        <div>
-          <div class='faqQuestion'>Why can't I find a geographic name for a particular country?</div>
-          <div class='faqAnswer category_data'><em>The World Factbook</em> is not a gazetteer (a dictionary or index of places, usually with descriptive or statistical information) and cannot provide more than the names of the administrative divisions (in the Government category) and major cities/towns (on the country maps). Our expanded <em><a href="../appendix/appendix-f.html">Cross-Reference List of Geographic Names (Appendix F)</a></em>, however, includes many of the world&rsquo;s major geographic features as well as historic (former) names of countries and cities mentioned in <em>The World Factbook</em>.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why is the European Union listed out of alphabetical order at the end of the <em>Factbook</em> entries?</div>
-          <div class='faqAnswer category_data'>The <a class="Normal" href="../geos/ee.html">European Union</a> (EU) is not a country, but it has taken on many nation-like attributes and these may be expanded in the future. It is for these reasons that a separate European Union entry was created. However, because of the EU's special status, this entry appears after the country listing. A more complete explanation on the inclusion of the EU into the <em>Factbook</em> may be found in the "Preliminary statement" of the European Union entry.<br /><br />
-<p>&nbsp;</p></div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Since we have an ambassador who represents the US at the Vatican, why is this entity not listed in the <em>Factbook</em>?</div>
-          <div class='faqAnswer category_data'>Vatican City is found under <a class="Normal" href="../geos/vt.html">Holy See</a>. The term "Holy See" refers to the authority and sovereignty vested in the Pope and his advisors to direct the worldwide Catholic Church. As the jurisdictional equal of a state, the Holy See can enter into treaties and sends and receives diplomatic representatives. Vatican City, created in 1929 to administer properties belonging to the Holy See in Rome, is recognized under international law as a sovereign state, but it does not send or receive diplomatic representatives. Consequently, Holy See is included as a <em>Factbook</em> entry, with Vatican City cross-referenced in the Geographic Names appendix.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why is Palestine not listed in <em>The World Factbook</em>?</div>
-          <div class='faqAnswer category_data'>The Palestinian areas of <a class="Normal" href="../geos/gz.html">Gaza Strip</a> and <a class="Normal" href="../geos/we.html">West Bank</a> are listed in the <em>Factbook</em>.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why are the Golan Heights not shown as part of Israel or Northern Cyprus with Turkey?</div>
-          <div class='faqAnswer category_data'>Territorial occupations/annexations not recognized by the United States Government are not shown on US Government maps.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why don&rsquo;t you include information on entities such as Tibet or Kashmir?</div>
-          <div class='faqAnswer category_data'><p><em>The World Factbook</em> provides information on the administrative divisions of a country as recommended by the United States Board on Geographic Names (BGN). The BGN is a component of the US Government that develops policies, principles, and procedures governing the spelling, use, and application of geographic names - domestic, foreign, Antarctic, and undersea. Its decisions enable all departments and agencies of the US Government to have access to uniform names of geographic features.</p>
-<p>Also included in the <em>Factbook</em> are entries on parts of the world whose status has not yet been resolved (e.g., West Bank, Spratly Islands). Specific regions within a country or areas in dispute among countries are not covered.</p></div>
-        </div>
-        <div>
-          <div class='faqQuestion'>What do you mean when you say that a country is "doubly landlocked"?</div>
-          <div class='faqAnswer category_data'>A doubly landlocked country is one that is separated from an ocean or an ocean-accessible sea by two intervening countries. <a class="Normal" href="../geos/uz.html">Uzbekistan</a> and <a class="Normal" href="../geos/ls.html">Liechtenstein</a> are the only countries that fit this definition.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'><p>Why is the area of the United States described as "slightly larger than China" in the <em>Factbook </em>, while other sources list China as larger in area than the United States?</p></div>
-          <div class='faqAnswer category_data'><p>It all depends on whether one is looking at total area (land and water) when making the comparison (which is the criterion used by the <em>Factbook</em>) or just land area (which excludes inland water features such as rivers and lakes).</p>
-<p>Total area (combining land and water)</p>
-<p>United States = 9,826,630 sq km China = 9,596,960 sq km</p>
-<p>Land only (without any water features)</p>
-<p>United States = 9,161,923 sq km China = 9,326,410 sq km</p></div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why has <em>The World Factbook </em> dropped the five French departments of Guadeloupe, Martinique, Mayotte, Reunion, and French Guiana?</div>
-          <div class='faqAnswer category_data'>The five entities are no longer in <em>The World Factbook </em> because their status has changed. While they are overseas departments of France, they are also now recognized as French regions, having equal status to the 22 metropolitan regions that make up European France. In other words, they are now recognized as being part of France proper. Their status is somewhat analogous to Alaska and Hawaii vis-&agrave;-vis the contiguous United States. Although separated from the larger geographic entity, they are still considered to be an integral part of it.</div>
-        </div>
-    </li>
-
-    <li class='faq-category' id='photos-category-section-anchor'>
-      <a href="#" class="tabHead">
-        <div class='question category'>Photos ::</div>
-      </a>
-    </li>
-    <li id='photos-category-section'>
-        <div>
-          <div class='faqQuestion'>Why do you not have pictures for every country?</div>
-          <div class='faqAnswer category_data'>Inclusion of photos in <em>The World Factbook</em> is a new feature that premiered with the unveiling of the redesigned online <em>World Factbook</em> in June 2009. This is a long-term project, and we plan to continuously add more photos to the site over time. Eventually, we hope to have images for every country in the <em>Factbook</em>.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>I have great travel photos from my trips abroad. Can I submit them to your website to enhance your photo collection?</div>
-          <div class='faqAnswer category_data'>We appreciate the many offers from the public to contribute to our photo collection. However, we only use photos from US Government sources.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Can I use a photo in a report I&rsquo;m writing?</div>
-          <div class='faqAnswer category_data'>Yes! All photos in <em>The World Factbook</em> are in the public domain.</div>
-        </div>
-    </li>
-
-    <li class='faq-category' id='policies-and-procedures-category-section-anchor'>
-      <a href="#" class="tabHead">
-        <div class='question category'>Policies and Procedures ::</div>
-      </a>
-    </li>
-    <li id='policies-and-procedures-category-section'>
-        <div>
-          <div class='faqQuestion'>What is <em>The World Factbook&rsquo;s</em> source for a specific subject field?</div>
-          <div class='faqAnswer category_data'>The <em>Factbook</em> staff uses many different sources to publish what we judge are the most reliable and consistent data for any particular category. Space considerations preclude a listing of these various sources.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>The names of some geographic features provided in the <em>Factbook</em> differ from those used in other publications. For example, in Asia the <em>Factbook</em> has Burma as the country name, but in other publications Myanmar is used; also, the <em>Factbook</em> uses Sea of Japan whereas other publications label it East Sea. What is your policy on naming geographic features?</div>
-          <div class='faqAnswer category_data'>The <em>Factbook</em> staff follows the guidance of the United States Board on Geographic Names (BGN). The BGN is the component of the United States Government that develops policies, principles, and procedures governing the spelling, use, and application of geographic names - domestic, foreign, Antarctic, and undersea. Its decisions enable all departments and agencies of the US Government to have access to uniform names of geographic features. The position of the BGN is that the names Burma and Sea of Japan be used in official US Government maps and publications.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why is most of the statistical information in the <em>Factbook</em> given in metric units, rather than the units standard to US measure?</div>
-          <div class='faqAnswer category_data'>US Federal agencies are required by the Metric Conversion Act of 1975 (Public Law 94-168) and by Executive Order 12770 of July 1991 to use the International System of Units, commonly referred to as the metric system or SI. In addition, the metric system is used by over 95% of the world's population.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why don&rsquo;t you include information on minimum and maximum temperature extremes?</div>
-          <div class='faqAnswer category_data'>The <em>Factbook</em> staff judges that this information would only be useful for some (generally smaller) countries. Larger countries can have large temperature extremes that do not represent the landmass as a whole.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>What information sources are used for the country flags?</div>
-          <div class='faqAnswer category_data'>Flag designs used in <em>The World Factbook</em> are based on various national and vexillological sources.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why do your GDP (Gross Domestic Product) statistics differ from other sources?</div>
-          <div class='faqAnswer category_data'>We have two sets of GDP dollar estimates in <em>The World Factbook </em>, one derived from purchasing power parity (PPP) calculations and the other derived from official exchange rates (OER). Other sources probably use one of the two. See the <a href="notesanddefs.html">Definitions and Notes</a> section on GDP and GDP methodology for more information.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Some percentage distributions do not add to 100. Why not?</div>
-          <div class='faqAnswer category_data'><p>Because of rounding, percentage distributions do not always add precisely to 100%. Rounding of numbers always results in a loss of precision - i.e., error. This error becomes apparent when percentage data are totaled, as the following two examples show:</p>
-<table style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #7c7c7c;" border="0" width="550" cellspacing="2" cellpadding="2" align="center">
-<tbody>
-<tr>
-<td style="border-bottom: 1px soid #ccc;" width="150">&nbsp;</td>
-<td style="border-bottom: 1px soid #ccc;" align="right" width="200"><strong>Original Data</strong></td>
-<td style="border-bottom: 1px soid #ccc;" align="right" width="200"><strong>Rounded to a whole integer</strong></td>
-</tr>
-<tr>
-<td bgcolor="#F3F3F3" width="150"><strong>Example 1</strong></td>
-<td align="right" bgcolor="#F3F3F3" width="200">43.2</td>
-<td align="right" bgcolor="#F3F3F3" width="200">43</td>
-</tr>
-<tr>
-<td width="150">&nbsp;</td>
-<td align="right" width="200">30.4</td>
-<td align="right" width="200">30</td>
-</tr>
-<tr>
-<td width="150">&nbsp;</td>
-<td style="text-decoration: underline;" align="right" bgcolor="#F3F3F3" width="200">26.4</td>
-<td style="text-decoration: underline;" align="right" bgcolor="#F3F3F3" width="200">26</td>
-</tr>
-<tr>
-<td width="150">&nbsp;</td>
-<td style="color: #333;" align="right" bgcolor="#E5E5E5" width="200">100.0</td>
-<td style="color: #333;" align="right" bgcolor="#E5E5E5" width="200">99</td>
-</tr>
-<tr>
-<td width="150">&nbsp;</td>
-<td align="right" width="200">&nbsp;</td>
-<td align="right" width="200">&nbsp;</td>
-</tr>
-<tr>
-<td bgcolor="#F3F3F3" width="150"><strong>Example 2</strong></td>
-<td align="right" bgcolor="#F3F3F3" width="200">42.8</td>
-<td align="right" bgcolor="#F3F3F3" width="200">43</td>
-</tr>
-<tr>
-<td width="150">&nbsp;</td>
-<td align="right" width="200">31.6</td>
-<td align="right" width="200">32</td>
-</tr>
-<tr>
-<td width="150">&nbsp;</td>
-<td style="text-decoration: underline;" align="right" bgcolor="#F3F3F3" width="200">25.6</td>
-<td style="text-decoration: underline;" align="right" bgcolor="#F3F3F3" width="200">26</td>
-</tr>
-<tr>
-<td width="150">&nbsp;</td>
-<td style="color: #333;" align="right" bgcolor="#E5E5E5" width="200">100.0</td>
-<td style="underline; color: #333;" align="right" bgcolor="#E5E5E5" width="200">101</td>
-</tr>
-</tbody>
-</table>
-<p>When this occurs, we do not force the numbers to add exactly to 100, because doing so would introduce additional error into the distribution.</p></div>
-        </div>
-        <div>
-          <div class='faqQuestion'>What rounding convention does <em>The World Factbook</em> use?</div>
-          <div class='faqAnswer category_data'>In deciding on the number of digits to present, the <em>Factbook</em> staff assesses the accuracy of the original data and the needs of US Government officials. All of the economic data are processed by computer - either at the source or by the <em>Factbook</em> staff. The economic data presented in The <em>Factbook</em>, therefore, follow the rounding convention used by virtually all numerical software applications, namely, any digit followed by a "5" is rounded up to the next higher digit, no matter whether the original digit is even or odd. Thus, for example, when rounded to the nearest integer, 2.5 becomes 3, rather than 2, as occurred in some pre-computer rounding systems.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why do you list "Independence" dates for countries such as France, Germany, and the United Kingdom?</div>
-          <div class='faqAnswer category_data'>For most countries, this entry presents the date that sovereignty was achieved and from which nation, empire, or trusteeship. For other countries, the date may be some other significant nationhood event such as the traditional founding date or the date of unification, federation, confederation, establishment, or state succession and so may not strictly be an "Independence" date. Dependent entities have the nature of their dependency status noted in this same entry.</div>
-        </div>
-    </li>
-
-    <li class='faq-category' id='spelling-and-pronunciation-category-section-anchor'>
-      <a href="#" class="tabHead">
-        <div class='question category'>Spelling and Pronunciation ::</div>
-      </a>
-    </li>
-    <li id='spelling-and-pronunciation-category-section'>
-        <div>
-          <div class='faqQuestion'>Why is the spelling of proper names such as rulers, presidents, and prime ministers in <em>The World Factbook</em> different than their spelling in my country?</div>
-          <div class='faqAnswer category_data'>The <em>Factbook</em> staff applies the names and spellings from the <em>Chiefs of State</em> link on the CIA Web site. <em>The World Factbook</em> is prepared using the standard American English computer keyboard and does not use any special characters, symbols, or most diacritical markings in its spellings. Surnames are always spelled with capital letters; they may appear first in some cultures.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why does the spelling of geographic names, features, cities, administrative divisions, etc. in the <em>Factbook</em> differ from those used in my country?</div>
-          <div class='faqAnswer category_data'>The United States Board on Geographic Names (BGN) recommends and approves names and spellings. The BGN is the component of the United States Government that develops policies, principles, and procedures governing the spelling, use, and application of geographic names - domestic, foreign, Antarctic, and undersea. Its decisions enable all departments and agencies of the US Government to use uniform names of geographic features. (A <em>note</em> is usually included where changes may have occurred but have not yet been approved by the BGN). <em>The World Factbook</em> is prepared using the standard American English computer keyboard and does not use any special characters, symbols, or most diacritical markings in its spellings.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why does <em>The World Factbook</em> omit pronunciations of country or leader names?</div>
-          <div class='faqAnswer category_data'>There are too many variations in pronunciation among English-speaking countries, not to mention English renditions of non-English names, for pronunciations to be included. American English pronunciations <em>are</em> included for some countries such as <a class="Normal" href="../geos/qa.html">Qatar</a> and <a class="Normal" href="../geos/kr.html">Kiribati</a>.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Why is the name of the Labour party misspelled?</div>
-          <div class='faqAnswer category_data'>When American and British spellings of common English words differ, <em>The World Factbook</em> always uses the American spelling, even when these common words form part of a proper name in British English.</div>
-        </div>
-    </li>
-
-    <li class='faq-category' id='technical-category-section-anchor'>
-      <a href="#" class="tabHead">
-        <div class='question category'>Technical ::</div>
-      </a>
-    </li>
-    <li id='technical-category-section'>
-        <div>
-          <div class='faqQuestion'>I am using the<em> Factbook&nbsp;</em>online and it is not working. What is wrong?</div>
-          <div class='faqAnswer category_data'>Hundreds of "<em>Factbook</em>" look-alikes exist on the Internet. You can access <em>The World Factbook</em> at: www,cia.gov, which is the only official site.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>When I attempt to download a PDF (Portable Document Format) map file (or some other map) the file has no image. Can you fix this?</div>
-          <div class='faqAnswer category_data'>Some of the files on <em>The World Factbook</em> website are large and could take several minutes to download on a dial-up connection. The screen might be blank during the download process.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>When I open a map on <em>The World Factbook</em> site it is fuzzy or granular, or too big or too small. Why?</div>
-          <div class='faqAnswer category_data'>Adjusting the resolution setting on your monitor should correct this problem.</div>
-        </div>
-        <div>
-          <div class='faqQuestion'>Is <em>The World Factbook</em> country data available in machine-readable format? All I can find is HTML, but I'm looking for simple tabular data.</div>
-          <div class='faqAnswer category_data'>The<em> Factbook </em>website now features Country Comparison pages for selected <em>Factbook</em> entries. All of the Country Comparison pages can be downloaded as tab-delimited data files that can be opened in other applications such as spreadsheets and databases.</div>
-        </div>
-    </li>
-
-</ul>
-
-    
-  </section>
-</div>
-
-
-                    </div>  <!--  wfb-text-holder -->
-
-                    <!-- END added content -->
-                  </div>
-                           
-                </div> <!--  text-holder-full -->
-              </article>
-          </div>
-        </section>
-      </div>
     </div>
-  </div>
-</div>
-<a href="#" class="go-top" style="display: none;">GO TOP</a>
-<script>
-  $(document).ready(function() {
-  // Show or hide the sticky footer button
-    $(window).scroll(function() {
-      if ($(this).scrollTop() > 350) {
-	$('.go-top').fadeIn(100);
-      } else {
-	$('.go-top').fadeOut(100);
-      }
-    });
-	
-    // Animate the scroll to top
-    $('.go-top').click(function(event) {
-      event.preventDefault();
-		
-      $('html, body').animate({scrollTop: 0}, 300);
-    })
-  });
-</script>
-</body></html>
+    <div id="geo">
+        <div>
+            <div class='faqQuestion'>Why can't I find a geographic name for a particular country?</div>
+            <div class='faqAnswer category_data'><em>The World Factbook</em> is not a gazetteer (a dictionary or index of places, usually with descriptive or statistical information) and cannot provide more than the names of the administrative divisions (in the Government category) and major
+                cities/towns (on the country maps). Our expanded
+                <em><a href="../appendix/appendix-f.html">Cross-Reference List of Geographic Names (Appendix F)</a></em>, however, includes many of the world&rsquo;s major geographic features as well as historic (former) names of countries and cities
+                mentioned in <em>The World Factbook</em>.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why is the European Union listed out of alphabetical order at the end of the
+                <em>Factbook</em> entries?</div>
+            <div class='faqAnswer category_data'>The <a class="Normal" href="../geos/ee.html">European Union</a> (EU) is not a country, but it has taken on many nation-like attributes and these may be expanded in the future. It is for these reasons that a separate European Union entry was
+                created. However, because of the EU's special status, this entry appears after the country listing. A more complete explanation on the inclusion of the EU into the
+                <em>Factbook</em> may be found in the "Preliminary statement" of the European Union entry.<br /><br />
+                <p>&nbsp;</p>
+            </div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Since we have an ambassador who represents the US at the Vatican, why is this entity not listed in the <em>Factbook</em>?</div>
+            <div class='faqAnswer category_data'>Vatican City is found under <a class="Normal" href="../geos/vt.html">Holy
+                    See</a>. The term "Holy See" refers to the authority and sovereignty vested in the Pope and his advisors to direct the worldwide Catholic Church. As the jurisdictional equal of a state, the Holy See can enter into treaties and sends
+                and receives diplomatic representatives. Vatican City, created in 1929 to administer properties belonging to the Holy See in Rome, is recognized under international law as a sovereign state, but it does not send or receive diplomatic representatives.
+                Consequently, Holy See is included as a <em>Factbook</em> entry, with Vatican City cross-referenced in the Geographic Names appendix.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why is Palestine not listed in <em>The World Factbook</em>?</div>
+            <div class='faqAnswer category_data'>The Palestinian areas of <a class="Normal" href="../geos/gz.html">Gaza
+                    Strip</a> and <a class="Normal" href="../geos/we.html">West Bank</a> are listed in the <em>Factbook</em>.
+            </div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why are the Golan Heights not shown as part of Israel or Northern Cyprus with Turkey?</div>
+            <div class='faqAnswer category_data'>Territorial occupations/annexations not recognized by the United States Government are not shown on US Government maps.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why don&rsquo;t you include information on entities such as Tibet or Kashmir?</div>
+            <div class='faqAnswer category_data'>
+                <p><em>The World Factbook</em> provides information on the administrative divisions of a country as recommended by the United States Board on Geographic Names (BGN). The BGN is a component of the US Government that develops policies, principles,
+                    and procedures governing the spelling, use, and application of geographic names - domestic, foreign, Antarctic, and undersea. Its decisions enable all departments and agencies of the US Government to have access to uniform names of
+                    geographic features.</p>
+                <p>Also included in the <em>Factbook</em> are entries on parts of the world whose status has not yet been resolved (e.g., West Bank, Spratly Islands). Specific regions within a country or areas in dispute among countries are not covered.</p>
+            </div>
+        </div>
+        <div>
+            <div class='faqQuestion'>What do you mean when you say that a country is "doubly landlocked"?</div>
+            <div class='faqAnswer category_data'>A doubly landlocked country is one that is separated from an ocean or an ocean-accessible sea by two intervening countries. <a class="Normal" href="../geos/uz.html">Uzbekistan</a> and
+                <a class="Normal" href="../geos/ls.html">Liechtenstein</a> are the only countries that fit this definition.
+            </div>
+        </div>
+        <div>
+            <div class='faqQuestion'>
+                <p>Why is the area of the United States described as "slightly larger than China" in the <em>Factbook </em>, while other sources list China as larger in area than the United States?</p>
+            </div>
+            <div class='faqAnswer category_data'>
+                <p>It all depends on whether one is looking at total area (land and water) when making the comparison (which is the criterion used by the <em>Factbook</em>) or just land area (which excludes inland water features such as rivers and lakes).</p>
+                <p>Total area (combining land and water)</p>
+                <p>United States = 9,826,630 sq km China = 9,596,960 sq km</p>
+                <p>Land only (without any water features)</p>
+                <p>United States = 9,161,923 sq km China = 9,326,410 sq km</p>
+            </div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why has <em>The World Factbook </em> dropped the five French departments of Guadeloupe, Martinique, Mayotte, Reunion, and French Guiana?</div>
+            <div class='faqAnswer category_data'>The five entities are no longer in <em>The World Factbook </em> because their status has changed. While they are overseas departments of France, they are also now recognized as French regions, having equal status to the 22 metropolitan regions
+                that make up European France. In other words, they are now recognized as being part of France proper. Their status is somewhat analogous to Alaska and Hawaii vis-&agrave;-vis the contiguous United States. Although separated from the larger
+                geographic entity, they are still considered to be an integral part of it.</div>
+        </div>
+    </div>
+    <div id="photo">
+        <div>
+            <div class='faqQuestion'>Why do you not have pictures for every country?</div>
+            <div class='faqAnswer category_data'>Inclusion of photos in <em>The World Factbook</em> is a new feature that premiered with the unveiling of the redesigned online <em>World Factbook</em> in June 2009. This is a long-term project, and we plan to continuously add more photos to
+                the site over time. Eventually, we hope to have images for every country in the <em>Factbook</em>.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>I have great travel photos from my trips abroad. Can I submit them to your website to enhance your photo collection?</div>
+            <div class='faqAnswer category_data'>We appreciate the many offers from the public to contribute to our photo collection. However, we only use photos from US Government sources.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Can I use a photo in a report I&rsquo;m writing?</div>
+            <div class='faqAnswer category_data'>Yes! All photos in <em>The World Factbook</em> are in the public domain.</div>
+        </div>
+    </div>
+    <div id="proc">
+        <div>
+            <div class='faqQuestion'>What is <em>The World Factbook&rsquo;s</em> source for a specific subject field?</div>
+            <div class='faqAnswer category_data'>The <em>Factbook</em> staff uses many different sources to publish what we judge are the most reliable and consistent data for any particular category. Space considerations preclude a listing of these various sources.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>The names of some geographic features provided in the <em>Factbook</em> differ from those used in other publications. For example, in Asia the <em>Factbook</em> has Burma as the country name, but in other publications Myanmar is used; also,
+                the <em>Factbook</em> uses Sea of Japan whereas other publications label it East Sea. What is your policy on naming geographic features?
+            </div>
+            <div class='faqAnswer category_data'>The <em>Factbook</em> staff follows the guidance of the United States Board on Geographic Names (BGN). The BGN is the component of the United States Government that develops policies, principles, and procedures governing the spelling, use,
+                and application of geographic names - domestic, foreign, Antarctic, and undersea. Its decisions enable all departments and agencies of the US Government to have access to uniform names of geographic features. The position of the BGN is
+                that the names Burma and Sea of Japan be used in official US Government maps and publications.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why is most of the statistical information in the <em>Factbook</em> given in metric units, rather than the units standard to US measure?</div>
+            <div class='faqAnswer category_data'>US Federal agencies are required by the Metric Conversion Act of 1975 (Public Law 94-168) and by Executive Order 12770 of July 1991 to use the International System of Units, commonly referred to as the metric system or SI. In addition, the
+                metric system is used by over 95% of the world's population.
+            </div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why don&rsquo;t you include information on minimum and maximum temperature extremes?</div>
+            <div class='faqAnswer category_data'>The <em>Factbook</em> staff judges that this information would only be useful for some (generally smaller) countries. Larger countries can have large temperature extremes that do not represent the landmass as a whole.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>What information sources are used for the country flags?</div>
+            <div class='faqAnswer category_data'>Flag designs used in <em>The World Factbook</em> are based on various national and vexillological sources.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why do your GDP (Gross Domestic Product) statistics differ from other sources?</div>
+            <div class='faqAnswer category_data'>We have two sets of GDP dollar estimates in <em>The World Factbook </em>, one derived from purchasing power parity (PPP) calculations and the other derived from official exchange rates (OER). Other sources probably use one of the two. See
+                the <a href="notesanddefs.html">Definitions and Notes</a> section on GDP and GDP methodology for more information.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Some percentage distributions do not add to 100. Why not?</div>
+            <div class='faqAnswer category_data'>
+                <p>Because of rounding, percentage distributions do not always add precisely to 100%. Rounding of numbers always results in a loss of precision - i.e., error. This error becomes apparent when percentage data are totaled, as the following
+                    two examples show:</p>
+                <table style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #7c7c7c;" border="0">
+
+                    <caption>
+                        Demonstration of rounding errors
+                    </caption>
+                    <thead>
+                        <tr>
+                            <th scope="row">
+                                Source
+                            </th>
+                            <th scope="row">
+                                Percent
+                            </th>
+                            <th scope="row">
+                                Total
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="border-bottom: 1px soid #ccc;">&nbsp;</td>
+                            <td style="border-bottom: 1px soid #ccc;"><strong>Original Data</strong>
+                            </td>
+                            <td style="border-bottom: 1px soid #ccc;"><strong>Rounded to a whole
+                                    integer</strong></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Example 1</strong></td>
+                            <td>43.2</td>
+                            <td>43</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>30.4</td>
+                            <td>30</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td style="text-decoration: underline;">26.4</td>
+                            <td style="text-decoration: underline;">26</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td style="color: #333;">100.0</td>
+                            <td style="color: #333;">99</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Example 2</strong></td>
+                            <td>42.8</td>
+                            <td>43</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>31.6</td>
+                            <td>32</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td style="text-decoration: underline;">25.6</td>
+                            <td style="text-decoration: underline;">26</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td style="color: #333;">100.0</td>
+                            <td style="text-decoration: underline; color: #333;">101</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>When this occurs, we do not force the numbers to add exactly to 100, because doing so would introduce additional error into the distribution.</p>
+            </div>
+        </div>
+        <div>
+            <div class='faqQuestion'>What rounding convention does <em>The World Factbook</em> use?</div>
+            <div class='faqAnswer category_data'>In deciding on the number of digits to present, the <em>Factbook</em> staff assesses the accuracy of the original data and the needs of US Government officials. All of the economic data are processed by computer - either at the source or by
+                the <em>Factbook</em> staff. The economic data presented in The <em>Factbook</em>, therefore, follow the rounding convention used by virtually all numerical software applications, namely, any digit followed by a "5" is rounded up to the
+                next higher digit, no matter whether the original digit is even or odd. Thus, for example, when rounded to the nearest integer, 2.5 becomes 3, rather than 2, as occurred in some pre-computer rounding systems.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why do you list "Independence" dates for countries such as France, Germany, and the United Kingdom?
+            </div>
+            <div class='faqAnswer category_data'>For most countries, this entry presents the date that sovereignty was achieved and from which nation, empire, or trusteeship. For other countries, the date may be some other significant nationhood event such as the traditional founding date
+                or the date of unification, federation, confederation, establishment, or state succession and so may not strictly be an "Independence" date. Dependent entities have the nature of their dependency status noted in this same entry.</div>
+        </div>
+    </div>
+    <div id="spell">
+        <div>
+            <div class='faqQuestion'>Why is the spelling of proper names such as rulers, presidents, and prime ministers in
+                <em>The World Factbook</em> different than their spelling in my country?</div>
+            <div class='faqAnswer category_data'>The <em>Factbook</em> staff applies the names and spellings from the
+                <em>Chiefs of State</em> link on the CIA Web site. <em>The World Factbook</em> is prepared using the standard American English computer keyboard and does not use any special characters, symbols, or most diacritical markings in its spellings.
+                Surnames are always spelled with capital letters; they may appear first in some cultures.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why does the spelling of geographic names, features, cities, administrative divisions, etc. in the <em>Factbook</em> differ from those used in my country?</div>
+            <div class='faqAnswer category_data'>The United States Board on Geographic Names (BGN) recommends and approves names and spellings. The BGN is the component of the United States Government that develops policies, principles, and procedures governing the spelling, use, and application
+                of geographic names - domestic, foreign, Antarctic, and undersea. Its decisions enable all departments and agencies of the US Government to use uniform names of geographic features. (A <em>note</em> is usually included where changes may
+                have occurred but have not yet been approved by the BGN). <em>The World Factbook</em> is prepared using the standard American English computer keyboard and does not use any special characters, symbols, or most diacritical markings in its
+                spellings.
+            </div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why does <em>The World Factbook</em> omit pronunciations of country or leader names?
+            </div>
+            <div class='faqAnswer category_data'>There are too many variations in pronunciation among English-speaking countries, not to mention English renditions of non-English names, for pronunciations to be included. American English pronunciations <em>are</em> included for some countries
+                such as <a class="Normal" href="../geos/qa.html">Qatar</a> and <a class="Normal" href="../geos/kr.html">Kiribati</a>.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Why is the name of the Labour party misspelled?</div>
+            <div class='faqAnswer category_data'>When American and British spellings of common English words differ, <em>The
+                        World Factbook</em> always uses the American spelling, even when these common words form part of a proper name in British English.</div>
+        </div>
+    </div>
+    <div id="tech">
+        <div>
+            <div class='faqQuestion'>I am using the<em> Factbook&nbsp;</em>online and it is not working. What is wrong?
+            </div>
+            <div class='faqAnswer category_data'>Hundreds of "<em>Factbook</em>" look-alikes exist on the Internet. You can access <em>The World Factbook</em> at: www,cia.gov, which is the only official site.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>When I attempt to download a PDF (Portable Document Format) map file (or some other map) the file has no image. Can you fix this?</div>
+            <div class='faqAnswer category_data'>Some of the files on <em>The World Factbook</em> website are large and could take several minutes to download on a dial-up connection. The screen might be blank during the download process.</div>
+        </div>
+        <div>
+            <div class='faqQuestion'>When I open a map on <em>The World Factbook</em> site it is fuzzy or granular, or too big or too small. Why?</div>
+            <div class='faqAnswer category_data'>Adjusting the resolution setting on your monitor should correct this problem.
+            </div>
+        </div>
+        <div>
+            <div class='faqQuestion'>Is <em>The World Factbook</em> country data available in machine-readable format? All I can find is HTML, but I'm looking for simple tabular data.</div>
+            <div class='faqAnswer category_data'>The<em> Factbook </em>website now features Country Comparison pages for selected <em>Factbook</em> entries. All of the Country Comparison pages can be downloaded as tab-delimited data files that can be opened in other applications such as
+                spreadsheets and databases.</div>
+        </div>
+    </div>
+
+
+
+
+
+    <script>
+        showDiv('brief')
+
+        function showDiv(name) {
+            // show the div with the class name, hide others
+            console.log("running")
+            var gen = document.getElementById("gen")
+            var geo = document.getElementById("geo")
+            var photo = document.getElementById("photo")
+            var proc = document.getElementById("proc")
+            var spell = document.getElementById("spell")
+            var tech = document.getElementById("tech")
+                // show the div with the class name, hide others
+            if (name == "gen") {
+                gen.style.display = "block"
+                geo.style.display = "none"
+                photo.style.display = "none"
+                proc.style.display = "none"
+                spell.style.display = "none"
+                tech.style.display = "none"
+
+
+            } else if (name == "geo") {
+                gen.style.display = "none"
+                geo.style.display = "block"
+                photo.style.display = "none"
+                proc.style.display = "none"
+                spell.style.display = "none"
+                tech.style.display = "none"
+
+            } else if (name == "photo") {
+                gen.style.display = "none"
+                geo.style.display = "none"
+                photo.style.display = "block"
+                proc.style.display = "none"
+                spell.style.display = "none"
+                tech.style.display = "none"
+
+            } else if (name == "proc") {
+                gen.style.display = "none"
+                geo.style.display = "none"
+                photo.style.display = "none"
+                proc.style.display = "block"
+                spell.style.display = "none"
+                tech.style.display = "none"
+
+            } else if (name == "spell") {
+                gen.style.display = "none"
+                geo.style.display = "none"
+                photo.style.display = "none"
+                proc.style.display = "none"
+                spell.style.display = "block"
+                tech.style.display = "none"
+
+            } else if (name == "tech") {
+                gen.style.display = "none"
+                geo.style.display = "none"
+                photo.style.display = "none"
+                proc.style.display = "none"
+                spell.style.display = "none"
+                tech.style.display = "block"
+
+            }
+
+        }
+    </script>
+
+</body>
+
+
+</body>
+
+</html>

@@ -121,6 +121,7 @@ a {
     background-color: #f2f2f2;
     height: 80px;
     width: 100%;
+    list-style: none;
 }
 
 .nav a:visited {
@@ -155,4 +156,28 @@ nav:hover {
 
 footer:hover {
     background-color: rgba(255, 166, 0, 0.062);
+}
+
+.faqQuestion {
+    margin-top: 80px;
+    background-color: #F9F9F9;
+    border-top: 1px solid #CCCCCC;
+    color: #666666;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    padding-left: 5px;
+    padding: 2px 5px 5px 8px;
+    text-transform: none;
+}
+
+.category_data {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    letter-spacing: 1px;
+    line-height: 16px;
+    vertical-align: middle;
+    padding-left: 10px;
+    color: #707070;
 }
