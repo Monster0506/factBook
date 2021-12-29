@@ -2,7 +2,8 @@
 
 This is a document that will provide the guidelines for the formatting of this project.
 
-Please read this document carefully, and make sure to follow the guidelines, as your pull request will not be accepted without them.
+Please read this document carefully, and make sure to follow the guidelines, as your pull request will not be accepted \
+without them.
 
 ## 1.1. Table of Contents
 
@@ -17,15 +18,16 @@ Please read this document carefully, and make sure to follow the guidelines, as 
 
 ## 1.2. Markdown Formatting Guidelines
 
-Markdown files are the most commonly seen files by a non-constibuer, and as such, should
-be formatted in a specific manner. Please follow these guidelines.
+Markdown files are the most commonly seen files by a non-constibuer, and as such, should be formatted in a specific
+manner. Please follow these guidelines.
 
 Please follow the rules listed in
-[this page](https://github.com/DavidAnson/markdownlint/blob/v0.24.0/doc/Rules.md)
-, however, *try* to follow rule 033, but if necessary, you may break it.
+[this page](https://github.com/DavidAnson/markdownlint/blob/v0.24.0/doc/Rules.md), however, *try* to follow rule 033,
+but if necessary, you may break it.
 
 Also, follow
-[this document](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md), however, if conflicts arise, the first takes precedence.
+[this document](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md), however, if conflicts arise,
+the first takes precedence.
 
 The document layout is as follows:
 
@@ -50,37 +52,37 @@ Short introduction.
 
 Markdown is formatted using section numbers. Section numbers always start with `1.` and are always followed by a space.
 
-Each subsection of the document has an additional number, i.e 1.x., where x is the subsection number. This is expandable, as seen in the [main readme](../README.md#123-license)
+Each subsection of the document has an additional number, i.e 1.x., where x is the subsection number. This is
+expandable, as seen in the [main readme](../README.md#123-license)
 
-For further refrence, use this document as refrence for following acceptable practices.
+For further refrence, use this document as reference for following acceptable practices.
 
 ## 1.3. HTML/CSS Formatting Guidelines
 
-HTML and CSS should both be formatted in a specific way to improve readibility.
-Please follow these conventions
+HTML and CSS should both be formatted in a specific way to improve readibility. Please follow these conventions.
 
 Please *try* to follow the recommendations given in
 [this document](https://google.github.io/styleguide/htmlcssguide.html#CSS).
 
-Also, follow
-[this document](https://github.com/necolas/idiomatic-css), however, if conflicts arise,
-the first takes precedence.
+Also, follow [this document](https://github.com/necolas/idiomatic-css), however, if conflicts arise, the first takes
+precedence.
 
 Please also make sure that the page follows the
 [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist).
 This takes lowest priority, but is a good way to ensure that the page is ready for the frontend.
 
-Each [major HTML tag](majorTags.md) should have a line of whitespace before it, and a line of whitespace after it, and should be on its own line.
+Each [major HTML tag](majorTags.md) should have a line of whitespace before it, and a line of whitespace after it,
+and should be on its own line.
 
 ## 1.4. JavaScript
 
-All code should be written cleanly, as it is often easier to write than to read it. To
-improve readibility, please follow these conventions.
+All code should be written cleanly, as it is often easier to write than to read it. To improve readibility, please
+follow these conventions.
 
 Please follow [this document](https://google.github.io/styleguide/jguide.html) for JS
 styling.
 
-Also, please follow [this document](https://github.com/airbnb/javascript), however, if conflicts arise, the first takes precendence.
+Use comments whenever is neccesary to explain a section of code, however, do not overuse them.
 
 ## 1.5. File Naming
 
@@ -90,10 +92,11 @@ project.
 File and directory names should be lowercase, excluding READMEs, which should be
 UPPERCASE.
 
-Do not change given files to reflect these guides, as it may break links to those pages.
+Unless your filename change updates all links associated with that file, please avoid changing filenames, as this will
+break links.
 
-Hypens should be used instead of underscores to denotate spaces. Camel case is also
-acceptable (i.e. majorTags.md)
+Hyphens should be used instead of underscores to denotate spaces. Camel case is also acceptable (i.e. majorTags.md),
+but Pascal case is not.
 
 Do not use non-standered english characters in filenames.
 
@@ -101,22 +104,29 @@ Try to avoid generic filenames.
 
 Try to stick to a consistant style of spelling.
 
-Both suffixing and prefixing numbers are acceptable, however, start at `0`. If there
-are going to be more than 10 of the numbered file, pad with a left `0`.
+Both suffixing and prefixing numbers are acceptable, however, start at `0`. If there are going to be more than 10 of
+the numbered file, pad with a left `0`.
 
 ## 1.6. Pull request formatting
 
-This is a simple style to follow. The first word of a sentance should be capilitsed.
-If there is more than one sentance, suffix only the first sentance with a full stop`.`
+This is a simple style to follow. The first word of a sentance should be capilitsed. If there is more than one sentance,
+suffix only the first sentance with a full stop`.`
 
-If something is changed or modified, prefix with `update`.
+If something is changed or modified, prefix with `Update`.
+
+If something is removed, prefix with `Delete`.'
+
+If something is added, prefix with `Add`.
+
+There is a lot of leeway in this set of guidelines, so simply follow the rule that
+`Add sentance case. Remove sentance case. Update sentance case` looks like the previous block of code.
 
 ## 1.7. Further Guidelines
 
-Please use the [.editorconfig file](.editorconfig) to set your editor preferences. It is
-located
+Please use the [.editorconfig file](.editorconfig) to set your editor preferences. It is located in both this folder,
+and in the root of the project [(here)](../.editorconfig)
 
-__DO NOT USE EMOTICONS IN ANY FILE, FORK, PULL REQUEST, OR ANYTHING ELSE.__ This is
-considered to be an unforgivable crime in the style of the project.
+__PLEASE DO NOT USE EMOTICONS IN ANY FILE, FORK, PULL REQUEST, OR ANYTHING ELSE.__ This is considered to be an
+unforgivable crime in the style of the project.
 
 The recommended line length is 120 characters.
