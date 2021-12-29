@@ -1,0 +1,163 @@
+.flag-image img {
+    bottom: 0;
+    height: auto;
+    left: 0;
+    margin: auto;
+    max-height: 90px;
+    max-width: 100px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto;
+}
+
+.flag img {
+    display: inline-block;
+}
+
+img {
+    vertical-align: middle;
+}
+
+img {
+    border-style: none;
+}
+
+img,
+object,
+embed,
+video {
+    border: 0 none;
+    display: block;
+    max-width: 100%;
+}
+
+img {
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+    vertical-align: middle;
+}
+
+.flag {
+    background-image: url(../images/flags_bkgrnd.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: list-item;
+    float: left;
+    list-style-type: none;
+    width: 150px;
+    height: 160px;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.flag-description span {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.flag-description {
+    color: #999;
+    display: table;
+    font-size: 10px;
+    font-weight: bold;
+    height: 30px;
+    letter-spacing: 0.07px;
+    line-height: 1.2em;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    width: 150px;
+}
+
+.flag-image {
+    height: 97px;
+    position: relative;
+}
+
+body,
+form,
+fieldset,
+legend,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div {
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-list {
+    border-top: 2px solid silver;
+}
+
+.flag .flag-links a {
+    display: inline-block;
+    height: 22px;
+    color: #999;
+    font-size: 10px;
+    font-weight: bold;
+    padding-top: 3px;
+    text-transform: uppercase;
+    width: 65px;
+    z-index: 15;
+}
+
+.flag .flag-btn {
+    background: url('../images/flag_button_bkg.jpg') no-repeat scroll 0 0 transparent;
+}
+
+.cntryModal .photogallery_captiontext {
+    max-height: 390px;
+    background-color: white;
+    color: #707070;
+    letter-spacing: 1px;
+    line-height: 16px;
+    margin-bottom: 12px;
+}
+
+.cntryModal .photogallery_captiontext {
+    max-height: 285px;
+}
+
+.cntryModal .photogallery_captiontext {
+    max-height: 285px;
+}
+
+.photogallery_captiontext {
+    height: 377px;
+    padding: 5px 5px 0;
+}
+
+.eur_dark {
+    background-image: url(../images/eur_dark.jpg);
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.region1,
+.daily_fact {
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-left: 5px;
+    color: #FFFFFF;
+    letter-spacing: 0.7px;
+}
+
+.eur_dark {
+    background-image: url(../images/eur_dark.jpg);
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.eur_lgflagborder {
+    border: 2px solid #f1e3d0;
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+}

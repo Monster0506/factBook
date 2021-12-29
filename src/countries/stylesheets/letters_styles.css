@@ -1,0 +1,106 @@
+.ln-letters a {
+    font-size: 0.9em;
+    display: block;
+    float: left;
+    padding: 2px 6px;
+    border: 1px solid silver;
+    border-right: none;
+    text-decoration: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+}
+
+a {
+    outline: 0;
+    outline: none;
+}
+
+.ln-letters {
+    overflow: hidden;
+    margin-right: 0px;
+    margin-top: 5px;
+    float: right;
+    font-weight: bold;
+}
+
+.reference {
+    background-image: url(../images/gold_gradiant.gif);
+    line-height: 25px;
+    margin-left: 0;
+    text-align: left;
+}
+
+.region {
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-left: 5px;
+    color: #666666;
+    margin-left: 2px;
+    letter-spacing: 0.7px;
+}
+
+body,
+form,
+fieldset,
+legend,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div {
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+body,
+form,
+fieldset,
+legend,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div {
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+a:hover,
+a:focus,
+.ln-letters a.ln-selected {
+    background-color: #eaeaea;
+}
+
+.wfb-text-box {
+    clear: both;
+}
+
+.ln-letters {
+    overflow: hidden;
+    margin-right: 0px;
+    margin-top: 5px;
+    float: right;
+    font-weight: bold;
+}
+
+.alpha {
+    background-image: url("../images/navback.gif");
+    background-position: right top;
+    background-repeat: no-repeat;
+    border-left: 1px solid #ccc;
+    color: #436976;
+    font-size: 16px;
+    font-weight: bold;
+    height: 15px;
+    padding: 7px 2px 0 0;
+    text-align: center;
+    width: 44px;
+}
