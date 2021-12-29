@@ -2,7 +2,7 @@
 
 This is a document that will provide the guidelines for the formatting of this project.
 
-Please read this document carefully, and make sure to follow the guidelines, as your pull request will not be accepted \
+Please read this document carefully, and make sure to follow the guidelines, as your pull request will not be accepted
 without them.
 
 ## 1.1. Table of Contents
@@ -44,13 +44,14 @@ Short introduction.
 # 1.x. Other Headings
 ```
 
-1. `# 1.Document Title` is the title of the document.
-2. `Short introduction.` is a short introduction to the document, in 1-3 sentances.
-3. `## 1.1. Table of Contents` is the title of the table of contents section.
-4. `- 1.Document Title ETC.` is the table of contents.
-5. `# 1.x. Other Headings` is the title of the other headings section.
+1. "`# 1.Document Title`" is the title of the document.
+2. "`Short introduction.`" is a short introduction to the document, in 1-3 sentances.
+3. "`## 1.1. Table of Contents`" is the title of the table of contents section.
+4. "`- 1.Document Title ETC.`" is the table of contents.
+5. "`# 1.x. Other Headings`" is the title of the other headings section.
 
-Markdown is formatted using section numbers. Section numbers always start with `1.` and are always followed by a space.
+Markdown is formatted using section numbers. Section numbers always start with "`1.`" and are always followed by a
+space.
 
 Each subsection of the document has an additional number, i.e 1.x., where x is the subsection number. This is
 expandable, as seen in the [main readme](../README.md#123-license)
@@ -104,22 +105,24 @@ Try to avoid generic filenames.
 
 Try to stick to a consistant style of spelling.
 
-Both suffixing and prefixing numbers are acceptable, however, start at `0`. If there are going to be more than 10 of
-the numbered file, pad with a left `0`.
+Both suffixing and prefixing numbers are acceptable, however, start at "`0`" . If there are going to be more than 10 of
+the numbered file, pad with a left "`0`".
 
 ## 1.6. Pull request formatting
 
 This is a simple style to follow. The first word of a sentance should be capilitsed. If there is more than one sentance,
-suffix only the first sentance with a full stop`.`
+suffix only the first sentance with a full stop "`.`"
 
-If something is changed or modified, prefix with `Update`.
+If something is changed or modified, prefix with "`Update`".
 
-If something is removed, prefix with `Delete`.'
+If something is removed, prefix with "`Delete`".
 
-If something is added, prefix with `Add`.
+If something is added, prefix with "`Add`".
+
+File names should be correct, including capitalization, and should not have the extention, unless there are other files with the same name. Suffix with "`in [directory]`".
 
 There is a lot of leeway in this set of guidelines, so simply follow the rule that
-`Add sentance case. Remove sentance case. Update sentance case` looks like the previous block of code.
+"`Add sentance case. Remove sentance case. Update sentance case`" looks like the previous block of code.
 
 ## 1.7. Further Guidelines
 
