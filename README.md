@@ -2,13 +2,13 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/monster0506/factBook) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/monster0506/factBook) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/monster0506/factBook) [![GitHub license](https://img.shields.io/github/license/monster0506/factBook)](https://github.com/Monster0506/factBook/blob/master/LICENSE) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/monster0506/factbook)
 
-This is a world factbook edit by Monster0506.
+This is a FactBook/Knowledge Base by Monster0506. It contains a large amount of information in a convenently accessable index. This information includes the CIA World Factbook, information on past events, taken from the (code.org)[code.org]
 
-It was created by Monster0506, and modified by 24tr6637.
+Created by Monster0506. 
 
 ## 1.1. Main Notes
 
-Main section notes.
+Main section information.
 
 ### 1.1.1. Table of Contents
 
@@ -36,7 +36,7 @@ __N.B. THIS DOES NOT MODIFY THE ACTUAL CONTENT OF THE WORLDFACTBOOK.__
 
 The intention of this project is to simply provide a simple way to open and access the documents provided by the CIA.
 
-This also provides all of the original documents, in the ["old"](src/old/) folder.
+This also provides all of the original documents, in the ["old"](src/countries/old/) folder.
 
 This is a work in progress, so please be patient and feel free to create a pull request if you feel something is lacking.
 
@@ -73,7 +73,6 @@ This is a work in progress, so please be patient and feel free to create a pull 
 - [@24tr6637](https://github.com/24tr6637)
 - [Monster0506](https://github.com/Monster0506)
 - [Water.css](https://watercss.kognise.dev) [(github)](https://github.com/kognise/water.css)
-
 - [CIA Factbook](https://www.cia.gov/the-world-factbook)
 
 ### 1.2.3. License
@@ -84,7 +83,7 @@ See [LICENSE](LICENSE) for more information.
 
 ### 1.2.4. Modifications/Contributions
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information. Also, follow the [Code of Conduct](#125-code-of-conduct)
 
 ### 1.2.5. Code of Conduct
 

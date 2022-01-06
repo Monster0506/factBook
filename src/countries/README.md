@@ -32,12 +32,13 @@ There are several files and folders in this directory, and a summary of each is 
     - [Original](attachments/pdfs/original) - PDF of country
   - [summaries](attachments/) - One page summaries of each country
   - [travel](attachments/) - Travel facts for each country.
-- [docs](docs/) - Micelanious files. Mostly ways to access other files
+- [docs](docs/) - Miscellaneous files. Mostly ways to access other files
 - [fonts](fonts/) - Fonts used for the factBook
 - [geos](geos/) - Actual country pages
 - [images](images/) - Image files and resources
 - [javascripts](javascripts/) - Contains most scripts used in the site
+- [old](old/) - Contains the original factbook files.
 - [stylesheets](stylesheets/) - Contains the styles for each page
 - [index](index.html) - The main page of the site
 - [README](#1-countries) - This file
-- [wfb.css] - Main styles for the factBook
+- [wfb.css](wfb.css) - Main styles for the factBook
