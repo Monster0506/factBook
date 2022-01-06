@@ -61,6 +61,8 @@ This is a work in progress, so please be patient and feel free to create a pull 
 
 ## 1.2. Other Information
 
+Other useful notes about the FactBook.
+
 ### 1.2.1. To install/use
 
 - Clone the repository to your computer.
@@ -75,6 +77,15 @@ This is a work in progress, so please be patient and feel free to create a pull 
 - [Water.css](https://watercss.kognise.dev) [(github)](https://github.com/kognise/water.css)
 - [CIA Factbook](https://www.cia.gov/the-world-factbook)
 
+### TODO
+
+A section of tasks to complete.
+
+- Add Header Numbers to each md file and update table of contents in each as well
+- Add dataset viewer
+- Update about in Github
+- ~~~Add README style to filename conventions~~~
+
 ### 1.2.3. License
 
 Licensed under Creative Commons Attribution Share Alike 4.0 International.
@@ -83,7 +94,7 @@ See [LICENSE](LICENSE) for more information.
 
 ### 1.2.4. Modifications/Contributions
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information. Also, follow the [Code of Conduct](#125-code-of-conduct)
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information. Also, follow the [Code of Conduct](#125-code-of-conduct).
 
 ### 1.2.5. Code of Conduct
 

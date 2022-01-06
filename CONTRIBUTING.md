@@ -23,8 +23,11 @@ You can contribute to this project in many ways.
 - Write documentation.
 - Add new features.
 - Fix bugs.
-- Create an Issue.
+- Create an issue.
 - Translate files.
+- Suggest datasets
+- Implement datasets
+- Promote the FactBook
 
 ## READMEs
 
@@ -33,5 +36,5 @@ In addition to the README you're reading right now, this repo includes other REA
 - [README.md](README.md)
 - [style/README.md](style/README.md)
 - [style/majorTags.md](style/majorTags.md)
-- [countries/README.md](src/countries/README.md)
-- [old/README.md](src/old/README.md)
+- [src/countries/README.md](src/countries/README.md)
+- [src/countries/old/README.md](src/old/README.md)

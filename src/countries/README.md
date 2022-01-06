@@ -38,6 +38,7 @@ There are several files and folders in this directory, and a summary of each is 
 - [images](images/) - Image files and resources
 - [javascripts](javascripts/) - Contains most scripts used in the site
 - [old](old/) - Contains the original factbook files.
+  - Contains similar files to this one.
 - [stylesheets](stylesheets/) - Contains the styles for each page
 - [index](index.html) - The main page of the site
 - [README](#1-countries) - This file

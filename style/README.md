@@ -90,8 +90,9 @@ Use comments whenever is neccesary to explain a section of code, however, do not
 File naming is a very specific convention, and is important for the continuity of a
 project.
 
-File and directory names should be lowercase, excluding READMEs, which should be
-UPPERCASE.
+File and directory names should be lowercase.
+
+All README files should be uppercase and in Markdown.
 
 Unless your filename change updates all links associated with that file, please avoid changing filenames, as this will
 break links.
@@ -101,12 +102,14 @@ but Pascal case is not.
 
 Do not use non-standered english characters in filenames.
 
-Try to avoid generic filenames.
+Try to avoid generic filenames such as "`document`" or "`file`".
 
-Try to stick to a consistant style of spelling.
+Try to stick to a consistant style of spelling, i.e. en-US, en-GB, en-AU, etc.
 
 Both suffixing and prefixing numbers are acceptable, however, start at "`0`" . If there are going to be more than 10 of
 the numbered file, pad with a left "`0`".
+
+Avoid special characters like "`.`" and "`#`".
 
 ## 1.6. Pull request formatting
 
@@ -132,4 +135,4 @@ and in the root of the project [(here)](../.editorconfig)
 __PLEASE DO NOT USE EMOTICONS IN ANY FILE, FORK, PULL REQUEST, OR ANYTHING ELSE.__ This is considered to be an
 unforgivable crime in the style of the project.
 
-The recommended line length is 120 characters.
+The recommended maximum line length is 120 characters.
