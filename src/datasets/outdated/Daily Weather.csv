@@ -1,0 +1,611 @@
+id,State,City,Forecast Number,Date,Main Condition,Condition Description,Icon,Low Temperature,High Temperature,Humidity Percentage,Wind MPH,Wind Direction,Rain Inches,Snow Inches,Pressure,Cloud Percent,UTC Timestamp,Timezone Offset
+1,Alaska,Anchorage,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,0.3,11.75,90,15,N,0,0,999,100,1638219600,-32400
+2,Alaska,Anchorage,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,12.18,17.69,84,11,N,0,0,982,100,1638306000,-32400
+3,Alaska,Anchorage,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,11.91,18.03,90,9,N,0,0,999,92,1638392400,-32400
+4,Alaska,Anchorage,4,Thu 12/2,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,-1.12,11.57,78,10,N,0,0.37,1020,20,1638478800,-32400
+5,Alaska,Anchorage,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,-4.58,-1.71,87,6,N,0,0,1025,29,1638565200,-32400
+6,Alaska,Fairbanks,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,-24.18,-13.16,89,4,N,0,0,1009,96,1638219600,-32400
+7,Alaska,Fairbanks,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,-12.69,-2.81,83,5,N,0,0,997,100,1638306000,-32400
+8,Alaska,Fairbanks,3,Wed 12/1,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,-11.52,-5.94,94,3,W,0,1.28,1008,100,1638392400,-32400
+9,Alaska,Fairbanks,4,Thu 12/2,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,-24.34,-6.2,92,3,NW,0,0.65,1032,100,1638478800,-32400
+10,Alaska,Fairbanks,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,-27.92,-24.74,95,4,NE,0,0,1034,6,1638565200,-32400
+11,Alaska,Juneau,1,Mon 11/29,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,28.72,32.13,84,10,S,0,9.01,1008,100,1638216000,-32400
+12,Alaska,Juneau,2,Tue 11/30,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,27.07,32.49,89,8,NE,0,20.16,988,100,1638302400,-32400
+13,Alaska,Juneau,3,Wed 12/1,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,29.46,35.55,97,11,S,0,26.11,999,100,1638388800,-32400
+14,Alaska,Juneau,4,Thu 12/2,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,23.49,29.39,93,5,NE,0,18.07,1009,100,1638475200,-32400
+15,Alaska,Juneau,5,Fri 12/3,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,17.98,22.86,94,6,NE,0,4.04,1022,100,1638561600,-32400
+16,Colorado,Denver/Boulder,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,47.89,70.14,18,13,SW,0,0,1014,16,1638208800,-25200
+17,Colorado,Denver/Boulder,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,37.99,62.37,31,11,SW,0,0,1019,17,1638295200,-25200
+18,Colorado,Denver/Boulder,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.79,68.02,18,10,SW,0,0,1016,6,1638381600,-25200
+19,Colorado,Denver/Boulder,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.97,63.79,21,10,SW,0,0,1015,1,1638468000,-25200
+20,Colorado,Denver/Boulder,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,41.36,58.24,25,9,SW,0,0,1013,0,1638554400,-25200
+21,Colorado,Grand Junction,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,41.9,58.42,30,4,NW,0,0,1022,0,1638212400,-25200
+22,Colorado,Grand Junction,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,41.81,59.14,30,4,E,0,0,1022,2,1638298800,-25200
+23,Colorado,Grand Junction,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,42.13,59.13,27,4,SE,0,0,1025,1,1638385200,-25200
+24,Colorado,Grand Junction,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.41,59.07,27,4,W,0,0,1021,0,1638471600,-25200
+25,Colorado,Grand Junction,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,41.83,57.4,30,4,W,0,0,1019,0,1638558000,-25200
+26,Colorado,Pueblo,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,45.36,70.77,20,7,W,0,0,1015,1,1638208800,-25200
+27,Colorado,Pueblo,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,43.09,60.62,31,8,S,0,0,1021,15,1638295200,-25200
+28,Colorado,Pueblo,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,41.38,63.7,17,5,E,0,0,1019,3,1638381600,-25200
+29,Colorado,Pueblo,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.38,67.33,16,6,E,0,0,1015,0,1638468000,-25200
+30,Colorado,Pueblo,5,Fri 12/3,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,43.74,64.58,20,8,W,0,0,1012,17,1638554400,-25200
+31,Illinois,Chicago,1,Mon 11/29,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,29.14,39.81,34,14,S,0,0.14,1018,98,1638205200,-21600
+32,Illinois,Chicago,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,31.57,47.3,60,9,W,0,0,1018,78,1638291600,-21600
+33,Illinois,Chicago,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,38.73,51.64,62,14,SW,1.24,0,1009,77,1638378000,-21600
+34,Illinois,Chicago,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,41.52,55.31,54,13,SW,0,0,1009,100,1638464400,-21600
+35,Illinois,Chicago,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,38.35,47.73,56,9,E,0,0,1017,2,1638550800,-21600
+36,Illinois,Lincoln,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,30.15,47.84,38,16,S,0,0,1018,92,1638205200,-21600
+37,Illinois,Lincoln,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,36.28,49.77,60,9,NW,0,0,1020,99,1638291600,-21600
+38,Illinois,Lincoln,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,41.5,57.56,59,16,SW,0.24,0,1012,42,1638378000,-21600
+39,Illinois,Lincoln,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,44.62,63.09,41,14,W,0,0,1012,67,1638464400,-21600
+40,Illinois,Lincoln,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.08,60.91,57,9,E,0,0,1014,0,1638550800,-21600
+41,Indiana,Indianapolis,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,29.7,42.69,27,13,S,0,0,1021,50,1638205200,-18000
+42,Indiana,Indianapolis,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,35.22,49.35,58,12,S,0,0,1018,98,1638291600,-18000
+43,Indiana,Indianapolis,3,Wed 12/1,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,39.58,51.93,80,10,SW,6.68,0,1013,95,1638378000,-18000
+44,Indiana,Indianapolis,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,42.42,58.93,50,14,SW,0,0,1011,58,1638464400,-18000
+45,Indiana,Indianapolis,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,42.89,56.1,55,7,E,0,0,1016,0,1638550800,-18000
+46,Indiana,Northern Indiana,1,Mon 11/29,Snow,rain and snow,http://openweathermap.org/img/wn/13d@2x.png,28.26,38.66,36,13,SE,0.48,1.17,1019,98,1638205200,-18000
+47,Indiana,Northern Indiana,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,31.1,44.38,73,13,W,0,0,1016,26,1638291600,-18000
+48,Indiana,Northern Indiana,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,34.79,47.64,84,14,SW,0.45,0,1010,100,1638378000,-18000
+49,Indiana,Northern Indiana,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,39.83,53.42,60,20,SW,0,0,1007,100,1638464400,-18000
+50,Indiana,Northern Indiana,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,35.56,45.36,54,11,E,0,0,1018,6,1638550800,-18000
+51,Iowa,Davenport/Quad Cities,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,30.18,49.33,42,17,S,0,0,1014,100,1638205200,-21600
+52,Iowa,Davenport/Quad Cities,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,34.25,51.64,57,10,NW,0,0,1020,62,1638291600,-21600
+53,Iowa,Davenport/Quad Cities,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,42.26,53.89,55,14,W,1.69,0,1010,42,1638378000,-21600
+54,Iowa,Davenport/Quad Cities,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,44.42,59.09,49,14,SW,0,0,1011,62,1638464400,-21600
+55,Iowa,Davenport/Quad Cities,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,38.07,52.07,50,12,E,0,0,1015,0,1638550800,-21600
+56,Iowa,Des Moines,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,35.28,60.62,43,12,S,0,0,1009,93,1638208800,-21600
+57,Iowa,Des Moines,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,41.81,54.57,48,8,S,0,0,1019,78,1638295200,-21600
+58,Iowa,Des Moines,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,46.26,55.83,42,13,SW,0,0,1013,63,1638381600,-21600
+59,Iowa,Des Moines,4,Thu 12/2,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,48.36,63.1,41,12,SW,0,0,1012,39,1638468000,-21600
+60,Iowa,Des Moines,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,42.55,57.31,58,10,E,0,0,1012,0,1638554400,-21600
+61,Kansas,Dodge City,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.99,75.47,19,12,W,0,0,1015,0,1638208800,-21600
+62,Kansas,Dodge City,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,45.77,62.37,37,16,N,0,0,1018,18,1638295200,-21600
+63,Kansas,Dodge City,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,44.98,67.91,27,10,SW,0,0,1019,54,1638381600,-21600
+64,Kansas,Dodge City,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.69,73.49,20,13,S,0,0,1015,0,1638468000,-21600
+65,Kansas,Dodge City,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,49.51,67.93,20,14,N,0,0,1009,99,1638554400,-21600
+66,Kansas,Goodland,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.69,71.62,22,12,W,0,0,1015,2,1638208800,-25200
+67,Kansas,Goodland,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.13,55.89,41,17,NW,0,0,1020,4,1638295200,-25200
+68,Kansas,Goodland,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,40.69,68.45,17,11,SW,0,0,1018,57,1638381600,-25200
+69,Kansas,Goodland,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,49.23,71.56,18,9,W,0,0,1014,1,1638468000,-25200
+70,Kansas,Goodland,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,40.69,61.9,31,19,N,0,0,1011,2,1638554400,-25200
+71,Kansas,Topeka,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,42.12,70,30,13,SW,0,0,1013,1,1638208800,-21600
+72,Kansas,Topeka,2,Tue 11/30,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,45.95,56.01,62,12,NE,0.72,0,1020,99,1638295200,-21600
+73,Kansas,Topeka,3,Wed 12/1,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,43.84,63.64,39,11,W,0,0,1017,35,1638381600,-21600
+74,Kansas,Topeka,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.49,73.04,28,12,SW,0,0,1015,0,1638468000,-21600
+75,Kansas,Topeka,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,49.82,69.75,65,11,S,0,0,1010,50,1638554400,-21600
+76,Kansas,Wichita,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.63,71.4,27,11,S,0,0,1015,0,1638208800,-21600
+77,Kansas,Wichita,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,48.16,62.94,42,16,NE,0,0,1018,39,1638295200,-21600
+78,Kansas,Wichita,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,45.68,66.15,31,7,W,0,0,1019,51,1638381600,-21600
+79,Kansas,Wichita,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.14,70.63,30,11,S,0,0,1016,0,1638468000,-21600
+80,Kansas,Wichita,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,52.75,70.2,61,10,S,0,0,1009,99,1638554400,-21600
+81,Kentucky,Jackson,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,27.19,41.43,41,6,NW,0,0,1023,43,1638205200,-18000
+82,Kentucky,Jackson,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,32.02,53.19,59,10,SW,0,0,1019,23,1638291600,-18000
+83,Kentucky,Jackson,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,42.37,52.79,72,10,SW,0.7,0,1015,100,1638378000,-18000
+84,Kentucky,Jackson,4,Thu 12/2,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,46.56,61.07,56,13,SW,0,0,1014,36,1638464400,-18000
+85,Kentucky,Jackson,5,Fri 12/3,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,45.03,61.54,56,6,SW,0,0,1017,12,1638550800,-18000
+86,Kentucky,Louisville,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,28.85,44.78,31,11,S,0,0,1023,29,1638205200,-18000
+87,Kentucky,Louisville,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,36.16,52.9,66,11,S,0,0,1018,45,1638291600,-18000
+88,Kentucky,Louisville,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,44.37,56.35,88,8,SW,2.16,0,1015,100,1638378000,-18000
+89,Kentucky,Louisville,4,Thu 12/2,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,43.84,61.92,50,14,SW,0,0,1013,35,1638464400,-18000
+90,Kentucky,Louisville,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,45.88,61.45,58,5,S,0,0,1016,42,1638550800,-18000
+91,Kentucky,Paducah,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,31.59,50.52,32,13,S,0,0,1023,39,1638205200,-21600
+92,Kentucky,Paducah,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,40.95,58.46,57,12,SW,0,0,1019,41,1638291600,-21600
+93,Kentucky,Paducah,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,45.48,62.71,59,10,SW,0,0,1015,56,1638378000,-21600
+94,Kentucky,Paducah,4,Thu 12/2,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,46.24,66.42,43,14,SW,0,0,1016,15,1638464400,-21600
+95,Kentucky,Paducah,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,50.43,67.84,66,10,S,0,0,1015,100,1638550800,-21600
+96,Michigan,Detroit/Pontiac,1,Mon 11/29,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,24.19,33.22,81,11,W,0,3.3,1019,39,1638205200,-18000
+97,Michigan,Detroit/Pontiac,2,Tue 11/30,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,25.88,34.25,98,14,W,0,1.8,1014,43,1638291600,-18000
+98,Michigan,Detroit/Pontiac,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,29.68,37.29,98,10,SW,0.85,0,1011,100,1638378000,-18000
+99,Michigan,Detroit/Pontiac,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,33.42,46.9,75,19,W,0,0,1002,100,1638464400,-18000
+100,Michigan,Detroit/Pontiac,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,30.34,35.92,64,8,W,0,0,1020,97,1638550800,-18000
+101,Michigan,Gaylord,1,Mon 11/29,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,21.87,30.85,81,9,SW,0,2.56,1016,81,1638205200,-18000
+102,Michigan,Gaylord,2,Tue 11/30,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,24.39,34.56,97,15,W,0,0.41,1011,100,1638291600,-18000
+103,Michigan,Gaylord,3,Wed 12/1,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,22.33,30.34,98,8,SE,0,8.23,1007,100,1638378000,-18000
+104,Michigan,Gaylord,4,Thu 12/2,Snow,rain and snow,http://openweathermap.org/img/wn/13d@2x.png,25,35.56,96,20,W,0.11,0.42,1001,97,1638464400,-18000
+105,Michigan,Gaylord,5,Fri 12/3,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,22.01,27.25,79,7,SE,0,0.1,1021,99,1638550800,-18000
+106,Michigan,Grand Rapids,1,Mon 11/29,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,24.58,37.63,60,12,S,0,6.2,1018,99,1638205200,-18000
+107,Michigan,Grand Rapids,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,23.29,36.84,98,14,W,0,0,1015,15,1638291600,-18000
+108,Michigan,Grand Rapids,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,28.87,41.41,93,14,S,1.16,0,1008,100,1638378000,-18000
+109,Michigan,Grand Rapids,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,33.67,47.84,72,19,W,0,0,1005,73,1638464400,-18000
+110,Michigan,Grand Rapids,5,Fri 12/3,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,31.44,35.4,79,8,E,0,0.24,1020,97,1638550800,-18000
+111,Michigan,Marquette,1,Mon 11/29,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,19.35,30.25,61,8,S,0,2.42,1013,100,1638205200,-18000
+112,Michigan,Marquette,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,21.63,35.11,79,14,W,0,0,1011,91,1638291600,-18000
+113,Michigan,Marquette,3,Wed 12/1,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,21.67,29.1,81,6,S,0,2.17,1009,99,1638378000,-18000
+114,Michigan,Marquette,4,Thu 12/2,Snow,rain and snow,http://openweathermap.org/img/wn/13d@2x.png,26.74,35.47,73,18,W,0.23,1.24,1005,77,1638464400,-18000
+115,Michigan,Marquette,5,Fri 12/3,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,23.85,27.77,70,6,SE,0,0.78,1021,91,1638550800,-18000
+116,Minnesota,Duluth,1,Mon 11/29,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,25.25,30.9,91,8,SE,0,3.09,1009,100,1638205200,-21600
+117,Minnesota,Duluth,2,Tue 11/30,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,25.25,32.72,65,12,W,0,0.4,1018,97,1638291600,-21600
+118,Minnesota,Duluth,3,Wed 12/1,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,25.92,30.56,86,8,NE,0,8.55,1010,99,1638378000,-21600
+119,Minnesota,Duluth,4,Thu 12/2,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,23.83,35.01,75,15,W,0,0,1011,48,1638464400,-21600
+120,Minnesota,Duluth,5,Fri 12/3,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,20.86,29.75,82,7,E,0,1.08,1018,87,1638550800,-21600
+121,Minnesota,Chanhassen/Twin Cities,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,31.75,45.64,61,12,W,0,0,1006,85,1638208800,-21600
+122,Minnesota,Chanhassen/Twin Cities,2,Tue 11/30,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,31.69,40.41,55,9,NW,0.89,0,1019,15,1638295200,-21600
+123,Minnesota,Chanhassen/Twin Cities,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,36.12,41.38,75,10,W,1.66,0,1011,67,1638381600,-21600
+124,Minnesota,Chanhassen/Twin Cities,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,36.66,42.8,67,12,NW,0,0,1014,98,1638468000,-21600
+125,Minnesota,Chanhassen/Twin Cities,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,33.01,40.06,62,8,NE,0,0,1016,100,1638554400,-21600
+126,Missouri,Kansas City/Pleasant Hill,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,39.78,64.51,39,15,S,0,0,1014,2,1638208800,-21600
+127,Missouri,Kansas City/Pleasant Hill,2,Tue 11/30,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,43.48,53.4,59,8,N,0.92,0,1021,100,1638295200,-21600
+128,Missouri,Kansas City/Pleasant Hill,3,Wed 12/1,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,42.67,61.29,48,9,W,0,0,1016,13,1638381600,-21600
+129,Missouri,Kansas City/Pleasant Hill,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.36,69.87,34,13,SW,0,0,1015,1,1638468000,-21600
+130,Missouri,Kansas City/Pleasant Hill,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,49.42,68.32,71,12,S,0,0,1010,62,1638554400,-21600
+131,Missouri,Springfield,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,37.81,60.53,42,16,SW,0,0,1017,2,1638208800,-21600
+132,Missouri,Springfield,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,43.95,60.13,48,9,NE,0,0,1018,77,1638295200,-21600
+133,Missouri,Springfield,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.53,61.56,51,11,W,0,0,1017,3,1638381600,-21600
+134,Missouri,Springfield,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.8,67.06,43,13,SW,0,0,1018,0,1638468000,-21600
+135,Missouri,Springfield,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,52.75,71.37,71,13,S,0.53,0,1012,100,1638554400,-21600
+136,Missouri,St. Louis,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,35.44,58.19,38,14,S,0,0,1018,64,1638205200,-21600
+137,Missouri,St. Louis,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,41.94,51.57,63,9,SW,0,0,1021,87,1638291600,-21600
+138,Missouri,St. Louis,3,Wed 12/1,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,46.31,62.44,50,11,SW,0,0,1014,20,1638378000,-21600
+139,Missouri,St. Louis,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.91,68.49,34,13,SW,0,0,1014,8,1638464400,-21600
+140,Missouri,St. Louis,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,49.3,67.3,66,7,S,0.82,0,1013,85,1638550800,-21600
+141,Nebraska,Hastings,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,46.11,69.91,27,12,NW,0,0,1013,15,1638208800,-21600
+142,Nebraska,Hastings,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,44.91,57.99,49,10,N,0,0,1020,63,1638295200,-21600
+143,Nebraska,Hastings,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,44.01,66.42,28,14,SW,0,0,1016,78,1638381600,-21600
+144,Nebraska,Hastings,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,51.33,73.09,25,10,SW,0,0,1013,1,1638468000,-21600
+145,Nebraska,Hastings,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,49.33,64.22,26,14,N,0,0,1009,0,1638554400,-21600
+146,Nebraska,North Platte,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,44.76,67.21,28,11,W,0,0,1014,21,1638208800,-21600
+147,Nebraska,North Platte,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,42.67,55.85,57,12,W,0,0,1019,17,1638295200,-21600
+148,Nebraska,North Platte,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,42.75,67.96,21,17,SW,0,0,1016,82,1638381600,-21600
+149,Nebraska,North Platte,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,49.14,71.8,24,10,SW,0,0,1013,1,1638468000,-21600
+150,Nebraska,North Platte,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,45.88,60.66,40,19,N,0,0,1012,0,1638554400,-21600
+151,Nebraska,Omaha/Valley,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,39.99,68.74,36,15,W,0,0,1010,88,1638208800,-21600
+152,Nebraska,Omaha/Valley,2,Tue 11/30,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,42.49,54.64,66,11,S,1.24,0,1020,88,1638295200,-21600
+153,Nebraska,Omaha/Valley,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,43.75,61.43,35,11,S,0,0,1014,57,1638381600,-21600
+154,Nebraska,Omaha/Valley,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,51.3,69.71,32,10,SW,0,0,1013,2,1638468000,-21600
+155,Nebraska,Omaha/Valley,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.85,62.35,36,13,N,0,0,1010,2,1638554400,-21600
+156,North Dakota,Bismarck,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,40.44,50.13,56,11,NW,0,0,1012,34,1638208800,-21600
+157,North Dakota,Bismarck,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,32.29,47.3,55,13,W,0,0,1017,82,1638295200,-21600
+158,North Dakota,Bismarck,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,35.69,57.33,52,13,W,0,0,1006,97,1638381600,-21600
+159,North Dakota,Bismarck,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,37.98,44.35,61,9,E,0,0,1013,100,1638468000,-21600
+160,North Dakota,Bismarck,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,29.61,38.7,66,17,W,0,0,1018,81,1638554400,-21600
+161,North Dakota,Grand Forks,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,26.47,35.33,85,12,NW,0,0,1010,78,1638208800,-21600
+162,North Dakota,Grand Forks,2,Tue 11/30,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,24.64,30.45,70,12,SE,0,6.81,1020,85,1638295200,-21600
+163,North Dakota,Grand Forks,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,25.25,36,94,12,S,0,0,1008,100,1638381600,-21600
+164,North Dakota,Grand Forks,4,Thu 12/2,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,23.76,37.54,81,12,W,0,0.56,1016,89,1638468000,-21600
+165,North Dakota,Grand Forks,5,Fri 12/3,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,21.69,28.29,95,10,NW,0,1.2,1016,94,1638554400,-21600
+166,South Dakota,Aberdeen,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,38.41,53.73,52,15,NW,0,0,1010,57,1638208800,-21600
+167,South Dakota,Aberdeen,2,Tue 11/30,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,34.45,44.37,54,11,S,0.4,0,1019,53,1638295200,-21600
+168,South Dakota,Aberdeen,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,36.81,54.1,51,12,W,0,0,1009,94,1638381600,-21600
+169,South Dakota,Aberdeen,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,39.2,48.99,53,10,SW,0,0,1014,98,1638468000,-21600
+170,South Dakota,Aberdeen,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,34.43,45.54,60,15,NW,0,0,1015,100,1638554400,-21600
+171,South Dakota,Rapid City,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,47.17,58.78,36,13,NW,0,0,1014,96,1638208800,-25200
+172,South Dakota,Rapid City,2,Tue 11/30,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,39.9,57.06,42,16,NW,0.22,0,1014,47,1638295200,-25200
+173,South Dakota,Rapid City,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,44.08,67.66,31,16,W,0,0,1010,88,1638381600,-25200
+174,South Dakota,Rapid City,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,50.59,71.31,23,9,SW,0,0,1009,82,1638468000,-25200
+175,South Dakota,Rapid City,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,35.94,52.29,38,14,NW,0,0,1016,72,1638554400,-25200
+176,South Dakota,Sioux Falls,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,37.49,58.15,47,17,W,0,0,1009,89,1638208800,-21600
+177,South Dakota,Sioux Falls,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,38.3,50.11,50,10,S,0,0,1019,17,1638295200,-21600
+178,South Dakota,Sioux Falls,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,40.75,54.99,44,12,W,0,0,1012,58,1638381600,-21600
+179,South Dakota,Sioux Falls,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,46.09,56.55,50,10,SW,0,0,1013,79,1638468000,-21600
+180,South Dakota,Sioux Falls,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,40.28,53.37,57,12,NW,0,0,1013,9,1638554400,-21600
+181,Wisconsin,Green Bay,1,Mon 11/29,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,24.35,35.28,38,12,S,0,7.26,1015,100,1638205200,-21600
+182,Wisconsin,Green Bay,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,22.35,36.59,90,13,W,0,0,1015,54,1638291600,-21600
+183,Wisconsin,Green Bay,3,Wed 12/1,Snow,rain and snow,http://openweathermap.org/img/wn/13d@2x.png,26.58,35.28,100,10,SE,3.35,0.94,1007,100,1638378000,-21600
+184,Wisconsin,Green Bay,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,28.69,39.76,79,16,W,0,0,1007,86,1638464400,-21600
+185,Wisconsin,Green Bay,5,Fri 12/3,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,28.53,34.32,73,6,E,0,0.22,1020,100,1638550800,-21600
+186,Wisconsin,La Crosse,1,Mon 11/29,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,27.55,45.73,49,13,SE,0,0.26,1010,100,1638205200,-21600
+187,Wisconsin,La Crosse,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,30,46.17,62,10,NW,0,0,1018,1,1638291600,-21600
+188,Wisconsin,La Crosse,3,Wed 12/1,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,36.63,46.33,68,13,W,4.04,0,1009,57,1638378000,-21600
+189,Wisconsin,La Crosse,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,36.48,47.05,55,15,NW,0,0,1012,79,1638464400,-21600
+190,Wisconsin,La Crosse,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,31.41,44.6,52,8,E,0,0,1017,75,1638550800,-21600
+191,Wisconsin,Milwaukee/Sullivan,1,Mon 11/29,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,25.09,37.99,33,14,SE,0,0.59,1016,100,1638205200,-21600
+192,Wisconsin,Milwaukee/Sullivan,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,25.95,45.34,63,13,W,0,0,1017,14,1638291600,-21600
+193,Wisconsin,Milwaukee/Sullivan,3,Wed 12/1,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,34.48,49.14,64,16,W,3.37,0,1007,77,1638378000,-21600
+194,Wisconsin,Milwaukee/Sullivan,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,35.26,50.25,51,18,W,0,0,1008,90,1638464400,-21600
+195,Wisconsin,Milwaukee/Sullivan,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,32.61,41.36,59,11,E,0,0,1018,29,1638550800,-21600
+196,Wyoming,Cheyenne,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,50.61,63.64,23,29,W,0,0,1015,62,1638208800,-25200
+197,Wyoming,Cheyenne,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,34,57.69,37,28,W,0,0,1019,39,1638295200,-25200
+198,Wyoming,Cheyenne,3,Wed 12/1,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,47.5,62.55,24,25,W,0,0,1016,25,1638381600,-25200
+199,Wyoming,Cheyenne,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.19,65.73,20,11,W,0,0,1014,7,1638468000,-25200
+200,Wyoming,Cheyenne,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,38.79,59.34,32,11,NW,0,0,1014,0,1638554400,-25200
+201,Wyoming,Riverton,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,41,55.78,33,15,W,0,0,1016,69,1638212400,-25200
+202,Wyoming,Riverton,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,36,51.06,39,9,S,0,0,1017,100,1638298800,-25200
+203,Wyoming,Riverton,3,Wed 12/1,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,39.6,58.39,32,7,S,0,0,1018,14,1638385200,-25200
+204,Wyoming,Riverton,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,38.61,54.93,42,7,S,0,0,1016,4,1638471600,-25200
+205,Wyoming,Riverton,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,35.65,51.04,43,9,N,0,0,1015,66,1638558000,-25200
+206,Maine,Caribou,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,11.82,26.71,81,10,NW,0,0,1013,99,1638201600,-18000
+207,Maine,Caribou,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,17.47,26.96,69,13,W,0,0,1007,26,1638288000,-18000
+208,Maine,Caribou,3,Wed 12/1,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,18.82,33.04,79,15,SW,0,0.2,1010,79,1638374400,-18000
+209,Maine,Caribou,4,Thu 12/2,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,23.52,30.54,89,7,E,0,2.65,1008,96,1638460800,-18000
+210,Maine,Caribou,5,Fri 12/3,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,15.94,29.97,96,17,NW,0,23.6,996,100,1638547200,-18000
+211,Maine,Gray/Portland,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,26.1,36.7,47,8,NW,0,0,1010,65,1638201600,-18000
+212,Maine,Gray/Portland,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,25.11,34.66,42,8,NW,0,0,1011,15,1638288000,-18000
+213,Maine,Gray/Portland,3,Wed 12/1,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,29.68,40.28,58,10,SW,0,0,1016,49,1638374400,-18000
+214,Maine,Gray/Portland,4,Thu 12/2,Snow,rain and snow,http://openweathermap.org/img/wn/13d@2x.png,32.68,41.63,91,10,S,2.83,2.66,1008,98,1638460800,-18000
+215,Maine,Gray/Portland,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,24.78,41.23,61,16,W,0.5,0,1000,6,1638547200,-18000
+216,Massachusetts,Boston,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,27.75,39.67,64,9,NW,0,0,1010,97,1638201600,-18000
+217,Massachusetts,Boston,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,25.63,39.79,46,9,SW,0,0,1014,76,1638288000,-18000
+218,Massachusetts,Boston,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,32,44.71,61,9,SW,0.54,0,1020,100,1638374400,-18000
+219,Massachusetts,Boston,4,Thu 12/2,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,37.02,51.64,80,16,SW,6.96,0,1010,67,1638460800,-18000
+220,Massachusetts,Boston,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,28.74,45.03,58,16,W,0.17,0,1006,8,1638547200,-18000
+221,New Jersey,Mount Holly/Philadelphia,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,31.86,42.98,53,14,NW,0,0,1013,22,1638201600,-18000
+222,New Jersey,Mount Holly/Philadelphia,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,31.01,44.76,50,12,SW,0,0,1016,100,1638288000,-18000
+223,New Jersey,Mount Holly/Philadelphia,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,35.64,47.14,62,9,S,4.05,0,1022,75,1638374400,-18000
+224,New Jersey,Mount Holly/Philadelphia,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,44.35,56.39,81,17,SW,0.15,0,1013,93,1638460800,-18000
+225,New Jersey,Mount Holly/Philadelphia,5,Fri 12/3,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,37.63,53.2,50,16,W,0,0,1015,17,1638547200,-18000
+226,New York,Albany,1,Mon 11/29,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,25.2,33.37,77,9,W,0,0.39,1013,88,1638201600,-18000
+227,New York,Albany,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,24.48,33.96,69,7,S,0,0,1014,100,1638288000,-18000
+228,New York,Albany,3,Wed 12/1,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,31.95,39.06,70,7,SW,0,0.73,1020,98,1638374400,-18000
+229,New York,Albany,4,Thu 12/2,Snow,rain and snow,http://openweathermap.org/img/wn/13d@2x.png,33.42,45.07,96,15,W,4.79,1.79,1009,100,1638460800,-18000
+230,New York,Albany,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,25.52,38.66,68,17,W,0,0,1012,98,1638547200,-18000
+231,New York,Binghamton,1,Mon 11/29,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,19.6,31.05,82,10,NW,0,0.12,1015,84,1638201600,-18000
+232,New York,Binghamton,2,Tue 11/30,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,19.92,35.26,91,12,SW,0,0.92,1014,100,1638288000,-18000
+233,New York,Binghamton,3,Wed 12/1,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,29.61,37.49,82,12,SW,0,2.28,1020,100,1638374400,-18000
+234,New York,Binghamton,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,36.37,46.36,91,17,SW,1.98,0,1009,99,1638460800,-18000
+235,New York,Binghamton,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,25.9,36.25,79,17,W,0,0,1016,100,1638547200,-18000
+236,New York,Buffalo,1,Mon 11/29,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,27.52,33.46,62,7,SW,0,0.68,1017,13,1638205200,-18000
+237,New York,Buffalo,2,Tue 11/30,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,29.34,35.64,96,15,SW,0,3.28,1011,99,1638291600,-18000
+238,New York,Buffalo,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,31.24,37.65,79,13,SW,1.96,0,1015,100,1638378000,-18000
+239,New York,Buffalo,4,Thu 12/2,Snow,rain and snow,http://openweathermap.org/img/wn/13d@2x.png,38.23,46.63,71,22,SW,1.6,0.21,999,100,1638464400,-18000
+240,New York,Buffalo,5,Fri 12/3,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,29.34,36.21,59,15,W,0,0.13,1019,95,1638550800,-18000
+241,New York,New York/Upton,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,35.42,41.32,68,19,NW,0,0,1011,94,1638201600,-18000
+242,New York,New York/Upton,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,33.8,41.41,61,16,SW,0,0,1015,100,1638288000,-18000
+243,New York,New York/Upton,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,40.93,45.79,61,17,SW,2.78,0,1021,100,1638374400,-18000
+244,New York,New York/Upton,4,Thu 12/2,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,44.67,54.91,79,26,SW,3.41,0,1012,17,1638460800,-18000
+245,New York,New York/Upton,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,36.88,50.72,59,24,W,0.31,0,1011,10,1638547200,-18000
+246,North Carolina,Newport/Morehead City,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,40.05,51.87,42,15,NW,0,0,1016,28,1638201600,-18000
+247,North Carolina,Newport/Morehead City,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,38.55,57.43,35,13,SW,0,0,1022,26,1638288000,-18000
+248,North Carolina,Newport/Morehead City,3,Wed 12/1,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,48.69,63.52,48,17,S,0,0,1023,28,1638374400,-18000
+249,North Carolina,Newport/Morehead City,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,51.98,65.41,52,13,SW,0,0,1020,65,1638460800,-18000
+250,North Carolina,Newport/Morehead City,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,53.46,70.77,49,11,SW,0,0,1019,0,1638547200,-18000
+251,North Carolina,Raleigh,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,37.96,48.16,31,15,NW,0,0,1019,23,1638205200,-18000
+252,North Carolina,Raleigh,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,35.02,56.91,29,12,SW,0,0,1019,8,1638291600,-18000
+253,North Carolina,Raleigh,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,43.74,60.98,44,13,S,0,0,1018,71,1638378000,-18000
+254,North Carolina,Raleigh,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,47.08,65.16,45,9,SW,0,0,1015,83,1638464400,-18000
+255,North Carolina,Raleigh,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.74,68.27,41,7,W,0,0,1017,0,1638550800,-18000
+256,North Carolina,Wilmington,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,41.11,51.33,28,15,NW,0,0,1017,66,1638205200,-18000
+257,North Carolina,Wilmington,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,39.25,59.2,29,11,SW,0,0,1021,20,1638291600,-18000
+258,North Carolina,Wilmington,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.21,65.64,37,13,S,0,0,1020,3,1638378000,-18000
+259,North Carolina,Wilmington,4,Thu 12/2,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,51.03,66.97,47,11,SW,0,0,1017,49,1638464400,-18000
+260,North Carolina,Wilmington,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,52.83,72.03,39,9,SW,0,0,1017,6,1638550800,-18000
+261,Ohio,Cleveland,1,Mon 11/29,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,31.71,36.14,70,19,W,0,1.5,1020,61,1638205200,-18000
+262,Ohio,Cleveland,2,Tue 11/30,Snow,snow,http://openweathermap.org/img/wn/13d@2x.png,31.33,39.4,85,14,SW,0,2.89,1014,33,1638291600,-18000
+263,Ohio,Cleveland,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,33.22,43.86,87,14,SW,1.77,0,1012,100,1638378000,-18000
+264,Ohio,Cleveland,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,40.51,50.83,62,24,SW,0,0,1004,100,1638464400,-18000
+265,Ohio,Cleveland,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,35.49,38.44,66,16,W,0,0,1020,88,1638550800,-18000
+266,Ohio,Wilmington,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,26.1,39.42,44,12,S,0,0,1022,73,1638205200,-18000
+267,Ohio,Wilmington,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,31.53,47.62,69,14,S,0,0,1017,86,1638291600,-18000
+268,Ohio,Wilmington,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,35.64,46.33,98,13,SW,4.68,0,1013,100,1638378000,-18000
+269,Ohio,Wilmington,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,40.93,56.1,59,20,SW,0,0,1010,84,1638464400,-18000
+270,Ohio,Wilmington,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,38.16,51.73,50,8,E,0,0,1018,0,1638550800,-18000
+271,Pennsylvania,Pittsburgh,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,27.97,36.99,63,11,W,0,0,1019,93,1638205200,-18000
+272,Pennsylvania,Pittsburgh,2,Tue 11/30,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,29.59,42.75,66,10,SW,0,1.33,1015,69,1638291600,-18000
+273,Pennsylvania,Pittsburgh,3,Wed 12/1,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,30.34,41.76,89,10,SW,4.97,0,1014,100,1638378000,-18000
+274,Pennsylvania,Pittsburgh,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,41.99,51.3,73,16,SW,0,0,1007,100,1638464400,-18000
+275,Pennsylvania,Pittsburgh,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,32.74,41.81,59,9,W,0,0,1019,47,1638550800,-18000
+276,Pennsylvania,State College,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,22.21,35.62,61,11,W,0,0,1017,42,1638205200,-18000
+277,Pennsylvania,State College,2,Tue 11/30,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,24.4,37.85,88,12,W,0,1.6,1014,100,1638291600,-18000
+278,Pennsylvania,State College,3,Wed 12/1,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,30.38,37.78,86,12,W,4.51,0,1017,100,1638378000,-18000
+279,Pennsylvania,State College,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,41.04,49.42,77,19,W,0.11,0,1006,98,1638464400,-18000
+280,Pennsylvania,State College,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,32,41.36,60,18,W,0,0,1017,53,1638550800,-18000
+281,South Carolina,Charleston,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,42.19,55.69,34,11,N,0,0,1019,79,1638205200,-18000
+282,South Carolina,Charleston,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,40.73,63,26,8,SW,0,0,1022,0,1638291600,-18000
+283,South Carolina,Charleston,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,46.71,67.98,27,9,SW,0,0,1021,2,1638378000,-18000
+284,South Carolina,Charleston,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,49.21,70,38,9,SW,0,0,1019,1,1638464400,-18000
+285,South Carolina,Charleston,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,51.98,74.25,35,6,SW,0,0,1018,46,1638550800,-18000
+286,South Carolina,Columbia,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,40.19,52.63,25,13,N,0,0,1020,91,1638205200,-18000
+287,South Carolina,Columbia,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,37.98,63.82,25,12,SW,0,0,1021,0,1638291600,-18000
+288,South Carolina,Columbia,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.33,67.69,30,14,SW,0,0,1020,1,1638378000,-18000
+289,South Carolina,Columbia,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,49.1,70.75,39,13,SW,0,0,1017,4,1638464400,-18000
+290,South Carolina,Columbia,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,50.54,73.51,33,7,SW,0,0,1017,44,1638550800,-18000
+291,South Carolina,Greenville-Spartanburg,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,37.15,51.19,27,16,NW,0,0,1020,86,1638205200,-18000
+292,South Carolina,Greenville-Spartanburg,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,33.93,61.5,30,7,SW,0,0,1019,1,1638291600,-18000
+293,South Carolina,Greenville-Spartanburg,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,41.76,63.45,41,15,SW,0,0,1018,51,1638378000,-18000
+294,South Carolina,Greenville-Spartanburg,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.47,67.6,40,8,SW,0,0,1017,7,1638464400,-18000
+295,South Carolina,Greenville-Spartanburg,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,49.98,71.76,32,4,W,0,0,1017,76,1638550800,-18000
+296,Vermont,Burlington,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,23.65,29.88,73,11,N,0,0,1014,81,1638201600,-18000
+297,Vermont,Burlington,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,21.7,32.14,75,15,SE,0,0,1013,100,1638288000,-18000
+298,Vermont,Burlington,3,Wed 12/1,Snow,light snow,http://openweathermap.org/img/wn/13d@2x.png,31.41,37.44,64,15,S,0,0.68,1017,57,1638374400,-18000
+299,Vermont,Burlington,4,Thu 12/2,Snow,rain and snow,http://openweathermap.org/img/wn/13d@2x.png,33.21,40.41,90,19,SE,2.69,0.65,1007,97,1638460800,-18000
+300,Vermont,Burlington,5,Fri 12/3,Snow,rain and snow,http://openweathermap.org/img/wn/13d@2x.png,23.72,38.21,75,23,W,0.12,0.97,1009,93,1638547200,-18000
+301,Virginia,Baltimore/Washington,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,32,45.23,53,16,NW,0,0,1017,24,1638201600,-18000
+302,Virginia,Baltimore/Washington,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,31.64,51.73,42,9,S,0,0,1015,91,1638288000,-18000
+303,Virginia,Baltimore/Washington,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,35.92,49.42,66,9,SE,4.31,0,1021,100,1638374400,-18000
+304,Virginia,Baltimore/Washington,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,45.34,59.2,72,12,S,0,0,1014,88,1638460800,-18000
+305,Virginia,Baltimore/Washington,5,Fri 12/3,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,40.46,52.95,37,11,W,0,0,1017,13,1638550800,-18000
+306,Virginia,Blacksburg/Roanoke,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,25.29,38.66,44,11,NW,0,0,1020,55,1638205200,-18000
+307,Virginia,Blacksburg/Roanoke,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,26.06,51.42,50,12,W,0,0,1016,6,1638291600,-18000
+308,Virginia,Blacksburg/Roanoke,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,34.99,51.76,63,10,SW,0.64,0,1016,100,1638378000,-18000
+309,Virginia,Blacksburg/Roanoke,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,42.98,58.53,51,15,W,0,0,1013,85,1638464400,-18000
+310,Virginia,Blacksburg/Roanoke,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,45.88,60.12,51,13,W,0,0,1017,31,1638550800,-18000
+311,Virginia,Wakefield,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,34.45,47.08,42,12,NW,0,0,1018,11,1638201600,-18000
+312,Virginia,Wakefield,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,31.51,56.01,34,15,SW,0,0,1019,39,1638288000,-18000
+313,Virginia,Wakefield,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,40.28,59.54,56,11,S,0,0,1022,73,1638374400,-18000
+314,Virginia,Wakefield,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,47.71,64.62,61,12,SW,0,0,1017,100,1638460800,-18000
+315,Virginia,Wakefield,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.82,65.5,51,11,SW,0,0,1017,8,1638547200,-18000
+316,West Virginia,Charleston,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,27.72,41.59,46,8,W,0,0,1022,22,1638205200,-18000
+317,West Virginia,Charleston,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,34.12,51.93,58,10,SW,0,0,1018,32,1638291600,-18000
+318,West Virginia,Charleston,3,Wed 12/1,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,39.22,50.25,87,12,SW,7.89,0,1015,100,1638378000,-18000
+319,West Virginia,Charleston,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,47.41,60.31,65,13,SW,0.19,0,1012,59,1638464400,-18000
+320,West Virginia,Charleston,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.39,57.09,57,7,SW,0,0,1018,1,1638550800,-18000
+321,Guam,Guam,1,Mon 11/29,Rain,heavy intensity rain,http://openweathermap.org/img/wn/10d@2x.png,77.22,80.31,90,22,NE,66.85,0,1007,100,1638151200,36000
+322,Guam,Guam,2,Tue 11/30,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,77.95,82.76,78,17,E,15.71,0,1008,100,1638237600,36000
+323,Guam,Guam,3,Wed 12/1,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,79.75,82.06,87,15,E,22.43,0,1009,100,1638324000,36000
+324,Guam,Guam,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,80.71,83.34,73,17,E,3.77,0,1007,100,1638410400,36000
+325,Guam,Guam,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,79.68,82.44,73,13,E,0,0,1008,67,1638496800,36000
+326,Hawaii,Honolulu,1,Mon 11/29,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,72.72,75.33,72,25,N,1.36,0,1015,43,1638223200,-36000
+327,Hawaii,Honolulu,2,Tue 11/30,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,72.88,76.35,73,21,NE,5.34,0,1014,38,1638309600,-36000
+328,Hawaii,Honolulu,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,72.86,76.51,71,14,NE,2.79,0,1015,7,1638396000,-36000
+329,Hawaii,Honolulu,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,73.35,76.08,68,11,NE,1.06,0,1016,13,1638482400,-36000
+330,Hawaii,Honolulu,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,68.11,76.08,70,20,NW,4.23,0,1013,27,1638568800,-36000
+331,Alabama,Birmingham,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,35.98,54.12,26,8,NW,0,0,1023,1,1638205200,-21600
+332,Alabama,Birmingham,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,38.25,62.47,39,6,SW,0,0,1023,0,1638291600,-21600
+333,Alabama,Birmingham,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,42.82,64.83,41,9,S,0,0,1021,5,1638378000,-21600
+334,Alabama,Birmingham,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,46.99,68.56,58,8,SW,0,0,1021,0,1638464400,-21600
+335,Alabama,Birmingham,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,52.12,68.07,59,5,SW,0,0,1019,100,1638550800,-21600
+336,Alabama,Huntsville,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,32.27,48.83,32,8,N,0,0,1024,7,1638205200,-21600
+337,Alabama,Huntsville,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,37.35,60.57,51,8,SW,0,0,1022,0,1638291600,-21600
+338,Alabama,Huntsville,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,42.94,63.16,54,13,SW,0,0,1019,61,1638378000,-21600
+339,Alabama,Huntsville,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.55,66.42,56,8,SW,0,0,1019,2,1638464400,-21600
+340,Alabama,Huntsville,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,51.51,66.81,68,6,S,0,0,1018,99,1638550800,-21600
+341,Alabama,Mobile/Pensacola,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,42.19,61.52,35,8,N,0,0,1023,0,1638205200,-21600
+342,Alabama,Mobile/Pensacola,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,42.91,66.58,30,4,SE,0,0,1024,1,1638291600,-21600
+343,Alabama,Mobile/Pensacola,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,48.61,68.88,48,5,S,0,0,1022,88,1638378000,-21600
+344,Alabama,Mobile/Pensacola,4,Thu 12/2,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,49.84,72.05,45,5,S,0,0,1022,13,1638464400,-21600
+345,Alabama,Mobile/Pensacola,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,52.59,71.01,43,5,S,0,0,1020,99,1638550800,-21600
+346,Arkansas,Little Rock,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,41.13,62.65,47,9,S,0,0,1023,0,1638205200,-21600
+347,Arkansas,Little Rock,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,45.84,68.36,46,9,S,0,0,1019,0,1638291600,-21600
+348,Arkansas,Little Rock,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,51.76,70.14,48,9,SW,0,0,1019,5,1638378000,-21600
+349,Arkansas,Little Rock,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.65,73.78,46,7,SW,0,0,1020,5,1638464400,-21600
+350,Arkansas,Little Rock,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,56.97,72.01,61,9,S,0.23,0,1016,98,1638550800,-21600
+351,Florida,Jacksonville,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.76,64.71,27,8,NW,0,0,1018,0,1638205200,-18000
+352,Florida,Jacksonville,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,46.89,67.44,37,4,NW,0,0,1023,0,1638291600,-18000
+353,Florida,Jacksonville,3,Wed 12/1,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,50.27,70.95,45,5,S,0,0,1022,29,1638378000,-18000
+354,Florida,Jacksonville,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,51.51,72.63,31,5,W,0,0,1021,0,1638464400,-18000
+355,Florida,Jacksonville,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,53.92,73,44,5,W,0,0,1019,100,1638550800,-18000
+356,Florida,Key West,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,68.18,71.4,54,17,N,0,0,1018,76,1638205200,-18000
+357,Florida,Key West,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,68.9,72.45,75,15,N,0,0,1020,7,1638291600,-18000
+358,Florida,Key West,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,70.93,73.49,70,13,NE,0,0,1020,53,1638378000,-18000
+359,Florida,Key West,4,Thu 12/2,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,71.49,73.22,73,12,N,0,0,1020,24,1638464400,-18000
+360,Florida,Key West,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,72.25,74.32,85,16,NE,0.31,0,1018,52,1638550800,-18000
+361,Florida,Melbourne,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,58.78,67.46,56,12,NW,0,0,1017,1,1638205200,-18000
+362,Florida,Melbourne,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,55.8,67.37,61,8,N,0,0,1022,0,1638291600,-18000
+363,Florida,Melbourne,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,62.58,69.8,78,5,NE,0.51,0,1022,100,1638378000,-18000
+364,Florida,Melbourne,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,61.07,70.81,65,8,NW,0,0,1021,0,1638464400,-18000
+365,Florida,Melbourne,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,59.79,69.98,51,6,W,0,0,1020,77,1638550800,-18000
+366,Florida,Miami,1,Mon 11/29,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,64.6,74.44,33,14,N,0.22,0,1017,72,1638205200,-18000
+367,Florida,Miami,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,64.99,74.28,50,9,NE,0,0,1021,2,1638291600,-18000
+368,Florida,Miami,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,67.78,76.66,51,7,E,0,0,1021,10,1638378000,-18000
+369,Florida,Miami,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,69.22,77.99,61,13,NE,0.38,0,1019,27,1638464400,-18000
+370,Florida,Miami,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,70.84,78.06,59,12,NE,1.19,0,1018,46,1638550800,-18000
+371,Florida,Tallahassee,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.32,62.98,28,8,NW,0,0,1020,0,1638205200,-18000
+372,Florida,Tallahassee,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,41.88,67.15,22,4,N,0,0,1023,0,1638291600,-18000
+373,Florida,Tallahassee,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,46.51,69.19,29,5,S,0,0,1023,57,1638378000,-18000
+374,Florida,Tallahassee,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.58,73.11,37,5,W,0,0,1021,0,1638464400,-18000
+375,Florida,Tallahassee,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,52.95,74.05,43,4,S,0,0,1020,99,1638550800,-18000
+376,Florida,Tampa,1,Mon 11/29,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,58.3,66.88,65,13,NW,0.18,0,1018,16,1638205200,-18000
+377,Florida,Tampa,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,53.46,66.72,44,9,N,0,0,1022,0,1638291600,-18000
+378,Florida,Tampa,3,Wed 12/1,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,56.37,69.12,57,8,NW,0,0,1022,33,1638378000,-18000
+379,Florida,Tampa,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,59.23,69.28,57,9,NW,0,0,1021,0,1638464400,-18000
+380,Florida,Tampa,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,59.38,70.57,47,6,NW,0,0,1020,45,1638550800,-18000
+381,Georgia,Peachtree City/Atlanta,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,37.38,53.04,25,11,NW,0,0,1020,26,1638205200,-18000
+382,Georgia,Peachtree City/Atlanta,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,36.93,62.58,32,8,SW,0,0,1022,0,1638291600,-18000
+383,Georgia,Peachtree City/Atlanta,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,42.24,64.33,35,9,SW,0,0,1021,0,1638378000,-18000
+384,Georgia,Peachtree City/Atlanta,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,46.09,67.93,50,9,W,0,0,1020,0,1638464400,-18000
+385,Georgia,Peachtree City/Atlanta,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,50.54,69.31,50,6,W,0,0,1018,100,1638550800,-18000
+386,Louisiana,Lake Charles,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,46.33,65.05,49,6,N,0,0,1023,0,1638208800,-21600
+387,Louisiana,Lake Charles,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,49.84,69.87,46,7,S,0,0,1022,32,1638295200,-21600
+388,Louisiana,Lake Charles,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,54.52,71.51,64,5,S,0,0,1022,100,1638381600,-21600
+389,Louisiana,Lake Charles,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,57.16,72.81,58,6,S,0,0,1022,88,1638468000,-21600
+390,Louisiana,Lake Charles,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,58.75,76.23,62,8,S,0,0,1019,91,1638554400,-21600
+391,Louisiana,New Orleans/Baton Rouge,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,45,63.03,42,9,N,0,0,1023,0,1638205200,-21600
+392,Louisiana,New Orleans/Baton Rouge,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.41,63.63,44,6,E,0,0,1024,7,1638291600,-21600
+393,Louisiana,New Orleans/Baton Rouge,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,52.43,65.5,60,4,S,0,0,1023,100,1638378000,-21600
+394,Louisiana,New Orleans/Baton Rouge,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,53.49,67.12,59,4,SW,0,0,1023,73,1638464400,-21600
+395,Louisiana,New Orleans/Baton Rouge,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,56.28,67.6,61,6,E,0,0,1020,100,1638550800,-21600
+396,Louisiana,Shreveport,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.39,66.54,44,6,S,0,0,1022,0,1638208800,-21600
+397,Louisiana,Shreveport,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,48.94,69.91,45,8,S,0,0,1020,50,1638295200,-21600
+398,Louisiana,Shreveport,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,51.78,71.67,57,7,SW,0,0,1021,73,1638381600,-21600
+399,Louisiana,Shreveport,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,55.96,74.26,59,5,S,0,0,1021,93,1638468000,-21600
+400,Louisiana,Shreveport,5,Fri 12/3,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,58.05,72.5,62,8,SE,3.99,0,1018,100,1638554400,-21600
+401,Mississippi,Jackson,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,40.05,60.8,34,5,N,0,0,1024,0,1638205200,-21600
+402,Mississippi,Jackson,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.52,66.76,42,6,S,0,0,1023,1,1638291600,-21600
+403,Mississippi,Jackson,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,46.67,67.66,44,8,SW,0,0,1022,55,1638378000,-21600
+404,Mississippi,Jackson,4,Thu 12/2,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,51.78,71.64,57,7,SW,0,0,1022,30,1638464400,-21600
+405,Mississippi,Jackson,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,54.68,70.97,58,7,S,0,0,1019,100,1638550800,-21600
+406,New Mexico,Albuquerque,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,41.14,60.57,27,4,W,0,0,1022,0,1638208800,-25200
+407,New Mexico,Albuquerque,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,40.57,64.65,27,8,NW,0,0,1019,0,1638295200,-25200
+408,New Mexico,Albuquerque,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.44,63,26,6,NW,0,0,1022,1,1638381600,-25200
+409,New Mexico,Albuquerque,4,Thu 12/2,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,43.14,60.49,21,6,SW,0,0,1020,29,1638468000,-25200
+410,New Mexico,Albuquerque,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,44.24,61.74,24,11,W,0,0,1017,82,1638554400,-25200
+411,Oklahoma,Norman/Oklahoma City,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.71,71.73,28,14,S,0,0,1018,0,1638208800,-21600
+412,Oklahoma,Norman/Oklahoma City,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,49.82,74.82,30,12,S,0,0,1015,0,1638295200,-21600
+413,Oklahoma,Norman/Oklahoma City,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.36,69.64,37,8,NW,0,0,1020,8,1638381600,-21600
+414,Oklahoma,Norman/Oklahoma City,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,51.49,69.55,40,11,S,0,0,1019,100,1638468000,-21600
+415,Oklahoma,Norman/Oklahoma City,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,58.42,76.64,62,18,S,0,0,1011,57,1638554400,-21600
+416,Oklahoma,Tulsa,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.19,68.88,31,14,S,0,0,1018,0,1638208800,-21600
+417,Oklahoma,Tulsa,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.55,68.97,40,9,SE,0,0,1016,0,1638295200,-21600
+418,Oklahoma,Tulsa,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.46,68.76,41,6,SW,0,0,1019,7,1638381600,-21600
+419,Oklahoma,Tulsa,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,51.62,72.57,39,10,S,0,0,1018,7,1638468000,-21600
+420,Oklahoma,Tulsa,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,58.39,76.28,62,16,S,0.6,0,1011,53,1638554400,-21600
+421,Puerto Rico,San Juan,1,Mon 11/29,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,75.99,84.83,69,11,E,3.81,0,1014,30,1638201600,-14400
+422,Puerto Rico,San Juan,2,Tue 11/30,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,75.11,84.43,61,13,NE,2.05,0,1016,51,1638288000,-14400
+423,Puerto Rico,San Juan,3,Wed 12/1,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,76.69,83.68,66,13,NE,2.45,0,1018,48,1638374400,-14400
+424,Puerto Rico,San Juan,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,76.55,83.7,71,13,NE,1.27,0,1016,48,1638460800,-14400
+425,Puerto Rico,San Juan,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,77.41,82.9,69,12,NE,2.8,0,1015,18,1638547200,-14400
+426,Tennessee,Memphis,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,37.31,56.53,31,10,S,0,0,1024,2,1638205200,-21600
+427,Tennessee,Memphis,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.6,65.71,50,10,S,0,0,1020,0,1638291600,-21600
+428,Tennessee,Memphis,3,Wed 12/1,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,50.32,67.71,54,14,SW,0,0,1018,19,1638378000,-21600
+429,Tennessee,Memphis,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.4,71.58,41,10,SW,0,0,1020,0,1638464400,-21600
+430,Tennessee,Memphis,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,56.95,70.09,61,11,S,0,0,1017,100,1638550800,-21600
+431,Tennessee,Morristown/Knoxville,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,25.75,43.18,39,5,W,0,0,1023,36,1638205200,-18000
+432,Tennessee,Morristown/Knoxville,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,30.34,53.53,47,11,SW,0,0,1020,0,1638291600,-18000
+433,Tennessee,Morristown/Knoxville,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,38.32,55.83,58,15,SW,0,0,1017,99,1638378000,-18000
+434,Tennessee,Morristown/Knoxville,4,Thu 12/2,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,43.36,60.58,57,14,SW,0,0,1017,18,1638464400,-18000
+435,Tennessee,Morristown/Knoxville,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,45.09,62.67,54,6,SW,0,0,1018,92,1638550800,-18000
+436,Tennessee,Nashville,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,31.68,47.08,31,8,S,0,0,1024,10,1638205200,-21600
+437,Tennessee,Nashville,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,40.66,59.4,57,9,S,0,0,1020,13,1638291600,-21600
+438,Tennessee,Nashville,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,46.38,62.35,58,12,SW,0,0,1016,100,1638378000,-21600
+439,Tennessee,Nashville,4,Thu 12/2,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,47.52,65.37,46,10,SW,0,0,1018,12,1638464400,-21600
+440,Tennessee,Nashville,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,50.97,65.41,73,7,S,0,0,1017,100,1638550800,-21600
+441,Texas,Amarillo,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.32,76.48,15,11,S,0,0,1016,0,1638208800,-21600
+442,Texas,Amarillo,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.34,66.9,22,19,N,0,0,1016,0,1638295200,-21600
+443,Texas,Amarillo,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,46.4,71.76,22,11,SE,0,0,1018,3,1638381600,-21600
+444,Texas,Amarillo,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,48.47,72.32,18,13,S,0,0,1016,86,1638468000,-21600
+445,Texas,Amarillo,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,53.6,69.8,17,15,S,0,0,1009,54,1638554400,-21600
+446,Texas,Austin/San Antonio,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,49.78,68.77,37,7,S,0,0,1023,28,1638208800,-21600
+447,Texas,Austin/San Antonio,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,49.77,71.01,58,12,S,0,0,1020,69,1638295200,-21600
+448,Texas,Austin/San Antonio,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,56.53,72.43,70,7,S,0,0,1021,100,1638381600,-21600
+449,Texas,Austin/San Antonio,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,59.99,73.17,66,9,SE,0,0,1021,99,1638468000,-21600
+450,Texas,Austin/San Antonio,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,61.84,71.85,81,10,S,0.81,0,1016,100,1638554400,-21600
+451,Texas,Brownsville,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,57.78,72.32,57,10,NW,0,0,1023,21,1638208800,-21600
+452,Texas,Brownsville,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,63.64,75.81,53,12,E,0,0,1019,24,1638295200,-21600
+453,Texas,Brownsville,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,67.17,78.6,56,9,E,0,0,1020,77,1638381600,-21600
+454,Texas,Brownsville,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,70.18,78.57,70,14,E,0.75,0,1019,100,1638468000,-21600
+455,Texas,Brownsville,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,70.57,81.7,55,12,SE,0,0,1016,0,1638554400,-21600
+456,Texas,Corpus Christi,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,53.42,68.49,49,7,E,0,0,1023,39,1638208800,-21600
+457,Texas,Corpus Christi,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,58.23,74.08,56,11,SE,0,0,1020,91,1638295200,-21600
+458,Texas,Corpus Christi,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,64.62,76.59,57,9,E,0,0,1020,72,1638381600,-21600
+459,Texas,Corpus Christi,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,67.3,77.68,61,12,E,0,0,1021,78,1638468000,-21600
+460,Texas,Corpus Christi,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,69.19,80.04,62,12,SE,0,0,1016,87,1638554400,-21600
+461,Texas,El Paso,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.15,63.28,31,3,SE,0,0,1022,0,1638208800,-25200
+462,Texas,El Paso,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,49.51,66.65,31,5,NW,0,0,1018,51,1638295200,-25200
+463,Texas,El Paso,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,52.56,66.99,24,6,NW,0,0,1021,69,1638381600,-25200
+464,Texas,El Paso,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,55.99,68.13,26,6,SW,0,0,1019,93,1638468000,-25200
+465,Texas,El Paso,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,55.27,68.99,31,14,W,0,0,1016,0,1638554400,-25200
+466,Texas,Fort Worth-Dallas,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.99,71.13,30,11,S,0,0,1021,0,1638208800,-21600
+467,Texas,Fort Worth-Dallas,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,54.55,73.44,36,14,S,0,0,1018,99,1638295200,-21600
+468,Texas,Fort Worth-Dallas,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,56.61,73.8,50,12,S,0,0,1020,98,1638381600,-21600
+469,Texas,Fort Worth-Dallas,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,59.95,74.59,60,10,S,0,0,1020,99,1638468000,-21600
+470,Texas,Fort Worth-Dallas,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,61.83,76.3,69,16,S,1.77,0,1014,86,1638554400,-21600
+471,Texas,Houston/Galveston,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,52.84,63.36,58,6,NE,0,0,1024,0,1638208800,-21600
+472,Texas,Houston/Galveston,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,56.59,67.69,56,8,E,0,0,1021,26,1638295200,-21600
+473,Texas,Houston/Galveston,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,60.51,69.26,72,5,SE,0,0,1022,100,1638381600,-21600
+474,Texas,Houston/Galveston,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,62.11,69.08,71,7,E,0,0,1022,100,1638468000,-21600
+475,Texas,Houston/Galveston,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,63.46,72.68,72,9,SE,0.1,0,1018,78,1638554400,-21600
+476,Texas,Lubbock,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,45.45,72.41,20,12,SW,0,0,1018,0,1638208800,-21600
+477,Texas,Lubbock,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,48.11,73.22,18,10,SW,0,0,1015,59,1638295200,-21600
+478,Texas,Lubbock,3,Wed 12/1,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,47.59,70.77,23,7,SE,0,0,1019,12,1638381600,-21600
+479,Texas,Lubbock,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,52.77,72.36,37,12,S,0,0,1018,99,1638468000,-21600
+480,Texas,Lubbock,5,Fri 12/3,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,56.35,76.15,19,22,SW,0,0,1010,14,1638554400,-21600
+481,Texas,Midland/Odessa,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,46.47,72.12,25,15,S,0,0,1020,0,1638208800,-21600
+482,Texas,Midland/Odessa,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,49.37,74.08,29,16,S,0,0,1016,69,1638295200,-21600
+483,Texas,Midland/Odessa,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,51.69,73.67,21,10,S,0,0,1019,96,1638381600,-21600
+484,Texas,Midland/Odessa,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,56.7,77.76,49,15,SE,0,0,1018,100,1638468000,-21600
+485,Texas,Midland/Odessa,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,57,79.23,25,20,SW,0,0,1013,0,1638554400,-21600
+486,Texas,San Angelo,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,48.09,74.34,29,13,S,0,0,1020,0,1638208800,-21600
+487,Texas,San Angelo,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,50.72,74.39,33,15,S,0,0,1017,80,1638295200,-21600
+488,Texas,San Angelo,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,53.82,77.32,42,9,S,0,0,1019,78,1638381600,-21600
+489,Texas,San Angelo,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,58.03,77.41,63,13,S,0,0,1019,100,1638468000,-21600
+490,Texas,San Angelo,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,61.14,81.16,51,16,S,0,0,1013,33,1638554400,-21600
+491,Arizona,Flagstaff,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,39.42,62.58,19,4,NE,0,0,1019,0,1638212400,-25200
+492,Arizona,Flagstaff,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,39.18,61.32,19,9,NE,0,0,1018,0,1638298800,-25200
+493,Arizona,Flagstaff,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,39.06,62.1,15,5,E,0,0,1021,0,1638385200,-25200
+494,Arizona,Flagstaff,4,Thu 12/2,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,38.73,58.55,23,9,SW,0,0,1020,46,1638471600,-25200
+495,Arizona,Flagstaff,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,36.93,55.17,31,9,W,0,0,1019,0,1638558000,-25200
+496,Arizona,Phoenix,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,61.34,77.27,16,5,NE,0,0,1018,0,1638212400,-25200
+497,Arizona,Phoenix,2,Tue 11/30,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,62.4,77.56,17,5,NE,0,0,1016,25,1638298800,-25200
+498,Arizona,Phoenix,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,63,78.64,18,5,NE,0,0,1019,0,1638385200,-25200
+499,Arizona,Phoenix,4,Thu 12/2,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,64.85,77.95,18,4,NE,0,0,1018,37,1638471600,-25200
+500,Arizona,Phoenix,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,63.88,75.33,21,3,NE,0,0,1018,0,1638558000,-25200
+501,Arizona,Tucson,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,60.4,77.31,14,7,E,0,0,1017,0,1638212400,-25200
+502,Arizona,Tucson,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,60.84,75.94,18,6,E,0,0,1016,0,1638298800,-25200
+503,Arizona,Tucson,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,63.52,77.79,21,6,NW,0,0,1018,0,1638385200,-25200
+504,Arizona,Tucson,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,63.93,76.42,30,6,NW,0,0,1018,0,1638471600,-25200
+505,Arizona,Tucson,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,61.16,72.97,28,6,NW,0,0,1018,0,1638558000,-25200
+506,California,Eureka,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,50.88,60.53,65,9,NW,0,0,1023,98,1638216000,-28800
+507,California,Eureka,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.14,60.55,54,9,NW,0,0,1023,2,1638302400,-28800
+508,California,Eureka,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,54.9,64.6,53,5,NE,0,0,1018,0,1638388800,-28800
+509,California,Eureka,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,52.29,58.42,80,9,NW,0,0,1020,3,1638475200,-28800
+510,California,Eureka,5,Fri 12/3,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,51.13,60.21,71,5,W,0,0,1018,14,1638561600,-28800
+511,California,Los Angeles/Oxnard,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,61.41,69.21,41,7,SW,0,0,1018,0,1638212400,-28800
+512,California,Los Angeles/Oxnard,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,61.36,70.25,38,6,SW,0,0,1016,0,1638298800,-28800
+513,California,Los Angeles/Oxnard,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,63.16,72.88,36,4,SW,0,0,1018,0,1638385200,-28800
+514,California,Los Angeles/Oxnard,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,60.89,67.6,37,6,SW,0,0,1019,5,1638471600,-28800
+515,California,Los Angeles/Oxnard,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,59.65,65.77,41,6,SW,0,0,1019,4,1638558000,-28800
+516,California,Sacramento,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,51.91,69.19,52,6,NW,0,0,1022,0,1638212400,-28800
+517,California,Sacramento,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,51.62,68.76,54,4,NW,0,0,1020,0,1638298800,-28800
+518,California,Sacramento,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,52.5,69.39,45,4,NW,0,0,1020,0,1638385200,-28800
+519,California,Sacramento,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,52.41,68.47,48,4,NW,0,0,1020,0,1638471600,-28800
+520,California,Sacramento,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,51.1,66.61,52,4,NW,0,0,1019,0,1638558000,-28800
+521,California,San Diego,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,58.8,75.09,23,6,SW,0,0,1018,0,1638212400,-28800
+522,California,San Diego,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,57.69,76.53,24,7,SW,0,0,1016,0,1638298800,-28800
+523,California,San Diego,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,61.02,77.23,21,7,SW,0,0,1018,0,1638385200,-28800
+524,California,San Diego,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,57.72,73.27,29,8,SW,0,0,1019,5,1638471600,-28800
+525,California,San Diego,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,55.74,71.62,35,8,W,0,0,1019,0,1638558000,-28800
+526,California,San Francisco Bay Area/Monterey,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,58.21,68.32,48,8,NW,0,0,1020,0,1638212400,-28800
+527,California,San Francisco Bay Area/Monterey,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,58.69,70.61,51,9,N,0,0,1019,10,1638298800,-28800
+528,California,San Francisco Bay Area/Monterey,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,61.23,71.55,46,6,NE,0,0,1018,0,1638385200,-28800
+529,California,San Francisco Bay Area/Monterey,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,57.74,66.43,47,4,SW,0,0,1019,3,1638471600,-28800
+530,California,San Francisco Bay Area/Monterey,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,56.21,64.45,46,6,W,0,0,1019,0,1638558000,-28800
+531,California,San Joaquin Valley/Hanford,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.74,72.59,27,5,NW,0,0,1021,0,1638212400,-28800
+532,California,San Joaquin Valley/Hanford,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.45,72.28,39,5,NW,0,0,1020,6,1638298800,-28800
+533,California,San Joaquin Valley/Hanford,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,53.04,74.7,36,4,NW,0,0,1020,0,1638385200,-28800
+534,California,San Joaquin Valley/Hanford,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,54.28,74.52,31,4,NW,0,0,1019,1,1638471600,-28800
+535,California,San Joaquin Valley/Hanford,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,53.22,72.39,33,4,NW,0,0,1019,1,1638558000,-28800
+536,Idaho,Boise,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,42.93,56.68,39,10,NW,0,0,1022,89,1638212400,-25200
+537,Idaho,Boise,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,40.5,53.71,41,5,NE,0,0,1026,7,1638298800,-25200
+538,Idaho,Boise,3,Wed 12/1,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,43.32,57,51,7,E,0,0,1027,21,1638385200,-25200
+539,Idaho,Boise,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.28,57.81,54,7,SE,0,0,1020,0,1638471600,-25200
+540,Idaho,Boise,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,41.79,52.7,67,8,W,0,0,1023,81,1638558000,-25200
+541,Idaho,Pocatello,1,Mon 11/29,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,37.62,55.51,32,11,S,0,0,1021,15,1638212400,-25200
+542,Idaho,Pocatello,2,Tue 11/30,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,35.62,51.49,36,9,SW,0,0,1025,15,1638298800,-25200
+543,Idaho,Pocatello,3,Wed 12/1,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,38.16,52.3,52,6,S,0,0,1028,20,1638385200,-25200
+544,Idaho,Pocatello,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,38.41,55.38,53,8,SE,0,0,1021,0,1638471600,-25200
+545,Idaho,Pocatello,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,39.85,52.68,51,10,SW,0,0,1019,31,1638558000,-25200
+546,Montana,Billings,1,Mon 11/29,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,40.75,52.63,41,15,N,3.11,0,1015,100,1638212400,-25200
+547,Montana,Billings,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,38.07,50.88,51,16,SW,0,0,1015,100,1638298800,-25200
+548,Montana,Billings,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,43.95,57.49,40,19,SW,0,0,1013,61,1638385200,-25200
+549,Montana,Billings,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,47.71,60.55,36,13,SW,0,0,1010,90,1638471600,-25200
+550,Montana,Billings,5,Fri 12/3,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,30,46.63,74,8,NE,1.12,0,1020,90,1638558000,-25200
+551,Montana,Glasgow,1,Mon 11/29,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,39.79,51.75,57,19,W,0,0,1013,45,1638208800,-25200
+552,Montana,Glasgow,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,37.4,52.47,48,22,W,0,0,1011,100,1638295200,-25200
+553,Montana,Glasgow,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,41.97,64.71,41,26,W,0,0,1004,99,1638381600,-25200
+554,Montana,Glasgow,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,39.36,56.32,57,20,W,0,0,1009,85,1638468000,-25200
+555,Montana,Glasgow,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,26.69,35.6,36,18,NW,0,0,1024,60,1638554400,-25200
+556,Montana,Great Falls,1,Mon 11/29,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,41.09,55.87,41,23,SW,0.16,0,1013,100,1638212400,-25200
+557,Montana,Great Falls,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,40.95,54.19,28,26,SW,0,0,1013,100,1638298800,-25200
+558,Montana,Great Falls,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,53.98,61.99,46,28,SW,0,0,1011,100,1638385200,-25200
+559,Montana,Great Falls,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,45.91,61.32,40,24,SW,0,0,1008,96,1638471600,-25200
+560,Montana,Great Falls,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,26.56,35.42,62,11,NW,0,0,1024,82,1638558000,-25200
+561,Montana,Missoula,1,Mon 11/29,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,37.8,43.93,88,5,W,4.86,0,1020,100,1638212400,-25200
+562,Montana,Missoula,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,34.25,47.93,57,10,SW,0,0,1020,100,1638298800,-25200
+563,Montana,Missoula,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,41.2,56.88,71,8,SW,0,0,1020,76,1638385200,-25200
+564,Montana,Missoula,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,39.54,49.42,73,10,SW,0.12,0,1014,86,1638471600,-25200
+565,Montana,Missoula,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,29.73,41.27,53,7,W,0,0,1024,81,1638558000,-25200
+566,Nevada,Elko,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,41.16,59.61,28,7,SW,0,0,1022,2,1638212400,-28800
+567,Nevada,Elko,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,36.99,55,37,6,N,0,0,1026,2,1638298800,-28800
+568,Nevada,Elko,3,Wed 12/1,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,38.86,55.24,38,3,N,0,0,1027,22,1638385200,-28800
+569,Nevada,Elko,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,39.13,56.89,41,6,SW,0,0,1021,0,1638471600,-28800
+570,Nevada,Elko,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,37.45,54.12,37,4,S,0,0,1020,2,1638558000,-28800
+571,Nevada,Las Vegas,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,53.8,72.66,14,4,NW,0,0,1020,0,1638212400,-28800
+572,Nevada,Las Vegas,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,54.57,72.77,18,6,N,0,0,1019,0,1638298800,-28800
+573,Nevada,Las Vegas,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,53.04,69.96,20,5,N,0,0,1022,0,1638385200,-28800
+574,Nevada,Las Vegas,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,51.87,69.78,23,3,NW,0,0,1020,3,1638471600,-28800
+575,Nevada,Las Vegas,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.65,69.08,22,3,NE,0,0,1019,3,1638558000,-28800
+576,Nevada,Reno,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,47.12,63.46,27,5,N,0,0,1022,0,1638212400,-28800
+577,Nevada,Reno,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,45.25,59.86,39,5,S,0,0,1025,0,1638298800,-28800
+578,Nevada,Reno,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.68,56.84,40,5,SE,0,0,1027,0,1638385200,-28800
+579,Nevada,Reno,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.77,60.87,32,4,SW,0,0,1021,3,1638471600,-28800
+580,Nevada,Reno,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.34,59.5,32,5,S,0,0,1020,0,1638558000,-28800
+581,Oregon,Medford,1,Mon 11/29,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,46.18,60.39,58,4,NW,0,0,1024,84,1638216000,-28800
+582,Oregon,Medford,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.6,62.6,47,4,SE,0,0,1026,5,1638302400,-28800
+583,Oregon,Medford,3,Wed 12/1,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,50.02,69.44,40,3,SE,0,0,1020,1,1638388800,-28800
+584,Oregon,Medford,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,46.2,62.01,60,2,NW,0,0,1020,4,1638475200,-28800
+585,Oregon,Medford,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,45.97,59.11,61,3,NW,0,0,1019,70,1638561600,-28800
+586,Oregon,Pendleton,1,Mon 11/29,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,48.33,59.29,63,13,SW,3.46,0,1024,100,1638212400,-28800
+587,Oregon,Pendleton,2,Tue 11/30,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,46.92,61.14,40,10,S,0,0,1023,70,1638298800,-28800
+588,Oregon,Pendleton,3,Wed 12/1,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,54.59,69.62,52,8,SE,0,0,1021,66,1638385200,-28800
+589,Oregon,Pendleton,4,Thu 12/2,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,46.33,58.57,59,15,SW,0,0,1020,72,1638471600,-28800
+590,Oregon,Pendleton,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,36.88,46.04,67,6,N,0,0,1029,100,1638558000,-28800
+591,Oregon,Portland,1,Mon 11/29,Rain,moderate rain,http://openweathermap.org/img/wn/10d@2x.png,49.35,56.16,87,7,E,9.51,0,1026,61,1638212400,-28800
+592,Oregon,Portland,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,47.53,52.7,90,4,SE,0,0,1027,100,1638298800,-28800
+593,Oregon,Portland,3,Wed 12/1,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,47.8,59.34,79,2,NE,0,0,1024,43,1638385200,-28800
+594,Oregon,Portland,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,40.73,52.84,94,7,NW,0.29,0,1024,88,1638471600,-28800
+595,Oregon,Portland,5,Fri 12/3,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,36.19,45.34,62,6,NW,0,0,1025,100,1638561600,-28800
+596,Utah,Salt Lake City,1,Mon 11/29,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,45.66,58.14,34,4,SE,0,0,1023,5,1638212400,-25200
+597,Utah,Salt Lake City,2,Tue 11/30,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,43.14,54.61,35,4,NW,0,0,1025,0,1638298800,-25200
+598,Utah,Salt Lake City,3,Wed 12/1,Clouds,few clouds,http://openweathermap.org/img/wn/02d@2x.png,43.72,54.93,39,4,NW,0,0,1027,15,1638385200,-25200
+599,Utah,Salt Lake City,4,Thu 12/2,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.82,56.37,45,4,E,0,0,1021,0,1638471600,-25200
+600,Utah,Salt Lake City,5,Fri 12/3,Clear,sky is clear,http://openweathermap.org/img/wn/01d@2x.png,44.8,55.87,48,3,NW,0,0,1020,0,1638558000,-25200
+601,Washington,Seattle,1,Mon 11/29,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,51.01,55.6,89,8,S,0.53,0,1024,100,1638212400,-28800
+602,Washington,Seattle,2,Tue 11/30,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,50.45,52.36,86,11,S,0.89,0,1024,100,1638298800,-28800
+603,Washington,Seattle,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,50.18,54.16,81,10,SE,0,0,1022,100,1638385200,-28800
+604,Washington,Seattle,4,Thu 12/2,Rain,light rain,http://openweathermap.org/img/wn/10d@2x.png,40.51,52.45,80,9,N,2.63,0,1023,100,1638471600,-28800
+605,Washington,Seattle,5,Fri 12/3,Clouds,broken clouds,http://openweathermap.org/img/wn/04d@2x.png,35.74,43.05,75,8,NW,0,0,1031,79,1638558000,-28800
+606,Washington,Spokane,1,Mon 11/29,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,43.59,51.19,78,13,S,0,0,1022,100,1638212400,-28800
+607,Washington,Spokane,2,Tue 11/30,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,44.17,48.24,76,12,S,0,0,1020,100,1638298800,-28800
+608,Washington,Spokane,3,Wed 12/1,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,45.72,54.01,73,9,S,0,0,1020,100,1638385200,-28800
+609,Washington,Spokane,4,Thu 12/2,Clouds,overcast clouds,http://openweathermap.org/img/wn/04d@2x.png,38.64,50.59,59,16,SW,0,0,1015,100,1638471600,-28800
+610,Washington,Spokane,5,Fri 12/3,Clouds,scattered clouds,http://openweathermap.org/img/wn/03d@2x.png,31.1,40.42,67,7,S,0,0,1029,47,1638558000,-28800
