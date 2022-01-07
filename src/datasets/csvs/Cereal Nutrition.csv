@@ -1,0 +1,68 @@
+id,Name,Calories,Grams of  Protein,Grams of Fat,Grams of Sodium,Grams of Fiber,Grams of Carbohydrates,Grams of Sugars,Cups Per Serving,Box Image
+1,100% Bran,70.0,4.0,1.0,130.0,10.0,5.0,6.0,0.33,https://www.innit.com/public/products/images/00043000180327-vnixRi8UOOMAoo4-en-US-0_s500.jpg
+2,All-Bran,70.0,4.0,1.0,260.0,9.0,7.0,5.0,0.33,https://images.kglobalservices.com/www.allbran.ca_en/en_ca/product/product_4508444/kicproductimage-124883_ab_orig_525g_claims_3d_e.png
+3,All-Bran with Extra Fiber,50.0,4.0,0.0,140.0,14.0,8.0,0.0,0.5,https://i.pinimg.com/originals/8c/83/0c/8c830cf968e0c210fb9dfb46d35d067a.jpg
+4,Almond Delight,110.0,2.0,2.0,200.0,1.0,14.0,8.0,0.75,https://i.pinimg.com/originals/21/d2/f2/21d2f255ffedc36ab943d4336ba070ae.jpg
+5,Apple Cinnamon Cheerios,110.0,2.0,2.0,180.0,1.5,10.5,10.0,0.75,https://target.scene7.com/is/image/Target/GUEST_fd514de8-74e2-43be-93d9-2ee9a565189f?wid=488&hei=488&fmt=pjpeg
+6,Apple Jacks,110.0,2.0,0.0,125.0,1.0,11.0,14.0,1.0,https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Apple-Jacks-Box-Small.jpg/220px-Apple-Jacks-Box-Small.jpg
+7,Basic 4,130.0,3.0,2.0,210.0,2.0,18.0,8.0,0.75,https://image.influenster.com/eyJidWNrZXQiOiAiaW5mbHVlbnN0ZXJfcHJvZHVjdGlvbiIsICJleHRlbmQiOiB7fSwgImtleSI6ICJtZWRpYS9wcm9kdWN0L2ltYWdlL3Byb2R1Y3QvaW1hZ2UvMDAwMTYwMDAyNzUzNjJfQzFDMV9zMTEwXzEzMDkxNjU0LWZiZDAtNDhlZi1iOTFmLTRkYTk2NTM1YzIyYi5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiaGVpZ2h0IjogNzUwLCAiYmFja2dyb3VuZCI6IHsiYWxwaGEiOiAwLCAiYiI6IDEsICJyIjogMSwgImciOiAxfSwgImZpdCI6ICJpbnNpZGUiLCAid2lkdGgiOiA3NTAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiB0cnVlfX19
+8,Bran Chex,90.0,2.0,1.0,200.0,4.0,15.0,6.0,0.67,https://live.staticflickr.com/3146/2608064112_50f7c81bba.jpg
+9,Bran Flakes,90.0,3.0,0.0,210.0,5.0,13.0,5.0,0.67,https://images-na.ssl-images-amazon.com/images/I/71vVbfVBWfL._SY445_.jpg
+10,Cap'n'Crunch,120.0,1.0,2.0,220.0,0.0,12.0,12.0,0.75,https://lh3.googleusercontent.com/proxy/_Axx0GJhoEBLl3aPn8htV92L3cv4FYE3UfPR48x-Ju9YT-9qaZ1F6mhQxTNecoKHkKoj4dxdmaA5dRysCGTo4MqYyT_Qs48kfgb1q0MucoeM4N9e8_gUpfN6F3sbbHj6VnB3hDE4-Q
+11,Cheerios,110.0,6.0,2.0,290.0,2.0,17.0,1.0,1.25,https://www.kroger.com/product/images/xlarge/front/0001600012541
+12,Cinnamon Toast Crunch,120.0,1.0,3.0,210.0,0.0,13.0,9.0,0.75,https://www.kroger.com/product/images/xlarge/front/0001600012254
+13,Clusters,110.0,3.0,2.0,140.0,2.0,13.0,7.0,0.5,https://i.pinimg.com/originals/97/3e/aa/973eaa5c1a91ccd1ea777d89cc977227.jpg
+14,Cocoa Puffs,110.0,1.0,1.0,180.0,0.0,12.0,13.0,1.0,https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/CocoaPuffs.jpg/200px-CocoaPuffs.jpg
+15,Corn Chex,110.0,2.0,0.0,280.0,0.0,22.0,3.0,1.0,https://image.influenster.com/eyJrZXkiOiAibWVkaWEvcHJvZHVjdC9pbWFnZS9jaGV4X2JsdWViZXJyeS0xX0pGNkNNdkkuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpdGhvdXRFbmxhcmdlbWVudCI6IHRydWUsICJmaXQiOiAiaW5zaWRlIiwgImJhY2tncm91bmQiOiB7ImciOiAxLCAiYiI6IDEsICJyIjogMSwgImFscGhhIjogMH0sICJ3aWR0aCI6IDc1MCwgImhlaWdodCI6IDc1MH19LCAiYnVja2V0IjogImluZmx1ZW5zdGVyX3Byb2R1Y3Rpb24iLCAiZXh0ZW5kIjoge319
+16,Corn Flakes,100.0,2.0,0.0,290.0,1.0,21.0,2.0,1.0,https://images.kglobalservices.com/www.kelloggs.co.nz/en_nz/product/product_449/prod_img-198128_kelloggs-corn-flakes.png
+17,Corn Pops,110.0,1.0,0.0,90.0,1.0,13.0,12.0,1.0,https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00038000010118/2d935d93fa63b8502ed1caa5c29fc12c_large.png&width=512&type=webp&quality=40
+18,Count Chocula,110.0,1.0,1.0,180.0,0.0,12.0,13.0,1.0,https://i.pinimg.com/originals/04/43/a9/0443a968ba6c129c4c48aa5a1e1c0af6.jpg
+19,Cracklin' Oat Bran,110.0,3.0,3.0,140.0,4.0,10.0,7.0,0.5,https://images.kglobalservices.com/www.kelloggs.com/en_us/product/product_4508493/kicproductimage-126031_cob_fp.jpg
+20,Crispix,110.0,2.0,0.0,220.0,1.0,21.0,3.0,1.0,https://i5.walmartimages.com/asr/743c0fb0-f2d7-4daa-9d69-3b70d2991a3f_1.19585a6c47ee9a0d8ba89f8a5a6f8a95.jpeg
+21,Crispy Wheat & Raisins,100.0,2.0,1.0,140.0,2.0,11.0,10.0,0.75,https://lh3.googleusercontent.com/proxy/6iWI2_Dj6Qqxirj53Gp6qCy2vTQt5wRW8KuwG7ph3EZH3zwfNQ1IFJmojUDzKqRptAdfjbGAyGDC8KMAQX12NSFFnpXKXkUKCH9C-VZv3i3JdxPp4Ezp2uWFrygv
+22,Double Chex,100.0,2.0,0.0,190.0,1.0,18.0,5.0,0.75,https://i.pinimg.com/originals/a8/3e/bd/a83ebd7fe8d7e532ceea5fac959dcad8.jpg
+23,Froot Loops,110.0,2.0,1.0,125.0,1.0,11.0,13.0,1.0,https://images.kglobalservices.com/www.kelloggs.com.au/en_au/product/product_4508497/prod_img-3394699_kelloggs-froot-loops.png
+24,Frosted Flakes,110.0,1.0,0.0,200.0,1.0,14.0,11.0,0.75,https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00038000596582/9cd8d7e41bcd50244c3e155a88bd96ec_large.png&width=512&type=webp&quality=40
+25,Frosted Mini-Wheats,100.0,3.0,0.0,0.0,3.0,14.0,7.0,0.8,https://target.scene7.com/is/image/Target/GUEST_18f8d237-1c67-4d3a-9d5a-d4bf0e006792?wid=488&hei=488&fmt=pjpeg
+26,Fruit & Fibre,120.0,3.0,2.0,160.0,5.0,12.0,10.0,0.67,https://i.pinimg.com/236x/17/0d/f8/170df81d592bb9a54cfe79d1414f2a0a.jpg
+27,Fruitful Bran,120.0,3.0,0.0,240.0,5.0,14.0,12.0,0.67,https://whenhub.blob.core.windows.net/media/59a583bfb198651a04678cc7/c.png
+28,Fruity Pebbles,110.0,1.0,1.0,135.0,0.0,13.0,12.0,0.75,https://cdn.shopify.com/s/files/1/0371/5507/8189/products/Fruity_Pebbles_Beauty_Box_120318_Right-r_580x.png?v=1584998197
+29,Golden Crisp,100.0,2.0,0.0,45.0,0.0,11.0,15.0,0.88,https://www.kroger.com/product/images/large/front/0088491211762
+30,Golden Grahams,110.0,1.0,1.0,280.0,0.0,15.0,9.0,0.75,https://i5.walmartimages.com/asr/a3df404d-b74f-48ca-adce-c2f386a5a962_1.5978dd3f25358512fde79fbb0aa50d6d.jpeg
+31,Grape Nuts Flakes,100.0,3.0,1.0,140.0,3.0,15.0,5.0,0.88,https://www.meijer.com/content/dam/meijer/product/0088/49/1210/91/0088491210910_0_A1C1_1200.png
+32,Grape-Nuts,110.0,3.0,0.0,170.0,3.0,17.0,3.0,0.25,https://target.scene7.com/is/image/Target/GUEST_95622f9e-95e9-48a7-aa7f-bbdb446f3a8b?wid=488&hei=488&fmt=pjpeg
+33,Great Grains Pecan,120.0,3.0,3.0,75.0,3.0,13.0,4.0,0.33,https://images-na.ssl-images-amazon.com/images/I/9165Bo7X9jL._SL1500_.jpg
+34,Honey Graham Ohs,120.0,1.0,2.0,220.0,1.0,12.0,11.0,1.0,https://images-na.ssl-images-amazon.com/images/I/81EMhAlUAqL._SL1500_.jpg
+35,Honey Nut Cheerios,110.0,3.0,1.0,250.0,1.5,11.5,10.0,0.75,https://images-na.ssl-images-amazon.com/images/I/91L%2BgooY40L._SL1500_.jpg
+36,Honey-comb,110.0,1.0,0.0,180.0,0.0,14.0,11.0,1.33,https://images-na.ssl-images-amazon.com/images/I/91Kxbx7ei9L._SL1500_.jpg
+37,Just RIght,110.0,2.0,1.0,170.0,1.0,17.0,6.0,1.0,https://cdn11.bigcommerce.com/s-szcye2zgx6/images/stencil/1280x1280/products/1030/1127249/e2f6eb746a51a5c42faeccc209f9d4d14288690751c63aa068a3f3af033e23bc__31469.1585591309.jpg?c=2?imbypass=on
+38,Just Right Fruit & Nut,140.0,3.0,1.0,170.0,2.0,20.0,9.0,0.75,https://images.kglobalservices.com/www.kelloggs.co.nz/en_nz/product/product_3431464/prod_img-3431466_kelloggs-just-right-fruit-nut-fusion.png
+39,Kix,110.0,2.0,1.0,260.0,0.0,21.0,3.0,1.5,https://images.heb.com/is/image/HEBGrocery/000984248
+40,Life,100.0,4.0,2.0,150.0,2.0,12.0,6.0,0.67,https://images-na.ssl-images-amazon.com/images/I/81kAJpLYR6L._SY445_.jpg
+41,Lucky Charms,110.0,2.0,1.0,180.0,0.0,12.0,12.0,1.0,https://www.kroger.com/product/images/xlarge/front/0001600012399
+42,Maypo,100.0,4.0,1.0,0.0,0.0,16.0,3.0,1.0,https://images-na.ssl-images-amazon.com/images/I/81i3wta3p8L._SL1500_.jpg
+43,Multi-Grain Cheerios,100.0,2.0,1.0,220.0,2.0,15.0,6.0,1.0,"https://images-na.ssl-images-amazon.com/images/I/81-If8waNEL._SX569_PIbundle-2,TopRight,0,0_AA569SH20_.jpg"
+44,Nut&Honey Crunch,120.0,2.0,1.0,190.0,0.0,15.0,9.0,0.67,https://www.mrbreakfast.com/cereal/c_717_nut_honey_crunch_box.jpg
+45,Nutri-grain Wheat,90.0,3.0,0.0,170.0,3.0,18.0,2.0,1.0,https://i.pinimg.com/originals/2e/a6/c4/2ea6c422e199250adc0938bfce799b61.gif
+46,Oatmeal Raisin Crisp,130.0,3.0,2.0,170.0,1.5,13.5,10.0,0.5,https://jetimages.jetcdn.net/md5/a5005e3cf3649e661ecae4229647e194?odnBound=576
+47,Product 19,100.0,3.0,0.0,320.0,1.0,20.0,3.0,1.0,https://images-na.ssl-images-amazon.com/images/I/91czSVoNLcL._SY445_.jpg
+48,Puffed Rice,50.0,1.0,0.0,0.0,0.0,13.0,0.0,1.0,https://media.swansonvitamins.com/images/items/master/AHM019.jpg
+49,Puffed Wheat,50.0,2.0,0.0,0.0,1.0,10.0,0.0,1.0,https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b6a5e99f-0583-43e3-9ab3-f47b0c5ef259.jpg
+50,Quaker Oat Squares,100.0,4.0,1.0,135.0,2.0,14.0,6.0,0.5,https://target.scene7.com/is/image/Target/GUEST_46a60cc8-f22e-4534-b20b-ba747da20cd3?wid=488&hei=488&fmt=pjpeg
+51,Raisin Bran,120.0,3.0,1.0,210.0,5.0,14.0,12.0,0.75,https://cdn3.volusion.com/no4tr.u43q3/v/vspfiles/photos/DE689934-2.jpg?v-cache=1555470071
+52,Raisin Nut Bran,100.0,3.0,2.0,140.0,2.5,10.5,8.0,0.5,https://images-na.ssl-images-amazon.com/images/I/81%2BnuQXdciL._SL1500_.jpg
+53,Raisin Squares,90.0,2.0,0.0,0.0,2.0,15.0,6.0,0.5,https://dlisted.com/wp-content/uploads/2017/04/hbraisingsquares-500x645.jpg
+54,Rice Chex,110.0,1.0,0.0,240.0,0.0,23.0,2.0,1.13,https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00016000487956/f8d7399427fbb20cb9eee4cbbc21cb07_large.png&width=512&type=webp&quality=40
+55,Rice Krispies,110.0,2.0,0.0,290.0,0.0,22.0,3.0,1.0,https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00038000199943/7347f13d8dd3b7c9860b1026827bb21e_large.png&width=512&type=webp&quality=40
+56,Shredded Wheat,80.0,2.0,0.0,0.0,3.0,16.0,0.0,1.0,https://target.scene7.com/is/image/Target/GUEST_d2b4e1ff-61ac-4f0d-9fce-21ea3f6d1683?wid=488&hei=488&fmt=pjpeg
+57,Shredded Wheat 'n'Bran,90.0,3.0,0.0,0.0,4.0,19.0,0.0,0.67,https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_5eeac9c7-b077-46db-add2-76631d41188f.JPG
+58,Smacks,110.0,2.0,1.0,70.0,1.0,9.0,15.0,0.75,https://images-na.ssl-images-amazon.com/images/I/81z%2BbYy3umL._SL1500_.jpg
+59,Special K,110.0,6.0,0.0,230.0,1.0,16.0,3.0,1.0,https://www.kroger.com/product/images/xlarge/front/0003800001621
+60,Strawberry Fruit Wheats,90.0,2.0,0.0,15.0,3.0,15.0,5.0,1.0,https://qph.fs.quoracdn.net/main-qimg-3c5272dfae73636928be9b19331e8659
+61,Total Raisin Bran,140.0,3.0,1.0,190.0,4.0,15.0,14.0,1.0,https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_5c9885b7-30ac-43ab-8a68-f5150647e0dc.JPG
+62,Total Whole Grain,100.0,3.0,1.0,200.0,3.0,16.0,3.0,1.0,https://images-na.ssl-images-amazon.com/images/I/91RUVgFAV0L._SL1500_.jpg
+63,Triples,110.0,2.0,1.0,250.0,0.0,21.0,3.0,0.75,https://i.pinimg.com/originals/a6/8c/6c/a68c6cecce2a14fdcee754e1a251ff35.jpg
+64,Trix,110.0,1.0,1.0,140.0,0.0,13.0,12.0,1.0,https://www.kroger.com/product/images/xlarge/front/0001600027532
+65,Wheat Chex,100.0,3.0,1.0,230.0,3.0,17.0,3.0,0.67,https://images-na.ssl-images-amazon.com/images/I/91iI6c5xyRL._SY445_.jpg
+66,Wheaties,100.0,3.0,1.0,200.0,3.0,17.0,3.0,1.0,https://images-na.ssl-images-amazon.com/images/I/619Rd-4%2B2mL._AC_SY606_.jpg
+67,Wheaties Honey Gold,110.0,2.0,1.0,200.0,1.0,16.0,8.0,0.75,https://www.mrbreakfast.com/cereal/c_1196_wheaties_honey_gold_box_front.jpg

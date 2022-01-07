@@ -1,0 +1,51 @@
+id,Position,Track Name,Artist,Popularity,URL
+1,1,STAY (with Justin Bieber),The Kid LAROI,92,https://api.spotify.com/v1/tracks/5PjdY0CKGZdEuoNab3yDmX
+2,2,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,87,https://api.spotify.com/v1/tracks/5Z9KJZvQzH6PFmb8SNkxuk
+3,3,Heat Waves,Glass Animals,89,https://api.spotify.com/v1/tracks/02MWAaffLxlfxAUY7c5dvx
+4,4,Pepas,Farruko,59,https://api.spotify.com/v1/tracks/2B4GHvToeLTOBB4QLzW3Ni
+5,5,Bad Habits,Ed Sheeran,97,https://api.spotify.com/v1/tracks/6PQ88X9TkUIAUIZJHW2upE
+6,6,Woman,Doja Cat,95,https://api.spotify.com/v1/tracks/6Uj1ctrBOjOas8xZXGqKk4
+7,7,My Universe,Coldplay,91,https://api.spotify.com/v1/tracks/3FeVmId7tL5YN8B7R3imoM
+8,8,Shivers,Ed Sheeran,92,https://api.spotify.com/v1/tracks/75MNhvTCCKsST3YqqUiU9r
+9,9,good 4 u,Olivia Rodrigo,96,https://api.spotify.com/v1/tracks/4ZtFanR9U6ndgddUvNcjcG
+10,10,Beggin',Måneskin,96,https://api.spotify.com/v1/tracks/3Wrjm47oTz2sjIgck11l5e
+11,11,THATS WHAT I WANT,Lil Nas X,92,https://api.spotify.com/v1/tracks/0e8nrvls4Qqv5Rfa2UhqmO
+12,12,love nwantiti (ah ah ah),CKay,89,https://api.spotify.com/v1/tracks/2Xr1dTzJee307rmrkt8c0g
+13,13,MONTERO (Call Me By Your Name),Lil Nas X,87,https://api.spotify.com/v1/tracks/1SC5rEoYDGUK4NfG82494W
+14,14,Life Goes On,Oliver Tree,91,https://api.spotify.com/v1/tracks/0eu4C55hL6x29mmeAjytzC
+15,15,Cold Heart - PNAU Remix,Elton John,92,https://api.spotify.com/v1/tracks/6zSpb8dQRaw0M1dK8PBwQz
+16,16,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,CKay,87,https://api.spotify.com/v1/tracks/4gvrJnKCKIPiacNsWVQwEU
+17,17,MONEY,LISA,83,https://api.spotify.com/v1/tracks/7hU3IHwjX150XLoTVmjD0q
+18,18,Need To Know,Doja Cat,93,https://api.spotify.com/v1/tracks/3Vi5XqYrmQgOYBajMWSvCi
+19,19,Happier Than Ever,Billie Eilish,94,https://api.spotify.com/v1/tracks/4RVwu0g32PAqgUiJoXsdF8
+20,20,Kiss Me More (feat. SZA),Doja Cat,86,https://api.spotify.com/v1/tracks/3DarAbFujv6eYNliUTyqtz
+21,21,Way 2 Sexy (with Future & Young Thug),Drake,93,https://api.spotify.com/v1/tracks/0k1WUmIRnG3xU6fvvDVfRG
+22,22,Yonaguni,Bad Bunny,93,https://api.spotify.com/v1/tracks/2JPLbjOn0wPCngEot2STUS
+23,23,Todo De Ti,Rauw Alejandro,84,https://api.spotify.com/v1/tracks/5RwV8BvLfX5injfqYodke9
+24,24,traitor,Olivia Rodrigo,92,https://api.spotify.com/v1/tracks/5CZ40GBx1sQ9agT82CLQCT
+25,25,Levitating (feat. DaBaby),Dua Lipa,87,https://api.spotify.com/v1/tracks/5nujrmhLynf4yMoMtj8AQF
+26,26,Knife Talk (with 21 Savage ft. Project Pat),Drake,91,https://api.spotify.com/v1/tracks/2BcMwX1MPV6ZHP4tUT9uq6
+27,27,Volví,Aventura,92,https://api.spotify.com/v1/tracks/2vmfvSoZBFAt9hhRoEByLi
+28,28,In Da Getto,J Balvin,78,https://api.spotify.com/v1/tracks/1q0PYXTbDsirp2l74ng6pn
+29,29,Fair Trade (with Travis Scott),Drake,93,https://api.spotify.com/v1/tracks/40iJIUlhi6renaREYGeIDS
+30,30,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,92,https://api.spotify.com/v1/tracks/4iJyoBOLtHqaGxP12qzhQI
+31,31,Blinding Lights,The Weeknd,91,https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b
+32,32,Meet Me At Our Spot,THE ANXIETY,89,https://api.spotify.com/v1/tracks/07MDkzWARZaLEdKxo6yArG
+33,33,LALISA,LISA,84,https://api.spotify.com/v1/tracks/7uQZVznj0uQOGC9KhV2Mg6
+34,34,Qué Más Pues?,J Balvin,78,https://api.spotify.com/v1/tracks/6D2TCm4nf5nxAcdGJ7w3QP
+35,35,Take My Breath,The Weeknd,82,https://api.spotify.com/v1/tracks/6M3PsepEj5gyJoIi7Xvr7u
+36,36,drivers license,Olivia Rodrigo,90,https://api.spotify.com/v1/tracks/5wANPM4fQCJwkGd4rN57mH
+37,37,I WANNA BE YOUR SLAVE,Måneskin,92,https://api.spotify.com/v1/tracks/4pt5fDVTg5GhEvEtlz9dKk
+38,38,Save Your Tears (with Ariana Grande) (Remix),The Weeknd,91,https://api.spotify.com/v1/tracks/37BZB0z9T8Xu7U3e65qxFy
+39,39,2055,Sleepy Hallow,88,https://api.spotify.com/v1/tracks/4XvcHTUfIlWfyJTRG0aqlo
+40,40,Get Into It (Yuh),Doja Cat,88,https://api.spotify.com/v1/tracks/0W6I02J9xcqK8MtSeosEXb
+41,41,Don't Be Shy,Tiësto,89,https://api.spotify.com/v1/tracks/0bI7K9Becu2dtXK1Q3cZNB
+42,42,Cúrame,Rauw Alejandro,89,https://api.spotify.com/v1/tracks/3PwRuzdphgedcWVUOVYJ7I
+43,43,Girls Want Girls (with Lil Baby),Drake,92,https://api.spotify.com/v1/tracks/37Nqx7iavZpotJSDXZWbJ3
+44,44,Butter,BTS,91,https://api.spotify.com/v1/tracks/2bgTY4UwhfBYhGT4HUYStN
+45,45,Sobrio,Maluma,89,https://api.spotify.com/v1/tracks/4HzqWEdAbzcVFDv0pvxV4w
+46,46,Where Are You Now,Lost Frequencies,88,https://api.spotify.com/v1/tracks/3uUuGVFu1V7jTQL60S1r8z
+47,47,AM Remix,Nio Garcia,90,https://api.spotify.com/v1/tracks/05bfbizlM5AX6Mf1RRyMho
+48,48,Hurricane,Kanye West,92,https://api.spotify.com/v1/tracks/0RbW8kWozrVSIGb4V13o0o
+49,49,Ley Seca,Jhay Cortez,85,https://api.spotify.com/v1/tracks/3JCaq3KDSROg3TXhdiDa9n
+50,50,Sweater Weather,The Neighbourhood,88,https://api.spotify.com/v1/tracks/2QjOHCTQ1Jl3zawyYOpxh6

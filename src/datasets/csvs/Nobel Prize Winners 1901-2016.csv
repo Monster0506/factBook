@@ -1,0 +1,837 @@
+id,First name,Last name,Date of birth,Country of birth,City of birth,Year of award,Category,Motivation
+1,Elinor,Ostrom,8/7/1933,USA,"Los Angeles, CA",2009.0,economics,"for her analysis of economic governance, especially the commons"
+2,Wangari Muta,Maathai,4/1/1940,Kenya,Nyeri,2004.0,peace,"for her contribution to sustainable development, democracy and peace"
+3,Dorothy Crowfoot,Hodgkin,5/12/1910,Egypt,Cairo,1964.0,chemistry,for her determinations by X-ray techniques of the structures of important biochemical substances
+4,Youyou,Tu,12/30/1930,China,Zhejiang Ningbo,2015.0,medicine,for her discoveries concerning a novel therapy against Malaria
+5,Barbara,McClintock,6/16/1902,USA,"Hartford, CT",1983.0,medicine,for her discovery of mobile genetic elements
+6,Shirin,Ebadi,6/21/1947,Iran,Hamadan,2003.0,peace,for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children
+7,Grazia,Deledda,09/27/1871,Italy,"Nuoro, Sardinia",1926.0,literature,for her idealistically inspired writings which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general
+8,Gabriela,Mistral,04/07/1889,Chile,Vicu_a,1945.0,literature,"for her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world"
+9,Elfriede,Jelinek,10/20/1946,Austria,Morzzuschlag,2004.0,literature,for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power
+10,Aung San Suu,Kyi,6/19/1945,Burma (now Myanmar),Rangoon (now Yangon),1991.0,peace,for her non-violent struggle for democracy and human rights
+11,Nelly,Sachs,12/10/1891,Germany,Berlin,1966.0,literature,"for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength "
+12,Svetlana,Alexievich,5/31/1948,Ukraine,Ivano-Frankivsk,2015.0,literature,"for her polyphonic writings, a monument to suffering and courage in our time"
+13,Pearl,Buck,06/26/1892,USA,"Hillsboro, WV",1938.0,literature,for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces
+14,Wislawa,Szymborska,7/2/1923,Poland,Bnin (now Krnik),1996.0,literature,for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality
+15,Ada E.,Yonath,6/22/1939,British Mandate of Palestine (now Israel),Jerusalem,2009.0,chemistry,for studies of the structure and function of the ribosome
+16,Rosalyn,Yalow,7/19/1921,USA,"New York, NY",1977.0,medicine,for the development of radioimmunoassays of peptide hormones
+17,Carol W.,Greider,4/15/1961,USA,"San Diego, CA",2009.0,medicine,for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase
+18,Elizabeth H.,Blackburn,11/26/1948,Australia,"Hobart, Tasmania",2009.0,medicine,for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase
+19,Maria,Goeppert Mayer,6/28/1906,Germany (now Poland),Kattowitz (now Katowice),1963.0,physics,for their discoveries concerning nuclear shell structure
+20,Christiane,Nosslein-Volhard,10/20/1942,Germany,Magdeburg,1995.0,medicine,for their discoveries concerning the genetic control of early embryonic development
+21,May-Britt,Moser,1/4/1963,Norway,Fosnaveg,2014.0,medicine,for their discoveries of cells that constitute a positioning system in the brain
+22,Rita,Levi-Montalcini,4/22/1909,Italy,Turin,1986.0,medicine,for their discoveries of growth factors
+23,Gertrude B.,Elion,1/23/1918,USA,"New York, NY",1988.0,medicine,for their discoveries of important principles for drug treatment
+24,Linda B.,Buck,1/29/1947,USA,"Seattle, WA",2004.0,medicine,for their discoveries of odorant receptors and the organization of the olfactory system
+25,Francoise,Barr_-Sinoussi,7/30/1947,France,Paris,2008.0,medicine,for their discovery of human immunodeficiency virus
+26,Gerty Theresa,Radnitz,08/15/1896,Austria-Hungary (now Czech Republic),Prague,1947.0,medicine,for their discovery of the course of the catalytic conversion of glycogen
+27,Ellen,Johnson Sirleaf,10/29/1938,Liberia,Monrovia,2011.0,peace,for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work
+28,Leymah,Gbowee,2/1/1972,Liberia,Monrovia,2011.0,peace,for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work
+29,Tawakkol,Karman,2/7/1979,Yemen,Taizz,2011.0,peace,for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work
+30,Malala,Yousafzai,7/12/1997,Pakistan,Mingora,2014.0,peace,for their struggle against the suppression of children and young people and for the right of all children to education
+31,Jody,Williams,10/9/1950,USA,"Putney, VT",1997.0,peace,for their work for the banning and clearing of anti-personnel mines
+32,Selma Ottilia Lovisa,Larerl,11/20/1858,Sweden,Merbacka,1909.0,literature,"in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings"
+33,Marie,Curie,11/07/1867,Russian Empire (now Poland),Warsaw,1911.0,chemistry,"in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element"
+34,Rigoberta,Menchì Tum,1/9/1959,Guatemala,Aldea Chimel,1992.0,peace,in recognition of her work for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples
+35,Irene,Joliot-Curie,09/12/1897,France,Paris,1935.0,chemistry,in recognition of their synthesis of new radioactive elements
+36,Alice,Munro,7/10/1931,Canada,Wingham,2013.0,literature,master of the contemporary short story
+37,Sigrid,Undset,05/20/1882,Denmark,Kalundborg,1928.0,literature,principally for her powerful descriptions of Northern life during the Middle Ages
+38,Doris,Lessing,10/22/1919,Persia (now Iran),Kermanshah,2007.0,literature,"that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny"
+39,Toni,Morrison,2/18/1931,USA,"Lorain, OH",1993.0,literature,"who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality"
+40,Nadine,Gordimer,11/19/1923,South Africa,Springs,1991.0,literature,who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity
+41,Herta,Moller,8/17/1953,Romania,"Nitzkydorf, Banat",2009.0,literature,"who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed"
+42,Betty,Williams,5/22/1943,Northern Ireland,Belfast,1976.0,peace,
+43,Mairead,Corrigan,1/27/1944,Northern Ireland,Belfast,1976.0,peace,
+44,Alva,Myrdal,1/31/1902,Sweden,Uppsala,1982.0,peace,
+45,Mother,Teresa,8/26/1910,Ottoman Empire (now Republic of Macedonia),Uskup (now Skopje),1979.0,peace,
+46,Baroness Bertha Sophie Felicita,"von Suttner, n_e Countess Kinsky von Chinic und Tettau",06/09/1843,Austrian Empire (now Czech Republic),Prague,1905.0,peace,
+47,Jane,Addams,09/06/1860,USA,"Cedarville, IL",1931.0,peace,
+48,Emily Greene,Balch,01/08/1867,USA,"Jamaica Plain, MA (now Boston)",1946.0,peace,
+49,Bjernstjerne Martinus,Bjemson,12/08/1832,Norway,Kvikne,1903.0,literature,"as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit"
+50,Paul Johann Ludwig,Heyse,03/15/1830,Prussia (now Germany),Berlin,1910.0,literature,"as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories"
+51,Romain,Rolland,01/29/1866,France,Clamecy,1915.0,literature,as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings
+52,Jean-Marie Gustave,Le Cl_zio,4/13/1940,France,Nice,2008.0,literature,"author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization"
+53,Henryk,Sienkiewicz,05/05/1846,Poland,Wola Okrzejska,1905.0,literature,because of his outstanding merits as an epic writer
+54,Rabindranath,Tagore,05/07/1861,India,Calcutta,1913.0,literature,"because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West"
+55,Tomas,Transtr_mer,4/15/1931,Sweden,Stockholm,2011.0,literature,"because, through his condensed, translucent images, he gives us fresh access to reality"
+56,Vicente,Aleixandre,04/26/1898,Spain,Sevilla,1977.0,literature,"for a creative poetic writing which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars"
+57,Eyvind,Johnson,7/29/1900,Sweden,Svartbj_rnsbyn,1974.0,literature,"for a narrative art, far-seeing in lands and ages, in the service of freedom"
+58,Robert C.,Merton,7/31/1944,USA,"New York, NY",1997.0,economics,for a new method to determine the value of derivatives
+59,Myron S.,Scholes,7/1/1941,Canada,"Timmins, ON",1997.0,economics,for a new method to determine the value of derivatives
+60,Derek,Walcott,1/23/1930,Saint Lucia,Castries,1992.0,literature,"for a poetic oeuvre of great luminosity, sustained by a historical vision, the outcome of a multicultural commitment"
+61,Pablo,Neruda,7/12/1904,Chile,Parral,1971.0,literature,for a poetry that with the action of an elemental force brings alive a continent's destiny and dreams
+62,Camilo Jos_,Cela,5/11/1916,Spain,Iria Flavia,1989.0,literature,"for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability"
+63,Gao,Xingjian,1/4/1940,China,Ganzhou,2000.0,literature,"for an &aelig;uvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama"
+64,Joseph,Brodsky,5/24/1940,USSR (now Russia),Leningrad (now Saint Petersburg),1987.0,literature,"for an all-embracing authorship, imbued with clarity of thought and poetic intensity"
+65,Patrick,White,5/28/1912,United Kingdom,London,1973.0,literature,for an epic and psychological narrative art which has introduced a new continent into literature
+66,Herbert,Kroemer,8/25/1928,Germany,Weimar,2000.0,physics,for developing semiconductor heterostructures used in high-speed- and opto-electronics
+67,Zhores I.,Alferov,3/15/1930,USSR (now Belarus),"Vitebsk, Belorussia",2000.0,physics,for developing semiconductor heterostructures used in high-speed- and opto-electronics
+68,William D.,Phillips,11/5/1948,USA,"Wilkes-Barre, PA",1997.0,physics,for development of methods to cool and trap atoms with laser light
+69,Claude,Cohen-Tannoudji,4/1/1933,French Algeria (now Algeria),Constantine,1997.0,physics,for development of methods to cool and trap atoms with laser light
+70,Steven,Chu,2/28/1948,USA,"St. Louis, MO",1997.0,physics,for development of methods to cool and trap atoms with laser light
+71,Pierre-Gilles,de Gennes,10/24/1932,France,Paris,1991.0,physics,"for discovering that methods developed for studying order phenomena in simple systems can be generalized to more complex forms of matter, in particular to liquid crystals and polymers"
+72,Peter Brian,Medawar,2/28/1915,Brazil,Rio de Janeiro,1960.0,medicine,for discovery of acquired immunological tolerance
+73,Sir Frank Macfarlane,Burnet,09/03/1899,Australia,Traralgon,1960.0,medicine,for discovery of acquired immunological tolerance
+74,Martinus J.G.,Veltman,6/27/1931,the Netherlands,Waalwijk,1999.0,physics,for elucidating the quantum structure of electroweak interactions in physics
+75,Gerardus,t Hooft,7/5/1946,the Netherlands,Den Helder,1999.0,physics,for elucidating the quantum structure of electroweak interactions in physics
+76,Louis Eugene Felix,N_el,11/22/1904,France,Lyon,1970.0,physics,for fundamental work and discoveries concerning antiferromagnetism and ferrimagnetism which have led to important applications in solid state physics
+77,Hannes Olof G_sta,Alfv_n,5/30/1908,Sweden,Norrk_ping,1970.0,physics,for fundamental work and discoveries in magnetohydro-dynamics with fruitful applications in different parts of plasma physics
+78,Charles Hard,Townes,7/28/1915,USA,"Greenville, SC",1964.0,physics,"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle"
+79,Aleksandr Mikhailovich,Prokhorov,7/11/1916,Australia,Atherton,1964.0,physics,"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle"
+80,Nicolay Gennadiyevich,Basov,12/14/1922,USSR (now Russia),Usman,1964.0,physics,"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle"
+81,David J.,Wineland,2/24/1944,USA,"Milwaukee, WI",2012.0,physics,for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems
+82,Serge,Haroche,9/11/1944,Morocco,Casablanca,2012.0,physics,for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems
+83,Charles Kuen,Kao,11/4/1933,China,Shanghai,2009.0,physics,for groundbreaking achievements concerning the transmission of light in fibers for optical communication
+84,Andre,Geim,10/21/1958,Russia,Sochi,2010.0,physics,for groundbreaking experiments regarding the two-dimensional material graphene
+85,Konstantin,Novoselov,8/23/1974,Russia,Nizhny Tagil,2010.0,physics,for groundbreaking experiments regarding the two-dimensional material graphene
+86,Ragnar,Frisch,03/03/1895,Norway,Oslo,1969.0,economics,for having developed and applied dynamic models for the analysis of economic processes
+87,Jan,Tinbergen,4/12/1903,the Netherlands,the Hague,1969.0,economics,for having developed and applied dynamic models for the analysis of economic processes
+88,Robert E.,Lucas Jr.,9/15/1937,USA,"Yakima, WA",1995.0,economics,"for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy"
+89,Thomas C.,Schelling,4/14/1921,USA,"Oakland, CA",2005.0,economics,for having enhanced our understanding of conflict and cooperation through game-theory analysis
+90,Robert J.,Aumann,6/8/1930,Germany,Frankfurt-on-the-Main,2005.0,economics,for having enhanced our understanding of conflict and cooperation through game-theory analysis
+91,Vernon L.,Smith,1/1/1927,USA,"Wichita, KS",2002.0,economics,"for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms"
+92,Gary S.,Becker,12/2/1930,USA,"Pottsville, PA",1992.0,economics,"for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour"
+93,Gerard,Debreu,7/4/1921,France,Calais,1983.0,economics,for having incorporated new analytical methods into economic theory and for his rigorous reformulation of the theory of general equilibrium
+94,Daniel,Kahneman,3/5/1934,British Mandate of Palestine (now Israel),Tel Aviv,2002.0,economics,"for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty"
+95,Roger B.,Myerson,3/29/1951,USA,"Boston, MA",2007.0,economics,for having laid the foundations of mechanism design theory
+96,Leonid,Hurwicz,8/21/1917,Russia,Moscow,2007.0,economics,for having laid the foundations of mechanism design theory
+97,Eric S.,Maskin,12/12/1950,USA,"New York, NY",2007.0,economics,for having laid the foundations of mechanism design theory
+98,Richard,Stone,8/30/1913,United Kingdom,London,1984.0,economics,for having made fundamental contributions to the development of systems of national accounts and hence greatly improved the basis for empirical economic analysis
+99,Robert W.,Fogel,7/1/1927,USA,"New York, NY",1993.0,economics,for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change
+100,Douglass C.,North,11/5/1920,USA,"Cambridge, MA",1993.0,economics,for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change
+101,Milton,Friedman,7/31/1912,USA,"Brooklyn, NY",1976.0,economics,"for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy"
+102,William Butler,Yeats,06/13/1865,Ireland,Dublin,1923.0,literature,"for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation"
+103,Angus,Deaton,10/19/1945,United Kingdom,Edinburgh,2015.0,economics,"for his analysis of consumption, poverty, and welfare"
+104,Oliver E.,Williamson,9/27/1932,USA,"Superior, WI",2009.0,economics,"for his analysis of economic governance, especially the boundaries of the firm"
+105,James,Tobin,3/5/1918,USA,"Champaign, IL",1981.0,economics,"for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices"
+106,Edmund S.,Phelps,7/26/1933,USA,"Evanston, IL",2006.0,economics,for his analysis of intertemporal tradeoffs in macroeconomic policy
+107,Jean,Tirole,8/9/1953,France,Troyes,2014.0,economics,for his analysis of market power and regulation
+108,Robert A.,Mundell,10/24/1932,Canada,"Kingston, ON",1999.0,economics,for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas
+109,Paul,Krugman,2/28/1953,USA,"New York, NY",2008.0,economics,for his analysis of trade patterns and location of economic activity
+110,Henrik,Pontoppidan,07/24/1857,Denmark,Fredericia,1917.0,literature,for his authentic descriptions of present-day life in Denmark
+111,Pyotr Leonidovich,Kapitsa,07/09/1894,Russian Empire (now Russia),Kronshtadt,1978.0,physics,for his basic inventions and discoveries in the area of low-temperature physics
+112,Eduard,Buchner,05/20/1860,Bavaria (now Germany),Munich,1907.0,chemistry,for his biochemical researches and his discovery of cell-free fermentation
+113,Luigi,Pirandello,06/28/1867,Italy,"Agrigento, Sicily",1934.0,literature,for his bold and ingenious revival of dramatic and scenic art
+114,Mario,Vargas Llosa,3/28/1936,Peru,Arequipa,2010.0,literature,"for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat"
+115,Trygve,Haavelmo,12/13/1911,Norway,Skedsmo,1989.0,economics,for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures
+116,Andr_ Paul Guillaume,Gide,11/22/1869,France,Paris,1947.0,literature,"for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight"
+117,George A.,Olah,5/22/1927,Hungary,Budapest,1994.0,chemistry,for his contribution to carbocation chemistry
+118,Kai M.,Siegbahn,4/19/1918,Sweden,Lund,1981.0,physics,for his contribution to the development of high-resolution electron spectroscopy
+119,Otto,Stern,02/17/1888,Germany (now Poland),Sorau (now Zory),1943.0,physics,for his contribution to the development of the molecular ray method and his discovery of the magnetic moment of the proton
+120,Roy J.,Glauber,9/1/1925,USA,"New York, NY",2005.0,physics,for his contribution to the quantum theory of optical coherence
+121,Peter D.,Mitchell,9/29/1920,United Kingdom,Mitcham,1978.0,chemistry,for his contribution to the understanding of biological energy transfer through the formulation of the chemiosmotic theory
+122,Murray,Gell-Mann,9/15/1929,USA,"New York, NY",1969.0,physics,for his contributions and discoveries concerning the classification of elementary particles and their interactions
+123,William Francis,Giauque,05/12/1895,Canada,Niagara Falls,1949.0,chemistry,"for his contributions in the field of chemical thermodynamics, particularly concerning the behaviour of substances at extremely low temperatures"
+124,Ilya,Prigogine,1/25/1917,Russia,Moscow,1977.0,chemistry,"for his contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures"
+125,Petrus (Peter) Josephus Wilhelmus,Debye,03/24/1884,the Netherlands,Maastricht,1936.0,chemistry,for his contributions to our knowledge of molecular structure through his investigations on dipole moments and on the diffraction of X-rays and electrons in gases
+126,Frederick,Soddy,09/02/1877,United Kingdom,Eastbourne,1921.0,chemistry,"for his contributions to our knowledge of the chemistry of radioactive substances, and his investigations into the origin and nature of isotopes"
+127,Richard R.,Ernst,8/14/1933,Switzerland,Winterthur,1991.0,chemistry,for his contributions to the development of the methodology of high resolution nuclear magnetic resonance (NMR) spectroscopy
+128,Gerhard,Herzberg,12/25/1904,Germany,Hamburg,1971.0,chemistry,"for his contributions to the knowledge of electronic structure and geometry of molecules, particularly free radicals"
+129,Robert M.,Solow,8/23/1924,USA,"Brooklyn, NY",1987.0,economics,for his contributions to the theory of economic growth
+130,Rudolph A.,Marcus,7/21/1923,Canada,Montreal,1992.0,chemistry,for his contributions to the theory of electron transfer reactions in chemical systems
+131,Hans Albrecht,Bethe,7/2/1906,Germany (now France),Strassburg (now Strasbourg),1967.0,physics,"for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars"
+132,Eugene Paul,Wigner,11/17/1902,Austria-Hungary (now Hungary),Budapest,1963.0,physics,"for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles"
+133,Amartya,Sen,11/3/1933,India,Santiniketan,1998.0,economics,for his contributions to welfare economics
+134,Jimmy,Carter,10/1/1924,USA,"Plains, GA",2002.0,peace,"for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development"
+135,Luis Walter,Alvarez,6/13/1911,USA,"San Francisco, CA",1968.0,physics,"for his decisive contributions to elementary particle physics, in particular the discovery of a large number of resonance states, made possible through his development of the technique of using hydrogen bubble chamber and data analysis"
+136,Frans Eemil,Sillanp__,09/16/1888,Russian Empire (now Finland),H_meenkyr_,1939.0,literature,for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature
+137,Richard Adolf,Zsigmondy,04/01/1865,Austrian Empire (now Austria),Vienna,1925.0,chemistry,"for his demonstration of the heterogenous nature of colloid solutions and for the methods he used, which have since become fundamental in modern colloid chemistry"
+138,Frits,Zernike,07/16/1888,the Netherlands,Amsterdam,1953.0,physics,"for his demonstration of the phase contrast method, especially for his invention of the phase contrast microscope"
+139,Enrico,Fermi,9/29/1901,Italy,Rome,1938.0,physics,"for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons"
+140,John A.,Pople,10/31/1925,United Kingdom,Burnham-on-Sea,1998.0,chemistry,for his development of computational methods in quantum chemistry
+141,Aaron,Klug,8/11/1926,Lithuania,Zelvas,1982.0,chemistry,for his development of crystallographic electron microscopy and his structural elucidation of biologically important nucleic acid-protein complexes
+142,Robert Bruce,Merrifield,7/15/1921,USA,"Fort Worth, TX",1984.0,chemistry,for his development of methodology for chemical synthesis on a solid matrix
+143,Kurt,Wothrich,10/4/1938,Switzerland,Aarberg,2002.0,chemistry,for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution
+144,James M.,Buchanan Jr.,10/3/1919,USA,"Murfreesboro, TN",1986.0,economics,for his development of the contractual and constitutional bases for the theory of economic and political decision-making
+145,Walter,Kohn,3/9/1923,Austria,Vienna,1998.0,chemistry,for his development of the density-functional theory
+146,Cecil Frank,Powell,12/5/1903,United Kingdom,Tonbridge,1950.0,physics,for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method
+147,Elias James,Corey,7/12/1928,USA,"Methuen, MA",1990.0,chemistry,for his development of the theory and methodology of organic synthesis
+148,Patrick Maynard Stuart,Blackett,11/18/1897,United Kingdom,London,1948.0,physics,"for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation"
+149,Daniel L.,McFadden,7/29/1937,USA,"Raleigh, NC",2000.0,economics,for his development of theory and methods for analyzing discrete choice
+150,James J.,Heckman,4/19/1944,USA,"Chicago, IL",2000.0,economics,for his development of theory and methods for analyzing selective samples
+151,Irving,Langmuir,01/31/1881,USA,"Brooklyn, NY",1932.0,chemistry,for his discoveries and investigations in surface chemistry
+152,Karl Manne Georg,Siegbahn,12/03/1886,Sweden,Lund,1924.0,physics,for his discoveries and research in the field of X-ray spectroscopy
+153,Joshua,Lederberg,5/23/1925,USA,"Montclair, NJ",1958.0,medicine,for his discoveries concerning genetic recombination and the organization of the genetic material of bacteria
+154,Charles Brenton,Huggins,9/22/1901,Canada,Halifax,1966.0,medicine,for his discoveries concerning hormonal treatment of prostatic cancer
+155,Willis Eugene,Lamb,7/12/1913,USA,"Los Angeles, CA",1955.0,physics,for his discoveries concerning the fine structure of the hydrogen spectrum
+156,Roger W.,Sperry,8/19/1913,USA,"Hartford, CT",1981.0,medicine,for his discoveries concerning the functional specialization of the cerebral hemispheres
+157,Earl W.,"Sutherland, Jr.",11/19/1915,USA,"Burlingame, KS",1971.0,medicine,for his discoveries concerning the mechanisms of the action of hormones
+158,Axel Hugo Theodor,Theorell,7/6/1903,Sweden,Link_ping,1955.0,medicine,for his discoveries concerning the nature and mode of action of oxidation enzymes
+159,Thomas Hunt,Morgan,09/25/1866,USA,"Lexington, KY",1933.0,medicine,for his discoveries concerning the role played by the chromosome in heredity
+160,Max,Theiler,01/30/1899,South Africa,Pretoria,1951.0,medicine,for his discoveries concerning yellow fever and how to combat it
+161,Albert,von Szent-Gy_rgyi Nagyrˆpolt,09/16/1893,Austria-Hungary (now Hungary),Budapest,1937.0,medicine,"for his discoveries in connection with the biological combustion processes, with special reference to vitamin C and the catalysis of fumaric acid"
+162,Hermann,Staudinger,03/23/1881,Germany,Worms,1953.0,chemistry,for his discoveries in the field of macromolecular chemistry
+163,Hermann,Staudinger,03/23/1881,Germany,Worms,1953.0,chemistry,for his discoveries in the field of macromolecular chemistry
+164,Georg,von B_k_sy,06/03/1899,Hungary,Budapest,1961.0,medicine,for his discoveries of the physical mechanism of stimulation within the cochlea
+165,Wilhelm,Wien,01/13/1864,Prussia (now Russia),Gaffken (now Parusnoye),1911.0,physics,for his discoveries regarding the laws governing the radiation of heat
+166,Jules,Bordet,06/13/1870,Belgium,Soignies,1919.0,medicine,for his discoveries relating to immunity
+167,Daniel,Bovet,3/23/1907,Switzerland,NeuchŠtel,1957.0,medicine,"for his discoveries relating to synthetic compounds that inhibit the action of certain body substances, and especially their action on the vascular system and the skeletal muscles"
+168,Ronald H.,Coase,12/29/1910,United Kingdom,Willesden,1991.0,economics,for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy
+169,Jaroslav,Heyrovsky,12/20/1890,Austria-Hungary (now Czech Republic),Prague,1959.0,chemistry,for his discovery and development of the polarographic methods of analysis
+170,Fritz Albert,Lipmann,06/12/1899,Germany (now Russia),Koenigsberg (now Kaliningrad),1953.0,medicine,for his discovery of co-enzyme A and its importance for intermediary metabolism
+171,Victor Franz,Hess,06/24/1883,Austria,Peggau,1936.0,physics,for his discovery of cosmic radiation
+172,Harold Clayton,Urey,04/29/1893,USA,"Walkerton, IN",1934.0,chemistry,for his discovery of heavy hydrogen
+173,Karl,Landsteiner,06/14/1868,Austrian Empire (now Austria),Vienna,1930.0,medicine,for his discovery of human blood groups
+174,Harald,zur Hausen,3/11/1936,Germany,Gelsenkirchen,2008.0,medicine,for his discovery of human papilloma viruses causing cervical cancer
+175,Stanley B.,Prusiner,5/28/1942,USA,"Des Moines, IA",1997.0,medicine,for his discovery of Prions - a new biological principle of infection
+176,Selman Abraham,Waksman,07/22/1888,Russian Empire (now Ukraine),Priluka (now Nova Pryluka),1952.0,medicine,"for his discovery of streptomycin, the first antibiotic effective against tuberculosis"
+177,Luis F.,Leloir,9/6/1906,France,Paris,1970.0,chemistry,for his discovery of sugar nucleotides and their role in the biosynthesis of carbohydrates
+178,Christiaan,Eijkman,08/11/1858,the Netherlands,Nijkerk,1929.0,medicine,for his discovery of the antineuritic vitamin
+179,Schack August Steenberg,Krogh,11/15/1874,Denmark,Grene,1920.0,medicine,for his discovery of the capillary motor regulating mechanism
+180,Charles Glover,Barkla,06/07/1877,United Kingdom,Widnes,1917.0,physics,for his discovery of the characteristic R&ouml;ntgen radiation of the elements
+181,Edward Adelbert,Doisy,11/13/1893,USA,"Hume, IL",1943.0,medicine,for his discovery of the chemical nature of vitamin K
+182,Hans Adolf,Krebs,8/25/1900,Germany,Hildesheim,1953.0,medicine,for his discovery of the citric acid cycle
+183,Ralph M.,Steinman,1/14/1943,Canada,Montreal,2011.0,medicine,for his discovery of the dendritic cell and its role in adaptive immunity
+184,Max,von Laue,10/09/1879,Germany,Pfaffendorf,1914.0,physics,for his discovery of the diffraction of X-rays by crystals
+185,Johannes,Stark,04/15/1874,Germany,Schickenhof,1919.0,physics,for his discovery of the Doppler effect in canal rays and the splitting of spectral lines in electric fields
+186,Arthur Holly,Compton,09/10/1892,USA,"Wooster, OH",1927.0,physics,for his discovery of the effect named after him
+187,Otto,Hahn,03/08/1879,Germany,Frankfurt-on-the-Main,1944.0,chemistry,for his discovery of the fission of heavy nuclei
+188,Otto Fritz,Meyerhof,04/12/1884,Germany,Hanover,1922.0,medicine,for his discovery of the fixed relationship between the consumption of oxygen and the metabolism of lactic acid in the muscle
+189,Walter Rudolf,Hess,03/17/1881,Switzerland,Frauenfeld,1949.0,medicine,for his discovery of the functional organization of the interbrain as a coordinator of the activities of the internal organs
+190,Susumu,Tonegawa,9/6/1939,Japan,Nagoya,1987.0,medicine,for his discovery of the genetic principle for generation of antibody diversity
+191,Sir Frederick Gowland,Hopkins,06/20/1861,United Kingdom,Eastbourne,1929.0,medicine,for his discovery of the growth-stimulating vitamins
+192,Paul Hermann,Môller,01/12/1899,Switzerland,Olten,1948.0,medicine,for his discovery of the high efficiency of DDT as a contact poison against several arthropods
+193,Willem,Einthoven,05/21/1860,"Java, Dutch East Indies (now Indonesia)",Semarang,1924.0,medicine,for his discovery of the mechanism of the electrocardiogram
+194,Otto Heinrich,Warburg,10/08/1883,Germany,Freiburg im Breisgau,1931.0,medicine,for his discovery of the nature and mode of action of the respiratory enzyme
+195,Hans,Spemann,06/27/1869,Germany,Stuttgart,1935.0,medicine,for his discovery of the organizer effect in embryonic development
+196,Bernardo Alberto,Houssay,04/10/1887,Argentina,Buenos Aires,1947.0,medicine,for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar
+197,Carl David,Anderson,9/3/1905,USA,"New York, NY",1936.0,physics,for his discovery of the positron
+198,Johannes Andreas Grib,Fibiger,04/23/1867,Denmark,Silkeborg,1926.0,medicine,for his discovery of the Spiroptera carcinoma
+199,Antonio Caetano de Abreu Freire Egas,Moniz,11/29/1874,Portugal,Avanca,1949.0,medicine,for his discovery of the therapeutic value of leucotomy in certain psychoses
+200,Julius,Wagner-Jauregg,03/07/1857,Austria,Wels,1927.0,medicine,for his discovery of the therapeutic value of malaria inoculation in the treatment of dementia paralytica
+201,Prince Louis-Victor Pierre Raymond,de Broglie,08/15/1892,France,Dieppe,1929.0,physics,for his discovery of the wave nature of electrons
+202,Peyton,Rous,10/05/1879,USA,"Baltimore, MD",1966.0,medicine,for his discovery of tumour-inducing viruses
+203,Henrik Carl Peter,Dam,02/21/1895,Denmark,Copenhagen,1943.0,medicine,for his discovery of vitamin K
+204,Archibald Vivian,Hill,09/26/1886,United Kingdom,Bristol,1922.0,medicine,for his discovery relating to the production of heat in the muscle
+205,James Batcheller,Sumner,11/19/1887,USA,"Canton, MA",1946.0,chemistry,for his discovery that enzymes can be crystallized
+206,Francis William,Aston,09/01/1877,United Kingdom,Harborne,1922.0,chemistry,"for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule"
+207,Eugenio,Montale,10/12/1896,Italy,Genoa,1975.0,literature,"for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions"
+208,John,Galsworthy,08/14/1867,United Kingdom,Kingston Hill,1932.0,literature,for his distinguished art of narration which takes its highest form in <I>The Forsyte Saga</I>
+209,Giorgos,Seferis,3/13/1900,Ottoman Empire (now Turkey),Smyrna (now Izmir),1963.0,literature,"for his eminent lyrical writing, inspired by a deep feeling for the Hellenic world of culture"
+210,Simon,Kuznets,4/30/1901,Russian Empire (now Belarus),Pinsk,1971.0,economics,for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development
+211,Barack H.,Obama,8/4/1961,USA,"Honolulu, HI",2009.0,peace,for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples
+212,Paul J.,Flory,6/19/1910,USA,"Sterling, IL",1974.0,chemistry,"for his fundamental achievements, both theoretical and experimental, in the physical chemistry of the macromolecules"
+213,Michael,Smith,4/26/1932,United Kingdom,Blackpool,1993.0,chemistry,"for his fundamental contributions to the establishment of oligonucleotide-based, site-directed mutagenesis and its development for protein studies"
+214,Max,Born,12/11/1882,Germany (now Poland),Breslau (now Wroclaw),1954.0,physics,"for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction"
+215,Paul,Berg,6/30/1926,USA,"New York, NY",1980.0,chemistry,"for his fundamental studies of the biochemistry of nucleic acids, with particular regard to recombinant-DNA"
+216,Robert S.,Mulliken,06/07/1896,USA,"Newburyport, MA",1966.0,chemistry,for his fundamental work concerning chemical bonds and the electronic structure of molecules by the molecular orbital method
+217,Ernst,Ruska,12/25/1906,Germany,Heidelberg,1986.0,physics,"for his fundamental work in electron optics, and for the design of the first electron microscope"
+218,Wladyslaw Stanislaw,Reymont,05/07/1867,Russian Empire (now Poland),Kobiele Wielkie,1924.0,literature,"for his great national epic, <I>The Peasants</I>"
+219,Isaac Bashevis,Singer,7/14/1904,Russian Empire (now Poland),Leoncin,1978.0,literature,"for his impassioned narrative art which, with roots in a Polish-Jewish cultural tradition, brings universal human conditions to life"
+220,Boris Leonidovich,Pasternak,02/10/1890,Russia,Moscow,1958.0,literature,for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition
+221,Martti,Ahtisaari,6/23/1937,Finland (now Russia),Viipuri (now Vyborg),2008.0,peace,"for his important efforts, on several continents and over more than three decades, to resolve international conflicts"
+222,Albert,Camus,11/7/1913,French Algeria (now Algeria),Mondovi,1957.0,literature,"for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times"
+223,Hermann,Hesse,07/02/1877,Germany,Calw,1946.0,literature,"for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style"
+224,Georges,Charpak,8/1/1924,Poland,Dabrovica,1992.0,physics,"for his invention and development of particle detectors, in particular the multiwire proportional chamber"
+225,Georges,Charpak,8/1/1924,Poland,Dabrovica,1992.0,physics,"for his invention and development of particle detectors, in particular the multiwire proportional chamber"
+226,Dennis,Gabor,6/5/1900,Hungary,Budapest,1971.0,physics,for his invention and development of the holographic method
+227,Nils Gustaf,Dal_n,11/30/1869,Sweden,Stenstorp,1912.0,physics,for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys
+228,Fritz,Pregl,09/03/1869,Austria-Hungary (now Slovenia),Laibach (now Ljubljana),1923.0,chemistry,for his invention of the method of micro-analysis of organic substances
+229,Kary B.,Mullis,12/28/1944,USA,"Lenoir, NC",1993.0,chemistry,for his invention of the polymerase chain reaction (PCR) method
+230,Robert,Koch,12/11/1843,Germany,Clausthal (now Clausthal-Zellerfeld),1905.0,medicine,for his investigations and discoveries in relation to tuberculosis
+231,Ernest,Rutherford,08/30/1871,New Zealand,Nelson,1908.0,chemistry,"for his investigations into the disintegration of the elements, and the chemistry of radioactive substances"
+232,Heinrich Otto,Wieland,06/04/1877,Germany,Pforzheim,1927.0,chemistry,for his investigations of the constitution of the bile acids and related substances
+233,Lord Rayleigh,(John William Strutt),11/12/1842,United Kingdom,"Langford Grove, Maldon, Essex",1904.0,physics,for his investigations of the densities of the most important gases and for his discovery of argon in connection with these studies
+234,Sir Edward Victor,Appleton,09/06/1892,United Kingdom,Bradford,1947.0,physics,for his investigations of the physics of the upper atmosphere especially for the discovery of the so-called Appleton layer
+235,Walter Norman,Haworth,03/19/1883,United Kingdom,Chorley,1937.0,chemistry,for his investigations on carbohydrates and vitamin C
+236,Paul,Karrer,04/21/1889,Russia,Moscow,1937.0,chemistry,"for his investigations on carotenoids, flavins and vitamins A and B2"
+237,Sir Robert,Robinson,09/13/1886,United Kingdom,"Rufford, near Chesterfield",1947.0,chemistry,"for his investigations on plant products of biological importance, especially the alkaloids"
+238,Heike,Kamerlingh Onnes,09/21/1853,the Netherlands,Groningen,1913.0,physics,"for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium"
+239,Mikhail Sergeyevich,Gorbachev,3/2/1931,USSR (now Russia),Privolnoye,1990.0,peace,for his leading role in the peace process which today characterizes important parts of the international community
+240,Liu,Xiaobo,12/28/1955,China,China,2010.0,peace,for his long and non-violent struggle for fundamental human rights in China
+241,Juan Ram„n,Jim_nez,12/24/1881,Spain,Moguer,1956.0,literature,"for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity"
+242,Salvatore,Quasimodo,8/19/1901,Italy,Modica,1959.0,literature,"for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times"
+243,Sir Winston Leonard Spencer,Churchill,11/30/1874,United Kingdom,Woodstock,1953.0,literature,for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values
+244,Ernest Miller,Hemingway,07/21/1899,USA,"Oak Park, IL",1954.0,literature,"for his mastery of the art of narrative, most recently demonstrated in <I>The Old Man and the Sea,</I> and for the influence that he has exerted on contemporary style"
+245,Paul,Sabatier,11/05/1854,France,Carcassonne,1912.0,chemistry,for his method of hydrogenating organic compounds in the presence of finely disintegrated metals whereby the progress of organic chemistry has been greatly advanced in recent years
+246,Charles Thomson Rees,Wilson,02/14/1869,Scotland,Glencorse,1927.0,physics,for his method of making the paths of electrically charged particles visible by condensation of vapour
+247,Gabriel,Lippmann,08/16/1845,Luxembourg,Hollerich,1908.0,physics,for his method of reproducing colours photographically based on the phenomenon of interference
+248,Willard Frank,Libby,12/17/1908,USA,"Grand Valley, CO",1960.0,chemistry,"for his method to use carbon-14 for age determination in archaeology, geology, geophysics, and other branches of science"
+249,Knut Pedersen,Hamsun,08/04/1859,Norway,Lom,1920.0,literature,"for his monumental work, <I>Growth of the Soil</I>"
+250,Yasunari,Kawabata,06/11/1899,Japan,Osaka,1968.0,literature,"for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind"
+251,Gabriel,GarcÍa Mˆrquez,3/6/1927,Colombia,Aracataca,1982.0,literature,"for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts"
+252,William,Golding,9/19/1911,United Kingdom,St. Columb Minor,1983.0,literature,"for his novels which, with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today"
+253,Albert Abraham,Michelson,12/19/1852,Prussia (now Poland),Strelno (now Strzelno),1907.0,physics,for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid
+254,Robert Burns,Woodward,4/10/1917,USA,"Boston, MA",1965.0,chemistry,for his outstanding achievements in the art of organic synthesis
+255,Thomas Stearns,Eliot,09/26/1888,USA,"St. Louis, MO",1948.0,literature,"for his outstanding, pioneer contribution to present-day poetry"
+256,Jack S.,Kilby,11/8/1923,USA,"Jefferson City, MO",2000.0,physics,for his part in the invention of the integrated circuit
+257,Franco,Modigliani,6/18/1918,Italy,Rome,1985.0,economics,for his pioneering analyses of saving and of financial markets
+258,Maurice,Allais,5/31/1911,France,Paris,1988.0,economics,for his pioneering contributions to the theory of markets and efficient utilization of resources
+259,Herbert A.,Simon,6/15/1916,USA,"Milwaukee, WI",1978.0,economics,for his pioneering research into the decision-making process within economic organizations
+260,Robert,Hofstadter,2/5/1915,USA,"New York, NY",1961.0,physics,for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons
+261,Lev Davidovich,Landau,1/22/1908,Russian Empire (now Azerbaijan),Baku,1962.0,physics,"for his pioneering theories for condensed matter, especially liquid helium"
+262,Jaroslav,Seifert,9/23/1901,Austria-Hungary (now Czech Republic),Prague,1984.0,literature,"for his poetry which endowed with freshness, sensuality and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man"
+263,Odysseus,Elytis,11/2/1911,Crete (now Greece),Irˆklion,1979.0,literature,"for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness"
+264,William,Faulkner,09/25/1897,USA,"New Albany, MS",1949.0,literature,for his powerful and artistically unique contribution to the modern American novel
+265,Polykarp,Kusch,1/26/1911,Germany,Blankenburg,1955.0,physics,for his precision determination of the magnetic moment of the electron
+266,Hideki,Yukawa,1/23/1907,Japan,Tokyo,1949.0,physics,for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces
+267,Hideki,Yukawa,1/23/1907,Japan,Tokyo,1949.0,physics,for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces
+268,Shmuel Yosef,Agnon,07/17/1888,Austria-Hungary (now Ukraine),Buczacz (now Buchach),1966.0,literature,for his profoundly characteristic narrative art with motifs from the life of the Jewish people
+269,John,Steinbeck,2/27/1902,USA,"Salinas, CA",1962.0,literature,"for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception"
+270,Artturi Ilmari,Virtanen,01/15/1895,Russian Empire (now Finland),Helsinki,1945.0,chemistry,"for his research and inventions in agricultural and nutrition chemistry, especially for his fodder preservation method"
+271,Linus Carl,Pauling,2/28/1901,USA,"Portland, OR",1954.0,chemistry,for his research into the nature of the chemical bond and its application to the elucidation of the structure of complex substances
+272,Vladimir,Prelog,7/23/1906,Austria-Hungary (now Bosnia and Herzegovina),Sarajevo,1975.0,chemistry,for his research into the stereochemistry of organic molecules and reactions
+273,Arne Wilhelm Kaurin,Tiselius,8/10/1902,Sweden,Stockholm,1948.0,chemistry,"for his research on electrophoresis and adsorption analysis, especially for his discoveries concerning the complex nature of the serum proteins"
+274,Melvin,Calvin,4/8/1911,USA,"St. Paul, MN",1961.0,chemistry,for his research on the carbon dioxide assimilation in plants
+275,Rudolf Ludwig,M_ssbauer,1/31/1929,Germany,Munich,1961.0,physics,for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name
+276,Hans,Fischer,07/27/1881,Germany,Hoechst,1930.0,chemistry,for his researches into the constitution of haemin and chlorophyll and especially for his synthesis of haemin
+277,Richard Martin,Willst_tter,08/13/1872,Germany,Karlsruhe,1915.0,chemistry,"for his researches on plant pigments, especially chlorophyll"
+278,Isidor Isaac,Rabi,07/29/1898,Austria-Hungary (now Poland),Rymanow,1944.0,physics,for his resonance method for recording the magnetic properties of atomic nuclei
+279,George J.,Stigler,1/17/1911,USA,"Renton, WA",1982.0,economics,"for his seminal studies of industrial structures, functioning of markets and causes and effects of public regulation"
+280,Niels Henrik David,Bohr,10/07/1885,Denmark,Copenhagen,1922.0,physics,for his services in the investigation of the structure of atoms and of the radiation emanating from them
+281,Albert,Einstein,03/14/1879,Germany,Ulm,1921.0,physics,"for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect"
+282,Gerhard,Ertl,10/10/1936,Germany,Bad Cannstatt,2007.0,chemistry,for his studies of chemical processes on solid surfaces
+283,Roger D.,Kornberg,4/24/1947,USA,"St. Louis, MO",2006.0,chemistry,for his studies of the molecular basis of eukaryotic transcription
+284,Ahmed H.,Zewail,2/26/1946,Egypt,Damanhur,1999.0,chemistry,for his studies of the transition states of chemical reactions using femtosecond spectroscopy
+285,William N.,Lipscomb,12/9/1919,USA,"Cleveland, OH",1976.0,chemistry,for his studies on the structure of boranes illuminating problems of chemical bonding
+286,William Alfred,Fowler,8/9/1911,USA,"Pittsburgh, PA",1983.0,physics,for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe
+287,Brian David,Josephson,1/4/1940,United Kingdom,Cardiff,1973.0,physics,"for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the Josephson effects"
+288,Subramanyan,Chandrasekhar,10/19/1910,India (now Pakistan),Lahore,1983.0,physics,for his theoretical studies of the physical processes of importance to the structure and evolution of the stars
+289,Kenneth G.,Wilson,6/8/1936,USA,"Waltham, MA",1982.0,physics,for his theory for critical phenomena in connection with phase transitions
+290,Karl Adolph,Gjellerup,06/02/1857,Denmark,Roholte,1917.0,literature,"for his varied and rich poetry, which is inspired by lofty ideals"
+291,Sinclair,Lewis,02/07/1885,USA,"Sauk Centre, MN",1930.0,literature,"for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters"
+292,Halld„r Kiljan,Laxness,4/23/1902,Iceland,Reykjavik,1955.0,literature,for his vivid epic power which has renewed the great narrative art of Iceland
+293,Miguel Angel,Asturias,10/19/1899,Guatemala,Guatemala City,1967.0,literature,"for his vivid literary achievement, deep-rooted in the national traits and traditions of Indian peoples of Latin America"
+294,Kim,Dae-jung,12/3/1925,Korea (now South Korea),Mokpo,2000.0,peace,"for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular"
+295,Oscar,Arias Sanchez,9/13/1941,Costa Rica,Heredia,1987.0,peace,"for his work for peace in Central America, efforts which led to the accord signed in Guatemala on August 7 this year"
+296,Vincent,du Vigneaud,5/18/1901,USA,"Chicago, IL",1955.0,chemistry,"for his work on biochemically important sulphur compounds, especially for the first synthesis of a polypeptide hormone"
+297,Richard,Kuhn,12/3/1900,Austria-Hungary (now Austria),Vienna,1938.0,chemistry,for his work on carotenoids and vitamins
+298,Richard,Kuhn,12/3/1900,Austria-Hungary (now Austria),Vienna,1938.0,chemistry,for his work on carotenoids and vitamins
+299,Philipp Eduard Anton,von Lenard,06/07/1862,Hungary (now Slovakia),Pressburg (now Bratislava),1905.0,physics,for his work on cathode rays
+300,K. Barry,Sharpless,4/28/1941,USA,"Philadelphia, PA",2001.0,chemistry,for his work on chirally catalysed oxidation reactions
+301,The (Theodor),Svedberg,08/30/1884,Sweden,Fler_ng,1926.0,chemistry,for his work on disperse systems
+302,Ronald,Ross,05/13/1857,India,Almora,1902.0,medicine,"for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it"
+303,Lord (Alexander R.),Todd,10/2/1907,Scotland,Glasgow,1957.0,chemistry,for his work on nucleotides and nucleotide co-enzymes
+304,Leopold,Ruzicka,09/13/1887,Austria-Hungary (now Croatia),Vukovar,1939.0,chemistry,for his work on polymethylenes and higher terpenes
+305,Christian B.,Anfinsen,3/26/1916,USA,"Monessen, PA",1972.0,chemistry,"for his work on ribonuclease, especially concerning the connection between the amino acid sequence and the biologically active conformation"
+306,Emil Adolf,von Behring,03/15/1854,Prussia (now Poland),Hansdorf (now Jankowa &#379;aga&#324;ska),1901.0,medicine,"for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths"
+307,Adolf Friedrich Johann,Butenandt,3/24/1903,Germany,Bremerhaven-Lehe,1939.0,chemistry,for his work on sex hormones
+308,Adolf Friedrich Johann,Butenandt,3/24/1903,Germany,Bremerhaven-Lehe,1939.0,chemistry,for his work on sex hormones
+309,Allvar,Gullstrand,06/05/1862,Sweden,Landskrona,1911.0,medicine,for his work on the dioptrics of the eye
+310,Jean Baptiste,Perrin,09/30/1870,France,Lille,1926.0,physics,"for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium"
+311,Robert Andrews,Millikan,03/22/1868,USA,"Morrison, IL",1923.0,physics,for his work on the elementary charge of electricity and on the photoelectric effect
+312,Johannes Diderik,van der Waals,11/23/1837,the Netherlands,Leiden,1910.0,physics,for his work on the equation of state for gases and liquids
+313,Henry,Taube,11/30/1915,Canada,Neudorf,1983.0,chemistry,"for his work on the mechanisms of electron transfer reactions, especially in metal complexes"
+314,Robert,Bˆrˆny,04/22/1876,Austria,Vienna,1914.0,medicine,for his work on the physiology and pathology of the vestibular apparatus
+315,Emil Theodor,Kocher,08/25/1841,Switzerland,Berne,1909.0,medicine,"for his work on the physiology, pathology and surgery of the thyroid gland"
+316,Sir Chandrasekhara Venkata,Raman,11/07/1888,India,Tiruchirappalli,1930.0,physics,for his work on the scattering of light and for the discovery of the effect named after him
+317,John Warcup,Cornforth,9/7/1917,Australia,Sydney,1975.0,chemistry,for his work on the stereochemistry of enzyme-catalyzed reactions
+318,Frederick,Sanger,8/13/1918,United Kingdom,Rendcombe,1958.0,chemistry,"for his work on the structure of proteins, especially that of insulin"
+319,Owen Willans,Richardson,04/26/1879,United Kingdom,Dewsbury,1928.0,physics,for his work on the thermionic phenomenon and especially for the discovery of the law named after him
+320,George,de Hevesy,08/01/1885,Austria-Hungary (now Hungary),Budapest,1943.0,chemistry,for his work on the use of isotopes as tracers in the study of chemical processes
+321,Charles Jules Henri,Nicolle,09/21/1866,France,Rouen,1928.0,medicine,for his work on typhus
+322,George Bernard,Shaw,07/26/1856,Ireland,Dublin,1925.0,literature,"for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty"
+323,Jean-Paul,Sartre,6/21/1905,France,Paris,1964.0,literature,"for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age"
+324,Heinrich,B_ll,12/21/1917,Germany,Cologne,1972.0,literature,for his writing which through its combination of a broad perspective on his time and a sensitive skill in characterization has contributed to a renewal of German literature
+325,Samuel,Beckett,4/13/1906,Ireland,Dublin,1969.0,literature,"for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation"
+326,Octavio,Paz,3/31/1914,Mexico,Mexico City,1990.0,literature,"for impassioned writing with wide horizons, characterized by sensuous intelligence and humanistic integrity"
+327,Aziz,Sancar,9/8/1946,Turkey,Savur,2015.0,chemistry,for mechanistic studies of DNA repair
+328,Paul,Modrich,6/13/1946,USA,"Raton, NM",2015.0,chemistry,for mechanistic studies of DNA repair
+329,Paul,Modrich,6/13/1946,USA,"Raton, NM",2015.0,chemistry,for mechanistic studies of DNA repair
+330,Tomas,Lindahl,1/28/1938,Sweden,Stockholm,2015.0,chemistry,for mechanistic studies of DNA repair
+331,Tomas,Lindahl,1/28/1938,Sweden,Stockholm,2015.0,chemistry,for mechanistic studies of DNA repair
+332,Clive W.J.,Granger,9/4/1934,United Kingdom,Swansea,2003.0,economics,for methods of analyzing economic time series with common trends (cointegration)
+333,Robert F.,Engle III,11/10/1942,USA,"Syracuse, NY",2003.0,economics,for methods of analyzing economic time series with time-varying volatility (ARCH)
+334,Akira,Suzuki,9/12/1930,Japan,Mukawa,2010.0,chemistry,for palladium-catalyzed cross couplings in organic synthesis
+335,Ei-ichi,Negishi,7/14/1935,China,Changchun,2010.0,chemistry,for palladium-catalyzed cross couplings in organic synthesis
+336,Richard F.,Heck,8/15/1931,USA,"Springfield, MA",2010.0,chemistry,for palladium-catalyzed cross couplings in organic synthesis
+337,Raymond,Davis Jr.,10/14/1914,USA,"Washington, DC",2002.0,physics,"for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos"
+338,Masatoshi,Koshiba,9/19/1926,Japan,Toyohashi,2002.0,physics,"for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos"
+339,Riccardo,Giacconi,10/6/1931,Italy,Genoa,2002.0,physics,"for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources"
+340,Alexei A.,Abrikosov,6/25/1928,USSR (now Russia),Moscow,2003.0,physics,for pioneering contributions to the theory of superconductors and superfluids
+341,Vitaly L.,Ginzburg,10/4/1916,Russia,Moscow,2003.0,physics,for pioneering contributions to the theory of superconductors and superfluids
+342,Anthony J.,Leggett,3/26/1938,United Kingdom,London,2003.0,physics,for pioneering contributions to the theory of superconductors and superfluids
+343,Roderick,MacKinnon,2/19/1956,USA,"Burlington, MA",2003.0,chemistry,for structural and mechanistic studies of ion channels
+344,Roderick,MacKinnon,2/19/1956,USA,"Burlington, MA",2003.0,chemistry,for structural and mechanistic studies of ion channels
+345,Robert J.,Lefkowitz,4/15/1943,USA,"New York, NY",2012.0,chemistry,for studies of G-protein-coupled receptors
+346,Brian K.,Kobilka,5/30/1955,USA,"Little Falls, MN",2012.0,chemistry,for studies of G-protein-coupled receptors
+347,Robert J.,Lefkowitz,4/15/1943,USA,"New York, NY",2012.0,chemistry,for studies of G-protein-coupled receptors
+348,Thomas A.,Steitz,8/23/1940,USA,"Milwaukee, WI",2009.0,chemistry,for studies of the structure and function of the ribosome
+349,Thomas A.,Steitz,8/23/1940,USA,"Milwaukee, WI",2009.0,chemistry,for studies of the structure and function of the ribosome
+350,Carl E.,Wieman,3/26/1951,USA,"Corvallis, OR",2001.0,physics,"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates"
+351,Eric A.,Cornell,12/19/1961,USA,"Palo Alto, CA",2001.0,physics,"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates"
+352,Wolfgang,Ketterle,10/21/1957,West Germany (now Germany),Heidelberg,2001.0,physics,"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates"
+353,Patrick,Modiano,7/30/1945,France,Paris,2014.0,literature,for the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the occupation
+354,Mikhail Aleksandrovich,Sholokhov,5/24/1905,Russia,Veshenskaya,1965.0,literature,"for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people"
+355,Roger,Martin du Gard,03/23/1881,France,Neuilly-sur-Seine,1937.0,literature,for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle <I>Les Thibault</I>
+356,Fabian,Lagerkvist,05/23/1891,Sweden,Voxj,1951.0,literature,for the artistic vigour and true independence of mind with which he endeavours in his poetry to find answers to the eternal questions confronting mankind
+357,Walther,Bothe,01/08/1891,Germany,Oranienburg,1954.0,physics,for the coincidence method and his discoveries made therewith
+358,Walther,Bothe,01/08/1891,Germany,Oranienburg,1954.0,physics,for the coincidence method and his discoveries made therewith
+359,Lawrence R.,Klein,9/14/1920,USA,"Omaha, NE",1980.0,economics,for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies
+360,Werner Karl,Heisenberg,12/5/1901,Germany,Worzburg,1932.0,physics,"for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen"
+361,Francois,Mauriac,10/11/1885,France,Bordeaux,1952.0,literature,for the deep spiritual insight and the artistic intensity with which he has in his novels penetrated the drama of human life
+362,Frederick,Reines,3/16/1918,USA,"Paterson, NJ",1995.0,physics,for the detection of the neutrino
+363,Johann,Deisenhofer,9/30/1943,Germany,Zusamaltheim,1988.0,chemistry,for the determination of the three-dimensional structure of a photosynthetic reaction centre
+364,Hartmut,Michel,7/18/1948,West Germany (now Germany),Ludwigsburg,1988.0,chemistry,for the determination of the three-dimensional structure of a photosynthetic reaction centre
+365,Robert,Huber,2/20/1937,Germany,Munich,1988.0,chemistry,for the determination of the three-dimensional structure of a photosynthetic reaction centre
+366,Johann,Deisenhofer,9/30/1943,Germany,Zusamaltheim,1988.0,chemistry,for the determination of the three-dimensional structure of a photosynthetic reaction centre
+367,Godfrey N.,Hounsfield,8/28/1919,United Kingdom,Newark,1979.0,medicine,for the development of computer assisted tomography
+368,Allan M.,Cormack,2/23/1924,South Africa,Johannesburg,1979.0,medicine,for the development of computer assisted tomography
+369,Robert G.,Edwards,9/27/1925,United Kingdom,Batley,2010.0,medicine,for the development of in vitro fertilization
+370,Martin,Karplus,3/15/1930,Austria,Vienna,2013.0,chemistry,for the development of multiscale models for complex chemical systems
+371,Arieh,Warshel,11/20/1940,British Mandate of Palestine (now Israel),Kibbutz Sde-Nahum,2013.0,chemistry,for the development of multiscale models for complex chemical systems
+372,Michael,Levitt,5/9/1947,South Africa,Pretoria,2013.0,chemistry,for the development of multiscale models for complex chemical systems
+373,Martin,Karplus,3/15/1930,Austria,Vienna,2013.0,chemistry,for the development of multiscale models for complex chemical systems
+374,Bertram N.,Brockhouse,7/15/1918,Canada,"Lethbridge, Alberta",1994.0,physics,for the development of neutron spectroscopy
+375,Eric,Betzig,1/13/1960,USA,"Ann Arbor, MI",2014.0,chemistry,for the development of super-resolved fluorescence microscopy
+376,Stefan W.,Hell,12/23/1962,Romania,Arad,2014.0,chemistry,for the development of super-resolved fluorescence microscopy
+377,William E.,Moerner,6/24/1953,USA,"Pleasanton, CA",2014.0,chemistry,for the development of super-resolved fluorescence microscopy
+378,Wassily,Leontief,8/5/1906,Russia,St. Petersburg,1973.0,economics,for the development of the input-output method and for its application to important economic problems
+379,Wolfgang,Paul,8/10/1913,Germany,Lorenzkirch,1989.0,physics,for the development of the ion trap technique
+380,Hans G.,Dehmelt,9/9/1922,Prussia (now Germany),G_rlitz,1989.0,physics,for the development of the ion trap technique
+381,Richard R.,Schrock,1/4/1945,USA,"Berne, IN",2005.0,chemistry,for the development of the metathesis method in organic synthesis
+382,Robert H.,Grubbs,2/27/1942,USA,"Possum Trot, KY",2005.0,chemistry,for the development of the metathesis method in organic synthesis
+383,Yves,Chauvin,10/10/1930,Belgium,Menin,2005.0,chemistry,for the development of the metathesis method in organic synthesis
+384,Clifford G.,Shull,9/23/1915,USA,"Pittsburgh, PA",1994.0,physics,for the development of the neutron diffraction technique
+385,Alan G.,MacDiarmid,4/14/1927,New Zealand,Masterton,2000.0,chemistry,for the discovery and development of conductive polymers
+386,Alan J.,Heeger,1/22/1936,USA,"Sioux City, IA",2000.0,chemistry,for the discovery and development of conductive polymers
+387,Hideki,Shirakawa,8/20/1936,Japan,Tokyo,2000.0,chemistry,for the discovery and development of conductive polymers
+388,Alfred,Kastler,5/3/1902,Germany (now France),Guebwiller,1966.0,physics,for the discovery and development of optical methods for studying Hertzian resonances in atoms
+389,Osamu,Shimomura,8/27/1928,Japan,Kyoto,2008.0,chemistry,"for the discovery and development of the green fluorescent protein, GFP"
+390,Martin,Chalfie,1/15/1947,USA,"Chicago, IL",2008.0,chemistry,"for the discovery and development of the green fluorescent protein, GFP"
+391,Roger Y.,Tsien,2/1/1952,USA,"New York, NY",2008.0,chemistry,"for the discovery and development of the green fluorescent protein, GFP"
+392,Osamu,Shimomura,8/27/1928,Japan,Kyoto,2008.0,chemistry,"for the discovery and development of the green fluorescent protein, GFP"
+393,Roger Y.,Tsien,2/1/1952,USA,"New York, NY",2008.0,chemistry,"for the discovery and development of the green fluorescent protein, GFP"
+394,Pavel Alekseyevich,Cherenkov,7/28/1904,Russia,Novaya Chigla,1958.0,physics,for the discovery and the interpretation of the Cherenkov effect
+395,Il‚ja Mikhailovich,Frank,10/23/1908,Russia,Leningrad (now Saint Petersburg),1958.0,physics,for the discovery and the interpretation of the Cherenkov effect
+396,Igor Yevgenyevich,Tamm,07/08/1895,Russia,Vladivostok,1958.0,physics,for the discovery and the interpretation of the Cherenkov effect
+397,Joseph H.,Taylor Jr.,3/29/1941,USA,"Philadelphia, PA",1993.0,physics,"for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation"
+398,Russell A.,Hulse,11/28/1950,USA,"New York, NY",1993.0,physics,"for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation"
+399,Frank,Wilczek,5/15/1951,USA,"New York, NY",2004.0,physics,for the discovery of asymptotic freedom in the theory of the strong interaction
+400,H. David,Politzer,8/31/1949,USA,"New York, NY",2004.0,physics,for the discovery of asymptotic freedom in the theory of the strong interaction
+401,David J.,Gross,2/19/1941,USA,"Washington, DC",2004.0,physics,for the discovery of asymptotic freedom in the theory of the strong interaction
+402,Peter,Grônberg,5/18/1939,Czechoslovakia (now Czech Republic),Plzen,2007.0,physics,for the discovery of Giant Magnetoresistance
+403,Albert,Fert,3/7/1938,France,Carcassonne,2007.0,physics,for the discovery of Giant Magnetoresistance
+404,Jack W.,Szostak,11/9/1952,United Kingdom,London,2009.0,medicine,for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase
+405,John James Rickard,Macleod,09/06/1876,Scotland,Cluny,1923.0,medicine,for the discovery of insulin
+406,Frederick Grant,Banting,11/14/1891,Canada,Alliston,1923.0,medicine,for the discovery of insulin
+407,Takaaki,Kajita,3/9/1959,Japan,Higashimatsuyama,2015.0,physics,"for the discovery of neutrino oscillations, which shows that neutrinos have mass"
+408,Arthur B.,McDonald,8/29/1943,Canada,Sydney,2015.0,physics,"for the discovery of neutrino oscillations, which shows that neutrinos have mass"
+409,Erwin,Schr_dinger,08/12/1887,Austria,Vienna,1933.0,physics,for the discovery of new productive forms of atomic theory
+410,Paul Adrien Maurice,Dirac,8/8/1902,United Kingdom,Bristol,1933.0,physics,for the discovery of new productive forms of atomic theory
+411,Sir Alexander,Fleming,08/06/1881,Scotland,Lochfield,1945.0,medicine,for the discovery of penicillin and its curative effect in various infectious diseases
+412,Ernst Boris,Chain,6/19/1906,Germany,Berlin,1945.0,medicine,for the discovery of penicillin and its curative effect in various infectious diseases
+413,Sir Howard Walter,Florey,09/24/1898,Australia,Adelaide,1945.0,medicine,for the discovery of penicillin and its curative effect in various infectious diseases
+414,Dan,Shechtman,1/24/1941,British Mandate of Palestine (now Israel),Tel Aviv,2011.0,chemistry,for the discovery of quasicrystals
+415,Hamilton O.,Smith,8/23/1931,USA,"New York, NY",1978.0,medicine,for the discovery of restriction enzymes and their application to problems of molecular genetics
+416,Daniel,Nathans,10/30/1928,USA,"Wilmington, DE",1978.0,medicine,for the discovery of restriction enzymes and their application to problems of molecular genetics
+417,Werner,Arber,6/3/1929,Switzerland,Gr_nichen,1978.0,medicine,for the discovery of restriction enzymes and their application to problems of molecular genetics
+418,Adam G.,Riess,12/16/1969,USA,"Washington, DC",2011.0,physics,for the discovery of the accelerating expansion of the Universe through observations of distant supernovae
+419,Brian P.,Schmidt,2/24/1967,USA,"Missoula, MT",2011.0,physics,for the discovery of the accelerating expansion of the Universe through observations of distant supernovae
+420,Gerhard,Domagk,10/30/1895,Germany (now Poland),Lagow,1939.0,medicine,for the discovery of the antibacterial effects of prontosil
+421,Aage Niels,Bohr,6/19/1922,Denmark,Copenhagen,1975.0,physics,for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection
+422,Ben Roy,Mottelson,7/9/1926,USA,"Chicago, IL",1975.0,physics,for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection
+423,Leo James,Rainwater,12/9/1917,USA,"Council, ID",1975.0,physics,for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection
+424,Wolfgang,Pauli,4/25/1900,Austria,Vienna,1945.0,physics,"for the discovery of the Exclusion Principle, also called the Pauli Principle"
+425,Yoichiro,Nambu,1/18/1921,Japan,Tokyo,2008.0,physics,for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics
+426,James,Chadwick,10/20/1891,United Kingdom,Manchester,1935.0,physics,for the discovery of the neutron
+427,Toshihide,Maskawa,2/7/1940,Japan,Nagoya,2008.0,physics,for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature
+428,Makoto,Kobayashi,4/7/1944,Japan,Nagoya,2008.0,physics,for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature
+429,Hermann Joseph,Muller,12/21/1890,USA,"New York, NY",1946.0,medicine,for the discovery of the production of mutations by means of X-ray irradiation
+430,Klaus,von Klitzing,6/28/1943,German-occupied Poland (now Poland),Schroda,1985.0,physics,for the discovery of the quantized Hall effect
+431,Lars,Onsager,11/27/1903,Norway,Kristiania (now Oslo),1968.0,chemistry,"for the discovery of the reciprocal relations bearing his name, which are fundamental for the thermodynamics of irreversible processes"
+432,Corneille Jean Francois,Heymans,03/28/1892,Belgium,Ghent,1938.0,medicine,for the discovery of the role played by the sinus and aortic mechanisms in the regulation of respiration
+433,Victor,Grignard,05/06/1871,France,Cherbourg,1912.0,chemistry,"for the discovery of the so-called Grignard reagent, which in recent years has greatly advanced the progress of organic chemistry"
+434,Martin L.,Perl,6/24/1927,USA,"New York, NY",1995.0,physics,for the discovery of the tau lepton
+435,Avram,Hershko,12/31/1937,Hungary,Karcag,2004.0,chemistry,for the discovery of ubiquitin-mediated protein degradation
+436,Aaron,Ciechanover,10/1/1947,British Protectorate of Palestine (now Israel),Haifa,2004.0,chemistry,for the discovery of ubiquitin-mediated protein degradation
+437,Irwin,Rose,7/16/1926,USA,"Brooklyn, NY",2004.0,chemistry,for the discovery of ubiquitin-mediated protein degradation
+438,James Watson,Cronin,9/29/1931,USA,"Chicago, IL",1980.0,physics,for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons
+439,Val Logsdon,Fitch,3/10/1923,USA,"Merriman, NE",1980.0,physics,for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons
+440,Peter,Agre,1/30/1949,USA,"Northfield, MN",2003.0,chemistry,for the discovery of water channels
+441,Sir John B.,Gurdon,10/2/1933,United Kingdom,Dippenhall,2012.0,medicine,for the discovery that mature cells can be reprogrammed to become pluripotent
+442,Shinya,Yamanaka,9/4/1962,Japan,Osaka,2012.0,medicine,for the discovery that mature cells can be reprogrammed to become pluripotent
+443,Shinya,Yamanaka,9/4/1962,Japan,Osaka,2012.0,medicine,for the discovery that mature cells can be reprogrammed to become pluripotent
+444,Gonter,Blobel,5/21/1936,Germany (now Poland),Waltersdorf (now Niegoslawice),1999.0,medicine,for the discovery that proteins have intrinsic signals that govern their transport and localization in the cell
+445,Ivo,Andric,10/10/1892,Bosnia (now Bosnia and Herzegovina),Dolac,1961.0,literature,for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country
+446,Aleksandr Isayevich,Solzhenitsyn,12/11/1918,Russia,Kislovodsk,1970.0,literature,for the ethical force with which he has pursued the indispensable traditions of Russian literature
+447,Jens C.,Skou,10/8/1918,Denmark,Lemvig,1997.0,chemistry,"for the first discovery of an ion-transporting enzyme, Na+, K+ -ATPase"
+448,Jacinto,Benavente,08/12/1866,Spain,Madrid,1922.0,literature,for the happy manner in which he has continued the illustrious traditions of the Spanish drama
+449,Saul,Bellow,6/10/1915,Canada,Montreal,1976.0,literature,for the human understanding and subtle analysis of contemporary culture that are combined in his work
+450,Ernest Orlando,Lawrence,8/8/1901,USA,"Canton, SD",1939.0,physics,"for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements"
+451,Percy Williams,Bridgman,04/21/1882,USA,"Cambridge, MA",1946.0,physics,"for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics"
+452,George E.,Smith,5/10/1930,USA,"White Plains, NY",2009.0,physics,for the invention of an imaging semiconductor circuit - the CCD sensor
+453,Willard S.,Boyle,8/19/1924,Canada,"Amherst, NS",2009.0,physics,for the invention of an imaging semiconductor circuit - the CCD sensor
+454,Hiroshi,Amano,9/11/1960,Japan,Hamamatsu,2014.0,physics,for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources
+455,Isamu,Akasaki,1/30/1929,Japan,Chiran,2014.0,physics,for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources
+456,Isamu,Akasaki,1/30/1929,Japan,Chiran,2014.0,physics,for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources
+457,Shuji,Nakamura,5/22/1954,Japan,Ikata,2014.0,physics,for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources
+458,Donald Arthur,Glaser,9/21/1926,USA,"Cleveland, OH",1960.0,physics,for the invention of the bubble chamber
+459,Norman F.,Ramsey,8/27/1915,USA,"Washington, DC",1989.0,physics,for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks
+460,Leon M.,Lederman,7/15/1922,USA,"New York, NY",1988.0,physics,for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino
+461,Jack,Steinberger,5/25/1921,Germany,Bad Kissingen,1988.0,physics,for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino
+462,Melvin,Schwartz,11/2/1932,USA,"New York, NY",1988.0,physics,for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino
+463,Eugene Gladstone,O'Neill,10/16/1888,USA,"New York, NY",1936.0,literature,"for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy"
+464,Johannes Vilhelm,Jensen,01/20/1873,Denmark,FarsË,1944.0,literature,"for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style"
+465,Paul A.,Samuelson,5/15/1915,USA,"Gary, IN",1970.0,economics,for the scientific work through which he has developed static and dynamic economic theory and actively contributed to raising the level of analysis in economic science
+466,Adolf Otto Reinhold,Windaus,12/25/1876,Germany,Berlin,1928.0,chemistry,for the services rendered through his research into the constitution of the sterols and their connection with the vitamins
+467,Saint-John,Perse,05/31/1887,Guadeloupe Island,Pointe-š-Pitre,1960.0,literature,for the soaring flight and the evocative imagery of his poetry which in a visionary fashion reflects the conditions of our time
+468,Ivan Alekseyevich,Bunin,10/22/1870,Russia,Voronezh,1933.0,literature,for the strict artistry with which he has carried on the classical Russian traditions in prose writing
+469,Fritz,Haber,12/09/1868,Prussia (now Poland),Breslau (now Wroclaw),1918.0,chemistry,for the synthesis of ammonia from its elements
+470,Francois,Englert,11/6/1932,Belgium,Etterbeek,2013.0,physics,"for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider"
+471,Peter W.,Higgs,5/29/1929,United Kingdom,Newcastle upon Tyne,2013.0,physics,"for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider"
+472,Alvin E.,Roth,12/18/1951,USA,"New York, NY",2012.0,economics,for the theory of stable allocations and the practice of market design
+473,Lloyd S.,Shapley,6/2/1923,USA,"Cambridge, MA",2012.0,economics,for the theory of stable allocations and the practice of market design
+474,George A.,Akerlof,6/17/1940,USA,"New Haven, CT",2001.0,economics,for their analyses of markets with asymmetric information
+475,Joseph E.,Stiglitz,2/9/1943,USA,"Gary, IN",2001.0,economics,for their analyses of markets with asymmetric information
+476,Dale T.,Mortensen,2/2/1939,USA,"Enterprise, OR",2010.0,economics,for their analysis of markets with search frictions
+477,Peter A.,Diamond,4/29/1940,USA,"New York, NY",2010.0,economics,for their analysis of markets with search frictions
+478,Dale T.,Mortensen,2/2/1939,USA,"Enterprise, OR",2010.0,economics,for their analysis of markets with search frictions
+479,Christopher A.,Pissarides,2/20/1948,Cyprus,Nicosia,2010.0,economics,for their analysis of markets with search frictions
+480,Nicolaas,Bloembergen,3/11/1920,the Netherlands,Dordrecht,1981.0,physics,for their contribution to the development of laser spectroscopy
+481,Arthur Leonard,Schawlow,5/5/1921,USA,"Mount Verno, NY",1981.0,physics,for their contribution to the development of laser spectroscopy
+482,William H.,Stein,6/25/1911,USA,"New York, NY",1972.0,chemistry,for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule
+483,Stanford,Moore,9/4/1913,USA,"Chicago, IL",1972.0,chemistry,for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule
+484,Frederick,Sanger,8/13/1918,United Kingdom,Rendcombe,1980.0,chemistry,for their contributions concerning the determination of base sequences in nucleic acids
+485,Walter,Gilbert,3/21/1932,USA,"Boston, MA",1980.0,chemistry,for their contributions concerning the determination of base sequences in nucleic acids
+486,Yuan T.,Lee,11/19/1936,Taiwan,Hsinchu,1986.0,chemistry,for their contributions concerning the dynamics of chemical elementary processes
+487,Dudley R.,Herschbach,6/18/1932,USA,"San Jos_, CA",1986.0,chemistry,for their contributions concerning the dynamics of chemical elementary processes
+488,John C.,Polanyi,1/23/1929,Germany,Berlin,1986.0,chemistry,for their contributions concerning the dynamics of chemical elementary processes
+489,Edward C.,Prescott,12/26/1940,USA,"Glens Falls, NY",2004.0,economics,for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles
+490,Finn E.,Kydland,12/1/1943,Norway,Gjesdal,2004.0,economics,for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles
+491,Edward C.,Prescott,12/26/1940,USA,"Glens Falls, NY",2004.0,economics,for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles
+492,John L.,Hall,8/21/1934,USA,"Denver, CO",2005.0,physics,"for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique"
+493,Theodor W.,H_nsch,10/30/1941,Germany,Heidelberg,2005.0,physics,"for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique"
+494,Derek H. R.,Barton,9/8/1918,United Kingdom,Gravesend,1969.0,chemistry,for their contributions to the development of the concept of conformation and its application in chemistry
+495,Odd,Hassel,05/17/1897,Norway,Kristiania (now Oslo),1969.0,chemistry,for their contributions to the development of the concept of conformation and its application in chemistry
+496,Leonid Vitaliyevich,Kantorovich,1/19/1912,Russian Empire (now Russia),St. Petersburg,1975.0,economics,for their contributions to the theory of optimum allocation of resources
+497,Tjalling C.,Koopmans,8/28/1910,the Netherlands,s Graveland,1975.0,economics,for their contributions to the theory of optimum allocation of resources
+498,Sheldon Lee,Glashow,12/5/1932,USA,"New York, NY",1979.0,physics,"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current"
+499,Steven,Weinberg,5/3/1933,USA,"New York, NY",1979.0,physics,"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current"
+500,Abdus,Salam,1/29/1926,India (now Pakistan),Jhang Maghi,1979.0,physics,"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current"
+501,Carlo,Rubbia,3/31/1934,Italy,Gorizia,1984.0,physics,"for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction"
+502,Simon,van der Meer,11/24/1925,the Netherlands,the Hague,1984.0,physics,"for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction"
+503,Heinrich,Rohrer,6/6/1933,Switzerland,Buchs,1986.0,physics,for their design of the scanning tunneling microscope
+504,Gerd,Binnig,7/20/1947,West Germany (now Germany),Frankfurt-on-the-Main,1986.0,physics,for their design of the scanning tunneling microscope
+505,Donald J.,Cram,4/22/1919,USA,"Chester, VT",1987.0,chemistry,for their development and use of molecules with structure-specific interactions of high selectivity
+506,Jean-Marie,Lehn,9/30/1939,France,Rosheim,1987.0,chemistry,for their development and use of molecules with structure-specific interactions of high selectivity
+507,Jean-Marie,Lehn,9/30/1939,France,Rosheim,1987.0,chemistry,for their development and use of molecules with structure-specific interactions of high selectivity
+508,Charles J.,Pedersen,10/3/1904,Korea (now South Korea),Pusan,1987.0,chemistry,for their development and use of molecules with structure-specific interactions of high selectivity
+509,Edward Mills,Purcell,8/30/1912,USA,"Taylorville, IL",1952.0,physics,for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith
+510,Felix,Bloch,10/23/1905,Switzerland,Zurich,1952.0,physics,for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith
+511,Koichi,Tanaka,8/3/1959,Japan,Toyama City,2002.0,chemistry,for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules
+512,John B.,Fenn,6/15/1917,USA,"New York, NY",2002.0,chemistry,for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules
+513,Georg,Wittig,06/16/1897,Germany,Berlin,1979.0,chemistry,"for their development of the use of boron- and phosphorus-containing compounds, respectively, into important reagents in organic synthesis"
+514,Herbert C.,Brown,5/22/1912,United Kingdom,London,1979.0,chemistry,"for their development of the use of boron- and phosphorus-containing compounds, respectively, into important reagents in organic synthesis"
+515,William C.,Campbell,6/28/1930,Ireland,Ramelton,2015.0,medicine,for their discoveries concerning a novel therapy against infections caused by roundworm parasites
+516,Satoshi,Mura,7/12/1935,Japan,Yamanashi Prefecture,2015.0,medicine,for their discoveries concerning a novel therapy against infections caused by roundworm parasites
+517,Andre,Lwoff,5/8/1902,France,Ainay-le-Chateau,1965.0,medicine,for their discoveries concerning genetic control of enzyme and virus synthesis
+518,Jacques,Monod,2/9/1910,France,Paris,1965.0,medicine,for their discoveries concerning genetic control of enzyme and virus synthesis
+519,Francois,Jacob,6/17/1920,France,Nancy,1965.0,medicine,for their discoveries concerning genetic control of enzyme and virus synthesis
+520,Sydney,Brenner,1/13/1927,South Africa,Germiston,2002.0,medicine,for their discoveries concerning genetic regulation of organ development and programmed cell death'
+521,John E.,Sulston,3/27/1942,United Kingdom,Cambridge,2002.0,medicine,for their discoveries concerning genetic regulation of organ development and programmed cell death'
+522,H. Robert,Horvitz,5/8/1947,USA,"Chicago, IL",2002.0,medicine,for their discoveries concerning genetic regulation of organ development and programmed cell death'
+523,George D.,Snell,12/19/1903,USA,"Bradford, MA",1980.0,medicine,for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions
+524,Baruj,Benacerraf,10/29/1920,Venezuela,Caracas,1980.0,medicine,for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions
+525,Jean,Dausset,10/19/1916,France,Toulouse,1980.0,medicine,for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions
+526,Werner,Forssmann,8/29/1904,Germany,Berlin,1956.0,medicine,for their discoveries concerning heart catheterization and pathological changes in the circulatory system
+527,Werner,Forssmann,8/29/1904,Germany,Berlin,1956.0,medicine,for their discoveries concerning heart catheterization and pathological changes in the circulatory system
+528,Andre,Cournand,09/24/1895,France,Paris,1956.0,medicine,for their discoveries concerning heart catheterization and pathological changes in the circulatory system
+529,Dickinson W.,Richards,10/30/1895,USA,"Orange, NJ",1956.0,medicine,for their discoveries concerning heart catheterization and pathological changes in the circulatory system
+530,Torsten N.,Wiesel,6/3/1924,Sweden,Uppsala,1981.0,medicine,for their discoveries concerning information processing in the visual system
+531,David H.,Hubel,2/27/1926,Canada,"Windsor, ON",1981.0,medicine,for their discoveries concerning information processing in the visual system
+532,William Parry,Murphy,02/06/1892,USA,"Stoughton, WI",1934.0,medicine,for their discoveries concerning liver therapy in cases of anaemia
+533,George Richards,Minot,12/02/1885,USA,"Boston, MA",1934.0,medicine,for their discoveries concerning liver therapy in cases of anaemia
+534,William Parry,Murphy,02/06/1892,USA,"Stoughton, WI",1934.0,medicine,for their discoveries concerning liver therapy in cases of anaemia
+535,George Hoyt,Whipple,08/28/1878,USA,"Ashland, NH",1934.0,medicine,for their discoveries concerning liver therapy in cases of anaemia
+536,Sir Peter,Mansfield,10/9/1933,United Kingdom,London,2003.0,medicine,for their discoveries concerning magnetic resonance imaging
+537,Paul C.,Lauterbur,5/6/1929,USA,"Sidney, OH",2003.0,medicine,for their discoveries concerning magnetic resonance imaging
+538,D. Carleton,Gajdusek,9/9/1923,USA,"Yonkers, NY",1976.0,medicine,for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases
+539,Baruch S.,Blumberg,7/28/1925,USA,"New York, NY",1976.0,medicine,for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases
+540,Robert F.,Furchgott,6/4/1916,USA,"Charleston, SC",1998.0,medicine,for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system
+541,Ferid,Murad,9/14/1936,USA,"Whiting, IN",1998.0,medicine,for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system
+542,Louis J.,Ignarro,5/31/1941,USA,"Brooklyn, NY",1998.0,medicine,for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system
+543,J. Hans D.,Jensen,6/25/1907,Germany,Hamburg,1963.0,physics,for their discoveries concerning nuclear shell structure
+544,Joseph E.,Murray,4/1/1919,USA,"Milford, MA",1990.0,medicine,for their discoveries concerning organ and cell transplantation in the treatment of human disease
+545,E. Donnall,Thomas,3/15/1920,USA,"Mart, TX",1990.0,medicine,for their discoveries concerning organ and cell transplantation in the treatment of human disease
+546,Konrad,Lorenz,11/7/1903,Austria,Vienna,1973.0,medicine,for their discoveries concerning organization and elicitation of individual and social behaviour patterns
+547,Karl,von Frisch,11/20/1886,Austria,Vienna,1973.0,medicine,for their discoveries concerning organization and elicitation of individual and social behaviour patterns
+548,Nikolaas,Tinbergen,4/15/1907,the Netherlands,the Hague,1973.0,medicine,for their discoveries concerning organization and elicitation of individual and social behaviour patterns
+549,John R.,Vane,3/29/1927,United Kingdom,Tardebigg,1982.0,medicine,for their discoveries concerning prostaglandins and related biologically active substances
+550,Bengt I.,Samuelsson,5/21/1934,Sweden,Halmstad,1982.0,medicine,for their discoveries concerning prostaglandins and related biologically active substances
+551,Sune K.,Bergstr_m,1/10/1916,Sweden,Stockholm,1982.0,medicine,for their discoveries concerning prostaglandins and related biologically active substances
+552,Edwin G.,Krebs,6/6/1918,USA,"Lansing, IA",1992.0,medicine,for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism
+553,Edmond H.,Fischer,4/6/1920,China,Shanghai,1992.0,medicine,for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism
+554,Arvid,Carlsson,1/25/1923,Sweden,Uppsala,2000.0,medicine,for their discoveries concerning signal transduction in the nervous system
+555,Paul,Greengard,12/11/1925,USA,"New York, NY",2000.0,medicine,for their discoveries concerning signal transduction in the nervous system
+556,Eric R.,Kandel,11/7/1929,Austria,Vienna,2000.0,medicine,for their discoveries concerning signal transduction in the nervous system
+557,Bruce A.,Beutler,12/29/1957,USA,"Chicago, IL",2011.0,medicine,for their discoveries concerning the activation of innate immunity
+558,Bruce A.,Beutler,12/29/1957,USA,"Chicago, IL",2011.0,medicine,for their discoveries concerning the activation of innate immunity
+559,Jules A.,Hoffmann,8/2/1941,Luxembourg,Echternach,2011.0,medicine,for their discoveries concerning the activation of innate immunity
+560,Gerald M.,Edelman,7/1/1929,USA,"New York, NY",1972.0,medicine,for their discoveries concerning the chemical structure of antibodies
+561,Rodney R.,Porter,10/8/1917,United Kingdom,Newton-le-Willows,1972.0,medicine,for their discoveries concerning the chemical structure of antibodies
+562,Erwin,Neher,3/20/1944,Germany,Landsberg,1991.0,medicine,for their discoveries concerning the function of single ion channels in cells
+563,Bert,Sakmann,6/12/1942,Germany,Stuttgart,1991.0,medicine,for their discoveries concerning the function of single ion channels in cells
+564,Edward B.,Lewis,5/19/1918,USA,"Wilkes-Barre, PA",1995.0,medicine,for their discoveries concerning the genetic control of early embryonic development
+565,Eric F.,Wieschaus,6/8/1947,USA,"South Bend, IN",1995.0,medicine,for their discoveries concerning the genetic control of early embryonic development
+566,Julius,Axelrod,5/30/1912,USA,"New York, NY",1970.0,medicine,"for their discoveries concerning the humoral transmittors in the nerve terminals and the mechanism for their storage, release and inactivation"
+567,Sir Bernard,Katz,3/26/1911,Germany,Leipzig,1970.0,medicine,"for their discoveries concerning the humoral transmittors in the nerve terminals and the mechanism for their storage, release and inactivation"
+568,Ulf,von Euler,2/7/1905,Sweden,Stockholm,1970.0,medicine,"for their discoveries concerning the humoral transmittors in the nerve terminals and the mechanism for their storage, release and inactivation"
+569,David,Baltimore,3/7/1938,USA,"New York, NY",1975.0,medicine,for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell
+570,Renato,Dulbecco,2/22/1914,Italy,Catanzaro,1975.0,medicine,for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell
+571,Howard Martin,Temin,12/10/1934,USA,"Philadelphia, PA",1975.0,medicine,for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell
+572,Alan Lloyd,Hodgkin,2/5/1914,United Kingdom,Banbury,1963.0,medicine,for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane
+573,Sir John Carew,Eccles,1/27/1903,Australia,Melbourne,1963.0,medicine,for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane
+574,Andrew Fielding,Huxley,11/22/1917,United Kingdom,Hampstead,1963.0,medicine,for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane
+575,Konrad,Bloch,1/21/1912,Germany (now Poland),Neisse (now Nysa),1964.0,medicine,for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism
+576,Feodor,Lynen,4/6/1911,Germany,Munich,1964.0,medicine,for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism
+577,Francis Harry Compton,Crick,6/8/1916,United Kingdom,Northampton,1962.0,medicine,for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material
+578,James Dewey,Watson,4/6/1928,USA,"Chicago, IL",1962.0,medicine,for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material
+579,Maurice Hugh Frederick,Wilkins,12/15/1916,New Zealand,Pongaroa,1962.0,medicine,for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material
+580,Andrew V.,Schally,11/30/1926,Poland (now Lithuania),Wilno (now Vilnius),1977.0,medicine,for their discoveries concerning the peptide hormone production of the brain
+581,Roger,Guillemin,1/11/1924,France,Dijon,1977.0,medicine,for their discoveries concerning the peptide hormone production of the brain
+582,George,Wald,11/18/1906,USA,"New York, NY",1967.0,medicine,for their discoveries concerning the primary physiological and chemical visual processes in the eye
+583,Haldan Keffer,Hartline,12/22/1903,USA,"Bloomsburg, PA",1967.0,medicine,for their discoveries concerning the primary physiological and chemical visual processes in the eye
+584,Ragnar,Granit,10/30/1900,Russian Empire (now Finland),Helsinki,1967.0,medicine,for their discoveries concerning the primary physiological and chemical visual processes in the eye
+585,Joseph L.,Goldstein,4/18/1940,USA,"Sumter, SC",1985.0,medicine,for their discoveries concerning the regulation of cholesterol metabolism
+586,Michael S.,Brown,4/13/1941,USA,"New York, NY",1985.0,medicine,for their discoveries concerning the regulation of cholesterol metabolism
+587,Salvador E.,Luria,8/13/1912,Italy,Torino,1969.0,medicine,for their discoveries concerning the replication mechanism and the genetic structure of viruses
+588,Alfred D.,Hershey,12/4/1908,USA,"Owosso, MI",1969.0,medicine,for their discoveries concerning the replication mechanism and the genetic structure of viruses
+589,Max,Delbrôck,9/4/1906,Germany,Berlin,1969.0,medicine,for their discoveries concerning the replication mechanism and the genetic structure of viruses
+590,Peter C.,Doherty,10/15/1940,Australia,Brisbane,1996.0,medicine,for their discoveries concerning the specificity of the cell mediated immune defence
+591,Rolf M.,Zinkernagel,1/6/1944,Switzerland,Basel,1996.0,medicine,for their discoveries concerning the specificity of the cell mediated immune defence
+592,Christian,de Duve,10/2/1917,United Kingdom,Thames Ditton,1974.0,medicine,for their discoveries concerning the structural and functional organization of the cell
+593,Albert,Claude,08/24/1898,Belgium,Longlier,1974.0,medicine,for their discoveries concerning the structural and functional organization of the cell
+594,George E.,Palade,11/19/1912,Romania,Iasi,1974.0,medicine,for their discoveries concerning the structural and functional organization of the cell
+595,Christian,de Duve,10/2/1917,United Kingdom,Thames Ditton,1974.0,medicine,for their discoveries concerning the structural and functional organization of the cell
+596,Edwin Mattison,McMillan,9/18/1907,USA,"Redondo Beach, CA",1951.0,chemistry,for their discoveries in the chemistry of the transuranium elements
+597,Glenn Theodore,Seaborg,4/19/1912,USA,"Ishpeming, MI",1951.0,chemistry,for their discoveries in the chemistry of the transuranium elements
+598,Giulio,Natta,2/26/1903,Italy,Imperia,1963.0,chemistry,for their discoveries in the field of the chemistry and technology of high polymers
+599,Karl,Ziegler,11/26/1898,Germany,Helsa,1963.0,chemistry,for their discoveries in the field of the chemistry and technology of high polymers
+600,John,O'Keefe,11/18/1939,USA,"New York, NY",2014.0,medicine,for their discoveries of cells that constitute a positioning system in the brain
+601,Edvard I.,Moser,4/27/1962,Norway,Lesund,2014.0,medicine,for their discoveries of cells that constitute a positioning system in the brain
+602,Stanley,Cohen,11/17/1922,USA,"Brooklyn, NY",1986.0,medicine,for their discoveries of growth factors
+603,Sir James W.,Black,6/14/1924,Scotland,Uddingston,1988.0,medicine,for their discoveries of important principles for drug treatment
+604,George H.,Hitchings,4/18/1905,USA,"Hoquiam, WA",1988.0,medicine,for their discoveries of important principles for drug treatment
+605,Tim,Hunt,2/19/1943,United Kingdom,Neston,2001.0,medicine,for their discoveries of key regulators of the cell cycle
+606,Sir Paul M.,Nurse,1/25/1949,United Kingdom,Norwich,2001.0,medicine,for their discoveries of key regulators of the cell cycle
+607,Leland H.,Hartwell,10/30/1939,USA,"Los Angeles, CA",2001.0,medicine,for their discoveries of key regulators of the cell cycle
+608,Randy W.,Schekman,12/30/1948,USA,"St. Paul, MN",2013.0,medicine,"for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+609,James E.,Rothman,11/3/1950,USA,"Haverhill, MA",2013.0,medicine,"for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+610,Thomas C.,Sôdhof,12/22/1955,Germany,G_ttingen,2013.0,medicine,"for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+611,Randy W.,Schekman,12/30/1948,USA,"St. Paul, MN",2013.0,medicine,"for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+612,Thomas C.,Sôdhof,12/22/1955,Germany,G_ttingen,2013.0,medicine,"for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+613,Richard,Axel,7/2/1946,USA,"New York, NY",2004.0,medicine,for their discoveries of odorant receptors and the organization of the olfactory system
+614,Sir Martin J.,Evans,1/1/1941,United Kingdom,Stroud,2007.0,medicine,for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells
+615,Oliver,Smithies,6/23/1925,United Kingdom,Halifax,2007.0,medicine,for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells
+616,Mario R.,Capecchi,10/6/1937,Italy,Verona,2007.0,medicine,for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells
+617,Mario R.,Capecchi,10/6/1937,Italy,Verona,2007.0,medicine,for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells
+618,Richard J.,Roberts,9/6/1943,United Kingdom,Derby,1993.0,medicine,for their discoveries of split genes
+619,Phillip A.,Sharp,6/6/1944,USA,"Falmouth, KY",1993.0,medicine,for their discoveries of split genes
+620,Edgar Douglas,Adrian,11/30/1889,United Kingdom,London,1932.0,medicine,for their discoveries regarding the functions of neurons
+621,Sir Charles Scott,Sherrington,11/27/1857,United Kingdom,London,1932.0,medicine,for their discoveries regarding the functions of neurons
+622,Otto,Loewi,06/03/1873,Germany,Frankfurt-on-the-Main,1936.0,medicine,for their discoveries relating to chemical transmission of nerve impulses
+623,Sir Henry Hallett,Dale,06/09/1875,United Kingdom,London,1936.0,medicine,for their discoveries relating to chemical transmission of nerve impulses
+624,Herbert Spencer,Gasser,07/05/1888,USA,"Platteville, WI",1944.0,medicine,for their discoveries relating to the highly differentiated functions of single nerve fibres
+625,Joseph,Erlanger,01/05/1874,USA,"San Francisco, CA",1944.0,medicine,for their discoveries relating to the highly differentiated functions of single nerve fibres
+626,Tadeus,Reichstein,07/20/1897,Poland,Wloclawek,1950.0,medicine,"for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects"
+627,Edward Calvin,Kendall,03/08/1886,USA,"South Norwalk, CT",1950.0,medicine,"for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects"
+628,Philip Showalter,Hench,02/28/1896,USA,"Pittsburgh, PA",1950.0,medicine,"for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects"
+629,Kurt,Alder,7/10/1902,Prussia (now Poland),Chorzow,1950.0,chemistry,for their discovery and development of the diene synthesis
+630,Otto Paul Hermann,Diels,01/23/1876,Germany,Hamburg,1950.0,chemistry,for their discovery and development of the diene synthesis
+631,Horst L.,St_rmer,4/6/1949,West Germany (now Germany),Frankfurt-on-the-Main,1998.0,physics,for their discovery of a new form of quantum fluid with fractionally charged excitations
+632,Daniel C.,Tsui,2/28/1939,China,Henan,1998.0,physics,for their discovery of a new form of quantum fluid with fractionally charged excitations
+633,Robert B.,Laughlin,11/1/1950,USA,"Visalia, CA",1998.0,physics,for their discovery of a new form of quantum fluid with fractionally charged excitations
+634,Thomas R.,Cech,12/8/1947,USA,"Chicago, IL",1989.0,chemistry,for their discovery of catalytic properties of RNA
+635,Sidney,Altman,5/7/1939,Canada,Montreal,1989.0,chemistry,for their discovery of catalytic properties of RNA
+636,Arno Allan,Penzias,4/26/1933,Germany,Munich,1978.0,physics,for their discovery of cosmic microwave background radiation
+637,Robert Woodrow,Wilson,1/10/1936,USA,"Houston, TX",1978.0,physics,for their discovery of cosmic microwave background radiation
+638,Sir Harold W.,Kroto,10/7/1939,United Kingdom,Wisbech,1996.0,chemistry,for their discovery of fullerenes
+639,Robert F.,Curl Jr.,8/23/1933,USA,"Alice, TX",1996.0,chemistry,for their discovery of fullerenes
+640,Richard E.,Smalley,6/6/1943,USA,"Akron, OH",1996.0,chemistry,for their discovery of fullerenes
+641,Alfred G.,Gilman,7/1/1941,USA,"New Haven, CT",1994.0,medicine,for their discovery of G-proteins and the role of these proteins in signal transduction in cells
+642,Martin,Rodbell,12/1/1925,USA,"Baltimore, MD",1994.0,medicine,for their discovery of G-proteins and the role of these proteins in signal transduction in cells
+643,Luc,Montagnier,8/18/1932,France,Chabris,2008.0,medicine,for their discovery of human immunodeficiency virus
+644,Andrew Z.,Fire,4/27/1959,USA,"Stanford, CA",2006.0,medicine,for their discovery of RNA interference - gene silencing by double-stranded RNA
+645,Craig C.,Mello,10/19/1960,USA,"New Haven, CT",2006.0,medicine,for their discovery of RNA interference - gene silencing by double-stranded RNA
+646,David M.,Lee,1/20/1931,USA,"Rye, NY",1996.0,physics,for their discovery of superfluidity in helium-3
+647,Robert C.,Richardson,6/26/1937,USA,"Washington, DC",1996.0,physics,for their discovery of superfluidity in helium-3
+648,Douglas D.,Osheroff,8/1/1945,USA,"Aberdeen, WA",1996.0,physics,for their discovery of superfluidity in helium-3
+649,Thomas Huckle,Weller,6/15/1915,USA,"Ann Arbor, MI",1954.0,medicine,for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue
+650,John Franklin,Enders,02/10/1897,USA,"West Hartford, CT",1954.0,medicine,for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue
+651,John Franklin,Enders,02/10/1897,USA,"West Hartford, CT",1954.0,medicine,for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue
+652,Frederick Chapman,Robbins,8/25/1916,USA,"Auburn, AL",1954.0,medicine,for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue
+653,Emilio Gino,Segro,2/1/1905,Italy,Tivoli,1959.0,physics,for their discovery of the antiproton
+654,Owen,Chamberlain,7/10/1920,USA,"San Francisco, CA",1959.0,physics,for their discovery of the antiproton
+655,Barry J.,Marshall,9/30/1951,Australia,Kalgoorlie,2005.0,medicine,for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease
+656,J. Robin,Warren,6/11/1937,Australia,Adelaide,2005.0,medicine,for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease
+657,Barry J.,Marshall,9/30/1951,Australia,Kalgoorlie,2005.0,medicine,for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease
+658,George F.,Smoot,2/20/1945,USA,"Yukon, FL",2006.0,physics,for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation
+659,John C.,Mather,8/7/1946,USA,"Roanoke, VA",2006.0,physics,for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation
+660,J. Michael,Bishop,2/22/1936,USA,"York, PA",1989.0,medicine,for their discovery of the cellular origin of retroviral oncogenes
+661,Harold E.,Varmus,12/18/1939,USA,"Oceanside, NY",1989.0,medicine,for their discovery of the cellular origin of retroviral oncogenes
+662,Carl Ferdinand,Cori,12/05/1896,Austria-Hungary (now Czech Republic),Prague,1947.0,medicine,for their discovery of the course of the catalytic conversion of glycogen
+663,James,Franck,08/26/1882,Germany,Hamburg,1925.0,physics,for their discovery of the laws governing the impact of an electron upon an atom
+664,Gustav Ludwig,Hertz,07/22/1887,Germany,Hamburg,1925.0,physics,for their discovery of the laws governing the impact of an electron upon an atom
+665,Severo,Ochoa,9/24/1905,Spain,Luarca,1959.0,medicine,for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid
+666,Arthur,Kornberg,3/3/1918,USA,"Brooklyn, NY",1959.0,medicine,for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid
+667,Edward Lawrie,Tatum,12/14/1909,USA,"Boulder, CO",1958.0,medicine,for their discovery that genes act by regulating definite chemical events
+668,George Wells,Beadle,10/22/1903,USA,"Wahoo, NE",1958.0,medicine,for their discovery that genes act by regulating definite chemical events
+669,Albert Arnold (Al),Gore Jr.,3/31/1948,USA,"Washington, DC",2007.0,peace,"for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change"
+670,Muhammad,Yunus,6/28/1940,British India (now Bangladesh),Chittagong,2006.0,peace,for their efforts to create economic and social development from below
+671,Yitzhak,Rabin,3/1/1922,British Mandate of Palestine (now Israel),Jerusalem,1994.0,peace,for their efforts to create peace in the Middle East
+672,Shimon,Peres,8/16/1923,Poland (now Belarus),Vishneva,1994.0,peace,for their efforts to create peace in the Middle East
+673,Yasser,Arafat,8/24/1929,Egypt,Cairo,1994.0,peace,for their efforts to create peace in the Middle East
+674,Joseph,Rotblat,11/4/1908,Russian Empire (now Poland),Warsaw,1995.0,peace,"for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms"
+675,John,Hume,1/18/1937,Northern Ireland,Londonderry,1998.0,peace,for their efforts to find a peaceful solution to the conflict in Northern Ireland
+676,David,Trimble,10/15/1944,Northern Ireland,Belfast,1998.0,peace,for their efforts to find a peaceful solution to the conflict in Northern Ireland
+677,Mohamed,ElBaradei,6/17/1942,Egypt,Cairo,2005.0,peace,for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way
+678,John E.,Walker,1/7/1941,United Kingdom,Halifax,1997.0,chemistry,for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate (ATP)
+679,Paul D.,Boyer,7/31/1918,USA,"Provo, UT",1997.0,chemistry,for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate (ATP)
+680,Eugene F.,Fama,2/14/1939,USA,"Boston, MA",2013.0,economics,for their empirical analysis of asset prices
+681,Lars Peter,Hansen,10/26/1952,USA,"Urbana, IL",2013.0,economics,for their empirical analysis of asset prices
+682,Robert J.,Shiller,3/29/1946,USA,"Detroit, MI",2013.0,economics,for their empirical analysis of asset prices
+683,Thomas J.,Sargent,7/19/1943,USA,"Pasadena, CA",2011.0,economics,for their empirical research on cause and effect in the macroeconomy
+684,Christopher A.,Sims,10/21/1942,USA,"Washington, DC",2011.0,economics,for their empirical research on cause and effect in the macroeconomy
+685,Ivar,Giaever,4/5/1929,Norway,Bergen,1973.0,physics,"for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively"
+686,Leo,Esaki,3/12/1925,Japan,Osaka,1973.0,physics,"for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively"
+687,George Paget,Thomson,05/03/1892,United Kingdom,Cambridge,1937.0,physics,for their experimental discovery of the diffraction of electrons by crystals
+688,Clinton Joseph,Davisson,10/22/1881,USA,"Bloomington, IL",1937.0,physics,for their experimental discovery of the diffraction of electrons by crystals
+689,James A.,Mirrlees,7/5/1936,Scotland,Minnigaff,1996.0,economics,for their fundamental contributions to the economic theory of incentives under asymmetric information
+690,William,Vickrey,6/21/1914,Canada,"Victoria, BC",1996.0,economics,for their fundamental contributions to the economic theory of incentives under asymmetric information
+691,Sir Nevill Francis,Mott,9/30/1905,United Kingdom,Leeds,1977.0,physics,for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems
+692,John Hasbrouck,van Vleck,03/13/1899,USA,"Middletown, CT",1977.0,physics,for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems
+693,Philip Warren,Anderson,12/13/1923,USA,"Indianapolis, IN",1977.0,physics,for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems
+694,Julian,Schwinger,2/12/1918,USA,"New York, NY",1965.0,physics,"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles"
+695,Richard P.,Feynman,5/11/1918,USA,"New York, NY",1965.0,physics,"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles"
+696,Sin-Itiro,Tomonaga,3/31/1906,Japan,Kyoto,1965.0,physics,"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles"
+697,J. Georg,Bednorz,5/16/1950,West Germany (now Germany),Neuenkirchen,1987.0,physics,for their important break-through in the discovery of superconductivity in ceramic materials
+698,K. Alexander,Môller,4/19/1927,Switzerland,Basel,1987.0,physics,for their important break-through in the discovery of superconductivity in ceramic materials
+699,Marshall W.,Nirenberg,4/10/1927,USA,"New York, NY",1968.0,medicine,for their interpretation of the genetic code and its function in protein synthesis
+700,Robert W.,Holley,1/28/1922,USA,"Urbana, IL",1968.0,medicine,for their interpretation of the genetic code and its function in protein synthesis
+701,Har Gobind,Khorana,1/9/1922,India,Raipur,1968.0,medicine,for their interpretation of the genetic code and its function in protein synthesis
+702,Richard Laurence Millington,Synge,10/28/1914,United Kingdom,Liverpool,1952.0,chemistry,for their invention of partition chromatography
+703,Archer John Porter,Martin,3/1/1910,United Kingdom,London,1952.0,chemistry,for their invention of partition chromatography
+704,Arthur,Harden,10/12/1865,United Kingdom,Manchester,1929.0,chemistry,for their investigations on the fermentation of sugar and fermentative enzymes
+705,Hans Karl August Simon,von Euler-Chelpin,02/15/1873,Germany,Augsburg,1929.0,chemistry,for their investigations on the fermentation of sugar and fermentative enzymes
+706,John Robert,Schrieffer,5/31/1931,USA,"Oak Park, IL",1972.0,physics,"for their jointly developed theory of superconductivity, usually called the BCS-theory"
+707,Leon Neil,Cooper,2/28/1930,USA,"New York, NY",1972.0,physics,"for their jointly developed theory of superconductivity, usually called the BCS-theory"
+708,John,Bardeen,5/23/1908,USA,"Madison, WI",1972.0,physics,"for their jointly developed theory of superconductivity, usually called the BCS-theory"
+709,Herbert A.,Hauptman,2/14/1917,USA,"New York, NY",1985.0,chemistry,for their outstanding achievements in the development of direct methods for the determination of crystal structures
+710,Jerome,Karle,6/18/1918,USA,"New York, NY",1985.0,chemistry,for their outstanding achievements in the development of direct methods for the determination of crystal structures
+711,James E.,Meade,6/23/1907,United Kingdom,Swanage,1977.0,economics,for their pathbreaking contribution to the theory of international trade and international capital movements
+712,Bertil,Ohlin,04/23/1899,Sweden,Klippan,1977.0,economics,for their pathbreaking contribution to the theory of international trade and international capital movements
+713,Tsung-Dao (T.D.),Lee,11/24/1926,China,Shanghai,1957.0,physics,for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles
+714,Chen Ning,Yang,9/22/1922,China,"Hofei, Anhwei",1957.0,physics,for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles
+715,Ernest Thomas Sinton,Walton,10/6/1903,Ireland,Dungarvan,1951.0,physics,for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles
+716,Sir John Douglas,Cockcroft,05/27/1897,United Kingdom,Todmorden,1951.0,physics,for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles
+717,John C.,Harsanyi,5/29/1920,Hungary,Budapest,1994.0,economics,for their pioneering analysis of equilibria in the theory of non-cooperative games
+718,Reinhard,Selten,10/5/1930,Germany (now Poland),Breslau (now Wroclaw),1994.0,economics,for their pioneering analysis of equilibria in the theory of non-cooperative games
+719,John F.,Nash Jr.,6/13/1928,USA,"Bluefield, WV",1994.0,economics,for their pioneering analysis of equilibria in the theory of non-cooperative games
+720,Kenneth J.,Arrow,8/23/1921,USA,"New York, NY",1972.0,economics,for their pioneering contributions to general economic equilibrium theory and welfare theory
+721,John R.,Hicks,4/8/1904,United Kingdom,Warwick,1972.0,economics,for their pioneering contributions to general economic equilibrium theory and welfare theory
+722,Jerome I.,Friedman,3/28/1930,USA,"Chicago, IL",1990.0,physics,"for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics"
+723,Henry W.,Kendall,12/9/1926,USA,"Boston, MA",1990.0,physics,"for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics"
+724,Richard E.,Taylor,11/2/1929,Canada,"Medicine Hat, Alberta",1990.0,physics,"for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics"
+725,Sir Martin,Ryle,9/27/1918,United Kingdom,Brighton,1974.0,physics,"for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars"
+726,Antony,Hewish,5/11/1924,United Kingdom,Fowey,1974.0,physics,"for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars"
+727,Theodore W.,Schultz,4/30/1902,USA,"Arlington, SD",1979.0,economics,for their pioneering research into economic development research with particular consideration of the problems of developing countries
+728,Sir Arthur,Lewis,1/23/1915,British West Indies (now Saint Lucia),Castries,1979.0,economics,for their pioneering research into economic development research with particular consideration of the problems of developing countries
+729,Samuel Chao Chung,Ting,1/27/1936,USA,"Ann Arbor, MI",1976.0,physics,for their pioneering work in the discovery of a heavy elementary particle of a new kind
+730,Burton,Richter,3/22/1931,USA,"Brooklyn, NY",1976.0,physics,for their pioneering work in the discovery of a heavy elementary particle of a new kind
+731,Merton H.,Miller,5/16/1923,USA,"Boston, MA",1990.0,economics,for their pioneering work in the theory of financial economics
+732,Harry M.,Markowitz,8/24/1927,USA,"Chicago, IL",1990.0,economics,for their pioneering work in the theory of financial economics
+733,William F.,Sharpe,6/16/1934,USA,"Boston, MA",1990.0,economics,for their pioneering work in the theory of financial economics
+734,Gunnar,Myrdal,12/06/1898,Sweden,Skattungbyn,1974.0,economics,"for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena"
+735,Friedrich August,von Hayek,05/08/1899,Austria,Vienna,1974.0,economics,"for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena"
+736,Geoffrey,Wilkinson,7/14/1921,United Kingdom,Todmorden,1973.0,chemistry,"for their pioneering work, performed independently, on the chemistry of the organometallic, so called sandwich compounds"
+737,Ernst Otto,Fischer,11/10/1918,Germany,Munich,1973.0,chemistry,"for their pioneering work, performed independently, on the chemistry of the organometallic, so called sandwich compounds"
+738,Wendell Meredith,Stanley,8/16/1904,USA,"Ridgeville, IN",1946.0,chemistry,for their preparation of enzymes and virus proteins in a pure form
+739,John Howard,Northrop,07/05/1891,USA,"Yonkers, NY",1946.0,chemistry,for their preparation of enzymes and virus proteins in a pure form
+740,Nikolay Nikolaevich,Semenov,04/03/1896,Russia,Saratov,1956.0,chemistry,for their researches into the mechanism of chemical reactions
+741,Sir Cyril Norman,Hinshelwood,05/19/1897,United Kingdom,London,1956.0,chemistry,for their researches into the mechanism of chemical reactions
+742,William Bradford,Shockley,2/13/1910,United Kingdom,London,1956.0,physics,for their researches on semiconductors and their discovery of the transistor effect
+743,Walter Houser,Brattain,2/10/1902,China,Amoy,1956.0,physics,for their researches on semiconductors and their discovery of the transistor effect
+744,John,Bardeen,5/23/1908,USA,"Madison, WI",1956.0,physics,for their researches on semiconductors and their discovery of the transistor effect
+745,Sir William Henry,Bragg,07/02/1862,United Kingdom,Wigton,1915.0,physics,for their services in the analysis of crystal structure by means of X-rays
+746,William Lawrence,Bragg,03/31/1890,Australia,Adelaide,1915.0,physics,for their services in the analysis of crystal structure by means of X-rays
+747,Kailash,Satyarthi,1/11/1954,India,Vidisha,2014.0,peace,for their struggle against the suppression of children and young people and for the right of all children to education
+748,Ronald George Wreyford,Norrish,11/09/1897,United Kingdom,Cambridge,1967.0,chemistry,"for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy"
+749,Manfred,Eigen,5/9/1927,Germany,Bochum,1967.0,chemistry,"for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy"
+750,George,Porter,12/6/1920,United Kingdom,Stainforth,1967.0,chemistry,"for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy"
+751,Max Ferdinand,Perutz,5/19/1914,Austria,Vienna,1962.0,chemistry,for their studies of the structures of globular proteins
+752,John Cowdery,Kendrew,3/24/1917,United Kingdom,Oxford,1962.0,chemistry,for their studies of the structures of globular proteins
+753,Roald,Hoffmann,7/18/1937,Poland (now Ukraine),Zloczov,1981.0,chemistry,"for their theories, developed independently, concerning the course of chemical reactions"
+754,Kenichi,Fukui,10/4/1918,Japan,Nara,1981.0,chemistry,"for their theories, developed independently, concerning the course of chemical reactions"
+755,Kofi,Annan,4/8/1938,Gold Coast (now Ghana),Kumasi,2001.0,peace,for their work for a better organized and more peaceful world
+756,Frederik Willem,de Klerk,3/18/1936,South Africa,Johannesburg,1993.0,peace,"for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa"
+757,Nelson,Mandela,7/18/1918,South Africa,Qunu,1993.0,peace,"for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa"
+758,Mario J.,Molina,3/19/1943,Mexico,Mexico City,1995.0,chemistry,"for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone"
+759,F. Sherwood,Rowland,6/28/1927,USA,"Delaware, OH",1995.0,chemistry,"for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone"
+760,Paul J.,Crutzen,12/3/1933,the Netherlands,Amsterdam,1995.0,chemistry,"for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone"
+761,Ryoji,Noyori,9/3/1938,Japan,Kobe,2001.0,chemistry,for their work on chirally catalysed hydrogenation reactions
+762,William S.,Knowles,6/1/1917,USA,"Taunton, MA",2001.0,chemistry,for their work on chirally catalysed hydrogenation reactions
+763,Carlos Filipe Ximenes,Belo,2/3/1948,East Timor,Wailacama,1996.0,peace,for their work towards a just and peaceful solution to the conflict in East Timor
+764,Jos_,Ramos-Horta,12/26/1949,East Timor,Dili,1996.0,peace,for their work towards a just and peaceful solution to the conflict in East Timor
+765,Georges J.F.,K_hler,4/17/1946,Germany,Munich,1984.0,medicine,for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies
+766,Niels K.,Jerne,12/23/1911,United Kingdom,London,1984.0,medicine,for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies
+767,C_sar,Milstein,10/8/1927,Argentina,Bahia Blanca,1984.0,medicine,for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies
+768,Seamus,Heaney,4/13/1939,Northern Ireland,Casteldšwson,1995.0,literature,"for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past"
+769,Imre,Kert_sz,11/9/1929,Hungary,Budapest,2002.0,literature,for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history
+770,Elias,Canetti,7/25/1905,Bulgaria,Ruse,1981.0,literature,"for writings marked by a broad outlook, a wealth of ideas and artistic power"
+771,Harry,Martinson,5/6/1904,Sweden,J_msh_g,1974.0,literature,for writings that catch the dewdrop and reflect the cosmos
+772,Count Maurice (Mooris) Polidore Marie Bernhard,Maeterlinck,08/29/1862,Belgium,Ghent,1911.0,literature,"in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations"
+773,Rudyard,Kipling,12/30/1865,British India (now India),Bombay,1907.0,literature,"in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author"
+774,Theodore William,Richards,01/31/1868,USA,"Germantown, PA",1914.0,chemistry,in recognition of his accurate determinations of the atomic weight of a large number of chemical elements
+775,Anatole,France,04/16/1844,France,Paris,1921.0,literature,"in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament"
+776,Niels Ryberg,Finsen,12/15/1860,Faroe Islands (Denmark),Thorshavn,1903.0,medicine,"in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science"
+777,Rudolf Christoph,Eucken,01/05/1846,East Friesland (now Germany),Aurich,1908.0,literature,"in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life"
+778,Henri,Bergson,10/18/1859,France,Paris,1927.0,literature,in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented
+779,Johann Friedrich Wilhelm Adolf,von Baeyer,10/31/1835,Prussia (now Germany),Berlin,1905.0,chemistry,"in recognition of his services in the advancement of organic chemistry and the chemical industry, through his work on organic dyes and hydroaromatic compounds"
+780,Sir William,Ramsay,10/02/1852,Scotland,Glasgow,1904.0,chemistry,"in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system"
+781,Otto,Wallach,03/27/1847,Germany (now Russia),Koenigsberg (now Kaliningrad),1910.0,chemistry,in recognition of his services to organic chemistry and the chemical industry by his pioneer work in the field of alicyclic compounds
+782,Carl Gustaf Verner,von Heidenstam,07/06/1859,Sweden,Olshammar,1916.0,literature,in recognition of his significance as the leading representative of a new era in our literature
+783,Earl (Bertrand Arthur William),Russell,05/18/1872,United Kingdom,Trelleck,1950.0,literature,in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought
+784,Walther Hermann,Nernst,06/25/1864,Prussia (now Germany),Briesen,1920.0,chemistry,in recognition of his work in thermochemistry
+785,Charles Robert,Richet,08/26/1850,France,Paris,1913.0,medicine,in recognition of his work on anaphylaxis
+786,Wilhelm,Ostwald,09/02/1853,Russian Empire (now Latvia),Riga,1909.0,chemistry,in recognition of his work on catalysis and for his investigations into the fundamental principles governing chemical equilibria and rates of reaction
+787,Alfred,Werner,12/12/1866,France,Mulhouse,1913.0,chemistry,in recognition of his work on the linkage of atoms in molecules by which he has thrown new light on earlier investigations and opened up new fields of research especially in inorganic chemistry
+788,Ivan Petrovich,Pavlov,09/14/1849,Russia,Ryazan,1904.0,medicine,"in recognition of his work on the physiology of digestion, through which knowledge on vital aspects of the subject has been transformed and enlarged"
+789,Charles Louis Alphonse,Laveran,06/18/1845,France,Paris,1907.0,medicine,in recognition of his work on the role played by protozoa in causing diseases
+790,Alexis,Carrel,06/28/1873,France,Sainte-Foy-les-Lyon,1912.0,medicine,in recognition of his work on vascular suture and the transplantation of blood vessels and organs
+791,Albrecht,Kossel,09/16/1853,Mecklenburg (now Germany),Rostock,1910.0,medicine,"in recognition of the contributions to our knowledge of cell chemistry made through his work on proteins, including the nucleic substances"
+792,Pieter,Zeeman,05/25/1865,the Netherlands,Zonnemaire,1902.0,physics,in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena
+793,Hendrik Antoon,Lorentz,07/18/1853,the Netherlands,Arnhem,1902.0,physics,in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena
+794,Antoine Henri,Becquerel,12/15/1852,France,Paris,1903.0,physics,in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity
+795,Hermann Emil,Fischer,10/09/1852,Prussia (now Germany),Euskirchen,1902.0,chemistry,in recognition of the extraordinary services he has rendered by his work on sugar and purine syntheses
+796,Jacobus Henricus,van 't Hoff,08/30/1852,the Netherlands,Rotterdam,1901.0,chemistry,in recognition of the extraordinary services he has rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions
+797,Wilhelm Conrad,R_ntgen,03/27/1845,Prussia (now Germany),Lennep (now Remscheid),1901.0,physics,in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him
+798,Svante August,Arrhenius,02/19/1859,Sweden,Vik,1903.0,chemistry,in recognition of the extraordinary services he has rendered to the advancement of chemistry by his electrolytic theory of dissociation
+799,Pierre,Curie,05/15/1859,France,Paris,1903.0,physics,in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel
+800,Fr_d_ric,Mistral,09/08/1830,France,Maillane,1904.0,literature,"in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Proven&ccedil;al philologist"
+801,Joseph John,Thomson,12/18/1856,United Kingdom,"Cheetham Hill, near Manchester",1906.0,physics,in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases
+802,Henri,Moissan,09/28/1852,France,Paris,1906.0,chemistry,"in recognition of the great services rendered by him in his investigation and isolation of the element fluorine, and for the adoption in the service of science of the electric furnace called after him"
+803,Jos_,Echegaray y Eizaguirre,04/19/1832,Spain,Madrid,1904.0,literature,"in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama"
+804,Charles Edouard,Guillaume,02/15/1861,Switzerland,Fleurier,1920.0,physics,in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys
+805,Max Karl Ernst Ludwig,Planck,04/23/1858,Schleswig (now Germany),Kiel,1918.0,physics,in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta
+806,Guglielmo,Marconi,04/25/1874,Italy,Bologna,1909.0,physics,in recognition of their contributions to the development of wireless telegraphy
+807,Karl Ferdinand,Braun,06/06/1850,Hesse-Kassel (now Germany),Fulda,1909.0,physics,in recognition of their contributions to the development of wireless telegraphy
+808,Carl,Bosch,08/27/1874,Germany,Cologne,1931.0,chemistry,in recognition of their contributions to the invention and development of chemical high pressure methods
+809,Carl,Bosch,08/27/1874,Germany,Cologne,1931.0,chemistry,in recognition of their contributions to the invention and development of chemical high pressure methods
+810,Friedrich,Bergius,10/11/1884,Germany (now Poland),"Goldschmieden, near Breslau",1931.0,chemistry,in recognition of their contributions to the invention and development of chemical high pressure methods
+811,Friedrich,Bergius,10/11/1884,Germany (now Poland),"Goldschmieden, near Breslau",1931.0,chemistry,in recognition of their contributions to the invention and development of chemical high pressure methods
+812,Fr_d_ric,Joliot,3/19/1900,France,Paris,1935.0,chemistry,in recognition of their synthesis of new radioactive elements
+813,Paul,Ehrlich,03/14/1854,Prussia (now Poland),Strehlen (now Strzelin),1908.0,medicine,in recognition of their work on immunity
+814,Paul,Ehrlich,03/14/1854,Prussia (now Poland),Strehlen (now Strzelin),1908.0,medicine,in recognition of their work on immunity
+815,Ilya Ilyich,Mechnikov,05/15/1845,Russian Empire (now Ukraine),Kharkov (now Kharkiv),1908.0,medicine,in recognition of their work on immunity
+816,Santiago,Ram„n y Cajal,05/01/1852,Spain,Petilla de Arag,1906.0,medicine,in recognition of their work on the structure of the nervous system
+817,Camillo,Golgi,07/07/1843,Italy,Corteno,1906.0,medicine,in recognition of their work on the structure of the nervous system
+818,Carl Friedrich Georg,Spitteler,04/24/1845,Switzerland,Liestal,1919.0,literature,"in special appreciation of his epic, <I>Olympian Spring</I>"
+819,Sully,Prudhomme,03/16/1839,France,Paris,1901.0,literature,"in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect"
+820,Giosu,Carducci,07/27/1835,Tuscany (now Italy),Val di Castello,1906.0,literature,"not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces"
+821,Gerhart Johann Robert,Hauptmann,11/15/1862,Prussia (now Germany),Bad Salzbrunn,1912.0,literature,"primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art"
+822,Thomas,Mann,06/06/1875,Germany,Lôbeck,1929.0,literature,"principally for his great novel, <I>Buddenbrooks</I>, which has won steadily increased recognition as one of the classic works of contemporary literature"
+823,Christian Matthias Theodor,Mommsen,11/30/1817,Schleswig (now Germany),Garding,1902.0,literature,"the greatest living master of the art of historical writing, with special reference to his monumental work, <I>A history of Rome</I>"
+824,Erik Axel,Karlfeldt,07/20/1864,Sweden,Karlbo,1931.0,literature,The poetry of Erik Axel Karlfeldt
+825,Dario,Fo,3/24/1926,Italy,Leggiuno-Sangiano,1997.0,literature,who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden
+826,Wole,Soyinka,7/13/1934,Nigeria,Abeokuta,1986.0,literature,who in a wide cultural perspective and with poetic overtones fashions the drama of existence
+827,Claude,Simon,10/10/1913,Madagascar,Tananarive (now Antananarivo),1985.0,literature,who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition
+828,Harold,Pinter,10/10/1930,United Kingdom,London,2005.0,literature,who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms
+829,John M.,Coetzee,2/9/1940,South Africa,Cape Town,2003.0,literature,who in innumerable guises portrays the surprising involvement of the outsider
+830,Orhan,Pamuk,6/7/1952,Turkey,Istanbul,2006.0,literature,who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures
+831,Mo,Yan,2/2/1955,China,Gaomi,2012.0,literature,"who with hallucinatory realism merges folk tales, history and the contemporary"
+832,Jos,Saramago,11/16/1922,Portugal,Azinhaga,1998.0,literature,"who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality"
+833,Kenzaburo,Oe,1/31/1935,Japan,Uchiko,1994.0,literature,"who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today"
+834,Czeslaw,Milosz,6/30/1911,Russian Empire (now Lithuania),Etenai,1980.0,literature,who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts
+835,Naguib,Mahfouz,12/11/1911,Egypt,Cairo,1988.0,literature,"who, through works rich in nuance - now clear-sightedly realistic, now evocatively ambiguous - has formed an Arabian narrative art that applies to all mankind"
+836,Gônter,Grass,10/16/1927,Free City of Danzig (now Poland),Danzig (now Gdansk),1999.0,literature,whose frolicsome black fables portray the forgotten face of history

@@ -1,0 +1,46 @@
+id,Presidency,President,Took office,Left office,Party,Portrait,Home state
+1,1.0,George Washington,1789.0,1797.0,Independent,https://www.biography.com/.image/t_share/MTY2NDcwODAyODk0NDk2OTI5/gilbert_stuart_williamstown_portrait_of_george_washington_promo.jpg,Virginia
+2,2.0,John Adams,1797.0,1801.0,Federalist,https://www-tc.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/6c/dc/6cdce016-b640-4a4d-8e86-c35dc982f7e1/adams_dilploma_01.jpg__400x434_q85_crop_subsampling-2_upscale.jpg,Massachusetts
+3,3.0,Thomas Jefferson,1801.0,1809.0,Democratic-Republican,https://cdn.britannica.com/s:290x800/01/1801-004-DD835DC1/portrait-Thomas-Jefferson-artist-National-Museum-of.jpg,Virginia
+4,4.0,James Madison,1809.0,1817.0,Democratic-Republican,https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU3ODc5MDg1MDg3MzM1NzUz/early-19th-century-american-portrait-of-president-james-madison.jpg,Virginia
+5,5.0,James Monroe,1817.0,1825.0,Democratic-Republican,"https://cdn.britannica.com/s:800x450,c:crop/00/172700-138-8F7FCBAA/overview-James-Monroe.jpg",Virginia
+6,6.0,John Quincy Adams,1825.0,1829.0,Democratic-Republican/National Republican,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg2NDMxMjgyOTEx/john_quincy_adams.jpg,Massachusetts
+7,7.0,Andrew Jackson,1829.0,1837.0,Democratic,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg0ODE5MzU5MDQ5/andrew_jackson.jpg,Tennessee
+8,8.0,Martin Van Buren,1837.0,1841.0,Democratic,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/MVanBuren.png/240px-MVanBuren.png,New York
+9,9.0,William Henry Harrison,1841.0,1841.0,Whig,https://www.biography.com/.image/t_share/MTE5NDg0MDU0OTg5MjExMTUx/william-henry-harrison-9329968-1-402.jpg,Ohio
+10,10.0,John Tyler,1841.0,1845.0,Whig,https://cdn.britannica.com/23/8923-050-A82BA4B1/John-Tyler-oil-canvas-George-Healy-National-1859.jpg,Virginia
+11,11.0,James K. Polk,1845.0,1849.0,Democratic,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDgxMzI4MTI1MjU3/james_k_polk.jpg,Tennessee
+12,12.0,Zachary Taylor,1849.0,1850.0,Whig,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDgwNzkyOTU4Mjgx/zachary_taylor.jpg,Louisiana
+13,13.0,Millard Fillmore,1850.0,1853.0,Whig,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg1ODkyMjQ5MzEx/millard_fillmore.jpg,New York
+14,14.0,Franklin Pierce,1853.0,1857.0,Democratic,https://www.biography.com/.image/t_share/MTE1ODA0OTcxNzU0NzUxNTAx/franklin-pierce-9440391-1-402.jpg,New Hampshire
+15,15.0,James Buchanan,1857.0,1861.0,Democratic,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Appletons%27_Buchanan_James.jpg/1200px-Appletons%27_Buchanan_James.jpg,Pennsylvania
+16,16.0,Abraham Lincoln,1861.0,1865.0,Republican/National Union,https://www.biography.com/.image/t_share/MTU5MDUzMTE0Mzk2MTI0OTUy/abraham-lincoln-1809---18652c-sixteenth-president-of-the-united-states-of-america-photo-by-stock-montagestock-montagegetty-images_promo.jpg,Illinois
+17,17.0,Andrew Johnson,1865.0,1869.0,Democratic/National Union,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg1MDg4MTg3NzIx/andrew_johnson.jpg,Tennessee
+18,18.0,Ulysses S. Grant,1869.0,1877.0,Republican,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDgzNzQ0MzcyNDQ3/1867-chromolithograph-of-ulysses-grant-by-fabronius-gurney-son.jpg,Ohio
+19,19.0,Rutherford B. Hayes,1877.0,1881.0,Republican,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg1MzU4NDU4NTkx/rutherford_b_hayes.jpg,Ohio
+20,20.0,James A. Garfield,1881.0,1881.0,Republican,https://www.biography.com/.image/t_share/MTIwNjA4NjMzODE5NzkyOTA4/james-garfield-9306645-1-402.jpg,Ohio
+21,21.0,Chester A. Arthur,1881.0,1885.0,Republican,https://www.potus.com/wp-content/uploads/21_chester_a_arthur_1_gallery.jpg,New York
+22,22.0,Grover Cleveland,1885.0,1889.0,Democratic,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg3MjM1MTQ3NDg3/grover_cleveland.jpg,New York
+23,23.0,Benjamin Harrison,1889.0,1893.0,Republican,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/1200px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg,Indiana
+24,24.0,Grover Cleveland (2nd term),1893.0,1897.0,Democratic,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg3MjM1MTQ3NDg3/grover_cleveland.jpg,New York
+25,25.0,William McKinley,1897.0,1901.0,Republican,https://cdn.britannica.com/31/2431-050-C1015257/William-McKinley.jpg,Ohio
+26,26.0,Theodore Roosevelt,1901.0,1909.0,Republican,https://www.biography.com/.image/t_share/MTE1ODA0OTcxNzcxOTg3NDY5/theodore-roosevelt-9463424-1-402.jpg,New York
+27,27.0,William Howard Taft,1909.0,1913.0,Republican,https://cdn.britannica.com/60/71460-050-152A6481/William-Howard-Taft-constitutional-law-Kent-Yale-1921.jpg,Ohio
+28,28.0,Woodrow Wilson,1913.0,1921.0,Democratic,https://www.biography.com/.image/t_share/MTIwNjA4NjM0MDEyOTkzMDM2/woodrow-wilson-9534272-1-402.jpg,New Jersey
+29,29.0,Warren G. Harding,1921.0,1923.0,Republican,https://cdn.britannica.com/s:300x300/45/1145-004-A9D837E7/Warren-G-Harding.jpg,Ohio
+30,30.0,Calvin Coolidge,1923.0,1929.0,Republican,https://www.biography.com/.image/t_share/MTE1ODA0OTcxNTk1MzAyNDEz/calvin-coolidge-9256384-1-402.jpg,Massachusetts
+31,31.0,Herbert Hoover,1929.0,1933.0,Republican,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg1MDk0MjgyOTc1/herbert_hoover.jpg,Iowa
+32,32.0,Franklin D. Roosevelt,1933.0,1945.0,Democratic,https://www.history.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTU3ODc4NjA0MzI3NzU3NTM1/image-placeholder-title.jpg,New York
+33,33.0,Harry S. Truman,1945.0,1953.0,Democratic,https://www.biography.com/.image/t_share/MTE5NTU2MzE2MzkwNTI0NDI3/harry-truman-9511121-1-402.jpg,Missouri
+34,34.0,Dwight D. Eisenhower,1953.0,1961.0,Republican,https://www.biography.com/.image/t_share/MTE5NTU2MzE2MjExMjE3OTMx/dwight-d-eisenhower-9285482-1-402.jpg,Texas
+35,35.0,John F. Kennedy,1961.0,1963.0,Democratic,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/1200px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg,Massachusetts
+36,36.0,Lyndon B. Johnson,1963.0,1969.0,Democratic,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/220px-37_Lyndon_Johnson_3x4.jpg,Texas
+37,37.0,Richard Nixon,1969.0,1974.0,Republican,https://cdn.britannica.com/73/103073-050-EB4992D4/Richard-M-Nixon-1969.jpg,California
+38,38.0,Gerald Ford,1974.0,1977.0,Republican,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg3MjM0OTUwODc5/gerald_ford.jpg,Michigan
+39,39.0,Jimmy Carter,1977.0,1981.0,Democratic,https://upload.wikimedia.org/wikipedia/commons/5/5a/JimmyCarterPortrait2.jpg,Georgia
+40,40.0,Ronald Reagan,1981.0,1989.0,Republican,https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU3ODc5MDg2NDM2NjU2NDU3/reagan_flags.jpg,California
+41,41.0,George H. W. Bush,1989.0,1993.0,Republican,https://www.biography.com/.image/t_share/MTE1ODA0OTcxMjgzODc1MzQx/george-h-walker-bush-38066-1-402.jpg,Texas
+42,42.0,Bill Clinton,1993.0,2001.0,Democratic,https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDgzMjEwMTg4MTA1/bill_clinton.jpg,Arkansas
+43,43.0,George W. Bush,2001.0,2009.0,Republican,"https://cdn.britannica.com/s:800x450,c:crop/42/172742-138-B0830C03/overview-George-W-Bush.jpg",Texas
+44,44.0,Barack Obama,2009.0,2017.0,Democratic,https://www.biography.com/.image/t_share/MTE4MDAzNDEwNzg5ODI4MTEw/barack-obama-12782369-1-402.jpg,Illinois
+45,45.0,Donald Trump,2017.0,Incumbent,Republican,https://yt3.ggpht.com/a/AATXAJzBdrKPM8n3_Evl46OScSu61IwrlJG_16CV6Q=s900-c-k-c0xffffffff-no-rj-mo,New York

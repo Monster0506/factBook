@@ -1,0 +1,74 @@
+id,Rank,Name,Image,City,Country,Height in feet,Floors,Year opened
+1,1.0,Burj Khalifa,https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/200px-Burj_Khalifa.jpg,Dubai,United Arab Emirates,2717.0,163.0,2010.0
+2,2.0,Shanghai Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Shanghai_tower_dec_26%2C_2014.jpg/200px-Shanghai_tower_dec_26%2C_2014.jpg,Shanghai,China,2073.0,128.0,2015.0
+3,3.0,Abraj Al-Bait Clock Tower,https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Abraj-al-Bait-Towers.JPG/200px-Abraj-al-Bait-Towers.JPG,Mecca,Saudi Arabia,1971.0,120.0,2012.0
+4,4.0,Ping An Finance Center,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%E5%B9%B3%E5%AE%89%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83_2019-12-23.jpg/200px-%E5%B9%B3%E5%AE%89%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83_2019-12-23.jpg,Shenzhen,China,1965.0,115.0,2017.0
+5,5.0,Lotte World Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lotte-tower-close.png/200px-Lotte-tower-close.png,Seoul,South Korea,1819.0,123.0,2016.0
+6,6.0,One World Trade Center,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/One_World_Trade_Center_cropped2.jpg/200px-One_World_Trade_Center_cropped2.jpg,New York City,United States,1776.0,104.0,2014.0
+7,7.0,Guangzhou CTF Finance Center,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Canton_CTF_Finance_Center_%282017-08-30%2C_Final%29.jpg/200px-Canton_CTF_Finance_Center_%282017-08-30%2C_Final%29.jpg,Guangzhou,China,1739.0,111.0,2016.0
+8,8.0,Tianjin CTF Finance Center,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tianjin_CTF_Finance_Centre%2C_23_of_24_cropped.jpg/200px-Tianjin_CTF_Finance_Centre%2C_23_of_24_cropped.jpg,Tianjin,China,1739.0,98.0,2018.0
+9,9.0,China Zun,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/China_Zun_05-11-2018.jpg/200px-China_Zun_05-11-2018.jpg,Beijing,China,1732.0,108.0,2018.0
+10,10.0,Taipei 101,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Taipei101.portrait.altonthompson.jpg/200px-Taipei101.portrait.altonthompson.jpg,Taipei,Taiwan,1667.0,101.0,2004.0
+11,11.0,Shanghai World Financial Center,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83.jpg/200px-%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83.jpg,Shanghai,China,1614.0,101.0,2008.0
+12,12.0,International Commerce Centre,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/International_Commerce_Centre_201008.jpg/200px-International_Commerce_Centre_201008.jpg,Hong Kong,China,1588.0,118.0,2010.0
+13,13.0,Central Park Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CentralParkTowerSep20.jpg/200px-CentralParkTowerSep20.jpg,New York City,United States,1550.0,98.0,2020.0
+14,14.0,Lakhta Center,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gazprom_tower_%28Lakhta_Center%29_St_Petersburg._Russia.jpg/200px-Gazprom_tower_%28Lakhta_Center%29_St_Petersburg._Russia.jpg,Saint Petersburg,Russia,1516.0,86.0,2018.0
+15,15.0,Landmark 81,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LM81_NhonHuynh_5-8-2018.jpg/200px-LM81_NhonHuynh_5-8-2018.jpg,Ho Chi Minh City,Vietnam,1513.0,81.0,2018.0
+16,16.0,Changsha IFS Tower T1,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%E9%95%BF%E6%B2%99%E4%B9%9D%E9%BE%99%E4%BB%93%E5%9B%BD%E9%87%91%E4%B8%AD%E5%BF%83.jpg/200px-%E9%95%BF%E6%B2%99%E4%B9%9D%E9%BE%99%E4%BB%93%E5%9B%BD%E9%87%91%E4%B8%AD%E5%BF%83.jpg,Changsha,China,1483.0,88.0,2017.0
+17,17.0,Petronas Tower 1,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Petronas_Panorama_II.jpg/200px-Petronas_Panorama_II.jpg,Kuala Lumpur,Malaysia,1483.0,88.0,1998.0
+18,17.0,Petronas Tower 2,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Petronas_Panorama_II.jpg/200px-Petronas_Panorama_II.jpg,Kuala Lumpur,Malaysia,1483.0,88.0,1998.0
+19,19.0,Zifeng Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zifeng_Tower_2017.jpg/200px-Zifeng_Tower_2017.jpg,Nanjing,China,1476.0,89.0,2010.0
+20,20.0,Suzhou IFS,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Suzhou_IFS_27-10-2018.jpg/200px-Suzhou_IFS_27-10-2018.jpg,Suzhou,China,1476.0,92.0,2017.0
+21,21.0,The Exchange 106,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Exchange_106_%285-6-2018%29.jpg/200px-Exchange_106_%285-6-2018%29.jpg,Kuala Lumpur,Malaysia,1460.0,97.0,2018.0
+22,22.0,Willis Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Willis_Tower_From_Lake.jpg/200px-Willis_Tower_From_Lake.jpg,Chicago,United States,1450.0,108.0,1974.0
+23,23.0,KK100,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%E6%B7%B1%E5%9C%B3%E2%80%9C%E4%BA%AC%E5%9F%BA100%E2%80%9D%E6%91%A9%E5%A4%A9%E5%A4%A7%E6%A5%BC.jpg/200px-%E6%B7%B1%E5%9C%B3%E2%80%9C%E4%BA%AC%E5%9F%BA100%E2%80%9D%E6%91%A9%E5%A4%A9%E5%A4%A7%E6%A5%BC.jpg,Shenzhen,China,1449.0,100.0,2011.0
+24,24.0,Guangzhou International Finance Center,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GZIFC.jpg/200px-GZIFC.jpg,Guangzhou,China,1440.0,103.0,2010.0
+25,25.0,Wuhan Center,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wuhan_Center_Tower_201901_%EF%BC%88view_from_the_Central_Square_of_Wuhan_CBD%EF%BC%89.jpg/200px-Wuhan_Center_Tower_201901_%EF%BC%88view_from_the_Central_Square_of_Wuhan_CBD%EF%BC%89.jpg,Wuhan,China,1437.0,88.0,2016.0
+26,26.0,111 West 57th Street,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/SteinwayOct25.jpg/200px-SteinwayOct25.jpg,New York City,United States,1428.0,82.0,2019.0
+27,27.0,One Vanderbilt,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OneVanderbiltSep7.jpg/200px-OneVanderbiltSep7.jpg,New York City,United States,1401.0,67.0,2020.0
+28,28.0,Dongguan International Trade Center 1,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%E4%B8%9C%E8%8E%9E%E5%B8%82%2C_%E4%B8%AD%E5%9B%BD_Jul_18%2C_2019_15-39-21_%28cropped%29.jpg/200px-%E4%B8%9C%E8%8E%9E%E5%B8%82%2C_%E4%B8%AD%E5%9B%BD_Jul_18%2C_2019_15-39-21_%28cropped%29.jpg,Dongguan,China,1401.0,88.0,2019.0
+29,29.0,432 Park Avenue,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/432_Park_Avenue%2C_NY_%28cropped%29.jpg/200px-432_Park_Avenue%2C_NY_%28cropped%29.jpg,New York City,United States,1396.0,88.0,2015.0
+30,30.0,Marina 101,https://images.skyscrapercenter.com/building/dreamdubaimarina_ext_renderingperspective_(c)national_engineering_bureau.jpg,Dubai,United Arab Emirates,1394.0,101.0,2015.0
+31,31.0,Trump International Hotel and Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Chicago_September_2016-2.jpg/200px-Chicago_September_2016-2.jpg,Chicago,United States,1388.0,98.0,2009.0
+32,32.0,Jin Mao Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jin_Mao_Tower.jpg/200px-Jin_Mao_Tower.jpg,Shanghai,China,1380.0,88.0,1999.0
+33,33.0,Princess Tower,https://cloud.providentestate.com/wp-content/uploads/2018/12/princess-tower-5.jpg,Dubai,United Arab Emirates,1358.0,101.0,2012.0
+34,34.0,Al Hamra Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alhamra_Tower.jpg/200px-Alhamra_Tower.jpg,Kuwait City,Kuwait,1354.0,80.0,2011.0
+35,35.0,International Finance Centre,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/IFC%2C_Hong_Kong_Island_%282796343561%29.jpg/200px-IFC%2C_Hong_Kong_Island_%282796343561%29.jpg,Hong Kong,China,1352.0,88.0,2003.0
+36,36.0,Haeundae LCT The Sharp Landmark Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LCT_From_Dongbaek_Island_2020.01.04_%282%29.jpg/200px-LCT_From_Dongbaek_Island_2020.01.04_%282%29.jpg,Busan,South Korea,1352.0,101.0,2019.0
+37,37.0,Nanning China Resources Tower,https://images.skyscrapercenter.com/building/gp_nanning-overall.jpg,Nanning,China,1321.0,85.0,2018.0
+38,39.0,Guiyang Financial Center Tower 1,https://i.imgur.com/0pyiJoq.jpg,Guiyang,China,1316.0,79.0,2021.0
+39,39.0,China Resources Headquarters,https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/China_Resources_Headquarters_03-10-2018.jpg/200px-China_Resources_Headquarters_03-10-2018.jpg,Shenzhen,China,1288.0,67.0,2017.0
+40,40.0,23 Marina,https://images.skyscrapercenter.com/building/23-marina_ext_viewfromsouth(c)hircon-international.jpg,Dubai,United Arab Emirates,1287.0,89.0,2012.0
+41,41.0,CITIC Plaza,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Guangzhou_CITIC_Plaza_DSC02461.jpg/200px-Guangzhou_CITIC_Plaza_DSC02461.jpg,Guangzhou,China,1280.0,80.0,1996.0
+42,42.0,Shum Yip Upperhills Tower 1,https://upload.wikimedia.org/wikipedia/commons/3/36/ShumYipUpperhillsTower12020.jpg,Shenzhen,China,1273.0,80.0,2017.0
+43,43.0,30 Hudson Yards,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/30_Hudson_Yards.jpg/200px-30_Hudson_Yards.jpg,New York City,United States,1268.0,73.0,2018.0
+44,44.0,Capital Market Authority Headquarters,https://cdn.archilovers.com/projects/c_383_22b6fa84-500e-40ea-9701-b7d8b20c8156.jpg,Riyadh,Saudi Arabia,1263.0,77.0,2016.0
+45,45.0,Shun Hing Square,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Diwang_Dasha_25.JPG/200px-Diwang_Dasha_25.JPG,Shenzhen,China,1260.0,69.0,1996.0
+46,46.0,Eton Place Dalian Tower 1,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dalian_Eton_Center.jpg/200px-Dalian_Eton_Center.jpg,Dalian,China,1257.0,81.0,2015.0
+47,47.0,Logan Century Center 1,https://images.skyscrapercenter.com/building/logancentury1_rendering-full-night_(c)dennis__lau__and__ng__chun__man__architects__and__engineers.jpg,Nanning,China,1251.0,82.0,2017.0
+48,48.0,Burj Mohammed bin Rashid,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burj_Mohammed_bin_Rahid%2C_Abu_Dhabi%2C_UAE_%28from_car%29.jpg/200px-Burj_Mohammed_bin_Rahid%2C_Abu_Dhabi%2C_UAE_%28from_car%29.jpg,Abu Dhabi,United Arab Emirates,1251.0,88.0,2014.0
+49,49.0,Empire State Building,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Empire_State_Building_from_the_Top_of_the_Rock.jpg/200px-Empire_State_Building_from_the_Top_of_the_Rock.jpg,New York City,United States,1250.0,102.0,1931.0
+50,50.0,Elite Residence,https://images.skyscrapercenter.com/building/elite_ext-top_(c)tameer.jpg,Dubai,United Arab Emirates,1248.0,87.0,2012.0
+51,51.0,Shenzhen Center,https://cloud.ctbuh.org/global-news/2019-01/Shenzhen-GN-Thumb.jpg,Shenzhen,China,1232.0,80.0,2019.0
+52,52.0,Central Plaza,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Central-plaza2.jpg/200px-Central-plaza2.jpg,Hong Kong,China,1226.0,78.0,1992.0
+53,53.0,Federation Tower (East Tower),https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Federation-Tower_in_July%2C_Moscow.jpg/200px-Federation-Tower_in_July%2C_Moscow.jpg,Moscow,Russia,1226.0,95.0,2016.0
+54,54.0,Dalian International Trade Center,https://images.skyscrapercenter.com/building/dalianinternationaltradecenter_rendering-full_(c)shanghai__construction__group.jpg,Dalian,China,1214.0,86.0,2018.0
+55,55.0,Address Boulevard,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/View_from_Burj_Khalifah%2C_Dubai_%284%29.jpg/200px-View_from_Burj_Khalifah%2C_Dubai_%284%29.jpg,Dubai,United Arab Emirates,1214.0,72.0,2017.0
+56,56.0,Haitian Center Tower 2,https://images.skyscrapercenter.com/building/Haitian-Center-Tower-2-1587537292325.JPG,Qingdao,China,1211.0,72.0,2020.0
+57,57.0,Golden Eagle Tiandi Tower A,https://images.skyscrapercenter.com/building/Golden-Eagle-Tiandi-Tower-A-Lester-Ali-1574810108204.jpg,Nanjing,China,1208.0,76.0,2018.0
+58,58.0,Bank of China Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HK_Bank_of_China_Tower_View.jpg/200px-HK_Bank_of_China_Tower_View.jpg,Hong Kong,China,1205.0,70.0,1990.0
+59,59.0,Bank of America Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OBP_-_Ext_-_42nd_East.jpg/200px-OBP_-_Ext_-_42nd_East.jpg,New York City,United States,1200.0,56.0,2009.0
+60,60.0,Vista Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chicago_20180830_%2818%29.jpg/200px-Chicago_20180830_%2818%29.jpg,Chicago,United States,1191.0,101.0,2019.0
+61,61.0,Almas Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aerial_View_of_Jumeirah_Lakes_Towers.jpg/200px-Aerial_View_of_Jumeirah_Lakes_Towers.jpg,Dubai,United Arab Emirates,1181.0,68.0,2017.0
+62,62.0,Hanking Center,https://www.archute.com/wp-content/uploads/2016/06/HCT_RE_FULL-TOWER_FINAL-1.jpg,Shenzhen,China,1177.0,65.0,2017.0
+63,63.0,Gevora Hotel,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gevora_Hotel.jpg/200px-Gevora_Hotel.jpg,Dubai,United Arab Emirates,1169.0,75.0,2012.0
+64,64.0,JW Marriott Marquis Dubai Tower 1,https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/JW_Marriott_Marquis_Dubai2.jpg/200px-JW_Marriott_Marquis_Dubai2.jpg,Dubai,United Arab Emirates,1166.0,82.0,2012.0
+65,65.0,JW Marriott Marquis Dubai Tower 2,https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/JW_Marriott_Marquis_Dubai2.jpg/200px-JW_Marriott_Marquis_Dubai2.jpg,Dubai,United Arab Emirates,1166.0,82.0,2012.0
+66,66.0,Emirates Office Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emirates_Towers_in_Dubai_at_dawn.jpg/200px-Emirates_Towers_in_Dubai_at_dawn.jpg,Dubai,United Arab Emirates,1163.0,54.0,2000.0
+67,67.0,Raffles City Chongqing T3N,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2018%E5%B9%B47%E6%9C%88%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E9%87%8D%E5%BA%86%E6%9D%A5%E7%A6%8F%E5%A3%AB%E5%B9%BF%E5%9C%BA.jpg/200px-2018%E5%B9%B47%E6%9C%88%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E9%87%8D%E5%BA%86%E6%9D%A5%E7%A6%8F%E5%A3%AB%E5%B9%BF%E5%9C%BA.jpg,Chongqing,China,1163.0,79.0,2018.0
+68,68.0,Raffles City Chongqing T4N,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2018%E5%B9%B47%E6%9C%88%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E9%87%8D%E5%BA%86%E6%9D%A5%E7%A6%8F%E5%A3%AB%E5%B9%BF%E5%9C%BA.jpg/200px-2018%E5%B9%B47%E6%9C%88%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E9%87%8D%E5%BA%86%E6%9D%A5%E7%A6%8F%E5%A3%AB%E5%B9%BF%E5%9C%BA.jpg,Chongqing,China,1163.0,79.0,2019.0
+69,69.0,OKO Tower - South Tower,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Oko_towers_in_2016%2C_Moscow.jpg/200px-Oko_towers_in_2016%2C_Moscow.jpg,Moscow,Russia,1160.0,85.0,2015.0
+70,70.0,The Marina Torch,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marina_Torch%2C_Dubai.jpg/200px-Marina_Torch%2C_Dubai.jpg,Dubai,United Arab Emirates,1155.0,86.0,2011.0
+71,71.0,Forum 66 Tower 1,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Forum_66%2C_Shenyang%2C_Oct2014.png/200px-Forum_66%2C_Shenyang%2C_Oct2014.png,Shenyang,China,1150.0,68.0,2015.0
+72,72.0,The Pinnacle,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Pinnacle_%28Guangzhou%2C_China%29_indexxrus.JPG/200px-The_Pinnacle_%28Guangzhou%2C_China%29_indexxrus.JPG,Guangzhou,China,1149.0,60.0,2012.0
+73,73.0,Xi An Glory International Financial Center,https://images.skyscrapercenter.com/building/ifc_jangho-group1.jpg,Xian,China,1148.0,75.0,2017.0

@@ -16,6 +16,7 @@ Main section information.
   - [1.1. Main Notes](#11-main-notes)
     - [1.1.1. Table of Contents](#111-table-of-contents)
     - [1.1.2. Introduction](#112-introduction)
+      - [World Factbook Edit](#world-factbook-edit)
     - [1.1.3. Features](#113-features)
     - [1.1.4. Usage](#114-usage)
   - [1.2. Other Information](#12-other-information)
@@ -29,17 +30,20 @@ Main section information.
 
 ### 1.1.2. Introduction
 
-This is a cleaner interface for the access of the CIA world factbook.
+This is a knowledge base of information about the world.
 
-It is currently (12/24/21) using the version 2020 found at [https://www.cia.gov/the-world-factbook/about/archives/](https://www.cia.gov/the-world-factbook/about/archives/).
+It contains many datasets and tables. It also has the CIA World Factbook, and easy access to each page.
+
+#### World Factbook Edit
+
+It is currently (1/6/22) using the version 2020 found at
+[https://www.cia.gov/the-world-factbook/about/archives/](https://www.cia.gov/the-world-factbook/about/archives/).
 
 __N.B. THIS DOES NOT MODIFY THE ACTUAL CONTENT OF THE WORLDFACTBOOK.__
 
 The intention of this project is to simply provide a simple way to open and access the documents provided by the CIA.
 
 This also provides all of the original documents, in the ["old"](src/countries/old/) folder.
-
-This is a work in progress, so please be patient and feel free to create a pull request if you feel something is lacking.
 
 ### 1.1.3. Features
 
@@ -77,6 +81,8 @@ Other useful notes about the FactBook.
 - [Monster0506](https://github.com/Monster0506)
 - [Water.css](https://watercss.kognise.dev) [(github)](https://github.com/kognise/water.css)
 - [CIA Factbook](https://www.cia.gov/the-world-factbook)
+- [Code.org](https://code.org)
+- [OpenAI](https://openai.com)
 
 ### 1.2.3. TODO
 
@@ -96,11 +102,13 @@ See [LICENSE](LICENSE) for more information.
 
 ### 1.2.5. Modifications/Contributions
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information. Also, follow the [Code of Conduct](#125-code-of-conduct).
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information. Also, follow the
+[Code of Conduct](#125-code-of-conduct).
 
 ### 1.2.6. Code of Conduct
 
-Although this is a community effort, we take inclusiveness very seriously, and we ask that you follow the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
+Although this is a community effort, we take inclusiveness very seriously, and we ask that you follow the
+[Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
 
 ### 1.2.7. Contributors
 

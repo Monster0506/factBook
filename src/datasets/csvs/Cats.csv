@@ -1,0 +1,68 @@
+id,Name,Minimum Life Span,Maximum Life Span,Minimum Weight,Maximum Weight,Temperament,Origin,Image
+1,Abyssinian,14.0,15.0,7.0,10.0,"Active, Energetic, Independent, Intelligent, Gentle",Egypt,https://cdn2.thecatapi.com/images/unPP08xOZ.jpg
+2,Aegean,9.0,12.0,7.0,10.0,"Affectionate, Social, Intelligent, Playful, Active",Greece,https://cdn2.thecatapi.com/images/h19-vtIeX.jpg
+3,American Bobtail,11.0,15.0,7.0,16.0,"Intelligent, Interactive, Lively, Playful, Sensitive",United States,https://cdn2.thecatapi.com/images/gVrhv_yAY.jpg
+4,American Curl,12.0,16.0,5.0,10.0,"Affectionate, Curious, Intelligent, Interactive, Lively, Playful, Social",United States,https://cdn2.thecatapi.com/images/zeKI28A21.jpg
+5,American Shorthair,15.0,17.0,8.0,15.0,"Active, Curious, Easy Going, Playful, Calm",United States,https://cdn2.thecatapi.com/images/JFPROfGtQ.jpg
+6,American Wirehair,14.0,18.0,8.0,15.0,"Affectionate, Curious, Gentle, Intelligent, Interactive, Lively, Loyal, Playful, Sensible, Social",United States,https://cdn2.thecatapi.com/images/Q6TDnfM_O.jpg
+7,Arabian Mau,12.0,14.0,8.0,16.0,"Affectionate, Agile, Curious, Independent, Playful, Loyal",United Arab Emirates,https://cdn2.thecatapi.com/images/mnD88Lsjd.jpg
+8,Australian Mist,12.0,16.0,7.0,15.0,"Lively, Social, Fun-loving, Relaxed, Affectionate",Australia,https://cdn2.thecatapi.com/images/weHGBmpb0.jpg
+9,Balinese,10.0,15.0,4.0,10.0,"Affectionate, Intelligent, Playful",United States,https://cdn2.thecatapi.com/images/DBmIBhhyv.jpg
+10,Bambino,12.0,14.0,4.0,9.0,"Affectionate, Lively, Friendly, Intelligent",United States,https://cdn2.thecatapi.com/images/MizM7dBMU.jpg
+11,Bengal,12.0,15.0,6.0,12.0,"Alert, Agile, Energetic, Demanding, Intelligent",United States,https://cdn2.thecatapi.com/images/bz15V3Kvg.jpg
+12,Birman,14.0,15.0,6.0,15.0,"Affectionate, Active, Gentle, Social",France,https://cdn2.thecatapi.com/images/TzyZJUeIM.jpg
+13,Bombay,12.0,16.0,6.0,11.0,"Affectionate, Dependent, Gentle, Intelligent, Playful",United States,https://cdn2.thecatapi.com/images/5iYq9NmT1.jpg
+14,British Longhair,12.0,14.0,8.0,18.0,"Affectionate, Easy Going, Independent, Intelligent, Loyal, Social",United Kingdom,https://cdn2.thecatapi.com/images/re7uO34hz.jpg
+15,British Shorthair,12.0,17.0,12.0,20.0,"Affectionate, Easy Going, Gentle, Loyal, Patient, calm",United Kingdom,https://cdn2.thecatapi.com/images/utX9jo5EO.jpg
+16,Burmese,15.0,16.0,6.0,12.0,"Curious, Intelligent, Gentle, Social, Interactive, Playful, Lively",Burma,https://cdn2.thecatapi.com/images/hj7Oh-SRY.jpg
+17,Burmilla,10.0,15.0,6.0,13.0,"Easy Going, Friendly, Intelligent, Lively, Playful, Social",United Kingdom,https://cdn2.thecatapi.com/images/J4Jv10E7O.jpg
+18,California Spangled,10.0,14.0,10.0,15.0,"Affectionate, Curious, Intelligent, Loyal, Social",United States,https://cdn2.thecatapi.com/images/B1ERTmgph.jpg
+19,Chantilly-Tiffany,14.0,16.0,7.0,12.0,"Affectionate, Demanding, Interactive, Loyal",United States,https://cdn2.thecatapi.com/images/E4j4aBDx9.jpg
+20,Chartreux,12.0,15.0,6.0,15.0,"Affectionate, Loyal, Intelligent, Social, Lively, Playful",France,https://cdn2.thecatapi.com/images/K3eHRIQXM.jpg
+21,Chausie,12.0,14.0,7.0,15.0,"Affectionate, Intelligent, Playful, Social",Egypt,https://cdn2.thecatapi.com/images/r0s90j0I8.jpg
+22,Cheetoh,12.0,14.0,8.0,15.0,"Affectionate, Gentle, Intelligent, Social",United States,https://cdn2.thecatapi.com/images/BjIppqbNI.jpg
+23,Colorpoint Shorthair,12.0,16.0,4.0,10.0,"Affectionate, Intelligent, Playful, Social",United States,https://cdn2.thecatapi.com/images/1nOZPY4uI.jpg
+24,Cornish Rex,11.0,14.0,5.0,9.0,"Affectionate, Intelligent, Active, Curious, Playful",United Kingdom,https://cdn2.thecatapi.com/images/DmP9GCClC.jpg
+25,Cymric,8.0,14.0,8.0,13.0,"Gentle, Loyal, Intelligent, Playful",Canada,https://cdn2.thecatapi.com/images/OLP-tyC2i.jpg
+26,Cyprus,12.0,15.0,8.0,16.0,"Affectionate, Social",Cyprus,https://cdn2.thecatapi.com/images/tJbzb7FKo.jpg
+27,Devon Rex,10.0,15.0,5.0,10.0,"Highly interactive, Mischievous, Loyal, Social, Playful",United Kingdom,https://cdn2.thecatapi.com/images/uUGt0UBzF.jpg
+28,Donskoy,12.0,15.0,10.0,12.0,"Playful, affectionate, loyal, social",Russia,https://cdn2.thecatapi.com/images/Z9zxhFVdw.jpg
+29,Dragon Li,12.0,15.0,9.0,12.0,"Intelligent, Friendly, Gentle, Loving, Loyal",China,https://cdn2.thecatapi.com/images/xYLoht4o_.jpg
+30,Egyptian Mau,18.0,20.0,6.0,14.0,"Agile, Dependent, Gentle, Intelligent, Lively, Loyal, Playful",Egypt,https://cdn2.thecatapi.com/images/Y2MO5GWHO.jpg
+31,European Burmese,10.0,15.0,7.0,14.0,"Sweet, Affectionate, Loyal",Burma,https://cdn2.thecatapi.com/images/GI062lGTf.png
+32,Exotic Shorthair,12.0,15.0,7.0,14.0,"Affectionate, Sweet, Loyal, Quiet, Peaceful",United States,https://cdn2.thecatapi.com/images/s_SbQ3Xju.jpg
+33,Havana Brown,10.0,15.0,6.0,10.0,"Affectionate, Curious, Demanding, Friendly, Intelligent, Playful",United Kingdom,https://cdn2.thecatapi.com/images/gLfmOKHCA.jpg
+34,Himalayan,9.0,15.0,7.0,14.0,"Dependent, Gentle, Intelligent, Quiet, Social",United States,https://cdn2.thecatapi.com/images/lZOJKmkxY.jpg
+35,Japanese Bobtail,14.0,16.0,5.0,10.0,"Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social",Japan,https://cdn2.thecatapi.com/images/86jwAC0vv.jpg
+36,Javanese,10.0,12.0,5.0,10.0,"Active, Devoted, Intelligent, Playful",United States,https://cdn2.thecatapi.com/images/tZYP8bcem.jpg
+37,Khao Manee,10.0,12.0,8.0,12.0,"Calm, Relaxed, Talkative, Playful, Warm",Thailand,https://cdn2.thecatapi.com/images/iyFN2mF8l.jpg
+38,Korat,10.0,15.0,7.0,11.0,"Active, Loyal, highly intelligent, Expressive, Trainable",Thailand,https://cdn2.thecatapi.com/images/CWGNkdpA7.jpg
+39,Kurilian,15.0,20.0,8.0,15.0,"Independent, highly intelligent, clever, inquisitive, sociable, playful, trainable",Russia,https://cdn2.thecatapi.com/images/NZpO4pU56M.jpg
+40,LaPerm,10.0,15.0,6.0,10.0,"Affectionate, Friendly, Gentle, Intelligent, Playful, Quiet",Thailand,https://cdn2.thecatapi.com/images/VYfvpfuU7.jpg
+41,Maine Coon,12.0,15.0,12.0,18.0,"Adaptable, Intelligent, Loving, Gentle, Independent",United States,https://cdn2.thecatapi.com/images/6JCuKEGDQ.jpg
+42,Malayan,12.0,18.0,6.0,13.0,"Affectionate, Interactive, Playful, Social",United Kingdom,https://cdn2.thecatapi.com/images/vPOdKNqUm.jpg
+43,Manx,12.0,14.0,7.0,13.0,"Easy Going, Intelligent, Loyal, Playful, Social",Isle of Man,https://cdn2.thecatapi.com/images/fhYh2PDcC.jpg
+44,Munchkin,10.0,15.0,5.0,9.0,"Agile, Easy Going, Intelligent, Playful",United States,https://cdn2.thecatapi.com/images/W3fUcHI8z.jpg
+45,Nebelung,11.0,16.0,7.0,11.0,"Gentle, Quiet, Shy, Playful",United States,https://cdn2.thecatapi.com/images/xObEK7X1-.jpg
+46,Norwegian Forest Cat,12.0,16.0,8.0,16.0,"Sweet, Active, Intelligent, Social, Playful, Lively, Curious",Norway,https://cdn2.thecatapi.com/images/BtoHr0-4b.jpg
+47,Ocicat,12.0,14.0,7.0,15.0,"Active, Agile, Curious, Demanding, Friendly, Gentle, Lively, Playful, Social",United States,https://cdn2.thecatapi.com/images/NZ_C9Edot.jpg
+48,Oriental,12.0,14.0,5.0,10.0,"Energetic, Affectionate, Intelligent, Social, Playful, Curious",United States,https://cdn2.thecatapi.com/images/0Z9FWHLuK.jpg
+49,Persian,14.0,15.0,9.0,14.0,"Affectionate, loyal, Sedate, Quiet",Iran (Persia),https://cdn2.thecatapi.com/images/d_RzH-Zft.jpg
+50,Pixie-bob,13.0,16.0,8.0,17.0,"Affectionate, Social, Intelligent, Loyal",United States,https://cdn2.thecatapi.com/images/UFao82MoD.jpg
+51,Ragamuffin,12.0,16.0,8.0,20.0,"Affectionate, Friendly, Gentle, Calm",United States,https://cdn2.thecatapi.com/images/trgTS8szc.jpg
+52,Ragdoll,12.0,17.0,12.0,20.0,"Affectionate, Friendly, Gentle, Quiet, Easygoing",United States,https://cdn2.thecatapi.com/images/nqS9tUT3i.jpg
+53,Russian Blue,10.0,16.0,5.0,11.0,"Active, Dependent, Easy Going, Gentle, Intelligent, Loyal, Playful, Quiet",Russia,https://cdn2.thecatapi.com/images/iPMgEn50-.jpg
+54,Savannah,17.0,20.0,8.0,25.0,"Curious, Social, Intelligent, Loyal, Outgoing, Adventurous, Affectionate",United States,https://cdn2.thecatapi.com/images/yKXeUMNZ8.jpg
+55,Scottish Fold,11.0,14.0,5.0,11.0,"Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving",United Kingdom,https://cdn2.thecatapi.com/images/6P42aYVha.jpg
+56,Selkirk Rex,14.0,15.0,6.0,16.0,"Active, Affectionate, Dependent, Gentle, Patient, Playful, Quiet, Social",United States,https://cdn2.thecatapi.com/images/enV_ZqSpp.jpg
+57,Siamese,12.0,15.0,8.0,15.0,"Active, Agile, Clever, Sociable, Loving, Energetic",Thailand,https://cdn2.thecatapi.com/images/kjKxmn3Ob.jpg
+58,Siberian,12.0,15.0,8.0,16.0,"Curious, Intelligent, Loyal, Sweet, Agile, Playful, Affectionate",Russia,https://cdn2.thecatapi.com/images/bvG8QGrnU.jpg
+59,Singapura,12.0,15.0,5.0,8.0,"Affectionate, Curious, Easy Going, Intelligent, Interactive, Lively, Loyal",Singapore,https://cdn2.thecatapi.com/images/_PH33O5FA.jpg
+60,Snowshoe,14.0,19.0,7.0,12.0,"Affectionate, Social, Intelligent, Sweet-tempered",United States,https://cdn2.thecatapi.com/images/9cbCzlbJt.jpg
+61,Somali,12.0,16.0,6.0,12.0,"Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal",Somalia,https://cdn2.thecatapi.com/images/f0UR7b5nA.jpg
+62,Sphynx,12.0,14.0,6.0,12.0,"Loyal, Inquisitive, Friendly, Quiet, Gentle",Canada,https://cdn2.thecatapi.com/images/J-vpF8e1N.jpg
+63,Tonkinese,14.0,16.0,6.0,12.0,"Curious, Intelligent, Social, Lively, Outgoing, Playful, Affectionate",Canada,https://cdn2.thecatapi.com/images/o0eqzDky9.jpg
+64,Toyger,12.0,15.0,7.0,15.0,"Playful, Social, Intelligent",United States,https://cdn2.thecatapi.com/images/Ba-qRZ_8n.jpg
+65,Turkish Angora,15.0,18.0,5.0,10.0,"Affectionate, Agile, Clever, Gentle, Intelligent, Playful, Social",Turkey,https://cdn2.thecatapi.com/images/Yx3nQTUHu.jpg
+66,Turkish Van,12.0,17.0,7.0,20.0,"Agile, Intelligent, Loyal, Playful, Energetic",Turkey,https://cdn2.thecatapi.com/images/AhN6mXcc3.jpg
+67,York Chocolate,13.0,15.0,12.0,18.0,"Playful, Social, Intelligent, Curious, Friendly",United States,https://cdn2.thecatapi.com/images/y9e6zClik.jpg

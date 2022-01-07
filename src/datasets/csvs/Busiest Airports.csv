@@ -1,0 +1,351 @@
+id,Rank,Year,Airport,Airport Code,Location,Country,Total Passengers
+1,1.0,2016.0,Hartsfield–Jackson Atlanta International Airport,ATL,"Atlanta, Georgia",United States,104171935.0
+2,2.0,2016.0,Beijing Capital International Airport,PEK,"Chaoyang-Shunyi, Beijing",China,94393454.0
+3,3.0,2016.0,Dubai International Airport,DXB,"Garhoud, Dubai",United Arab Emirates,83654250.0
+4,4.0,2016.0,Los Angeles International Airport,LAX,"Los Angeles, California",United States,80921527.0
+5,5.0,2016.0,Tokyo International Airport,HND,"Ota, Tokyo",Japan,79699762.0
+6,6.0,2016.0,O'Hare International Airport,ORD,"Chicago, Illinois",United States,78327479.0
+7,7.0,2016.0,Heathrow Airport,LHR,"Hillingdon, London",United Kingdom,75715474.0
+8,8.0,2016.0,Hong Kong International Airport,HKG,"Chek Lap Kok, Hong Kong",China,70314462.0
+9,9.0,2016.0,Shanghai Pudong International Airport,PVG,"Pudong, Shanghai",China,66002414.0
+10,10.0,2016.0,Charles de Gaulle Airport,CDG,"Paris (Roissy-en-France), Île-de-France",France,65933145.0
+11,11.0,2016.0,Dallas/Fort Worth International Airport,DFW,"Dallas-Fort Worth, Texas",United States,65670697.0
+12,12.0,2016.0,Amsterdam Airport Schiphol,AMS,"Haarlemmermeer, North Holland",The Netherlands,63625534.0
+13,13.0,2016.0,Frankfurt Airport,FRA,"Frankfurt, Hesse",Germany,60786937.0
+14,14.0,2016.0,Istanbul Atatürk Airport,IST,"Yesilköy, Istanbul",Turkey,60248741.0
+15,15.0,2016.0,Guangzhou Baiyun International Airport,CAN,"Baiyun-Huadu, Guangzhou, Guangdong",China,59732147.0
+16,16.0,2016.0,John F. Kennedy International Airport,JFK,"Queens, New York City, New York",United States,58813103.0
+17,17.0,2016.0,Singapore Changi Airport,SIN,"Changi, Singapore",Singapore,58698000.0
+18,18.0,2016.0,Denver International Airport,DEN,"Denver, Colorado",United States,58266515.0
+19,19.0,2016.0,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,57849814.0
+20,20.0,2016.0,Suvarnabhumi Airport,BKK,"Bang Phli, Samut Prakan",Thailand,55892428.0
+21,21.0,2016.0,Indira Gandhi International Airport,DEL,Delhi,India,55631385.0
+22,22.0,2016.0,Soekarno–Hatta International Airport,CGK,"Benda, Tangerang, Banten",Indonesia,54969536.0
+23,23.0,2016.0,San Francisco International Airport,SFO,"San Mateo County, California",United States,53099282.0
+24,24.0,2016.0,Kuala Lumpur International Airport,KUL,"Sepang, Selangor",Malaysia,52640043.0
+25,25.0,2016.0,Madrid Barajas Airport,MAD,"Barajas, Madrid",Spain,50397928.0
+26,26.0,2016.0,McCarran International Airport,LAS,"Las Vegas, Nevada",United States,47496614.0
+27,27.0,2016.0,Chengdu Shuangliu International Airport,CTU,"Shuangliu-Wuhou, Chengdu, Sichuan",China,46039137.0
+28,28.0,2016.0,Seattle-Tacoma International Airport,SEA,"SeaTac, Washington",United States,45736700.0
+29,29.0,2016.0,Chhatrapati Shivaji International Airport,BOM,"Mumbai, Maharashtra",India,44680555.0
+30,30.0,2016.0,Miami International Airport,MIA,"Miami-Dade County, Florida",United States,44584603.0
+31,31.0,2016.0,Charlotte Douglas International Airport,CLT,"Charlotte, North Carolina",United States,44422022.0
+32,32.0,2016.0,Toronto Pearson International Airport,YYZ,"Mississauga, Ontario",Canada,44335198.0
+33,33.0,2016.0,Barcelona–El Prat Airport,BCN,"El Prat, Catalonia",Spain,44131031.0
+34,34.0,2016.0,Phoenix Sky Harbor International Airport,PHX,"Phoenix, Arizona",United States,43302381.0
+35,35.0,2016.0,Gatwick Airport,LGW,"Crawley, West Sussex",United Kingdom,43136795.0
+36,36.0,2016.0,Taiwan Taoyuan International Airport,TPE,"Dayuan, Taoyuan",Taiwan,42296322.0
+37,37.0,2016.0,Munich Airport,MUC,"Freising, Bavaria",Germany,42261309.0
+38,38.0,2016.0,Sydney Kingsford-Smith Airport,SYD,"Mascot, Sydney, New South Wales",Australia,41985810.0
+39,39.0,2016.0,Kunming Changshui International Airport,KMG,"Guandu, Kunming, Yunnan",China,41980515.0
+40,40.0,2016.0,Shenzhen Bao'an International Airport,SZX,"Bao'an, Shenzhen, Guangdong",China,41975090.0
+41,41.0,2016.0,Orlando International Airport,MCO,"Orlando, Florida",United States,41923399.0
+42,42.0,2016.0,Leonardo da Vinci–Fiumicino Airport,FCO,"Fiumicino, Lazio",Italy,41738662.0
+43,43.0,2016.0,George Bush Intercontinental Airport,IAH,"Houston, Texas",United States,41622594.0
+44,44.0,2016.0,Benito Juárez International Airport,MEX,"Venustiano Carranza, Mexico City",Mexico,41410254.0
+45,45.0,2016.0,Shanghai Hongqiao International Airport,SHA,"Changning-Minhang, Shanghai",China,40460135.0
+46,46.0,2016.0,Newark Liberty International Airport,EWR,"Newark, New Jersey",United States,40289969.0
+47,47.0,2016.0,Ninoy Aquino International Airport,MNL,"Pasay/Parañaque, Metro Manila",Philippines,39534991.0
+48,48.0,2016.0,Narita International Airport,NRT,"Narita, Chiba",Japan,39000563.0
+49,49.0,2016.0,Minneapolis/St Paul International Airport,MSP,"St. Paul, Minnesota",United States,37413728.0
+50,50.0,2016.0,Hamad International Airport,DOH,Doha,Qatar,37283987.0
+51,1.0,2015.0,Hartsfield–Jackson Atlanta International Airport,ATL,"Atlanta, Georgia",United States,101491106.0
+52,2.0,2015.0,Beijing Capital International Airport,PEK,"Chaoyang-Shunyi, Beijing",China,89938628.0
+53,3.0,2015.0,Dubai International Airport,DXB,"Garhoud, Dubai",United Arab Emirates,78014841.0
+54,4.0,2015.0,O'Hare International Airport,ORD,"Chicago, Illinois",United States,76942493.0
+55,5.0,2015.0,Tokyo Haneda Airport,HND,"Ota, Tokyo",Japan,75316718.0
+56,6.0,2015.0,London Heathrow Airport,LHR,"Hillingdon, London",United Kingdom,74989795.0
+57,7.0,2015.0,Los Angeles International Airport,LAX,"Los Angeles, California",United States,74937004.0
+58,8.0,2015.0,Hong Kong International Airport,HKG,"Chek Lap Kok, Hong Kong",China,68283407.0
+59,9.0,2015.0,Paris-Charles de Gaulle Airport,CDG,"Roissy-en-France, Île-de-France",France,65766986.0
+60,10.0,2015.0,Dallas/Fort Worth International Airport,DFW,"Dallas-Fort Worth, Texas",United States,65512163.0
+61,11.0,2015.0,Istanbul Atatürk Airport,IST,"Yesilköy, Istanbul",Turkey,61836781.0
+62,12.0,2015.0,Frankfurt Airport,FRA,"Frankfurt, Hesse",Germany,61032022.0
+63,13.0,2015.0,Shanghai Pudong International Airport,PVG,"Pudong, Shanghai",China,60053387.0
+64,14.0,2015.0,Amsterdam Airport Schiphol,AMS,"Haarlemmermeer, North Holland",The Netherlands,58284864.0
+65,15.0,2015.0,John F. Kennedy International Airport,JFK,"Queens, New York",United States,56827154.0
+66,16.0,2015.0,Singapore Changi Airport,SIN,Changi,Singapore,55449000.0
+67,17.0,2015.0,Guangzhou Baiyun International Airport,CAN,"Baiyun-Huadu, Guangzhou, Guangdong",China,55201915.0
+68,18.0,2015.0,Soekarno-Hatta International Airport,CGK,"Tangerang, Banten",Indonesia,54053905.0
+69,19.0,2015.0,Denver International Airport,DEN,"Denver, Colorado",United States,54014502.0
+70,20.0,2015.0,Suvarnabhumi Airport,BKK,"Bang Phli, Samut Prakan",Thailand,52808013.0
+71,21.0,2015.0,San Francisco International Airport,SFO,"San Mateo County, California",United States,50057887.0
+72,22.0,2015.0,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,49412750.0
+73,23.0,2015.0,Kuala Lumpur International Airport,KUL,"Sepang, Selangor",Malaysia,48938424.0
+74,24.0,2015.0,Madrid Barajas Airport,MAD,"Barajas, Madrid",Spain,46779554.0
+75,25.0,2015.0,Indira Gandhi International Airport,DEL,Delhi,India,45981773.0
+76,26.0,2015.0,McCarran International Airport,LAS,"Las Vegas, Nevada",United States,45356580.0
+77,27.0,2015.0,Charlotte Douglas International Airport,CLT,"Charlotte, North Carolina",United States,44876627.0
+78,28.0,2015.0,Miami International Airport,MIA,"Miami-Dade County, Florida",United States,44350247.0
+79,29.0,2015.0,Phoenix Sky Harbor International Airport,PHX,"Phoenix, Arizona",United States,44003840.0
+80,30.0,2015.0,George Bush Intercontinental Airport,IAH,"Houston, Texas",United States,43023224.0
+81,31.0,2015.0,Seattle-Tacoma International Airport,SEA,"SeaTac, Washington",United States,42340461.0
+82,32.0,2015.0,Chengdu Shuangliu International Airport,CTU,"Shuangliu-Wuhou, Chengdu, Sichuan",China,42244842.0
+83,33.0,2015.0,Toronto Pearson International Airport,YYZ,"Mississauga, Ontario",Canada,41036847.0
+84,34.0,2015.0,Munich Airport,MUC,"Freising, Bavaria",Germany,40981522.0
+85,35.0,2015.0,Chhatrapati Shivaji International Airport,BOM,"Mumbai, Maharashtra",India,40637377.0
+86,36.0,2015.0,Leonardo da Vinci–Fiumicino Airport,FCO,"Fiumicino, Lazio",Italy,40422156.0
+87,37.0,2015.0,London Gatwick Airport,LGW,"Crawley, West Sussex",United Kingdom,40271343.0
+88,38.0,2015.0,Sydney Kingsford-Smith Airport,SYD,"Mascot, Sydney, New South Wales",Australia,39914103.0
+89,39.0,2015.0,Shenzhen Bao'an International Airport,SZX,"Bao'an, Shenzhen, Guangdong",China,39721619.0
+90,40.0,2015.0,Barcelona–El Prat Airport,BCN,Barcelona,Spain,39674095.0
+91,41.0,2015.0,São Paulo-Guarulhos International Airport,GRU,"Guarulhos, São Paulo",Brazil,39213865.0
+92,42.0,2015.0,Shanghai Hongqiao International Airport,SHA,"Changning-Minhang, Shanghai",China,39090699.0
+93,43.0,2015.0,Orlando International Airport,MCO,"Orlando, Florida",United States,38727749.0
+94,44.0,2015.0,Taiwan Taoyuan International Airport,TPE,"Dayuan, Taoyuan",Taiwan,38473333.0
+95,45.0,2015.0,Benito Juárez International Airport,MEX,"Venustiano Carranza, Mexico City",Mexico,38433288.0
+96,46.0,2015.0,Kunming Changshui International Airport,KMG,"Guandu, Kunming, Yunnan",China,37523345.0
+97,47.0,2015.0,Newark Liberty International Airport,EWR,"Newark, New Jersey",United States,37494704.0
+98,48.0,2015.0,Narita International Airport,NRT,"Narita, Chiba",Japan,37268307.0
+99,49.0,2015.0,Ninoy Aquino International Airport,MNL,"Pasay/Parañaque, Metro Manila",Philippines,36583459.0
+100,50.0,2015.0,Minneapolis/St Paul International Airport,MSP,"St. Paul, Minnesota",United States,36556281.0
+101,1.0,2014.0,Hartsfield–Jackson Atlanta International Airport,ATL,"Atlanta, Georgia",United States,96178899.0
+102,2.0,2014.0,Beijing Capital International Airport,PEK,"Chaoyang-Shunyi, Beijing",China,86128270.0
+103,3.0,2014.0,London Heathrow Airport,LHR,"Hillingdon, London",United Kingdom,73408489.0
+104,4.0,2014.0,Tokyo Haneda Airport,HND,"Ota, Tokyo",Japan,72826565.0
+105,5.0,2014.0,Los Angeles International Airport,LAX,"Los Angeles, California",United States,70663265.0
+106,6.0,2014.0,Dubai International Airport,DXB,"Garhoud, Dubai",United Arab Emirates,70475636.0
+107,7.0,2014.0,O'Hare International Airport,ORD,"Chicago, Illinois",United States,69999010.0
+108,8.0,2014.0,Paris-Charles de Gaulle Airport,CDG,"Roissy-en-France, Île-de-France",France,63813756.0
+109,9.0,2014.0,Dallas/Fort Worth International Airport,DFW,"Dallas-Fort Worth, Texas",United States,63554402.0
+110,10.0,2014.0,Hong Kong International Airport,HKG,"Chek Lap Kok, Hong Kong",China,63121786.0
+111,11.0,2014.0,Frankfurt Airport,FRA,"Frankfurt, Hesse",Germany,59566132.0
+112,12.0,2014.0,Soekarno-Hatta International Airport,CGK,"Cengkareng, Banten",Indonesia,57221169.0
+113,13.0,2014.0,Istanbul Atatürk Airport,IST,Istanbul,Turkey,56767108.0
+114,14.0,2014.0,Amsterdam Airport Schiphol,AMS,"Haarlemmermeer, North Holland",The Netherlands,54978023.0
+115,15.0,2014.0,Guangzhou Baiyun International Airport,CAN,"Baiyun-Huadu, Guangzhou, Guangdong",China,54780346.0
+116,16.0,2014.0,Singapore Changi Airport,SIN,Changi,Singapore,54093000.0
+117,17.0,2014.0,Denver International Airport,DEN,"Denver, Colorado",United States,53472514.0
+118,18.0,2014.0,John F. Kennedy International Airport,JFK,"Queens, New York, New York",United States,53254533.0
+119,19.0,2014.0,Shanghai Pudong International Airport,PVG,"Pudong, Shanghai",China,51687894.0
+120,20.0,2014.0,Kuala Lumpur International Airport,KUL,"Sepang, Selangor",Malaysia,48930409.0
+121,21.0,2014.0,San Francisco International Airport,SFO,"San Mateo County, California",United States,47114631.0
+122,22.0,2014.0,Suvarnabhumi Airport,BKK,"Bang Phli, Samut Prakan",Thailand,46423352.0
+123,23.0,2014.0,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,45662322.0
+124,24.0,2014.0,Charlotte Douglas International Airport,CLT,"Charlotte, North Carolina",United States,44279504.0
+125,25.0,2014.0,McCarran International Airport,LAS,"Las Vegas, Nevada",United States,42869517.0
+126,26.0,2014.0,Phoenix Sky Harbor International Airport,PHX,"Phoenix, Arizona",United States,42125212.0
+127,27.0,2014.0,Madrid Barajas Airport,MAD,"Barajas, Madrid",Spain,41822863.0
+128,28.0,2014.0,George Bush Intercontinental Airport,IAH,"Houston, Texas",United States,41239700.0
+129,29.0,2014.0,Miami International Airport,MIA,"Miami-Dade County, Florida",United States,40941879.0
+130,30.0,2014.0,São Paulo-Guarulhos International Airport,GRU,"Guarulhos, São Paulo",Brazil,39765714.0
+131,31.0,2014.0,Indira Gandhi International Airport,DEL,Delhi,India,39752819.0
+132,32.0,2014.0,Munich Airport,MUC,"Freising, Bavaria",Germany,39700515.0
+133,33.0,2014.0,Sydney Kingsford-Smith Airport,SYD,"Mascot, Sydney, New South Wales",Australia,38863380.0
+134,34.0,2014.0,Toronto Pearson International Airport,YYZ,"Mississauga, Ontario",Canada,38569088.0
+135,35.0,2014.0,Leonardo da Vinci–Fiumicino Airport,FCO,"Fiumicino, Lazio",Italy,38506467.0
+136,36.0,2014.0,London Gatwick Airport,LGW,"Crawley, West Sussex",United Kingdom,38105747.0
+137,37.0,2014.0,Shanghai Hongqiao International Airport,SHA,"Changning-Minhang, Shanghai",China,37971135.0
+138,38.0,2014.0,Chengdu Shuangliu International Airport,CTU,"Shuangliu-Wuhou, Chengdu, Sichuan",China,37712357.0
+139,39.0,2014.0,Barcelona–El Prat Airport,BCN,Barcelona,Spain,37540326.0
+140,40.0,2014.0,Seattle-Tacoma International Airport,SEA,"SeaTac, Washington",United States,37497941.0
+141,41.0,2014.0,Shenzhen Bao'an International Airport,SZX,"Bao'an, Shenzhen, Guangdong",China,36272701.0
+142,42.0,2014.0,Taiwan Taoyuan International Airport,TPE,"Dayuan, Taoyuan",Taiwan,35804465.0
+143,43.0,2014.0,Orlando International Airport,MCO,"Orlando, Florida",United States,35714091.0
+144,44.0,2014.0,Newark Liberty International Airport,EWR,"Newark, New Jersey",United States,35610759.0
+145,45.0,2014.0,Narita International Airport,NRT,"Narita, Chiba",Japan,35535206.0
+146,46.0,2014.0,Minneapolis/St Paul International Airport,MSP,"St. Paul, Minnesota",United States,35147083.0
+147,47.0,2014.0,Chhatrapati Shivaji International Airport,BOM,"Mumbai, Maharashtra",India,34993738.0
+148,48.0,2014.0,Benito Juárez International Airport,MEX,"Venustiano Carranza, Mexico City",Mexico,34255739.0
+149,49.0,2014.0,Ninoy Aquino International Airport,MNL,"Pasay/Parañaque, Metro Manila",Philippines,34015169.0
+150,50.0,2014.0,Domodedovo International Airport,DME,"Domodedovo, Moscow Oblast",Russia,33108047.0
+151,1.0,2013.0,Hartsfield–Jackson Atlanta International Airport,ATL,"Atlanta, Georgia",United States,94430785.0
+152,2.0,2013.0,Beijing Capital International Airport,PEK,"Chaoyang-Shunyi, Beijing",China,83712355.0
+153,3.0,2013.0,Heathrow Airport,LHR,"Hillingdon, London",United Kingdom,72368030.0
+154,4.0,2013.0,Tokyo Haneda Airport,HND,"Ota, Tokyo",Japan,68906636.0
+155,5.0,2013.0,O'Hare International Airport,ORD,"Chicago, Illinois",United States,66883271.0
+156,6.0,2013.0,Los Angeles International Airport,LAX,"Los Angeles, California",United States,66702252.0
+157,7.0,2013.0,Dubai International Airport,DXB,"Garhoud, Dubai",United Arab Emirates,66431533.0
+158,8.0,2013.0,Paris-Charles de Gaulle Airport,CDG,"Roissy-en-France, Île-de-France",France,62052917.0
+159,9.0,2013.0,Dallas/Fort Worth International Airport,DFW,"Dallas-Fort Worth, Texas",United States,60436266.0
+160,10.0,2013.0,Soekarno-Hatta International Airport,CGK,"Cengkareng, Tangerang, Banten",Indonesia,59701543.0
+161,11.0,2013.0,Hong Kong International Airport,HKG,"Chek Lap Kok, Hong Kong",China,59609414.0
+162,12.0,2013.0,Frankfurt Airport,FRA,"Frankfurt, Hesse",Germany,58036948.0
+163,13.0,2013.0,Singapore Changi Airport,SIN,Changi,Singapore,53726087.0
+164,14.0,2013.0,Amsterdam Schiphol Airport,AMS,"Haarlemmermeer, North Holland",Netherlands,52569250.0
+165,15.0,2013.0,Denver International Airport,DEN,"Denver, Colorado",United States,52556359.0
+166,16.0,2013.0,Guangzhou Baiyun International Airport,CAN,"Baiyun-Huadu, Guangzhou, Guangdong",China,52450262.0
+167,17.0,2013.0,Suvarnabhumi Airport,BKK,"Bang Phli, Samut Prakan",Thailand,51363451.0
+168,18.0,2013.0,Atatürk International Airport,IST,Istanbul,Turkey,51172626.0
+169,19.0,2013.0,John F. Kennedy International Airport,JFK,"Queens, New York, New York",United States,50413204.0
+170,20.0,2013.0,Kuala Lumpur International Airport,KUL,"Sepang, Selangor",Malaysia,47498157.0
+171,21.0,2013.0,Shanghai Pudong International Airport,PVG,"Pudong, Shanghai",China,47189849.0
+172,22.0,2013.0,San Francisco International Airport,SFO,"San Mateo County, California",United States,44944201.0
+173,23.0,2013.0,Charlotte Douglas International Airport,CLT,"Charlotte, North Carolina",United States,43456310.0
+174,24.0,2013.0,McCarran International Airport,LAS,"Las Vegas, Nevada",United States,41856787.0
+175,25.0,2013.0,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,41679758.0
+176,26.0,2013.0,Miami International Airport,MIA,"Miami-Dade County, Florida",United States,40563071.0
+177,27.0,2013.0,Phoenix Sky Harbor International Airport,PHX,"Phoenix, Arizona",United States,40318451.0
+178,28.0,2013.0,George Bush Intercontinental Airport,IAH,"Houston, Texas",United States,39865325.0
+179,29.0,2013.0,Madrid Barajas Airport,MAD,"Barajas, Madrid",Spain,39729027.0
+180,30.0,2013.0,Munich Airport,MUC,"Freising, Bavaria",Germany,38672644.0
+181,31.0,2013.0,Sydney Kingsford-Smith Airport,SYD,"Sydney, New South Wales",Australia,38254039.0
+182,32.0,2013.0,Indira Gandhi International Airport,DEL,Delhi,India,36712455.0
+183,33.0,2013.0,São Paulo-Guarulhos International Airport,GRU,"Guarulhos, São Paulo",Brazil,36460923.0
+184,34.0,2013.0,Leonardo da Vinci–Fiumicino Airport,FCO,"Fiumicino, Lazio",Italy,36165762.0
+185,35.0,2013.0,Toronto Pearson International Airport,YYZ,"Mississauga, Ontario",Canada,36037962.0
+186,36.0,2013.0,Shanghai Hongqiao International Airport,SHA,"Changning-Minhang, Shanghai",China,35599643.0
+187,37.0,2013.0,London Gatwick Airport,LGW,"Crawley, West Sussex",United Kingdom,35448590.0
+188,38.0,2013.0,Narita International Airport,NRT,"Narita, Chiba",Japan,35341341.0
+189,39.0,2013.0,Barcelona–El Prat Airport,BCN,Barcelona,Spain,35210735.0
+190,40.0,2013.0,Newark Liberty International Airport,EWR,"Newark, New Jersey",United States,35016236.0
+191,41.0,2013.0,Orlando International Airport,MCO,"Orlando, Florida",United States,34973645.0
+192,42.0,2013.0,Seattle-Tacoma International Airport,SEA,"SeaTac, Washington",United States,34824281.0
+193,43.0,2013.0,Minneapolis/St Paul International Airport,MSP,"St. Paul, Minnesota",United States,33870693.0
+194,44.0,2013.0,Chengdu Shuangliu International Airport,CTU,"Shuangliu-Wuhou, Chengdu, Sichuan",China,33445817.0
+195,45.0,2013.0,Ninoy Aquino International Airport,MNL,"Pasay/Parañaque, Metro Manila",Philippines,32856597.0
+196,46.0,2013.0,Detroit Metropolitan Wayne County Airport,DTW,"Detroit, Michigan",United States,32389544.0
+197,47.0,2013.0,Shenzhen Bao'an International Airport,SZX,"Bao'an, Shenzhen, Guangdong",China,32268457.0
+198,48.0,2013.0,Chhatrapati Shivaji International Airport,BOM,"Mumbai, Maharashtra",India,31940026.0
+199,49.0,2013.0,Benito Juárez International Airport,MEX,"Venustiano Carranza, Mexico City",Mexico,31534638.0
+200,50.0,2013.0,Domodedovo International Airport,DME,"Domodedovo, Moscow Oblast",Russia,30765078.0
+201,1.0,2012.0,Hartsfield–Jackson Atlanta International Airport,ATL,"Atlanta, Georgia",United States,94956643.0
+202,2.0,2012.0,Beijing Capital International Airport,PEK,"Chaoyang-Shunyi, Beijing",China,81929359.0
+203,3.0,2012.0,London Heathrow Airport,LHR,"Hillingdon, London",United Kingdom,70037417.0
+204,4.0,2012.0,Tokyo International Airport,HND,"Ota, Tokyo",Japan,67788722.0
+205,5.0,2012.0,O'Hare International Airport,ORD,"Chicago, Illinois",United States,66834931.0
+206,6.0,2012.0,Los Angeles International Airport,LAX,"Los Angeles, California",United States,63688121.0
+207,7.0,2012.0,Paris-Charles de Gaulle Airport,CDG,"Roissy-en-France, Île-de-France",France,61611934.0
+208,8.0,2012.0,Dallas-Fort Worth International Airport,DFW,"Dallas-Fort Worth, Texas",United States,58591842.0
+209,9.0,2012.0,Soekarno-Hatta International Airport,CGK,"Cengkareng, Tangerang, Banten",Indonesia,57730732.0
+210,10.0,2012.0,Dubai International Airport,DXB,"Garhoud, Dubai",United Arab Emirates,57684550.0
+211,11.0,2012.0,Frankfurt Airport,FRA,"Frankfurt, Hesse",Germany,57520001.0
+212,12.0,2012.0,Hong Kong International Airport,HKG,"Chek Lap Kok, Hong Kong",China,56064248.0
+213,13.0,2012.0,Denver International Airport,DEN,"Denver, Colorado",United States,53156278.0
+214,14.0,2012.0,Suvarnabhumi Airport,BKK,"Bang Phli, Samut Prakan",Thailand,53002328.0
+215,15.0,2012.0,Singapore Changi Airport,SIN,Changi,Singapore,51181804.0
+216,16.0,2012.0,Amsterdam Schiphol Airport,AMS,"Haarlemmermeer, North Holland",Netherlands,51035590.0
+217,17.0,2012.0,John F. Kennedy International Airport,JFK,"Queens, New York, New York",United States,49293587.0
+218,18.0,2012.0,Guangzhou Baiyun International Airport,CAN,"Baiyun-Huadu, Guangzhou, Guangdong",China,48548430.0
+219,19.0,2012.0,Madrid Barajas Airport,MAD,"Barajas, Madrid",Spain,45175501.0
+220,20.0,2012.0,Atatürk International Airport,IST,Istanbul,Turkey,44992420.0
+221,21.0,2012.0,Shanghai Pudong International Airport,PVG,"Pudong, Shanghai",China,44880164.0
+222,22.0,2012.0,San Francisco International Airport,SFO,"San Mateo County, California",United States,44431894.0
+223,23.0,2012.0,McCarran International Airport,LAS,"Las Vegas, Nevada",United States,41666527.0
+224,24.0,2012.0,Charlotte Douglas International Airport,CLT,"Charlotte, North Carolina",United States,41226035.0
+225,25.0,2012.0,Phoenix Sky Harbor International Airport,PHX,"Phoenix, Arizona",United States,40452009.0
+226,26.0,2012.0,George Bush Intercontinental Airport,IAH,"Houston, Texas",United States,40022736.0
+227,27.0,2012.0,Kuala Lumpur International Airport,KUL,"Sepang, Selangor",Malaysia,39887866.0
+228,28.0,2012.0,Miami International Airport,MIA,"Miami-Dade County, Florida",United States,39467444.0
+229,29.0,2012.0,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,39154375.0
+230,30.0,2012.0,Munich Airport,MUC,"Munich, Bavaria",Germany,38360604.0
+231,31.0,2012.0,Sydney Airport,SYD,"Sydney, New South Wales",Australia,37342798.0
+232,32.0,2012.0,Leonardo da Vinci-Fiumicino Airport,FCO,"Fiumicino, Rome",Italy,36980161.0
+233,33.0,2012.0,Orlando International Airport,MCO,"Orlando, Florida",United States,35214430.0
+234,34.0,2012.0,Barcelona Airport,BCN,"Barcelona, Catalonia",Spain,35131771.0
+235,35.0,2012.0,Toronto Pearson International Airport,YYZ,"Mississauga, Ontario",Canada,34912456.0
+236,36.0,2012.0,London Gatwick Airport,LGW,"Crawley, West Sussex",United Kingdom,34222405.0
+237,37.0,2012.0,Indira Gandhi International Airport,DEL,Delhi,India,34211608.0
+238,38.0,2012.0,Newark Liberty International Airport,EWR,"Newark, New Jersey",United States,33993962.0
+239,39.0,2012.0,Shanghai Hongqiao International Airport,SHA,"Changning-Minhang, Shanghai",China,33828726.0
+240,40.0,2012.0,Seattle-Tacoma International Airport,SEA,"SeaTac, Washington",United States,33219723.0
+241,41.0,2012.0,Minneapolis-Saint Paul International Airport,MSP,"Fort Snelling, Minnesota",United States,33125768.0
+242,42.0,2012.0,Narita International Airport,NRT,"Narita, Chiba",Japan,32874530.0
+243,43.0,2012.0,São Paulo-Guarulhos International Airport,GRU,"Guarulhos, São Paulo",Brazil,32477646.0
+244,44.0,2012.0,Detroit Metropolitan Wayne County Airport,DTW,"Detroit, Michigan",United States,32205358.0
+245,45.0,2012.0,Ninoy Aquino International Airport,MNL,"Pasay/Parañaque, Metro Manila",Philippines,31878935.0
+246,46.0,2012.0,Chengdu Shuangliu International Airport,CTU,"Shuangliu-Wuhou, Chengdu, Sichuan",China,31599353.0
+247,47.0,2012.0,Philadelphia International Airport,PHL,"Philadelphia, Pennsylvania",United States,30228596.0
+248,48.0,2012.0,Chhatrapati Shivaji International Airport,BOM,"Mumbai, Maharashtra",India,30038696.0
+249,49.0,2012.0,Shenzhen Bao'an International Airport,SZX,"Bao'an, Shenzhen, Guangdong",China,29569725.0
+250,50.0,2012.0,Tullamarine International Airport,MEL,"Melbourne, Victoria",Australia,29431084.0
+251,1.0,2011.0,Hartsfield–Jackson Atlanta International Airport,ATL,"Atlanta, Georgia",United States,92389023.0
+252,2.0,2011.0,Beijing Capital International Airport,PEK,"Chaoyang-Shunyi, Beijing",China,78675058.0
+253,3.0,2011.0,London Heathrow Airport,LHR,"Hillingdon, London",United Kingdom,69433565.0
+254,4.0,2011.0,O'Hare International Airport,ORD,"Chicago, Illinois",United States,66701241.0
+255,5.0,2011.0,Tokyo International Airport,HND,"Ota, Tokyo",Japan,62584826.0
+256,6.0,2011.0,Los Angeles International Airport,LAX,"Los Angeles, California",United States,61862052.0
+257,7.0,2011.0,Paris-Charles de Gaulle Airport,CDG,"Roissy-en-France, Île-de-France",France,60970551.0
+258,8.0,2011.0,Dallas-Fort Worth International Airport,DFW,"Dallas-Fort Worth, Texas",United States,57832495.0
+259,9.0,2011.0,Frankfurt Airport,FRA,"Frankfurt, Hesse",Germany,56436255.0
+260,10.0,2011.0,Hong Kong International Airport,HKG,"Chek Lap Kok, Hong Kong",China,53328613.0
+261,11.0,2011.0,Denver International Airport,DEN,"Denver, Colorado",United States,52849132.0
+262,12.0,2011.0,Soekarno-Hatta International Airport,CGK,"Cengkareng, Jakarta, Java",Indonesia,51533187.0
+263,13.0,2011.0,Dubai International Airport,DXB,"Garhoud, Dubai",United Arab Emirates,50977960.0
+264,14.0,2011.0,Amsterdam Schiphol Airport,AMS,"Haarlemmermeer, North Holland",Netherlands,49755252.0
+265,15.0,2011.0,Madrid Barajas Airport,MAD,"Barajas, Madrid",Spain,49653055.0
+266,16.0,2011.0,Suvarnabhumi Airport,BKK,"Bang Phli, Samut Prakan",Thailand,47910904.0
+267,17.0,2011.0,John F. Kennedy International Airport,JFK,"Queens, New York, New York",United States,47644060.0
+268,18.0,2011.0,Singapore Changi Airport,SIN,Changi,Singapore,46543845.0
+269,19.0,2011.0,Guangzhou Baiyun International Airport,CAN,"Baiyun-Huadu, Guangzhou, Guangdong",China,45040340.0
+270,20.0,2011.0,Shanghai Pudong International Airport,PVG,"Pudong, Shanghai",China,41447730.0
+271,21.0,2011.0,San Francisco International Airport,SFO,"San Mateo County, California",United States,40927786.0
+272,22.0,2011.0,Phoenix Sky Harbor International Airport,PHX,"Phoenix, Arizona",United States,40591948.0
+273,23.0,2011.0,McCarran International Airport,LAS,"Las Vegas, Nevada",United States,40560285.0
+274,24.0,2011.0,George Bush Intercontinental Airport,IAH,"Houston, Texas",United States,40128953.0
+275,25.0,2011.0,Charlotte Douglas International Airport,CLT,"Charlotte, North Carolina",United States,39043708.0
+276,26.0,2011.0,Miami International Airport,MIA,"Miami-Dade County, Florida",United States,38314389.0
+277,27.0,2011.0,Munich Airport,MUC,"Munich, Bavaria",Germany,37763701.0
+278,28.0,2011.0,Kuala Lumpur International Airport,KUL,"Sepang, Selangor",Malaysia,37704510.0
+279,29.0,2011.0,Leonardo da Vinci-Fiumicino Airport,FCO,"Fiumicino, Rome",Italy,37651222.0
+280,30.0,2011.0,Atatürk International Airport,IST,Istanbul,Turkey,37406025.0
+281,31.0,2011.0,Sydney Airport,SYD,"Sydney, New South Wales",Australia,36022614.0
+282,32.0,2011.0,Orlando International Airport,MCO,"Orlando, Florida",United States,35356991.0
+283,33.0,2011.0,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,35191825.0
+284,34.0,2011.0,Indira Gandhi International Airport,DEL,Delhi,India,34729467.0
+285,35.0,2011.0,Barcelona Airport,BCN,"Barcelona, Catalonia",Spain,34387597.0
+286,36.0,2011.0,London Gatwick Airport,LGW,"Crawley, West Sussex, England",United Kingdom,33668048.0
+287,37.0,2011.0,Newark Liberty International Airport,EWR,"Newark, New Jersey",United States,33577154.0
+288,38.0,2011.0,Toronto Pearson International Airport,YYZ,"Mississauga, Ontario",Canada,33434199.0
+289,39.0,2011.0,Shanghai Hongqiao International Airport,SHA,"Changning-Minhang, Shanghai",China,33112442.0
+290,40.0,2011.0,Minneapolis-Saint Paul International Airport,MSP,"Fort Snelling, Minnesota",United States,33074443.0
+291,41.0,2011.0,Seattle-Tacoma International Airport,SEA,"SeaTac, Washington",United States,32820060.0
+292,42.0,2011.0,Detroit Metropolitan Wayne County Airport,DTW,"Detroit, Michigan",United States,32419181.0
+293,43.0,2011.0,Philadelphia International Airport,PHL,"Philadelphia, Pennsylvania",United States,30839130.0
+294,44.0,2011.0,Chhatrapati Shivaji International Airport,BOM,"Mumbai, Maharashtra",India,30439122.0
+295,45.0,2011.0,São Paulo-Guarulhos International Airport,GRU,"Guarulhos, São Paulo",Brazil,30371131.0
+296,46.0,2011.0,Ninoy Aquino International Airport,MNL,"Pasay/Parañaque, Metro Manila",Philippines,29551394.0
+297,47.0,2011.0,Chengdu Shuangliu International Airport,CTU,"Shuangliu-Wuhou, Chengdu, Sichuan",China,29073990.0
+298,48.0,2011.0,Logan International Airport,BOS,"Boston, Massachusetts",United States,28866313.0
+299,49.0,2011.0,Shenzhen Bao'an International Airport,SZX,"Bao'an, Shenzhen, Guangdong",China,28245745.0
+300,50.0,2011.0,Melbourne Airport,MEL,"Melbourne, Victoria",Australia,28060111.0
+301,1.0,2010.0,Hartsfield–Jackson Atlanta International Airport,ATL,"Atlanta, Georgia",United States,89331622.0
+302,2.0,2010.0,Beijing Capital International Airport,PEK,"Chaoyang-Shunyi, Beijing",China,73948113.0
+303,3.0,2010.0,O'Hare International Airport,ORD,"Chicago, Illinois",United States,66774738.0
+304,4.0,2010.0,London Heathrow Airport,LHR,"Hillingdon, Greater London, England",United Kingdom,65884143.0
+305,5.0,2010.0,Tokyo International Airport,HND,"Ota, Tokyo",Japan,64211074.0
+306,6.0,2010.0,Los Angeles International Airport,LAX,"Los Angeles, California",United States,59070127.0
+307,7.0,2010.0,Paris-Charles de Gaulle Airport,CDG,"Roissy-en-France, Val d'Oise, Île-de-France",France,58167062.0
+308,8.0,2010.0,Dallas-Fort Worth International Airport,DFW,"Dallas-Fort Worth, Texas",United States,56906610.0
+309,9.0,2010.0,Frankfurt Airport,FRA,"Frankfurt, Hesse",Germany,53009221.0
+310,10.0,2010.0,Denver International Airport,DEN,"Denver, Colorado",United States,52209377.0
+311,11.0,2010.0,Hong Kong International Airport,HKG,"Chek Lap Kok, Hong Kong",China,50348960.0
+312,12.0,2010.0,Madrid-Barajas Airport,MAD,"Barajas, Madrid",Spain,49844596.0
+313,13.0,2010.0,Dubai International Airport,DXB,"Garhoud, Dubai",United Arab Emirates,47180628.0
+314,14.0,2010.0,John F. Kennedy International Airport,JFK,"Queens, New York, New York",United States,46514154.0
+315,15.0,2010.0,Amsterdam Airport Schiphol,AMS,"Haarlemmermeer, North Holland",Netherlands,45211749.0
+316,16.0,2010.0,Soekarno-Hatta International Airport,CGK,"Cengkareng, Jakarta, Java",Indonesia,44355998.0
+317,17.0,2010.0,Suvarnabhumi Airport,BKK,"Bang Phli, Samut Prakan",Thailand,42784967.0
+318,18.0,2010.0,Singapore Changi Airport,SIN,Changi,Singapore,42038777.0
+319,19.0,2010.0,Guangzhou Baiyun International Airport,CAN,"Baiyun-Huadu, Guangzhou, Guangdong",China,40975673.0
+320,20.0,2010.0,Shanghai Pudong International Airport,PVG,"Pudong, Shanghai",China,40578621.0
+321,21.0,2010.0,George Bush Intercontinental Airport,IAH,"Houston, Texas",United States,40479569.0
+322,22.0,2010.0,McCarran International Airport,LAS,"Las Vegas, Nevada",United States,39757359.0
+323,23.0,2010.0,San Francisco International Airport,SFO,"San Mateo County, California",United States,39253999.0
+324,24.0,2010.0,Phoenix Sky Harbor International Airport,PHX,"Phoenix, Arizona",United States,38554215.0
+325,25.0,2010.0,Charlotte Douglas International Airport,CLT,"Charlotte, North Carolina",United States,38254207.0
+326,26.0,2010.0,Leonardo da Vinci Airport,FCO,"Fiumicino, Rome",Italy,36227778.0
+327,27.0,2010.0,Sydney Airport,SYD,"Sydney, New South Wales",Australia,35991917.0
+328,28.0,2010.0,Miami International Airport,MIA,"Miami-Dade County, Florida",United States,35698025.0
+329,29.0,2010.0,Orlando International Airport,MCO,"Orlando, Florida",United States,34877899.0
+330,30.0,2010.0,Munich Airport,MUC,"Munich, Bavaria",Germany,34721605.0
+331,31.0,2010.0,Kuala Lumpur International Airport,KUL,"Sepang, Selangor",Malaysia,34087636.0
+332,32.0,2010.0,Narita International Airport,NRT,"Narita, Chiba",Japan,33815906.0
+333,33.0,2010.0,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,33605579.0
+334,34.0,2010.0,Newark Liberty International Airport,EWR,"Newark, New Jersey",United States,33133852.0
+335,35.0,2010.0,Minneapolis-Saint Paul International Airport,MSP,"Fort Snelling, Minnesota",United States,32749649.0
+336,36.0,2010.0,Detroit Metropolitan Wayne County Airport,DTW,"Detroit, Michigan",United States,32377064.0
+337,37.0,2010.0,Atatürk International Airport,IST,"Yesilköy, Istanbul",Turkey,32165817.0
+338,38.0,2010.0,Toronto Pearson International Airport,YYZ,"Mississauga, Ontario",Canada,31937895.0
+339,39.0,2010.0,Seattle-Tacoma International Airport,SEA,"SeaTac, Washington",United States,31553166.0
+340,40.0,2010.0,London Gatwick Airport,LGW,"Crawley, West Sussex, England",United Kingdom,31378644.0
+341,41.0,2010.0,Shanghai Hongqiao International Airport,SHA,"Changning-Minhang, Shanghai",China,31298812.0
+342,42.0,2010.0,Philadelphia International Airport,PHL,"Philadelphia, Pennsylvania",United States,30775271.0
+343,43.0,2010.0,Barcelona Airport,BCN,"Barcelona, Catalonia",Spain,29197135.0
+344,44.0,2010.0,Indira Gandhi International Airport,DEL,Delhi,India,28531607.0
+345,45.0,2010.0,Chhatrapati Shivaji International Airport,BOM,"Mumbai, Maharashtra",India,28137797.0
+346,46.0,2010.0,Melbourne Airport,MEL,"Melbourne, Victoria",Australia,27731252.0
+347,47.0,2010.0,São Paulo-Guarulhos International Airport,GRU,"Guarulhos, São Paulo",Brazil,27432346.0
+348,48.0,2010.0,Logan International Airport,BOS,"Boston, Massachusetts",United States,27429152.0
+349,49.0,2010.0,Ninoy Aquino International Airport,MNL,"Pasay/Parañaque, Metro Manila",Philippines,27148724.0
+350,50.0,2010.0,Shenzhen Bao'an International Airport,SZX,"Bao'an, Shenzhen, Guangdong",China,26713610.0

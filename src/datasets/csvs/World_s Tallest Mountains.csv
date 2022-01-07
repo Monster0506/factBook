@@ -1,0 +1,109 @@
+id,Rank,Mountain name,Height in m,Height in ft,Prominence in m,Range,Coordinates,Parent mountain,First ascent,Ascents (& failed attempts) as of 2004,Country
+1,1.0,Mount Everest,8848.0,29029.0,8848.0,Mahalangur Himalaya,27°59′17″N 86°55′31″E﻿ / ﻿27.98806°N 86.92528°E,none,1953.0,145 (121),"Nepal, China"
+2,2.0,K2,8611.0,28251.0,4020.0,Baltoro Karakoram,35°52′53″N 76°30′48″E﻿ / ﻿35.88139°N 76.51333°E,Mount Everest,1954.0,45 (44),"Pakistan, China"
+3,3.0,Kangchenjunga,8586.0,28169.0,3922.0,Kangchenjunga Himalaya,27°42′12″N 88°08′51″E﻿ / ﻿27.70333°N 88.14750°E *,Mount Everest,1955.0,38 (24),NepalIndia
+4,4.0,Lhotse,8516.0,27940.0,610.0,Mahalangur Himalaya,27°57′42″N 86°55′59″E﻿ / ﻿27.96167°N 86.93306°E,Mount Everest,1956.0,26 (26),"Nepal, China"
+5,5.0,Makalu,8485.0,27838.0,2378.0,Mahalangur Himalaya,27°53′23″N 87°05′20″E﻿ / ﻿27.88972°N 87.08889°E,Mount Everest,1955.0,45.0,"Nepal, China"
+6,6.0,Cho Oyu,8188.0,26864.0,2340.0,Mahalangur Himalaya,28°05′39″N 86°39′39″E﻿ / ﻿28.09417°N 86.66083°E,Mount Everest,1954.0,79 (28),"Nepal, China"
+7,7.0,Dhaulagiri I,8167.0,26795.0,3357.0,Dhaulagiri Himalaya,28°41′48″N 83°29′35″E﻿ / ﻿28.69667°N 83.49306°E,K2,1960.0,51 (39),Nepal
+8,8.0,Manaslu,8163.0,26781.0,3092.0,Manaslu Himalaya,28°33′00″N 84°33′35″E﻿ / ﻿28.55000°N 84.55972°E,Cho Oyu,1956.0,49 (45),Nepal
+9,9.0,Nanga Parbat,8126.0,26660.0,4608.0,Nanga Parbat Himalaya,35°14′14″N 74°35′21″E﻿ / ﻿35.23722°N 74.58917°E,Dhaulagiri,1953.0,52 (67),Pakistan
+10,10.0,Annapurna I,8091.0,26545.0,2984.0,Annapurna Himalaya,28°35′44″N 83°49′13″E﻿ / ﻿28.59556°N 83.82028°E,Cho Oyu,1950.0,36 (47),Nepal
+11,11.0,Gasherbrum I / Hidden Peak / K5,8080.0,26509.0,2155.0,Baltoro Karakoram,35°43′28″N 76°41′47″E﻿ / ﻿35.72444°N 76.69639°E,K2,1958.0,31 (16),"Pakistan, China"
+12,12.0,Broad Peak,8051.0,26414.0,1701.0,Baltoro Karakoram,35°48′38″N 76°34′06″E﻿ / ﻿35.81056°N 76.56833°E,Gasherbrum I,1957.0,39 (19),"Pakistan, China"
+13,13.0,Gasherbrum II / K4,8035.0,26362.0,1524.0,Baltoro Karakoram,35°45′28″N 76°39′12″E﻿ / ﻿35.75778°N 76.65333°E,Gasherbrum I,1956.0,54 (12),"Pakistan, China"
+14,14.0,Shishapangma / Gosainthān,8027.0,26335.0,2897.0,Jugal Himalaya,28°21′12″N 85°46′43″E﻿ / ﻿28.35333°N 85.77861°E,Cho Oyu,1964.0,43 (19),China
+15,15.0,Gyachung Kang,7952.0,26089.0,672.0,Mahalangur Himalaya,28°05′53″N 86°44′42″E﻿ / ﻿28.09806°N 86.74500°E,Cho Oyu,1964.0,5 (3),"Nepal, China"
+16,16.0,Annapurna II,7937.0,26040.0,2437.0,Annapurna Himalaya,28°32′05″N 84°07′19″E﻿ / ﻿28.53472°N 84.12194°E,Annapurna I,1960.0,6 (19),Nepal
+17,17.0,Gasherbrum IV / K3,7932.0,26024.0,712.0,Baltoro Karakoram,35°45′38″N 76°36′58″E﻿ / ﻿35.76056°N 76.61611°E,Gasherbrum III,1958.0,4 (11),Pakistan
+18,18.0,Himalchuli,7893.0,25896.0,1633.0,Manaslu Himalaya,28°26′12″N 84°38′23″E﻿ / ﻿28.43667°N 84.63972°E *,Manaslu,1960.0,6 (12),Nepal
+19,19.0,Distaghil Sar,7884.0,25866.0,2525.0,Hispar Karakoram,36°19′33″N 75°11′16″E﻿ / ﻿36.32583°N 75.18778°E,K2,1960.0,3 (5),Pakistan
+20,20.0,Ngadi Chuli,7871.0,25823.0,1011.0,Manaslu Himalaya,28°30′12″N 84°34′00″E﻿ / ﻿28.50333°N 84.56667°E,Manaslu,1979.0,1 (6),Nepal
+21,21.0,Khunyang Chhish,7823.0,25666.0,1765.0,Hispar Karakoram,36°12′19″N 75°12′28″E﻿ / ﻿36.20528°N 75.20778°E *,Distaghil Sar,1971.0,2 (6),Pakistan
+22,22.0,Masherbrum / K1,7821.0,25659.0,2457.0,Masherbrum Karakoram,35°38′28″N 76°18′21″E﻿ / ﻿35.64111°N 76.30583°E,Gasherbrum I,1960.0,4 (9),Pakistan
+23,23.0,Nanda Devi,7816.0,25643.0,3139.0,Garhwal Himalaya,30°22′33″N 79°58′15″E﻿ / ﻿30.37583°N 79.97083°E,Dhaulagiri,1936.0,14 (12),India
+24,24.0,Chomo Lonzo,7804.0,25604.0,590.0,Mahalangur Himalaya,27°55′50″N 87°06′28″E﻿ / ﻿27.93056°N 87.10778°E,Makalu,1954.0,3 (1),China
+25,25.0,Batura Sar,7795.0,25574.0,3118.0,Batura Karakoram,36°30′37″N 74°31′21″E﻿ / ﻿36.51028°N 74.52250°E,Distaghil Sar,1976.0,4 (6),Pakistan
+26,26.0,Rakaposhi,7788.0,25551.0,2818.0,Rakaposhi-Haramosh Karakoram,36°08′33″N 74°29′22″E﻿ / ﻿36.14250°N 74.48944°E,Khunyang Chhish,1958.0,8 (13),Pakistan
+27,27.0,Namcha Barwa,7782.0,25531.0,4106.0,Assam Himalaya,29°37′52″N 95°03′19″E﻿ / ﻿29.63111°N 95.05528°E,Kangchenjunga,1992.0,1 (2),China
+28,28.0,Kanjut Sar,7760.0,25459.0,1660.0,Hispar Karakoram,36°12′20″N 75°25′01″E﻿ / ﻿36.20556°N 75.41694°E,Khunyang Chhish,1959.0,2 (1),Pakistan
+29,29.0,Kamet,7756.0,25446.0,2825.0,Garhwal Himalaya,30°55′12″N 79°35′30″E﻿ / ﻿30.92000°N 79.59167°E *,Nanda Devi,1931.0,23 (14),India
+30,30.0,Dhaulagiri II,7751.0,25430.0,2397.0,Dhaulagiri Himalaya,28°45′46″N 83°23′18″E﻿ / ﻿28.76278°N 83.38833°E,Dhaulagiri,1971.0,4 (11),Nepal
+31,31.0,Saltoro Kangri / K10,7742.0,25400.0,2160.0,Saltoro Karakoram,35°23′57″N 76°50′53″E﻿ / ﻿35.39917°N 76.84806°E *,Gasherbrum I,1962.0,2 (1),"India, Pakistan"
+32,32.0,Kumbhakarna / Jannu,7711.0,25299.0,1036.0,Kangchenjunga Himalaya,27°40′56″N 88°02′40″E﻿ / ﻿27.68222°N 88.04444°E *,Kangchenjunga,1962.0,17 (12),Nepal
+33,33.0,Tirich Mir,7708.0,25289.0,3910.0,Hindu Kush,36°15′19″N 71°50′30″E﻿ / ﻿36.25528°N 71.84167°E *,Batura Sar,1950.0,20 (11),Pakistan
+34,34.0,Gurla Mandhata,7694.0,25243.0,2788.0,Nalakankar Himalaya,30°26′19″N 81°17′48″E﻿ / ﻿30.43861°N 81.29667°E,Dhaulagiri,1985.0,6 (4),China
+35,35.0,Saser Kangri I / K22,7672.0,25171.0,2304.0,Saser Karakoram,34°52′00″N 77°45′09″E﻿ / ﻿34.86667°N 77.75250°E,Gasherbrum I,1973.0,6 (4),India
+36,36.0,Chogolisa,7665.0,25148.0,1624.0,Masherbrum Karakoram,35°36′47″N 76°34′29″E﻿ / ﻿35.61306°N 76.57472°E,Gasherbrum I,1975.0,4 (2),Pakistan
+37,37.0,Kongur Tagh,7649.0,25095.0,3585.0,Kongur Shan (Eastern Pamirs),38°35′36″N 75°18′48″E﻿ / ﻿38.59333°N 75.31333°E,Distaghil Sar,1981.0,2 (4),China
+38,38.0,Shispare,7611.0,24970.0,1240.0,Batura Karakoram,36°26′26″N 74°40′51″E﻿ / ﻿36.44056°N 74.68083°E,Batura Sar,1974.0,3 (1),Pakistan
+39,39.0,Trivor,7577.0,24859.0,997.0,Hispar Karakoram,36°17′15″N 75°05′06″E﻿ / ﻿36.28750°N 75.08500°E *,Distaghil Sar,1960.0,2 (5),Pakistan
+40,40.0,Gangkhar Puensum,7570.0,24836.0,2995.0,Kula Kangri Himalaya,28°02′50″N 90°27′19″E﻿ / ﻿28.04722°N 90.45528°E *,Kangchenjunga,unclimbed,0 (3),"Bhutan, China"
+41,41.0,Gongga Shan / Minya Konka,7556.0,24790.0,3642.0,Daxue Mountains (Hengduan Shan),29°35′43″N 101°52′47″E﻿ / ﻿29.59528°N 101.87972°E,Mount Everest,1932.0,6 (7),China
+42,42.0,Annapurna III,7555.0,24787.0,703.0,Annapurna Himalaya,28°35′06″N 83°59′24″E﻿ / ﻿28.58500°N 83.99000°E,Annapurna I,1961.0,10 (17),Nepal
+43,43.0,Skyang Kangri,7545.0,24754.0,1085.0,Baltoro Karakoram,35°55′35″N 76°34′03″E﻿ / ﻿35.92639°N 76.56750°E,K2,1976.0,1 (2),"Pakistan, China"
+44,44.0,Changtse / Bei Pk,7543.0,24747.0,514.0,Mahalangur Himalaya,28°01′29″N 86°54′51″E﻿ / ﻿28.02472°N 86.91417°E,Mount Everest,1982.0,9 (9),China
+45,45.0,Kula Kangri,7538.0,24731.0,1654.0,Kula Kangri Himalaya,28°13′37″N 90°36′59″E﻿ / ﻿28.22694°N 90.61639°E,Gangkhar Puensum,1986.0,3 (2),"China, Bhutan"
+46,46.0,Kongur Tiube,7530.0,24705.0,840.0,Kongur Shan (Eastern Pamirs),38°36′57″N 75°11′45″E﻿ / ﻿38.61583°N 75.19583°E,Kongur Tagh,1956.0,2 (3),China
+47,47.0,Mamostong Kangri,7516.0,24659.0,1803.0,Rimo Karakoram,35°08′31″N 77°34′39″E﻿ / ﻿35.14194°N 77.57750°E,Gasherbrum I,1984.0,5 (0),India
+48,48.0,Saser Kangri II E,7513.0,24649.0,1458.0,Saser Karakoram,34°48′17″N 77°48′24″E﻿ / ﻿34.80472°N 77.80667°E,Saser Kangri I,2011.0,0 (0),India
+49,49.0,Muztagh Ata,7509.0,24636.0,2698.0,Muztagata (Eastern Pamirs),38°16′33″N 75°06′58″E﻿ / ﻿38.27583°N 75.11611°E,Kongur Tagh,1956.0,Many,China
+50,50.0,Ismoil Somoni Peak,7495.0,24590.0,3402.0,Pamir (Academy of Sciences Range),38°56′35″N 72°00′57″E﻿ / ﻿38.94306°N 72.01583°E,Muztagh Ata,1933.0,0 (0),Tajikistan
+51,51.0,Saser Kangri III,7495.0,24590.0,835.0,Saser Karakoram,34°50′44″N 77°47′06″E﻿ / ﻿34.84556°N 77.78500°E,Saser Kangri I,1986.0,1 (0),India
+52,52.0,Noshaq,7492.0,24580.0,2024.0,Hindu Kush,36°25′56″N 71°49′43″E﻿ / ﻿36.43222°N 71.82861°E,Tirich Mir,1960.0,33 (3),"Afghanistan, Pakistan"
+53,53.0,Pumari Chhish,7492.0,24580.0,884.0,Hispar Karakoram,36°12′41″N 75°15′01″E﻿ / ﻿36.21139°N 75.25028°E,Khunyang Chhish,1979.0,1 (2),Pakistan
+54,54.0,Passu Sar,7476.0,24528.0,647.0,Batura Karakoram,36°29′16″N 74°35′16″E﻿ / ﻿36.48778°N 74.58778°E,Batura Sar,1994.0,1 (0),Pakistan
+55,55.0,Yukshin Gardan Sar,7469.0,24505.0,1374.0,Hispar Karakoram,36°15′04″N 75°22′29″E﻿ / ﻿36.25111°N 75.37472°E,Pumari Chhish,1984.0,4 (1),Pakistan
+56,56.0,Teram Kangri I,7462.0,24482.0,1703.0,Siachen Karakoram,35°34′48″N 77°04′42″E﻿ / ﻿35.58000°N 77.07833°E,Gasherbrum I,1975.0,2 (0),"India, China"
+57,57.0,Jongsong Peak,7462.0,24482.0,1298.0,Kangchenjunga Himalaya,27°52′54″N 88°08′09″E﻿ / ﻿27.88167°N 88.13583°E,Kangchenjunga,1930.0,2 (3),"India, China, Nepal"
+58,58.0,Malubiting,7458.0,24469.0,2193.0,Rakaposhi-Haramosh Karakoram,36°00′12″N 74°52′31″E﻿ / ﻿36.00333°N 74.87528°E,Rakaposhi,1971.0,2 (6),Pakistan
+59,59.0,Gangapurna,7455.0,24459.0,563.0,Annapurna Himalaya,28°36′18″N 83°57′49″E﻿ / ﻿28.60500°N 83.96361°E,Annapurna III,1965.0,8 (13),Nepal
+60,60.0,Jengish Chokusu / Tömür / Pk Pobeda,7439.0,24406.0,4148.0,Tian Shan,42°02′05″N 80°07′47″E﻿ / ﻿42.03472°N 80.12972°E,Ismail Samani Peak,1956.0,0 (0),"Kyrgyzstan, China"
+61,61.0,K12,7428.0,24370.0,1978.0,Saltoro Karakoram,35°17′45″N 77°01′20″E﻿ / ﻿35.29583°N 77.02222°E,Saltoro Kangri,1974.0,4 (2),"India, Pakistan"
+62,62.0,Yangra / Ganesh I,7422.0,24350.0,2352.0,Ganesh Himalaya,28°23′29″N 85°07′38″E﻿ / ﻿28.39139°N 85.12722°E,Shishapangma,1955.0,1 (6),"Nepal, China"
+63,63.0,Sia Kangri,7422.0,24350.0,642.0,Siachen Karakoram,35°39′48″N 76°45′42″E﻿ / ﻿35.66333°N 76.76167°E,Gasherbrum I,1934.0,6 (0),"Pakistan, China, India"
+64,64.0,Momhil Sar,7414.0,24324.0,907.0,Hispar Karakoram,36°19′04″N 75°02′11″E﻿ / ﻿36.31778°N 75.03639°E *,Trivor,1964.0,2 (6),Pakistan
+65,65.0,Kabru N,7412.0,24318.0,720.0,Kangchenjunga Himalaya,27°38′02″N 88°07′00″E﻿ / ﻿27.63389°N 88.11667°E,Kangchenjunga,1994.0,1 (2),"India, Nepal"
+66,66.0,Skil Brum,7410.0,24311.0,1152.0,Baltoro Karakoram,35°51′03″N 76°25′43″E﻿ / ﻿35.85083°N 76.42861°E,K2,1957.0,2 (1),Pakistan
+67,67.0,Haramosh Peak,7409.0,24308.0,2277.0,Rakaposhi-Haramosh Karakoram,35°50′24″N 74°53′51″E﻿ / ﻿35.84000°N 74.89750°E,Malubiting,1958.0,4 (3),Pakistan
+68,68.0,Istor-o-Nal,7403.0,24288.0,1043.0,Hindu Kush,36°22′32″N 71°53′54″E﻿ / ﻿36.37556°N 71.89833°E,Noshaq,1969.0,4 (5),Pakistan
+69,69.0,Ghent Kangri,7401.0,24281.0,1493.0,Saltoro Karakoram,35°31′04″N 76°48′02″E﻿ / ﻿35.51778°N 76.80056°E,Saltoro Kangri,1961.0,4 (0),"India, Pakistan"
+70,70.0,Ultar,7388.0,24239.0,688.0,Batura Karakoram,36°23′27″N 74°43′00″E﻿ / ﻿36.39083°N 74.71667°E,Shispare,1996.0,2 (5),Pakistan
+71,71.0,Rimo I,7385.0,24229.0,1428.0,Rimo Karakoram,35°21′18″N 77°22′08″E﻿ / ﻿35.35500°N 77.36889°E,Teram Kangri I,1988.0,1 (3),India
+72,72.0,Churen Himal,7385.0,24229.0,650.0,Dhaulagiri Himalaya,28°44′05″N 83°13′03″E﻿ / ﻿28.73472°N 83.21750°E,Dhaulagiri IV,1970.0,3 (0),Nepal
+73,73.0,Teram Kangri III,7382.0,24219.0,520.0,Siachen Karakoram,35°35′59″N 77°02′53″E﻿ / ﻿35.59972°N 77.04806°E,Teram Kangri I,1979.0,1 (0),"India, China"
+74,74.0,Sherpi Kangri,7380.0,24213.0,1320.0,Saltoro Karakoram,35°27′58″N 76°46′53″E﻿ / ﻿35.46611°N 76.78139°E *,Ghent Kangri,1976.0,1 (1),"India, Pakistan"
+75,75.0,Labuche Kang,7367.0,24170.0,1957.0,Labuche Himalaya,28°18′15″N 86°21′03″E﻿ / ﻿28.30417°N 86.35083°E,Cho Oyu,1987.0,1 (0),China
+76,76.0,Kirat Chuli,7362.0,24153.0,1168.0,Kangchenjunga Himalaya,27°47′16″N 88°11′43″E﻿ / ﻿27.78778°N 88.19528°E,Kangchenjunga,1939.0,1 (6),"India, Nepal"
+77,77.0,Saraghrar,7349.0,24111.0,1979.0,Hindu Kush,36°32′51″N 72°06′54″E﻿ / ﻿36.54750°N 72.11500°E,Noshaq,1959.0,2 (3),Pakistan
+78,78.0,Jomolhari / Chomo Lhari,7326.0,24035.0,2341.0,Jomolhari Himalaya,27°49′36″N 89°16′04″E﻿ / ﻿27.82667°N 89.26778°E *,Gangkhar Puensum,1937.0,4 (0),"Bhutan, China"
+79,79.0,Chamlang,7321.0,24019.0,1241.0,Mahalangur Himalaya,27°46′30″N 86°58′47″E﻿ / ﻿27.77500°N 86.97972°E,Lhotse,1961.0,7 (1),Nepal
+80,80.0,Chongtar,7315.0,23999.0,1295.0,Baltoro Karakoram,35°54′55″N 76°25′45″E﻿ / ﻿35.91528°N 76.42917°E,Skil Brum,1994.0,1 (1),China
+81,81.0,Baltoro Kangri,7312.0,23990.0,1140.0,Masherbrum Karakoram,35°38′21″N 76°40′24″E﻿ / ﻿35.63917°N 76.67333°E,Chogolisa,1963.0,1 (0),Pakistan
+82,82.0,Siguang Ri,7309.0,23980.0,669.0,Mahalangur Himalaya,28°08′50″N 86°41′06″E﻿ / ﻿28.14722°N 86.68500°E,Cho Oyu,1989.0,2 (1),China
+83,83.0,The Crown / Huang Guan,7295.0,23934.0,1919.0,Yengisogat Karakoram,36°06′24″N 76°12′21″E﻿ / ﻿36.10667°N 76.20583°E,Skil Brum (K2),1993.0,1 (5),China
+84,84.0,Gyala Peri,7294.0,23930.0,2942.0,Assam Himalaya,29°48′52″N 94°58′07″E﻿ / ﻿29.81444°N 94.96861°E,Mount Everest,1986.0,1 (0),China
+85,85.0,Porong Ri,7292.0,23924.0,512.0,Langtang Himalaya,28°23′22″N 85°43′12″E﻿ / ﻿28.38944°N 85.72000°E,Shishapangma,1982.0,5 (0),China
+86,86.0,Baintha Brakk / The Ogre,7285.0,23901.0,1891.0,Panmah Karakoram,35°56′51″N 75°45′12″E﻿ / ﻿35.94750°N 75.75333°E *,Kanjut Sar,1977.0,3 (13),Pakistan
+87,87.0,Yutmaru Sar,7283.0,23894.0,680.0,Hispar Karakoram,36°13′35″N 75°22′02″E﻿ / ﻿36.22639°N 75.36722°E,Yukshin Gardan Sar,1980.0,1 (1),Pakistan
+88,88.0,K6 / Baltistan Peak,7282.0,23891.0,1962.0,Masherbrum Karakoram,35°25′06″N 76°33′06″E﻿ / ﻿35.41833°N 76.55167°E,Chogolisa,1970.0,1 (3),Pakistan
+89,89.0,Kangpenqing / Gang Benchhen,7281.0,23888.0,1345.0,Baiku Himalaya,28°33′03″N 85°32′44″E﻿ / ﻿28.55083°N 85.54556°E,Shishapangma,1982.0,1 (1),China
+90,90.0,Muztagh Tower,7276.0,23871.0,1710.0,Baltoro Karakoram,35°49′40″N 76°21′40″E﻿ / ﻿35.82778°N 76.36111°E,Skil Brum,1956.0,4 (2),"Pakistan, China"
+91,91.0,Mana Peak,7272.0,23858.0,732.0,Garhwal Himalaya,30°52′50″N 79°36′55″E﻿ / ﻿30.88056°N 79.61528°E,Kamet,1937.0,7 (3),India
+92,92.0,Diran,7266.0,23839.0,1329.0,Rakaposhi-Haramosh Karakoram,36°07′13″N 74°39′42″E﻿ / ﻿36.12028°N 74.66167°E,Malubiting,1968.0,12 (8),Pakistan
+93,93.0,Labuche Kang III,7250.0,23786.0,570.0,Labuche Himalaya,28°18′05″N 86°23′02″E﻿ / ﻿28.30139°N 86.38389°E,Labuche Kang,unclimbed,0 (0),China
+94,94.0,Putha Hiunchuli,7246.0,23773.0,1151.0,Dhaulagiri Himalaya,28°44′52″N 83°08′46″E﻿ / ﻿28.74778°N 83.14611°E,Churen Himal,1954.0,11 (5),Nepal
+95,95.0,Apsarasas Kangri,7245.0,23770.0,607.0,Siachen Karakoram,35°32′19″N 77°08′55″E﻿ / ﻿35.53861°N 77.14861°E,Teram Kangri I,1976.0,2 (0),"India, China"
+96,96.0,Mukut Parbat,7242.0,23760.0,683.0,Garhwal Himalaya,30°56′57″N 79°34′12″E﻿ / ﻿30.94917°N 79.57000°E,Kamet,1951.0,2 (1),"India, China"
+97,97.0,Rimo III,7233.0,23730.0,613.0,Rimo Karakoram,35°22′31″N 77°21′42″E﻿ / ﻿35.37528°N 77.36167°E,Rimo I,1985.0,1 (0),India
+98,98.0,Langtang Lirung,7227.0,23711.0,1534.0,Langtang Himalaya,28°15′22″N 85°31′01″E﻿ / ﻿28.25611°N 85.51694°E,Shishapangma,1978.0,14 (13),Nepal
+99,99.0,Karjiang,7221.0,23691.0,895.0,Kula Kangri Himalaya,28°15′27″N 90°38′49″E﻿ / ﻿28.25750°N 90.64694°E,Kula Kangri,unclimbed,0 (2),China
+100,100.0,Annapurna Dakshin,7219.0,23684.0,769.0,Annapurna Himalaya,28°31′06″N 83°48′22″E﻿ / ﻿28.51833°N 83.80611°E,Annapurna,1964.0,10 (16),Nepal
+101,101.0,Khartaphu,7213.0,23665.0,712.0,Mahalangur Himalaya,28°03′49″N 86°58′39″E﻿ / ﻿28.06361°N 86.97750°E,Mount Everest,1935.0,1 (0),China
+102,102.0,Tongshanjiabu,7207.0,23645.0,1757.0,Lunana Himalaya,28°11′12″N 89°57′27″E﻿ / ﻿28.18667°N 89.95750°E,Gangkhar Puensum,unclimbed,0 (0),"Bhutan, China"
+103,103.0,Malangutti Sar,7207.0,23645.0,507.0,Hispar Karakoram,36°21′47″N 75°08′57″E﻿ / ﻿36.36306°N 75.14917°E,Distaghil Sar,1985.0,1 (0),Pakistan
+104,104.0,Noijin Kangsang /Norin Kang,7206.0,23642.0,2160.0,Nagarze Himalaya,28°56′48″N 90°10′42″E﻿ / ﻿28.94667°N 90.17833°E,Gangkhar Puensum,1986.0,4 (1),China
+105,105.0,Langtang Ri,7205.0,23638.0,665.0,Langtang Himalaya,28°22′53″N 85°41′01″E﻿ / ﻿28.38139°N 85.68361°E,Shishapangma,1981.0,4 (0),"Nepal, China"
+106,106.0,Kangphu Kang / Shimokangri,7204.0,23635.0,1244.0,Lunana Himalaya,28°09′24″N 90°04′15″E﻿ / ﻿28.15667°N 90.07083°E,Tongshanjiabu,2002.0,1 (0),"Bhutan, China"
+107,107.0,Singhi Kangri,7202.0,23629.0,730.0,Siachen Karakoram,35°35′59″N 76°59′01″E﻿ / ﻿35.59972°N 76.98361°E,Teram Kangri III,1976.0,2 (0),"India, China"
+108,108.0,Lupghar Sar,7200.0,23622.0,730.0,Hispar Karakoram,36°21′01″N 75°02′13″E﻿ / ﻿36.35028°N 75.03694°E *,Momhil Sar,1979.0,1 (0),Pakistan

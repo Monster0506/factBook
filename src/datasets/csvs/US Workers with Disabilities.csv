@@ -1,0 +1,269 @@
+id,Job type,Total workers in the US,Percent of workers with Ambulatory difficulty,Percent of workers with Hearing difficulty,Percent of workers with Cognitive difficulty,Percent of workers with  Vision difficulty,Percent of workers with Independent living difficulty,Percent of workers with Self-care difficulty
+1,Total,9085980.0,34.0,31.0,29.0,22.0,16.0,8.0
+2,"Management, Business, Science, and Arts Occupations",2692860.0,35.0,34.0,22.0,22.0,13.0,7.0
+3,Sales and Office Occupations,2187725.0,38.0,27.0,29.0,22.0,17.0,8.0
+4,Service Occupations,1952255.0,34.0,25.0,37.0,22.0,20.0,7.0
+5,"Production, Transportation, and Material Moving Occupations",1413260.0,33.0,33.0,33.0,20.0,19.0,9.0
+6,Office and Administrative Support Occupations,1273120.0,40.0,25.0,29.0,21.0,19.0,8.0
+7,"Management, Business, and Financial Occupations",1114300.0,34.0,37.0,20.0,22.0,12.0,7.0
+8,Sales and Related Occupations,914605.0,35.0,29.0,30.0,23.0,15.0,7.0
+9,"Natural Resources, Construction, and Maintenance Occupations",839880.0,30.0,43.0,25.0,22.0,12.0,7.0
+10,"Education, Legal, Community Service, Arts, and Media Occupations",828990.0,36.0,31.0,25.0,21.0,15.0,8.0
+11,Management Occupations,767440.0,34.0,39.0,19.0,22.0,11.0,7.0
+12,Transportation and Material Moving Occupations,759030.0,34.0,33.0,34.0,19.0,19.0,8.0
+13,Production Occupations,654230.0,31.0,34.0,32.0,22.0,20.0,9.0
+14,Food Preparation and Serving Related Occupations,553025.0,27.0,19.0,46.0,22.0,22.0,6.0
+15,Building and Grounds Cleaning and Maintenance Occupations,549320.0,33.0,29.0,38.0,22.0,22.0,8.0
+16,Construction and Extraction Occupations,464845.0,30.0,43.0,25.0,22.0,12.0,7.0
+17,Personal Care and Service Occupations,431565.0,39.0,25.0,34.0,21.0,20.0,8.0
+18,"Education, Training, and Library Occupations",422215.0,37.0,30.0,25.0,21.0,14.0,7.0
+19,Transportation Occupations,416655.0,40.0,38.0,25.0,17.0,13.0,8.0
+20,Healthcare Practitioners and Technical Occupations,394215.0,37.0,31.0,22.0,23.0,13.0,7.0
+21,"Computer, Engineering, and Science Occupations",355350.0,31.0,36.0,26.0,20.0,13.0,7.0
+22,Business and Financial Operations Occupations,346865.0,35.0,34.0,22.0,22.0,13.0,7.0
+23,Material Moving Occupations,342375.0,26.0,26.0,45.0,22.0,26.0,8.0
+24,"Installation, Maintenance, and Repair Occupations",309150.0,29.0,43.0,25.0,20.0,12.0,6.0
+25,Janitors and building cleaners,301550.0,32.0,28.0,42.0,21.0,25.0,9.0
+26,Driver/sales workers and truck drivers,250240.0,38.0,40.0,25.0,16.0,12.0,8.0
+27,Cashiers,234225.0,33.0,20.0,41.0,25.0,17.0,7.0
+28,Healthcare Support Occupations,220910.0,39.0,21.0,32.0,26.0,16.0,7.0
+29,"Managers, all other",216450.0,32.0,40.0,19.0,22.0,10.0,7.0
+30,Retail salespersons,208120.0,35.0,28.0,33.0,21.0,17.0,8.0
+31,"Laborers and freight, stock, and material movers, hand",203460.0,23.0,25.0,48.0,22.0,26.0,8.0
+32,Protective Service Occupations,197435.0,36.0,41.0,25.0,18.0,13.0,7.0
+33,Secretaries and administrative assistants,189440.0,47.0,24.0,21.0,21.0,18.0,8.0
+34,Computer and Mathematical Occupations,185675.0,32.0,30.0,28.0,21.0,15.0,7.0
+35,Customer service representatives,180605.0,35.0,21.0,36.0,22.0,19.0,8.0
+36,Community and Social Service Occupations,176590.0,38.0,30.0,25.0,22.0,15.0,8.0
+37,First-line supervisors of retail sales workers,161665.0,35.0,31.0,26.0,23.0,14.0,7.0
+38,Cooks,154325.0,33.0,20.0,40.0,24.0,19.0,6.0
+39,"Arts, Design, Entertainment, Sports, and Media Occupations",154105.0,32.0,31.0,29.0,20.0,19.0,8.0
+40,"Nursing, psychiatric, and home health aides",150165.0,43.0,18.0,31.0,26.0,16.0,8.0
+41,Personal care aides,149790.0,44.0,23.0,32.0,23.0,18.0,9.0
+42,Stock clerks and order fillers,141460.0,26.0,23.0,45.0,19.0,26.0,8.0
+43,Elementary and middle school teachers,141390.0,37.0,30.0,20.0,23.0,11.0,7.0
+44,Registered nurses,132375.0,40.0,28.0,19.0,24.0,14.0,7.0
+45,Maids and housekeeping cleaners,125225.0,39.0,23.0,32.0,24.0,19.0,8.0
+46,Architecture and Engineering Occupations,119450.0,31.0,44.0,22.0,20.0,9.0,6.0
+47,Construction laborers,103175.0,28.0,38.0,29.0,25.0,13.0,5.0
+48,"Production workers, all other",99340.0,33.0,27.0,43.0,23.0,31.0,14.0
+49,Waiters and waitresses,98170.0,21.0,19.0,50.0,24.0,19.0,7.0
+50,Childcare workers,93640.0,43.0,21.0,33.0,21.0,24.0,11.0
+51,Security guards and gaming surveillance officers,90725.0,42.0,35.0,27.0,20.0,13.0,7.0
+52,Grounds maintenance workers,90075.0,26.0,35.0,37.0,23.0,15.0,6.0
+53,Miscellaneous assemblers and fabricators,87455.0,28.0,27.0,43.0,21.0,30.0,11.0
+54,"Bookkeeping, accounting, and auditing clerks",85035.0,48.0,29.0,18.0,19.0,17.0,7.0
+55,"Office clerks, general",84270.0,41.0,25.0,28.0,24.0,20.0,10.0
+56,Accountants and auditors,83905.0,36.0,35.0,19.0,22.0,13.0,7.0
+57,Receptionists and information clerks,80295.0,46.0,18.0,31.0,23.0,22.0,9.0
+58,First-line supervisors of office and administrative support workers,79530.0,43.0,32.0,21.0,22.0,14.0,7.0
+59,Carpenters,77875.0,29.0,45.0,23.0,20.0,11.0,8.0
+60,Legal Occupations,76080.0,34.0,38.0,18.0,22.0,12.0,8.0
+61,Food preparation workers,69415.0,24.0,18.0,49.0,20.0,23.0,5.0
+62,Postsecondary teachers,68105.0,31.0,38.0,25.0,19.0,13.0,6.0
+63,"Farming, Fishing, and Forestry Occupations",65885.0,30.0,39.0,28.0,26.0,14.0,6.0
+64,Teacher assistants,65405.0,41.0,26.0,31.0,21.0,18.0,10.0
+65,"Inspectors, testers, sorters, samplers, and weighers",63360.0,36.0,31.0,31.0,20.0,16.0,8.0
+66,"Sales representatives, wholesale and manufacturing",61615.0,30.0,43.0,20.0,22.0,11.0,7.0
+67,Chief executives,59150.0,33.0,48.0,10.0,21.0,13.0,8.0
+68,First-line supervisors of non-retail sales workers,57305.0,36.0,36.0,17.0,26.0,10.0,6.0
+69,Other teachers and instructors,56865.0,37.0,28.0,30.0,20.0,18.0,7.0
+70,Licensed practical and licensed vocational nurses,56795.0,44.0,27.0,23.0,24.0,15.0,7.0
+71,Bus drivers,53870.0,50.0,35.0,20.0,16.0,12.0,10.0
+72,First-line supervisors of construction trades and extraction workers,53800.0,33.0,45.0,17.0,19.0,11.0,7.0
+73,Counselors,53295.0,36.0,26.0,31.0,22.0,15.0,8.0
+74,Taxi drivers and chauffeurs,52935.0,46.0,34.0,26.0,17.0,10.0,9.0
+75,Real estate brokers and sales agents,51840.0,38.0,38.0,18.0,22.0,12.0,7.0
+76,First-line supervisors of production and operating workers,51810.0,30.0,47.0,16.0,25.0,9.0,7.0
+77,Social workers,51095.0,36.0,25.0,26.0,28.0,14.0,8.0
+78,Dishwashers,50385.0,18.0,16.0,62.0,20.0,36.0,7.0
+79,"Life, Physical, and Social Science Occupations",50225.0,30.0,39.0,25.0,16.0,14.0,8.0
+80,"Farmers, ranchers, and other agricultural managers",49815.0,32.0,57.0,18.0,15.0,11.0,5.0
+81,Automotive service technicians and mechanics,49195.0,29.0,41.0,30.0,22.0,11.0,6.0
+82,Miscellaneous agricultural workers,48340.0,30.0,39.0,30.0,25.0,16.0,7.0
+83,"Packers and packagers, hand",48085.0,28.0,20.0,52.0,21.0,38.0,11.0
+84,"Hairdressers, hairstylists, and cosmetologists",44320.0,32.0,26.0,32.0,22.0,16.0,6.0
+85,Lawyers,44185.0,31.0,42.0,19.0,22.0,12.0,8.0
+86,Food service managers,43825.0,31.0,28.0,31.0,24.0,16.0,9.0
+87,"Property, real estate, and community association managers",43620.0,41.0,35.0,23.0,21.0,16.0,6.0
+88,Construction managers,43435.0,31.0,46.0,19.0,19.0,8.0,9.0
+89,Electricians,42210.0,29.0,41.0,24.0,21.0,8.0,7.0
+90,"Maintenance and repair workers, general",42165.0,30.0,45.0,28.0,22.0,13.0,8.0
+91,Management analysts,41845.0,34.0,39.0,22.0,22.0,15.0,8.0
+92,General and operations managers,39835.0,33.0,35.0,21.0,25.0,10.0,5.0
+93,Financial managers,39530.0,36.0,32.0,15.0,27.0,11.0,6.0
+94,Designers,38850.0,30.0,31.0,30.0,19.0,13.0,6.0
+95,"Software developers, applications and systems software",38825.0,26.0,29.0,30.0,21.0,14.0,6.0
+96,Education administrators,38815.0,36.0,37.0,14.0,22.0,9.0,8.0
+97,"Welding, soldering, and brazing workers",38555.0,26.0,49.0,30.0,20.0,13.0,6.0
+98,"Shipping, receiving, and traffic clerks",38535.0,27.0,34.0,27.0,23.0,14.0,6.0
+99,Industrial truck and tractor operators,37390.0,36.0,29.0,28.0,25.0,14.0,5.0
+100,Human resources workers,35125.0,36.0,26.0,23.0,30.0,11.0,9.0
+101,Health practitioner support technologists and technicians,35110.0,34.0,25.0,33.0,23.0,16.0,7.0
+102,First-line supervisors of food preparation and serving workers,34760.0,37.0,19.0,36.0,20.0,17.0,6.0
+103,Medical and health services managers,34345.0,44.0,31.0,15.0,24.0,13.0,8.0
+104,"Pipelayers, plumbers, pipefitters, and steamfitters",34260.0,30.0,45.0,23.0,19.0,7.0,5.0
+105,Computer support specialists,33750.0,34.0,28.0,26.0,22.0,16.0,9.0
+106,"Combined food preparation and serving workers, including fast food",33475.0,29.0,21.0,44.0,23.0,23.0,5.0
+107,"Painters, construction and maintenance",33390.0,31.0,33.0,28.0,28.0,15.0,7.0
+108,Billing and posting clerks,32980.0,42.0,22.0,24.0,21.0,13.0,7.0
+109,Clergy,32335.0,39.0,47.0,13.0,18.0,17.0,8.0
+110,"Computer occupations, all other",32225.0,31.0,28.0,27.0,22.0,14.0,6.0
+111,"Office and administrative support workers, all other",30945.0,35.0,29.0,30.0,17.0,19.0,5.0
+112,Marketing and sales managers,30530.0,29.0,31.0,26.0,20.0,14.0,7.0
+113,"Sales representatives, services, all other",30375.0,31.0,34.0,28.0,22.0,12.0,6.0
+114,Secondary school teachers,30365.0,39.0,32.0,21.0,18.0,11.0,7.0
+115,Police and sheriff's patrol officers,28765.0,28.0,57.0,20.0,14.0,11.0,6.0
+116,Dining room and cafeteria attendants and bartender helpers,28635.0,20.0,16.0,59.0,19.0,40.0,9.0
+117,Data entry keyers,28530.0,40.0,21.0,30.0,16.0,25.0,9.0
+118,Industrial and refractory machinery mechanics,28415.0,32.0,48.0,23.0,20.0,13.0,4.0
+119,Insurance sales agents,28190.0,37.0,36.0,18.0,21.0,17.0,8.0
+120,"Operating engineers and other construction equipment operators, including pile-driver operators",27995.0,31.0,52.0,20.0,21.0,16.0,10.0
+121,Cleaners of vehicles and equipment,27650.0,29.0,30.0,42.0,22.0,22.0,8.0
+122,"Metal workers and plastic workers, all other",25945.0,37.0,35.0,28.0,22.0,11.0,5.0
+123,Preschool and kindergarten teachers,25605.0,39.0,19.0,31.0,24.0,14.0,6.0
+124,Physicians and surgeons,25575.0,28.0,50.0,9.0,25.0,10.0,9.0
+125,"Engineering technicians, except drafters",24610.0,38.0,35.0,25.0,18.0,8.0,6.0
+126,Machinists,24080.0,29.0,51.0,17.0,12.0,8.0,5.0
+127,Recreation and fitness workers,23565.0,32.0,24.0,39.0,23.0,20.0,10.0
+128,"Bailiffs, correctional officers, and jailers",22750.0,37.0,47.0,22.0,18.0,12.0,7.0
+129,Medical assistants,21915.0,34.0,24.0,33.0,30.0,14.0,7.0
+130,Computer and information systems managers,21900.0,41.0,31.0,17.0,20.0,14.0,10.0
+131,"Sales and related workers, all other",21840.0,41.0,35.0,30.0,24.0,23.0,11.0
+132,Bus and truck mechanics and diesel engine specialists,21270.0,26.0,47.0,27.0,18.0,10.0,5.0
+133,Bartenders,20895.0,24.0,17.0,43.0,27.0,21.0,5.0
+134,Postal service mail carriers,20755.0,33.0,42.0,22.0,18.0,13.0,7.0
+135,"Engineers, all other",20405.0,29.0,47.0,21.0,24.0,7.0,5.0
+136,"Heating, air conditioning, and refrigeration mechanics and installers",20390.0,29.0,39.0,26.0,22.0,14.0,9.0
+137,Social and community service managers,20195.0,36.0,33.0,18.0,21.0,12.0,4.0
+138,Nonfarm animal caretakers,19990.0,30.0,22.0,45.0,16.0,21.0,8.0
+139,Chefs and head cooks,19895.0,37.0,25.0,22.0,23.0,12.0,9.0
+140,Computer systems analysts,19850.0,32.0,30.0,32.0,23.0,17.0,8.0
+141,Dispatchers,19785.0,50.0,24.0,26.0,20.0,20.0,8.0
+142,"Production, planning, and expediting clerks",19345.0,38.0,27.0,23.0,20.0,12.0,4.0
+143,Packaging and filling machine operators and tenders,19120.0,33.0,33.0,37.0,23.0,23.0,10.0
+144,Human resources managers,19055.0,35.0,33.0,22.0,26.0,12.0,8.0
+145,Couriers and messengers,18955.0,34.0,38.0,30.0,17.0,14.0,7.0
+146,Miscellaneous entertainment attendants and related workers,18790.0,26.0,38.0,43.0,12.0,21.0,3.0
+147,"Other installation, maintenance, and repair workers, including wind turbine service technicians",18600.0,40.0,39.0,23.0,18.0,15.0,9.0
+148,Insurance claims and policy processing clerks,18550.0,48.0,19.0,27.0,21.0,19.0,8.0
+149,"First-line supervisors of mechanics, installers, and repairers",18395.0,33.0,49.0,17.0,23.0,9.0,4.0
+150,Bakers,18250.0,32.0,24.0,34.0,22.0,25.0,11.0
+151,Social and human service assistants,18055.0,45.0,23.0,24.0,22.0,16.0,6.0
+152,File clerks,18050.0,38.0,24.0,34.0,19.0,18.0,9.0
+153,"Butchers and other meat, poultry, and fish processing workers",18005.0,30.0,35.0,25.0,25.0,8.0,8.0
+154,Paralegals and legal assistants,17950.0,38.0,30.0,19.0,22.0,10.0,6.0
+155,Word processors and typists,17815.0,42.0,21.0,27.0,23.0,17.0,10.0
+156,Laundry and dry-cleaning workers,17435.0,30.0,20.0,46.0,23.0,36.0,9.0
+157,"Hosts and hostesses, restaurant, lounge, and coffee shop",17380.0,25.0,22.0,45.0,17.0,22.0,7.0
+158,Computer programmers,17370.0,27.0,38.0,21.0,23.0,13.0,5.0
+159,"Business operations specialists, all other",17270.0,34.0,26.0,27.0,19.0,15.0,7.0
+160,"Personal care and service workers, all other",16175.0,37.0,29.0,39.0,15.0,19.0,7.0
+161,"Musicians, singers, and related workers",15990.0,41.0,33.0,25.0,22.0,21.0,8.0
+162,First-line supervisors of housekeeping and janitorial workers,15945.0,42.0,32.0,22.0,24.0,15.0,8.0
+163,Clinical laboratory technologists and technicians,15655.0,47.0,20.0,21.0,22.0,12.0,5.0
+164,"Purchasing agents, except wholesale, retail, and farm products",15205.0,31.0,36.0,19.0,19.0,13.0,6.0
+165,"Claims adjusters, appraisers, examiners, and investigators",15190.0,40.0,27.0,20.0,24.0,12.0,4.0
+166,"Food servers, nonrestaurant",15060.0,28.0,27.0,41.0,19.0,19.0,4.0
+167,Compliance officers,14980.0,38.0,37.0,18.0,19.0,8.0,5.0
+168,Sewing machine operators,14840.0,38.0,36.0,26.0,28.0,15.0,5.0
+169,Diagnostic related technologists and technicians,14720.0,35.0,32.0,25.0,23.0,17.0,7.0
+170,Heavy vehicle and mobile equipment service technicians and mechanics,14430.0,22.0,52.0,22.0,18.0,10.0,6.0
+171,Artists and related workers,14200.0,36.0,23.0,30.0,18.0,33.0,14.0
+172,Medical records and health information technicians,14140.0,45.0,22.0,22.0,25.0,13.0,4.0
+173,Personal financial advisors,14135.0,35.0,45.0,18.0,23.0,13.0,11.0
+174,Aircraft mechanics and service technicians,14085.0,23.0,52.0,21.0,14.0,10.0,4.0
+175,Supervisors of transportation and material moving workers,13195.0,37.0,29.0,30.0,24.0,15.0,10.0
+176,Tellers,13190.0,41.0,22.0,27.0,35.0,21.0,10.0
+177,"Printing workers, except prepress technicians and workers",12955.0,33.0,33.0,30.0,19.0,12.0,8.0
+178,Special education teachers,12795.0,38.0,28.0,26.0,22.0,15.0,3.0
+179,Miscellaneous personal appearance workers,12490.0,31.0,18.0,36.0,25.0,14.0,1.0
+180,Writers and authors,12465.0,37.0,32.0,22.0,22.0,26.0,12.0
+181,"Door-to-door sales workers, news and street vendors, and related workers",12275.0,49.0,24.0,34.0,15.0,24.0,11.0
+182,"Wholesale and retail buyers, except farm products",12180.0,30.0,39.0,25.0,13.0,18.0,5.0
+183,"Interviewers, except eligibility and loan",12015.0,44.0,25.0,31.0,20.0,17.0,9.0
+184,Refuse and recyclable material collectors,11780.0,25.0,25.0,56.0,19.0,45.0,15.0
+185,"Transportation, storage, and distribution managers",11740.0,38.0,35.0,15.0,25.0,8.0,6.0
+186,Civil engineers,11660.0,24.0,49.0,18.0,17.0,7.0,4.0
+187,Drafters,11495.0,33.0,36.0,28.0,26.0,11.0,3.0
+188,Industrial production managers,11415.0,36.0,44.0,14.0,27.0,6.0,6.0
+189,Psychologists,11355.0,39.0,43.0,11.0,15.0,20.0,10.0
+190,"Computer, automated teller, and office machine repairers",11335.0,32.0,33.0,29.0,21.0,12.0,5.0
+191,Bill and account collectors,11275.0,48.0,22.0,21.0,21.0,9.0,4.0
+192,"Hotel, motel, and resort desk clerks",10995.0,29.0,18.0,44.0,25.0,18.0,7.0
+193,Credit counselors and loan officers,10810.0,32.0,33.0,20.0,28.0,9.0,6.0
+194,Mechanical engineers,10595.0,26.0,47.0,19.0,21.0,12.0,7.0
+195,Emergency medical technicians and paramedics,10455.0,23.0,45.0,35.0,24.0,12.0,4.0
+196,"Athletes, coaches, umpires, and related workers",10240.0,20.0,34.0,34.0,18.0,6.0,9.0
+197,Reservation and transportation ticket agents and travel clerks,10235.0,49.0,27.0,21.0,29.0,21.0,8.0
+198,Dental assistants,10220.0,30.0,35.0,30.0,19.0,19.0,8.0
+199,"Healthcare support workers, all other, including medical equipment preparers",10025.0,24.0,22.0,42.0,18.0,19.0,2.0
+200,Network and computer systems administrators,10020.0,30.0,38.0,30.0,14.0,17.0,5.0
+201,Cutting workers,9950.0,39.0,15.0,57.0,21.0,56.0,31.0
+202,Massage therapists,9830.0,27.0,19.0,37.0,25.0,17.0,8.0
+203,Firefighters,9770.0,14.0,51.0,19.0,16.0,14.0,3.0
+204,Roofers,9750.0,27.0,30.0,41.0,27.0,12.0,7.0
+205,"Miscellaneous life, physical, and social science technicians",9660.0,29.0,35.0,31.0,14.0,14.0,6.0
+206,Order clerks,9630.0,40.0,23.0,32.0,24.0,25.0,16.0
+207,Training and development specialists,9535.0,22.0,36.0,23.0,25.0,9.0,4.0
+208,Pharmacists,9530.0,27.0,46.0,22.0,21.0,8.0,7.0
+209,Administrative services managers,9470.0,36.0,46.0,11.0,22.0,10.0,3.0
+210,"Counter attendants, cafeteria, food concession, and coffee shop",9375.0,27.0,14.0,55.0,20.0,21.0,10.0
+211,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",9300.0,35.0,39.0,21.0,23.0,14.0,4.0
+212,"Carpet, floor, and tile installers and finishers",9085.0,29.0,35.0,28.0,20.0,12.0,9.0
+213,"Miscellaneous therapists, including exercise physiologists",8865.0,38.0,23.0,27.0,24.0,15.0,7.0
+214,Cost estimators,8860.0,38.0,48.0,14.0,17.0,8.0,7.0
+215,Miscellaneous legal support workers,8765.0,40.0,27.0,15.0,26.0,19.0,15.0
+216,"Industrial engineers, including health and safety",8730.0,28.0,43.0,18.0,14.0,6.0,6.0
+217,Barbers,8620.0,59.0,31.0,21.0,8.0,10.0,2.0
+218,Purchasing managers,8585.0,28.0,41.0,20.0,21.0,11.0,6.0
+219,Librarians,8580.0,30.0,38.0,24.0,17.0,14.0,5.0
+220,Market research analysts and marketing specialists,8570.0,21.0,23.0,36.0,20.0,17.0,4.0
+221,Automotive and watercraft service attendants,8560.0,32.0,20.0,42.0,22.0,19.0,11.0
+222,Parts salespersons,8540.0,37.0,36.0,21.0,24.0,6.0,7.0
+223,Payroll and timekeeping clerks,8455.0,47.0,23.0,20.0,20.0,18.0,11.0
+224,Telecommunications line installers and repairers,8420.0,20.0,35.0,33.0,18.0,9.0,1.0
+225,"Models, demonstrators, and product promoters",8325.0,43.0,32.0,32.0,17.0,24.0,4.0
+226,Miscellaneous health technologists and technicians,8255.0,40.0,36.0,21.0,15.0,10.0,2.0
+227,Financial analysts,8230.0,22.0,36.0,28.0,33.0,7.0,4.0
+228,"Food processing workers, all other",8155.0,33.0,27.0,28.0,30.0,13.0,6.0
+229,Automotive body and related repairers,8100.0,17.0,39.0,24.0,25.0,9.0,2.0
+230,Editors,8085.0,28.0,37.0,27.0,15.0,22.0,6.0
+231,Sheet metal workers,8085.0,29.0,44.0,38.0,28.0,9.0,7.0
+232,Photographers,8070.0,26.0,35.0,34.0,15.0,19.0,6.0
+233,Operations research analysts,8045.0,46.0,26.0,23.0,16.0,14.0,14.0
+234,Painting workers,8005.0,29.0,27.0,34.0,22.0,15.0,9.0
+235,Tax preparers,7970.0,52.0,36.0,17.0,13.0,13.0,8.0
+236,"Electrical, electronics, and electromechanical assemblers",7825.0,48.0,43.0,20.0,17.0,17.0,13.0
+237,"Miscellaneous community and social service specialists, including health educators and community health workers",7730.0,34.0,27.0,38.0,13.0,20.0,7.0
+238,Miscellaneous media and communication workers,7680.0,39.0,37.0,22.0,21.0,19.0,9.0
+239,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",7620.0,39.0,33.0,26.0,12.0,6.0,9.0
+240,Web developers,7590.0,23.0,24.0,51.0,8.0,19.0,9.0
+241,Postal service clerks,7555.0,54.0,36.0,23.0,16.0,20.0,9.0
+242,Logisticians,7485.0,36.0,41.0,26.0,21.0,12.0,7.0
+243,Crossing guards,7470.0,51.0,42.0,29.0,14.0,17.0,9.0
+244,"Brickmasons, blockmasons, and stonemasons",7460.0,33.0,52.0,22.0,27.0,16.0,8.0
+245,Highway maintenance workers,7450.0,35.0,48.0,12.0,26.0,14.0,9.0
+246,Radio and telecommunications equipment installers and repairers,7360.0,26.0,47.0,20.0,17.0,17.0,6.0
+247,"Securities, commodities, and financial services sales agents",7320.0,26.0,46.0,20.0,20.0,10.0,7.0
+248,"Motor vehicle operators, all other",7290.0,32.0,58.0,26.0,13.0,15.0,5.0
+249,Other healthcare practitioners and technical occupations,7250.0,26.0,38.0,28.0,23.0,8.0,3.0
+250,Stationary engineers and boiler operators,6970.0,32.0,45.0,12.0,26.0,6.0,6.0
+251,"Mail clerks and mail machine operators, except postal service",6925.0,37.0,22.0,35.0,15.0,26.0,9.0
+252,Lodging managers,6905.0,37.0,30.0,17.0,30.0,11.0,4.0
+253,Computer control programmers and operators,6900.0,26.0,38.0,28.0,27.0,8.0,4.0
+254,Computer operators,6875.0,40.0,24.0,24.0,21.0,18.0,9.0
+255,Advertising sales agents,6840.0,27.0,36.0,36.0,21.0,12.0,9.0
+256,Construction and building inspectors,6840.0,36.0,57.0,13.0,12.0,3.0,3.0
+257,Electrical and electronics engineers,6800.0,29.0,60.0,19.0,18.0,10.0,8.0
+258,Public relations specialists,6630.0,26.0,31.0,29.0,21.0,14.0,7.0
+259,"Architects, except naval",6540.0,33.0,45.0,27.0,21.0,15.0,8.0
+260,"Library assistants, clerical",6530.0,33.0,21.0,36.0,20.0,13.0,7.0
+261,"Information and record clerks, all other",6455.0,41.0,17.0,26.0,14.0,17.0,3.0
+262,"Lifeguards and other recreational, and all other protective service workers",6390.0,20.0,19.0,45.0,19.0,10.0,4.0
+263,"Other education, training, and library workers",6170.0,38.0,34.0,31.0,18.0,13.0,5.0
+264,"Physical scientists, all other",6125.0,26.0,34.0,31.0,15.0,7.0,15.0
+265,Water and wastewater treatment plant and system operators,6015.0,24.0,61.0,27.0,15.0,16.0,8.0
+266,Appraisers and assessors of real estate,5430.0,25.0,46.0,16.0,25.0,8.0,4.0
+267,"Religious workers, all other",5415.0,41.0,34.0,24.0,19.0,11.0,11.0
+268,Residential advisors,5110.0,19.0,22.0,46.0,19.0,17.0,4.0

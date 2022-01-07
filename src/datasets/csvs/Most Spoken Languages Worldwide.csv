@@ -1,0 +1,92 @@
+id,Rank,Language,Speakers in millions,Percentage of world population,Language family,Branch
+1,1.0,Mandarin Chinese,918.0,11.922,Sino-Tibetan,Sinitic
+2,2.0,Spanish,480.0,5.994,Indo-European,Romance
+3,3.0,English,379.0,4.922,Indo-European,Germanic
+4,4.0,Hindi (Sanskritised Hindustani)[9],341.0,4.429,Indo-European,Indo-Aryan
+5,5.0,Bengali,228.0,2.961,Indo-European,Indo-Aryan
+6,6.0,Portuguese,221.0,2.87,Indo-European,Romance
+7,7.0,Russian,154.0,2.0,Indo-European,Balto-Slavic
+8,8.0,Japanese,128.0,1.662,Japonic,Japanese
+9,9.0,Western Punjabi[10],92.7,1.204,Indo-European,Indo-Aryan
+10,10.0,Marathi,83.1,1.079,Indo-European,Indo-Aryan
+11,11.0,Telugu,82.0,1.065,Dravidian,South-Central
+12,12.0,Wu Chinese,81.4,1.057,Sino-Tibetan,Sinitic
+13,13.0,Turkish,79.4,1.031,Turkic,Oghuz
+14,14.0,Korean,77.3,1.004,Koreanic,language isolate
+15,15.0,French,77.2,1.003,Indo-European,Romance
+16,16.0,German,76.1,0.988,Indo-European,Germanic
+17,17.0,Vietnamese,76.0,0.987,Austroasiatic,Vietic
+18,18.0,Tamil,75.0,0.974,Dravidian,South
+19,19.0,Yue Chinese,73.1,0.949,Sino-Tibetan,Sinitic
+20,20.0,Urdu (Persianised Hindustani)[9],68.6,0.891,Indo-European,Indo-Aryan
+21,21.0,Javanese,68.3,0.887,Austronesian,Malayo-Polynesian
+22,22.0,Italian,64.8,0.842,Indo-European,Romance
+23,23.0,Egyptian Arabic,64.6,0.839,Afroasiatic,Semitic
+24,24.0,Gujarati,56.4,0.732,Indo-European,Indo-Aryan
+25,25.0,Iranian Persian,52.8,0.686,Indo-European,Iranian
+26,26.0,Bhojpuri,52.2,0.678,Indo-European,Indo-Aryan
+27,27.0,Min Nan Chinese,50.1,0.651,Sino-Tibetan,Sinitic
+28,28.0,Hakka Chinese,48.2,0.626,Sino-Tibetan,Sinitic
+29,29.0,Jin Chinese,46.9,0.609,Sino-Tibetan,Sinitic
+30,30.0,Hausa,43.9,0.57,Afroasiatic,Chadic
+31,31.0,Kannada,43.6,0.566,Dravidian,South
+32,32.0,Indonesian (Indonesian Malay),43.4,0.564,Austronesian,Malayo-Polynesian
+33,33.0,Polish,39.7,0.516,Indo-European,Balto-Slavic
+34,34.0,Yoruba,37.8,0.491,Niger–Congo,Volta–Niger
+35,35.0,Xiang Chinese,37.3,0.484,Sino-Tibetan,Sinitic
+36,36.0,Malayalam,37.1,0.482,Dravidian,South
+37,37.0,Odia,34.5,0.448,Indo-European,Indo-Aryan
+38,38.0,Maithili,33.9,0.44,Indo-European,Indo-Aryan
+39,39.0,Burmese,32.9,0.427,Sino-Tibetan,Lolo-Burmese
+40,40.0,Eastern Punjabi[10],32.6,0.423,Indo-European,Indo-Aryan
+41,41.0,Sunda,32.4,0.421,Austronesian,Malayo-Polynesian
+42,42.0,Sudanese Arabic,31.9,0.414,Afroasiatic,Semitic
+43,43.0,Algerian Arabic,29.4,0.382,Afroasiatic,Semitic
+44,44.0,Moroccan Arabic,27.5,0.357,Afroasiatic,Semitic
+45,45.0,Ukrainian,27.3,0.355,Indo-European,Balto-Slavic
+46,46.0,Igbo,27.0,0.351,Niger–Congo,Volta–Niger
+47,47.0,Northern Uzbek,25.1,0.326,Turkic,Karluk
+48,48.0,Sindhi,24.6,0.319,Indo-European,Indo-Aryan
+49,49.0,North Levantine Arabic,24.6,0.319,Afroasiatic,Semitic
+50,50.0,Romanian,24.3,0.316,Indo-European,Romance
+51,51.0,Tagalog,23.6,0.306,Austronesian,Malayo-Polynesian
+52,52.0,Dutch,23.1,0.3,Indo-European,Germanic
+53,53.0,Saʽidi Arabic,22.4,0.291,Afroasiatic,Semitic
+54,54.0,Gan Chinese,22.1,0.287,Sino-Tibetan,Sinitic
+55,55.0,Amharic,21.9,0.284,Afroasiatic,Semitic
+56,56.0,Northern Pashto,20.9,0.271,Indo-European,Iranian
+57,57.0,Magahi,20.7,0.269,Indo-European,Indo-Aryan
+58,58.0,Thai,20.7,0.269,Kra–Dai,Tai
+59,59.0,Saraiki,20.0,0.26,Indo-European,Indo-Aryan
+60,60.0,Khmer,16.6,0.216,Austroasiatic,Khmer
+61,61.0,Chhattisgarhi,16.3,0.212,Indo-European,Indo-Aryan
+62,62.0,Somali,16.2,0.21,Afroasiatic,Cushitic
+63,63.0,Malay (Malaysian Malay),16.1,0.209,Austronesian,Malayo-Polynesian
+64,64.0,Cebuano,15.9,0.206,Austronesian,Malayo-Polynesian
+65,65.0,Nepali,15.8,0.205,Indo-European,Indo-Aryan
+66,66.0,Mesopotamian Arabic,15.7,0.204,Afroasiatic,Semitic
+67,67.0,Assamese,15.3,0.199,Indo-European,Indo-Aryan
+68,68.0,Sinhalese,15.3,0.199,Indo-European,Indo-Aryan
+69,69.0,Northern Kurdish,14.6,0.19,Indo-European,Iranian
+70,70.0,Hejazi Arabic,14.5,0.188,Afroasiatic,Semitic
+71,71.0,Nigerian Fulfulde,14.5,0.188,Niger–Congo,Senegambian
+72,72.0,Bavarian,14.1,0.183,Indo-European,Germanic
+73,73.0,South Azerbaijani,13.8,0.179,Turkic,Oghuz
+74,74.0,Greek,13.1,0.17,Indo-European,Hellenic
+75,75.0,Chittagonian,13.0,0.169,Indo-European,Indo-Aryan
+76,76.0,Kazakh,12.9,0.168,Turkic,Kipchak
+77,77.0,Deccan,12.8,0.166,Indo-European,Indo-Aryan
+78,78.0,Hungarian,12.6,0.164,Uralic,Ugric
+79,79.0,Kinyarwanda,12.1,0.157,Niger–Congo,Bantu
+80,80.0,Zulu,12.1,0.157,Niger–Congo,Bantu
+81,81.0,South Levantine Arabic,11.6,0.151,Afroasiatic,Semitic
+82,82.0,Tunisian Arabic,11.6,0.151,Afroasiatic,Semitic
+83,83.0,Sanaani Spoken Arabic,11.4,0.148,Afroasiatic,Semitic
+84,84.0,Min Bei Chinese,11.0,0.143,Sino-Tibetan,Sinitic
+85,85.0,Southern Pashto,10.9,0.142,Indo-European,Iranian
+86,86.0,Rundi,10.8,0.14,Niger–Congo,Bantu
+87,87.0,Czech,10.7,0.139,Indo-European,Balto-Slavic
+88,88.0,Taʽizzi-Adeni Arabic,10.5,0.136,Afroasiatic,Semitic
+89,89.0,Uyghur,10.4,0.135,Turkic,Karluk
+90,90.0,Min Dong Chinese,10.3,0.134,Sino-Tibetan,Sinitic
+91,91.0,Sylheti,10.3,0.134,Indo-European,Indo-Aryan

@@ -1,0 +1,13 @@
+id,Conference,Team,City,Arena,Capacity,Joined,Head coach,Image
+1,Eastern,Atlanta Dream,"College Park, Georgia",Gateway Center Arena,3500.0,2008.0,Nicki Collen,https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Atlanta_Dream_logo.svg/440px-Atlanta_Dream_logo.svg.png
+2,Eastern,Chicago Sky,"Chicago, Illinois",Wintrust Arena,10387.0,2006.0,James Wade,https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Chicago_Sky_logo.svg/440px-Chicago_Sky_logo.svg.png
+3,Eastern,Connecticut Sun,"Uncasville, Connecticut",Mohegan Sun Arena,9323.0,1999.0,Curt Miller,https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Connecticut_Sun_logo.svg/440px-Connecticut_Sun_logo.svg.png
+4,Eastern,Indiana Fever,"Indianapolis, Indiana",Hinkle Fieldhouse[note 1],9100.0,2000.0,Marianne Stanley,https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/440px-Indiana_Fever_logo.svg.png
+5,Eastern,New York Liberty,"Brooklyn, New York",Barclays Center,17732.0,1997.0,Walt Hopkins,https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/New_York_Liberty_logo.svg/440px-New_York_Liberty_logo.svg.png
+6,Eastern,Washington Mystics,"Washington, D.C.",Entertainment and Sports Arena,4200.0,1998.0,Mike Thibault,https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Washington_Mystics_logo.svg/440px-Washington_Mystics_logo.svg.png
+7,Western,Dallas Wings,"Arlington, Texas",College Park Center,7000.0,1998.0,Brian Agler,https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Dallas_Wings_logo.svg/440px-Dallas_Wings_logo.svg.png
+8,Western,Las Vegas Aces,"Paradise, Nevada",Mandalay Bay Events Center,12000.0,1997.0,Bill Laimbeer,https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Las_Vegas_Aces_logo.svg/440px-Las_Vegas_Aces_logo.svg.png
+9,Western,Los Angeles Sparks,"Los Angeles, California",Staples Center,18997.0,1997.0,Derek Fisher,https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Los_Angeles_Sparks_logo.svg/440px-Los_Angeles_Sparks_logo.svg.png
+10,Western,Minnesota Lynx,"Minneapolis, Minnesota",Target Center,19356.0,1999.0,Cheryl Reeve,https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Minnesota_Lynx_logo.svg/440px-Minnesota_Lynx_logo.svg.png
+11,Western,Phoenix Mercury,"Phoenix, Arizona",Arizona Veterans Memorial Coliseum[note 3],14870.0,1997.0,Sandy Brondello,https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Phoenix_Mercury_logo.svg/440px-Phoenix_Mercury_logo.svg.png
+12,Western,Seattle Storm,"Seattle, Washington",Alaska Airlines Arena,10000.0,2000.0,Dan Hughes,https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Seattle_Storm_logo.svg/440px-Seattle_Storm_logo.svg.png

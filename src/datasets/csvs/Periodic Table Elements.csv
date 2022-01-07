@@ -1,0 +1,119 @@
+id,Period Number,Name,Symbol,Atomic Number,Atomic Weight,Melting Point,Boiling Point,Density,Phase at Room Temperature,Atom Classification,Group,Uses
+1,1.0,Hydrogen,H,1.0,1.00794,-434.81,-423.17,8.988e-05,Gas,Non-metal,No definitive group,"Sun and Stars, Water"
+2,1.0,Helium,He,2.0,4.002602,-458.0,-452.07,0.0001785,Gas,Non-metal,Noble Gas,"Ballons, Lasers, Refrigerants"
+3,2.0,Lithium,Li,3.0,6.941,356.9,2448.0,0.534,Solid,Metal,Alkali Metals,"Batteries, Ceramic Cookware"
+4,2.0,Beryllium,Be,4.0,9.1021831,2349.0,4480.0,1.85,Solid,Metal,Alkali Earth Metals,"Emeralds, Copper Alloy Tools"
+5,2.0,Boron,B,5.0,10.811,3767.0,7232.0,2.37,Solid,Semi-metal,Metalloids,"Sports Equipment, Fertilizer, Soap"
+6,2.0,Carbon,C,6.0,12.0107,6422.0,6917.0,2.267,Solid,Non-metal,Non-metal,"Building Block of Life, Wood, Paper, Oil, Plastic"
+7,2.0,Nitrogen,N,7.0,14.00674,-346.0,-320.44,0.0012506,Gas,Non-metal,Non-metal,"Muscles, DNA, Fertilizer, Refrigerants"
+8,2.0,Oxygen,O,8.0,15.9994,-361.82,-297.31,0.001429,Gas,Non-metal,Non-metal,"Air, Earth's Crust, Minerals"
+9,2.0,Fluorine,F,9.0,18.9984032,-363.32,-306.62,0.001696,Gas,Non-metal,Halogens,"Toothpaste, Refrigerants, Nonstick Cookware"
+10,2.0,Neon,Ne,10.0,20.1797,-415.46,-410.94,0.0008999,Gas,Non-metal,Noble Gas,Advertising Signs
+11,3.0,Sodium,Na,11.0,22.9897693,208.04,1621.0,0.97,Solid,Metal,Alkali Metals,"Salt, Soap, Glass, Street Lamps"
+12,3.0,Magnesium,Mg,12.0,24.305,1202.0,1994.0,1.74,Solid,Metal,Alkali Earth Metals,"Chlorophyll, Aluminum Alloys, Cars, Planes, Bikes"
+13,3.0,Aluminum,Al,13.0,26.9815385,1220.581,4566.0,2.7,Solid,Metal,Poor Metals,"Airplanes, Cars, Bikes, Granite, Clay, Ceramics, Kitchenware"
+14,3.0,Silicon,Si,14.0,28.0855,2577.0,5909.0,2.3296,Solid,Semi-metal,Metalloids,"Stone, Sand, Soil, Ceramics, Glass, Computer Chips"
+15,3.0,Phosphorus,P,15.0,30.973762,111.47,536.9,1.82,Solid,Non-metal,Non-metal,"Bones, DNA, Fertilizer, Acids, Detergent, Matches"
+16,3.0,Sulfur,S,16.0,32.066,239.38,832.28,2.067,Solid,Non-metal,Non-metal,"Eggs, Onions, Garlic, Volcans, Acids"
+17,3.0,Chlorine,Cl,17.0,35.4527,-150.7,-29.27,0.003214,Gas,Non-metal,Halogens,"Swimming Pools, Salt, Acid, Disinfectant"
+18,3.0,Argon,Ar,18.0,39.948,-308.83,-302.53,0.0017837,Gas,Non-metal,Noble Gas,"Light Bulbs, Lasers"
+19,4.0,Potassium,K,19.0,39.0983,146.08,1398.0,0.89,Solid,Metal,Alkali Metals,"Fruits, Vegetables, Salt, Fertilizer, Soap, Matches, Gunpowder"
+20,4.0,Calcium,Ca,20.0,40.078,1548.0,2703.0,1.54,Solid,Metal,Alkali Earth Metals,"Shells, Bones, Milk, Cement"
+21,4.0,Scandium,Sc,21.0,44.955908,2806.0,5137.0,2.99,Solid,Metal,Transition Metals,"Aluminum Alloys, Racing Bikes"
+22,4.0,Titanium,Ti,22.0,47.867,3034.0,5949.0,4.5,Solid,Metal,Transition Metals,"Racing Bikes, Artifical Joints"
+23,4.0,Vanadium,V,23.0,50.9415,3470.0,6165.0,6.0,Solid,Metal,Transition Metals,"Springs, Steel"
+24,4.0,Chromium,Cr,24.0,51.9961,3465.0,4840.0,7.15,Solid,Metal,Transition Metals,"Stainless Steel, Kitchenware, Paints"
+25,4.0,Manganese,Mn,25.0,54.938044,2275.0,3742.0,7.3,Solid,Metal,Transition Metals,"Construction Vehicles, Fertilizer, Batteries, Axes"
+26,4.0,Iron,Fe,26.0,55.845,2800.0,5182.0,7.874,Solid,Metal,Transition Metals,"Steel Alloys, Magnets, Earth's Core, Blood"
+27,4.0,Cobalt,Co,27.0,58.933194,2723.0,5301.0,8.86,Solid,Metal,Transition Metals,"Magnets, Turbines"
+28,4.0,Nickel,Ni,28.0,58.6934,2651.0,5275.0,8.912,Solid,Metal,Transition Metals,"Coins, Stainless Steel, Kitchenware, Earth's Core"
+29,4.0,Copper,Cu,29.0,63.546,1984.32,4644.0,8.933,Solid,Metal,Transition Metals,"Electric Wires, Kitchenware, Brass, Bronze, Coins, Pipes"
+30,4.0,Zinc,Zn,30.0,65.38,787.15,1655.0,7.134,Solid,Metal,Transition Metals,Brass Instruments
+31,4.0,Gallium,Ga,31.0,69.723,85.57,3999.0,5.91,Solid,Metal,Poor Metals,"LEDs, Tiny Lasers"
+32,4.0,Germanium,Ge,32.0,72.63,1720.85,5131.0,5.323,Solid,Semi-metal,Poor Metals,"Semiconductor Electronics, Infrared Windows"
+33,4.0,Arsenic,As,33.0,74.921595,1503.0,1137.0,5.776,Solid,Semi-metal,Metalloids,"Poison, Semiconductor Electronics, Tiny Lasers"
+34,4.0,Selenium,Se,34.0,78.971,428.9,1265.0,4.809,Solid,Non-metal,Non-metal,"Copier Machines, Rubber"
+35,4.0,Bromine,Br,35.0,79.904,19.0,137.8,3.11,Liquid,Non-metal,Halogens,"Photography Film, Disinfectant, Swimming Pools"
+36,4.0,Krypton,Kr,36.0,83.798,-251.25,-243.8,0.003733,Gas,Non-metal,Noble Gas,"Flashlights, Laser"
+37,5.0,Rubidum,Rb,37.0,85.4678,102.76,1270.0,1.53,Solid,Metal,Alkali Metals,"Global Navigation, Vacuum Tube"
+38,5.0,Strontium,Sr,38.0,87.62,1431.0,2520.0,2.64,Solid,Metal,Alkali Earth Metals,"Fireworks, Nuclear Batteries"
+39,5.0,Yttrium,Y,39.0,88.90584,2772.0,6053.0,4.47,Solid,Metal,Transition Metals,"Lasers, Furnace Bricks"
+40,5.0,Zirconium,Zr,40.0,91.224,3371.0,7968.0,6.52,Solid,Metal,Transition Metals,"Chemical Pipelines, Nuclear Reactors, Furnace Bricks"
+41,5.0,Niobium,Nb,41.0,92.90637,4491.0,8571.0,8.57,Solid,Metal,Transition Metals,"Magnetic Levitation Trains, Chemical Pipelines"
+42,5.0,Molybdenum,Mo,42.0,95.95,4753.0,8382.0,10.2,Solid,Metal,Transition Metals,"Scissors, Drill Bits, Fertilizer"
+43,5.0,Technetium,Tc,43.0,98.0,3915.0,7709.0,11.0,Solid,Metal,Transition Metals,Stars
+44,5.0,Ruthenium,Ru,44.0,101.07,4233.0,7502.0,12.1,Solid,Metal,Transition Metals,"Electric Switches, Pen Points"
+45,5.0,Rhodium,Rh,45.0,102.9055,3567.0,6683.0,12.4,Solid,Metal,Transition Metals,"Searchlight Reflectors, Labware, Pollution Contro"
+46,5.0,Palladium,Pd,46.0,106.42,2830.8,5365.0,12.0,Solid,Metal,Transition Metals,"Pollution Control, Labware, Dentistry"
+47,5.0,Silver,Ag,47.0,107.8682,1763.2,3924.0,10.501,Solid,Metal,Transition Metals,"Jewerly, Silverware, Coins, Dentistry, Photography Film"
+48,5.0,Cadmium,Cd,48.0,112.414,609.93,1413.0,8.69,Solid,Metal,Transition Metals,"Paint, Fire Sprinklers"
+49,5.0,Indium,In,49.0,114.818,313.88,3762.0,7.31,Solid,Metal,Poor Metals,"Semiconductor Electronics, Glass Coatings"
+50,5.0,Tin,Sn,50.0,118.71,449.47,4715.0,7.287,Solid,Metal,Poor Metals,"Food Cans, Fire Sprinklers, Bronze"
+51,5.0,Antimony,Sb,51.0,121.76,1167.13,2889.0,6.685,Solid,Semi-metal,Poor Metals,"Car Batteries, Batteries, Bullets, Matches, Flame Retardant, Semiconductor Electronics"
+52,5.0,Tellurium,Te,52.0,127.6,841.12,1810.0,6.232,Solid,Semi-metal,Metalloids,"Thermoelectric Coolers, Computer Disks, Copy Machines, Semiconductor Electronics"
+53,5.0,Iodine,In,53.0,126.90447,236.7,364.0,4.93,Solid,Non-metal,Halogens,"Disinfectant, Photography Film"
+54,5.0,Xenon,Xe,54.0,131.293,-169.22,-162.62,0.005887,Gas,Non-metal,Noble Gas,"Lamps, Stadium Lamps, Lasers"
+55,6.0,Cesium,Cs,55.0,132.905452,83.19,1240.0,1.93,Solid,Metal,Alkali Metals,"Global Navigation, Vacuum Tube"
+56,6.0,Barium,Ba,56.0,137.327,1341.0,3447.0,3.62,Solid,Metal,Alkali Earth Metals,"Platics, Paper, Fireworks"
+57,6.0,Lanthanum,La,57.0,138.90547,1684.0,6267.0,6.15,Solid,Metal,Rare Earth Metals,"Glasses, Telescope, Camera Lenses"
+58,6.0,Cerium,Ce,58.0,140.116,1468.0,6195.0,6.77,Solid,Metal,Rare Earth Metals,"Gap Lamps, Lighters"
+59,6.0,Praseodymium,Pr,59.0,140.90766,1708.0,6368.0,6.77,Solid,Metal,Rare Earth Metals,"Lighters, Glass, Magnets"
+60,6.0,Neodymium,Nd,60.0,144.242,1870.0,5565.0,7.01,Solid,Metal,Rare Earth Metals,"Speakers, Headphones, Lasers"
+61,6.0,Promethium,Pm,61.0,145.0,1908.0,5432.0,7.26,Solid,Metal,Rare Earth Metals,Luminous Dials
+62,6.0,Samarium,Sm,62.0,150.36,1965.0,3261.0,7.52,Solid,Metal,Rare Earth Metals,"Speakers, Headphones"
+63,6.0,Europium,Eu,63.0,151.964,1512.0,2784.0,5.24,Solid,Metal,Rare Earth Metals,"Television, Lasers"
+64,6.0,Gadolinium,Gd,64.0,157.25,2395.0,5923.0,7.9,Solid,Metal,Rare Earth Metals,MRI Machines
+65,6.0,Terbium,Tb,65.0,158.92535,2473.0,5846.0,8.23,Solid,Metal,Rare Earth Metals,"Fluorescent Lamps, Computer Disks, Television"
+66,6.0,Dysprosium,Dy,66.0,162.5,2574.0,4653.0,8.55,Solid,Metal,Rare Earth Metals,Computer Disks
+67,6.0,Holmium,Ho,67.0,164.93033,2685.0,4892.0,8.8,Solid,Metal,Rare Earth Metals,"Laser Surgery, Computer Disks"
+68,6.0,Erbium,Er,68.0,167.259,2784.0,5194.0,9.07,Solid,Metal,Rare Earth Metals,"Fiber Optic Cables, Glass, Sunglasses, Laser Surgery"
+69,6.0,Thulium,Tm,69.0,168.93422,2813.0,3542.0,9.32,Solid,Metal,Rare Earth Metals,"Laser Surgery, Lasers"
+70,6.0,Ytterbium,Yb,70.0,173.045,1506.0,2185.0,7.9,Solid,Metal,Rare Earth Metals,"Stainless Steel, Lasers"
+71,6.0,Lutetium,Lu,71.0,174.9668,3025.0,6156.0,9.84,Solid,Metal,Rare Earth Metals,Photodynamic Medicine
+72,6.0,Hafnium,Hf,72.0,178.49,4051.0,8317.0,13.3,Solid,Metal,Transition Metals,Nuclear Submarines
+73,6.0,Tantalum,Ta,73.0,180.94788,5463.0,9856.0,16.4,Solid,Metal,Transition Metals,"Mobile Phones, Artifical Joints, Labware"
+74,6.0,Tungsten,W,74.0,183.84,6192.0,10031.0,19.3,Solid,Metal,Transition Metals,Scissors
+75,6.0,Rhenium,Re,75.0,186.207,5767.0,10105.0,20.8,Solid,Metal,Transition Metals,Rocket Engines
+76,6.0,Osmium,Os,76.0,190.23,5491.0,9054.0,22.57,Solid,Metal,Transition Metals,Pen Points
+77,6.0,Iridium,Ir,77.0,192.217,4435.0,8002.0,22.42,Solid,Metal,Transition Metals,"Spark Plugs, Pen Points, Needles, Labware"
+78,6.0,Platinum,Pt,78.0,195.084,3215.1,6917.0,21.46,Solid,Metal,Transition Metals,"Labware, Spark Plugs, Pollution Control"
+79,6.0,Gold,Au,79.0,196.966569,1947.52,5173.0,19.282,Solid,Metal,Transition Metals,"Jewerly, Coins"
+80,6.0,Mercury,Hg,80.0,200.592,-37.89,674.11,13.5336,Liquid,Metal,Transition Metals,"Thermometers, Dentistry, Street Lamps"
+81,6.0,Thallium,Tl,81.0,204.3833,579.0,2683.0,11.8,Solid,Metal,Poor Metals,Thermometers
+82,6.0,Lead,Pb,82.0,207.2,621.43,3180.0,11.342,Solid,Metal,Poor Metals,"Lead, Batteriesm Bullets"
+83,6.0,Bismuth,Bi,83.0,208.9804,520.52,2847.0,9.807,Solid,Metal,Poor Metals,"Fire Sprinklers, Fuses"
+84,6.0,Polonium,Po,84.0,209.0,489.0,1764.0,9.31,Solid,Metal,Poor Metals,Tobacco
+85,6.0,Astatine,At,85.0,210.0,576.0,Unknown,7.0,Solid,Semi-metal,Halogens,Cancer Medicine
+86,6.0,Radon,Rn,86.0,222.0,-96.0,-79.1,0.00973,Gas,Non-metal,Noble Gas,Cancer Medicine
+87,7.0,Francium,Fr,87.0,223.0,81.0,Unknown,Unknown,Solid,Metal,Alkali Metals,Laser Atom Traps
+88,7.0,Radium,Ra,88.0,226.0,1292.0,2084.0,5.0,Solid,Metal,Alkali Earth Metals,Luminous Watches
+89,7.0,Actinium,Ac,89.0,227.0,1924.0,5788.0,10.07,Solid,Metal,Actinide Metals,Cancer Medicine
+90,7.0,Thorium,Th,90.0,232.0377,3182.0,8650.0,11.72,Solid,Metal,Actinide Metals,"Gas Lamps, Nuclear Fuel"
+91,7.0,Protactinium,Pa,91.0,231.03588,2862.0,Unknown,15.37,Solid,Metal,Actinide Metals,Radioactive Waste
+92,7.0,Uranium,U,92.0,238.02891,2075.0,7468.0,18.95,Solid,Metal,Actinide Metals,"Nuclear Fuel, Nuclear Weapons"
+93,7.0,Neptunium,Np,93.0,237.0,1191.0,7065.0,20.25,Solid,Metal,Actinide Metals,Radioactive Waste
+94,7.0,Plutonium,Pu,94.0,244.0,1184.0,5842.0,19.84,Solid,Metal,Actinide Metals,Nuclear Weapons
+95,7.0,Americium,Am,95.0,243.0,2149.0,3652.0,13.79,Solid,Metal,Actinide Metals,Smoke Detectors
+96,7.0,Curium,Cm,96.0,247.0,2453.0,5600.0,13.51,Solid,Metal,Actinide Metals,Scientific Instruments
+97,7.0,Berkelium,Bk,97.0,247.0,1922.0,Unknown,14.0,Solid,Metal,Actinide Metals,Radioactive Waste
+98,7.0,Californium,Cf,98.0,251.0,1652.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Scientific Instruments
+99,7.0,Einsteinium,Es,99.0,252.0,1580.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature
+100,7.0,Fermium,Fm,100.0,257.0,2781.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature
+101,7.0,Mendelevium,Md,101.0,258.0,1521.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature
+102,7.0,Nobelium,No,102.0,259.0,1520.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature
+103,7.0,Lawrencium,Lr,103.0,262.0,2961.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature
+104,7.0,Rutherfordium,Rf,104.0,263.0,Unknown,Unknown,Unknown,Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+105,7.0,Dubnium,Db,105.0,268.0,Unknown,Unknown,Unknown,Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+106,7.0,Seaborgium,Sg,106.0,271.0,Unknown,Unknown,Unknown,Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+107,7.0,Bogrium,Bh,107.0,270.0,Unknown,Unknown,Unknown,Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+108,7.0,Hassium,Hs,108.0,270.0,Unknown,Unknown,Unknown,Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+109,7.0,Meitnerium,Mt,109.0,278.0,Unknown,Unknown,Unknown,Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+110,7.0,Darmstadtium,Ds,110.0,281.0,Unknown,Unknown,Unknown,Expected to be Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+111,7.0,Roentgenium,Rg,111.0,281.0,Unknown,Unknown,Unknown,Expected to be Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+112,7.0,Copernicium,Cn,112.0,285.0,Unknown,Unknown,Unknown,Expected to be Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+113,7.0,Nihonium,Nh,113.0,286.0,Unknown,Unknown,Unknown,Expected to be Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+114,7.0,Flerovium,Fl,114.0,289.0,Unknown,Unknown,Unknown,Expected to be Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+115,7.0,Moscovium,Mc,115.0,289.0,Unknown,Unknown,Unknown,Expected to be Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+116,7.0,Livermorium,Lv,116.0,293.0,Unknown,Unknown,Unknown,Expected to be Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature
+117,7.0,Tennessine,Ts,117.0,294.0,Unknown,Unknown,Unknown,Expected to be Solid,Unknown,Superheavy Elements,Radioactive and Never Found in Nature
+118,7.0,Oganesson,Og,118.0,294.0,Unknown,Unknown,Unknown,Expected to be Solid,Non-metal,Superheavy Elements,Radioactive and Never Found in Nature

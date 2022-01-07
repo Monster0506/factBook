@@ -1,0 +1,10 @@
+id,Planet,Diameter,Density,Gravity,Rotation period,Length of day,Distance from sun,Orbital period,Orbital velocity,Orbital inclination,Mean temperature,Number of moons,Has ring system,Has global magnetic field,Picture
+1,Mercury,4879.0,5427.0,3.7,1407.6,4222.6,57.9,88.0,47.4,7.0,167.0,0.0,No,Yes,https://scitechdaily.com/images/Iridescent-Mercury.jpg
+2,Venus,12104.0,5243.0,8.9,-5832.5,2802.0,108.2,224.7,35.0,3.4,464.0,0.0,No,No,https://media.wired.com/photos/5e59ad2b79c7100008eb6ae8/master/pass/photo_space_venus_1_S91-50688.jpg
+3,Earth,12756.0,5514.0,9.8,23.9,24.0,149.6,365.2,29.8,0.0,15.0,1.0,No,Yes,https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+4,Mars,6792.0,3933.0,3.7,24.6,24.7,227.9,687.0,24.1,1.9,-65.0,2.0,No,No,https://space-facts.com/wp-content/uploads/mars.jpg
+5,Jupiter,142984.0,1326.0,23.1,9.9,9.9,778.6,4331.0,13.1,1.3,-110.0,79.0,Yes,Yes,https://nineplanets.org/wp-content/uploads/2019/12/Jupiter_NASAs_Hubble_Space_Telescope_June_2019jpg-300x288.jpg
+6,Saturn,120536.0,687.0,9.0,10.7,10.7,1433.5,10747.0,9.7,2.5,-140.0,62.0,Yes,Yes,https://mk0astronomynow9oh6g.kinstacdn.com/wp-content/uploads/2019/06/Saturn_at_opposition_9Jul2019_1564x1173.png
+7,Uranus,51118.0,1271.0,8.7,-17.2,17.2,2872.5,30589.0,6.8,0.8,-195.0,27.0,Yes,Yes,https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/uranus-1585338466.jpg
+8,Neptune,49528.0,1638.0,11.0,16.1,16.1,4495.1,59800.0,5.4,1.8,-200.0,14.0,Yes,Yes,https://scx2.b-cdn.net/gfx/news/2019/30yearsagovo.jpg
+9,Pluto,2370.0,2095.0,0.7,-153.3,153.3,5906.4,90560.0,4.7,17.2,-225.0,5.0,No,Unknown,https://scx2.b-cdn.net/gfx/news/2019/2-newhorizonst.jpg

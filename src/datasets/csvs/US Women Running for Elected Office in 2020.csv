@@ -1,0 +1,728 @@
+id,State,Office,First Name,Last Name,Party,Seat Status,Primary,General,Race
+1,ND,Insurance,Travisia,Martin,D,C,W,Lost primary,B/NA/W
+2,AK,U.S. Rep.,Alyse,Galvin,D,C,W,L,W
+3,AL,P.S.C.,Laura,Casey,D,C,W,L,W
+4,AL,U.S. Rep.,Phyllis,Harvey-Hall,D,O,W,L,B
+5,AL,U.S. Rep.,Adia,Winfrey,D,C,W,L,B
+6,AR,U.S. Rep.,Joyce,Elliott,D,C,W,L,B
+7,AR,U.S. Rep.,Celeste,Williams,D,C,W,L,W
+8,AZ,Corp Comm,Shea,Stanfield,D,O,W,L,W
+9,AZ,U.S. Rep.,Delina,DiSanto,D,C,W,L,W
+10,AZ,U.S. Rep.,Joan,Greene,D,C,W,L,W
+11,AZ,U.S. Rep.,Tiffany,Shedd,R,C,W,L,W
+12,AZ,U.S. Rep.,Hiral,Tipirneni,D,C,W,L,AP
+13,AZ,U.S. Sen.,Martha,McSally,R,I,W,L,W
+14,CA,U.S. Rep.,Ronda,Baldwin-Kennedy,R,C,W,L,B
+15,CA,U.S. Rep.,Chris,Bish,R,C,W,L,W
+16,CA,U.S. Rep.,Chris,Bubser,D,O,W,L,W
+17,CA,U.S. Rep.,Erin,Cruz,R,C,W,L,W
+18,CA,U.S. Rep.,Audrey,Denney,D,C,W,L,W
+19,CA,U.S. Rep.,Angelica,Duenas,D,C,W,L,H
+20,CA,U.S. Rep.,Agnes,Gibboney,R,C,W,L,W
+21,CA,U.S. Rep.,Georgette,Gomez,D,O,W,L,H
+22,CA,U.S. Rep.,Tamika,Hamilton,R,C,W,L,B
+23,CA,U.S. Rep.,Alison,Hayden,R,C,W,L,W
+24,CA,U.S. Rep.,Analilia,Joya,D,C,W,L,sent email 7/27/20
+25,CA,U.S. Rep.,Brynne,Kennedy,D,C,W,L,W
+26,CA,U.S. Rep.,Kim,Mangone,D,C,W,L,W
+27,CA,U.S. Rep.,Nisha,Sharma,R,C,W,L,AP
+28,CA,U.S. Rep.,Christy,Smith,D,C,W,L,W
+29,CA,U.S. Rep.,Aja,Smith,R,C,W,L,B
+30,CO,U.S. Rep.,Jillian,Freeland,D,C,W,L,W
+31,CO,U.S. Rep.,Diane,Mitsch Bush,D,O,W,L,W
+32,CT,U.S. Rep.,Mary,Fay,R,C,W,L,W
+33,CT,U.S. Rep.,Margaret,Streicker,R,C,W,L,W
+34,DE,Governor,Julianne,Murray,R,C,W,L,W
+35,DE,Insurance,Julia,Pillsbury,R,C,W,L,W
+36,DE,Lt. Gov.,Donyale,Hall,R,C,W,L,B/W
+37,DE,U.S. Sen.,Lauren,Witzke,R,C,W,L,W
+38,FL,U.S. Rep.,Cindy,Banyai,D,O,W,L,W
+39,FL,U.S. Rep.,Dana,Cottrell,D,C,W,L,W
+40,FL,U.S. Rep.,Donna,Deegan,D,C,W,L,W
+41,FL,U.S. Rep.,Vennia,Francois,R,C,W,L,B
+42,FL,U.S. Rep.,Margaret,Good,D,C,W,L,W
+43,FL,U.S. Rep.,Pam,Keith,D,C,W,L,B
+44,FL,U.S. Rep.,Laura,Loomer,R,C,W,L,W
+45,FL,U.S. Rep.,Anna,Luna,R,C,W,L,H
+46,FL,U.S. Rep.,Debbie,Mucarsel-Powell,D,I,W,L,H
+47,FL,U.S. Rep.,Christine,Quinn,R,C,W,L,W
+48,FL,U.S. Rep.,Donna,Shalala,D,I,W,L,MENA
+49,FL,U.S. Rep.,Carla,Spalding,R,C,W,L,B
+50,FL,U.S. Rep.,Lavern,Spicer,R,C,W,L,B
+51,FL,U.S. Rep.,Kimberly,Walker,D,C,W,L,B
+52,GA,U.S. Rep.,Dana,Barrett,D,C,W,L,W
+53,GA,U.S. Rep.,Johsie,Cruz,R,C,W,L,H
+54,GA,U.S. Rep.,Joyce,Griggs,D,C,W,L,B
+55,GA,U.S. Rep.,Karen,Handel,R,C,W,L,W
+56,GA,U.S. Rep.,Becky,Hites,R,C,W,L,W
+57,GA,U.S. Rep.,Liz,Johnson,D,C,W,L,B
+58,GA,U.S. Rep.,Tabitha,Johnson-Green,D,C,W,L,B
+59,GA,U.S. Rep.,Angela,Stanton-King,R,O,W,L,B
+60,GA,U.S. Sen.,Kelly,Loeffler,R,I,W,L,W
+61,IA,U.S. Rep.,Abby,Finkenauer,D,I,W,L,W
+62,IA,U.S. Sen.,Theresa,Greenfield,D,C,W,L,W
+63,ID,U.S. Sen.,Paulette,Jordan,D,C,W,L,NA
+64,IL,U.S. Rep.,Dani,Brzozowski,D,C,W,L,W
+65,IL,U.S. Rep.,Jeanne,Ives,R,C,W,L,W
+66,IL,U.S. Rep.,Esther,King,R,C,W,L,W
+67,IL,U.S. Rep.,Betsy,Londrigan,D,C,W,L,W
+68,IL,U.S. Rep.,Theresa,Raborn,R,C,W,L,W
+69,IL,U.S. Rep.,Valerie,Ramirez Mukherjee,R,C,W,L,H/W
+70,IL,U.S. Rep.,Erika,Weaver,D,O,W,L,B
+71,IL,U.S. Rep.,Philanise,White,R,C,W,L,B
+72,IN,Lt. Gov.,Linda,Lawson,D,C,W,L,W
+73,IN,U.S. Rep.,Pat,Hackett,D,C,W,L,W
+74,IN,U.S. Rep.,Christina,Hale,D,O,W,L,H
+75,IN,U.S. Rep.,Jeannine,Lake,D,C,W,L,B
+76,IN,U.S. Rep.,Thomasina,Marsili,D,C,W,L,W
+77,IN,U.S. Rep.,Susan,Smith,R,C,W,L,B
+78,KS,U.S. Rep.,Amanda,Adkins,R,C,W,L,W
+79,KS,U.S. Rep.,Kali,Barnett,D,O,W,L,W
+80,KS,U.S. Rep.,Michelle,de la Isla,D,O,W,L,B/H/W
+81,KS,U.S. Rep.,Laura,Lombard,D,C,W,L,W
+82,KS,U.S. Sen.,Barbara,Bollier,D,O,W,L,W
+83,KY,U.S. Rep.,Alexandra,Owensby,D,C,W,L,W
+84,KY,U.S. Rep.,Rhonda,Palazzo,R,C,W,L,W
+85,KY,U.S. Sen.,Amy,McGrath,D,C,W,L,W
+86,MA,U.S. Rep.,Helen,Brady,R,C,W,L,W
+87,MA,U.S. Rep.,Caroline,Colarusso,R,C,W,L,H/W
+88,MA,U.S. Rep.,Julie,Hall,R,O,W,L,W
+89,MA,U.S. Rep.,Tracy,Lovvorn,R,C,W,L,W
+90,MD,U.S. Rep.,Kim,Klacik,R,C,W,L,B
+91,MD,U.S. Rep.,Mia,Mason,D,C,W,L,W
+92,ME,U.S. Sen.,Sara,Gideon,D,C,W,L,AP/W
+93,MI,U.S. Rep.,Kimberly,Bizon,D,O,W,L,W
+94,MI,U.S. Rep.,Gretchen,Driskell,D,C,W,L,W
+95,MI,U.S. Rep.,Hillary,Scholten,D,O,W,L,W
+96,MN,U.S. Rep.,Quinn,Nystrom,D,C,W,L,W
+97,MN,U.S. Rep.,Tawnja,Zahradka,D,C,W,L,W
+98,MO,Governor,Nicole,Galloway,D,C,W,L,W
+99,MO,Lt. Gov.,Alissia,Canady,D,C,W,L,B
+100,MO,Treasurer,Vicki,Englund,D,C,W,L,W
+101,MO,U.S. Rep.,Kathy,Ellis,D,C,W,L,W
+102,MO,U.S. Rep.,Teresa,Montseny,D,C,W,L,MU
+103,MO,U.S. Rep.,Megan,Rezabek,D,C,W,L,Unavailable
+104,MO,U.S. Rep.,Gena,Ross,D,C,W,L,B
+105,MO,U.S. Rep.,Jill,Schupp,D,C,W,L,W
+106,MO,U.S. Rep.,Lindsey,Simmons,D,C,W,L,W
+107,MS,U.S. Rep.,Dorothy,Benford,D,C,W,L,B
+108,MS,U.S. Rep.,Antonia,Eliason,D,C,W,L,W
+109,MT,S.P.I.,Melissa,Romano,D,C,W,L,W
+110,MT,U.S. Rep.,Kathleen,Williams,D,O,W,L,W
+111,NC,Agriculture,Jenna,Wadsworth,D,C,W,L,W
+112,NC,Labor,Jessica,Holmes,D,O,W,L,B
+113,NC,Lt. Gov.,Yvonne,Holley,D,O,W,L,B
+114,NC,S.P.I.,Jen,Mangrum,D,O,W,L,W
+115,NC,U.S. Rep.,Sandy,Smith,R,C,W,L,W
+116,NC,U.S. Rep.,Patricia,Timmons-Goodson,D,C,W,L,B
+117,NC,U.S. Rep.,Cynthia,Wallace,D,C,W,L,B
+118,ND,Governor,Shelley,Lenz,D,C,W,L,W
+119,NE,U.S. Rep.,Kate,Bolz,D,C,W,L,W
+120,NE,U.S. Rep.,Kara,Eastman,D,C,W,L,W
+121,NJ,U.S. Rep.,Rosemary,Becchi,R,C,W,L,W
+122,NJ,U.S. Rep.,Claire,Gustafson,R,C,W,L,W
+123,NJ,U.S. Rep.,Amy,Kennedy,D,C,W,L,W
+124,NJ,U.S. Rep.,Stephanie,Schmid,D,C,W,L,W
+125,NJ,U.S. Rep.,Jen,Zinone,R,C,W,L,W
+126,NM,U.S. Rep.,Michelle,Garcia Holmes,R,C,W,L,H
+127,NM,U.S. Rep.,Alexis,Johnson,R,O,W,L,H
+128,NM,U.S. Rep.,Xochitl,Torres Small,D,I,W,L,H
+129,NV,U.S. Rep.,Patricia,Ackerman,D,C,W,L,W
+130,NV,U.S. Rep.,Joyce,Bentley,R,C,W,L,AP/W
+131,NY,U.S. Rep.,Dana,Balter,D,C,W,L,W
+132,NY,U.S. Rep.,Cathy,Bernstein,R,C,W,L,W
+133,NY,U.S. Rep.,Tedra,Cobb,D,C,W,L,W
+134,NY,U.S. Rep.,Chele,Farley,R,C,W,L,W
+135,NY,U.S. Rep.,Jackie,Gordon,D,O,W,L,B
+136,NY,U.S. Rep.,Nancy,Goroff,D,C,W,L,sent email 7/27/20
+137,NY,U.S. Rep.,Lovelynn,Gwinn,R,C,W,L,AP/MENA
+138,NY,U.S. Rep.,Elizabeth,Joy,R,C,W,L,W
+139,NY,U.S. Rep.,Tracy,Mitrano,D,C,W,L,W
+140,NY,U.S. Rep.,Maureen,Schulman,R,O,W,L,W
+141,OH,U.S. Rep.,Jaime,Castle,D,C,W,L,W
+142,OH,U.S. Rep.,Vanessa,Enoch,D,C,W,L,B
+143,OH,U.S. Rep.,Shannon,Freshour,D,C,W,L,W
+144,OH,U.S. Rep.,Laverne,Gore,R,C,W,L,B
+145,OH,U.S. Rep.,Christina,Hagan,R,C,W,L,W
+146,OH,U.S. Rep.,Hillary,O'Connor Mueri,D,C,W,L,W
+147,OH,U.S. Rep.,Shawna,Roberts,D,C,W,L,W
+148,OH,U.S. Rep.,Kate,Schroder,D,C,W,L,W
+149,OH,U.S. Rep.,Alaina,Shearer,D,C,W,L,W
+150,OH,U.S. Rep.,Desiree,Tims,D,C,W,L,B
+151,OK,U.S. Rep.,Mary,Brannon,D,C,W,L,W
+152,OK,U.S. Rep.,Kendra,Horn,D,I,W,L,W
+153,OK,U.S. Rep.,Danyell,Lanier,D,C,W,L,B/NA
+154,OK,U.S. Rep.,Zoe,Midyett,D,C,W,L,W
+155,OK,U.S. Sen.,Abby,Broyles,D,C,W,L,W
+156,OR,Sec. St.,Kim,Thatcher,R,O,W,L,W
+157,OR,U.S. Rep.,Amy,Courser,R,C,W,L,NA/W
+158,OR,U.S. Rep.,Joanna,Harbour,R,C,W,L,W
+159,OR,U.S. Rep.,Alex,Spenser,D,O,W,L,Unavailable
+160,OR,U.S. Sen.,Jo,Perkins,R,C,W,L,W
+161,PA,At Gen,Heather,Heidelbaugh,R,C,W,L,W
+162,PA,Auditor,Nina,Ahmad,D,O,W,L,AP
+163,PA,U.S. Rep.,Kathy,Barnette,R,C,W,L,B
+164,PA,U.S. Rep.,Christina,Finello,D,C,W,L,W
+165,PA,U.S. Rep.,Kristy,Gnibus,D,C,W,L,W
+166,PA,U.S. Rep.,Sarah,Hammond,D,C,W,L,W
+167,PA,U.S. Rep.,Dasha,Pruett,R,C,W,L,W
+168,PA,U.S. Rep.,Lisa,Scheller,R,C,W,L,W
+169,SC,U.S. Rep.,Adair,Burroughs,D,C,W,L,W
+170,SC,U.S. Rep.,Kim,Nelson,D,C,W,L,W
+171,SC,U.S. Rep.,Melissa,Watson,D,C,W,L,B
+172,TN,U.S. Rep.,Charlotte,Bergmann,R,C,W,L,B
+173,TN,U.S. Rep.,Meg,Gorman,D,C,W,L,W
+174,TN,U.S. Rep.,Renee,Hoyos,D,C,W,L,H
+175,TN,U.S. Rep.,Erika,Pearson,D,C,W,L,B
+176,TN,U.S. Rep.,Blair,Walsingham,D,O,W,L,W
+177,TN,U.S. Sen.,Marquita,Bradshaw,D,O,W,L,B
+178,TX,RailRoad Comm.,Chrysta,Castaneda,D,C,W,L,W
+179,TX,U.S. Rep.,Irene,Armendariz-Jackson,R,C,W,L,H
+180,TX,U.S. Rep.,Adrienne,Bell,D,C,W,L,B
+181,TX,U.S. Rep.,Jaimy,Blanco,R,C,W,L,H
+182,TX,U.S. Rep.,Genevieve,Collins,R,C,W,L,W
+183,TX,U.S. Rep.,Wendy,Davis,D,C,W,L,W
+184,TX,U.S. Rep.,Monica,de la Cruz-Hernandez,R,C,W,L,H
+185,TX,U.S. Rep.,Elizabeth,Hernandez,D,C,W,L,H
+186,TX,U.S. Rep.,Carol,Iannuzzi,D,C,W,L,W
+187,TX,U.S. Rep.,Donna,Imam,D,C,W,L,AP
+188,TX,U.S. Rep.,Gina,Jones,D,O,W,L,AP
+189,TX,U.S. Rep.,Sima,Ladjevardian,D,C,W,L,MENA
+190,TX,U.S. Rep.,Julie,Oliver,D,C,W,L,W
+191,TX,U.S. Rep.,Carolyn,Salter,D,C,W,L,W
+192,TX,U.S. Rep.,Lulu,Seikaly,D,C,W,L,MENA
+193,TX,U.S. Rep.,Jennifer,Sharon,R,C,W,L,H
+194,TX,U.S. Rep.,Candace,Valenzuela,D,O,W,L,B/H
+195,TX,U.S. Rep.,Lisa,Welch,D,C,W,L,W
+196,TX,U.S. Rep.,Sandra,Whitten,R,C,W,L,W
+197,TX,U.S. Sen.,M.J.,Hegar,D,C,W,L,W
+198,UT,Lt. Gov.,Karina,Brown,D,O,W,L,W
+199,VA,U.S. Rep.,Manga,Anantatmula,R,C,W,L,AP
+200,VA,U.S. Rep.,Aliscia,Andrews,R,C,W,L,W
+201,VT,Treasurer,Carolyn,Branagan,R,C,W,L,W
+202,VT,U.S. Rep.,Miriam,Berry,R,C,W,L,W
+203,WA,Land,Sue,Pederson,R,C,W,L,W
+204,WA,S.P.I.,Maia,Espinoza,NP,O,W,L,H
+205,WA,Sec. St.,Gael,Tarleton,D,C,W,L,W
+206,WA,U.S. Rep.,Beth,Doglio,D,O,W,L,W
+207,WA,U.S. Rep.,Elizabeth,Kreiselmaier,R,C,W,L,W
+208,WA,U.S. Rep.,Carolyn,Long,D,C,W,L,W
+209,WI,U.S. Rep.,Jessica,King,D,C,W,L,W
+210,WI,U.S. Rep.,Amanda,Stuck,D,C,W,L,W
+211,WI,U.S. Rep.,Tricia,Zunker,D,C,W,L,NA
+212,WV,Auditor,Mary,Claytor,D,C,W,L,B
+213,WV,Sec. St.,Natalie,Tennant,D,C,W,L,W
+214,WV,U.S. Rep.,Natalie,Cline,D,C,W,L,W
+215,WV,U.S. Rep.,Cathy,Kunkel,D,C,W,L,W
+216,WV,U.S. Rep.,Hilary,Turner,D,C,W,L,W
+217,WV,U.S. Sen.,Paula,Swearengin,D,C,W,L,W
+218,WY,U.S. Rep.,Lynnette,Grey Bull,D,C,W,L,NA
+219,WY,U.S. Sen.,Merav,Ben-David,D,O,W,L,W
+220,IA,U.S. Rep.,Rita,Hart,D,O,W,TCTC,W
+221,IA,U.S. Rep.,Mariannette,Miller-Meeks,R,O,W,TCTC,W
+222,NY,U.S. Rep.,Claudia,Tenney,R,C,W,TCTC,W
+223,AL,P.S.C.,Twinkle,Cavanaugh,R,I,W,W,W
+224,AL,U.S. Rep.,Terri,Sewell,D,I,W,W,B
+225,AS,U.S. Del.,Aumua,Amata Coleman Radewagen,R,I,W,W,AP
+226,AZ,Corp Comm,Lea,Peterson,R,I,W,W,H
+227,AZ,Corp Comm,Anna,Tovar,D,O,W,W,H
+228,AZ,U.S. Rep.,Ann,Kirkpatrick,D,I,W,W,W
+229,AZ,U.S. Rep.,Debbie,Lesko,R,I,W,W,W
+230,CA,U.S. Rep.,Nanette,Barragan,D,I,W,W,H
+231,CA,U.S. Rep.,Karen,Bass,D,I,W,W,B
+232,CA,U.S. Rep.,Julia,Brownley,D,I,W,W,W
+233,CA,U.S. Rep.,Judy,Chu,D,I,W,W,AP
+234,CA,U.S. Rep.,Anna,Eshoo,D,I,W,W,W
+235,CA,U.S. Rep.,Sara,Jacobs,D,O,W,W,W
+236,CA,U.S. Rep.,Young,Kim,R,C,W,W,AP
+237,CA,U.S. Rep.,Barbara,Lee,D,I,W,W,B
+238,CA,U.S. Rep.,Zoe,Lofgren,D,I,W,W,W
+239,CA,U.S. Rep.,Doris,Matsui,D,I,W,W,AP
+240,CA,U.S. Rep.,Grace,Napolitano,D,I,W,W,H
+241,CA,U.S. Rep.,Nancy,Pelosi,D,I,W,W,W
+242,CA,U.S. Rep.,Katherine,Porter,D,I,W,W,W
+243,CA,U.S. Rep.,Lucille,Roybal-Allard,D,I,W,W,H
+244,CA,U.S. Rep.,Linda,Sanchez,D,I,W,W,H
+245,CA,U.S. Rep.,Jackie,Speier,D,I,W,W,W
+246,CA,U.S. Rep.,Michelle,Steel,R,C,W,W,AP
+247,CA,U.S. Rep.,Norma,Torres,D,I,W,W,H
+248,CA,U.S. Rep.,Maxine,Waters,D,I,W,W,B
+249,CO,U.S. Rep.,Lauren,Boebert,R,O,W,W,W
+250,CO,U.S. Rep.,Diana,DeGette,D,I,W,W,W
+251,CT,U.S. Rep.,Rosa,DeLauro,D,I,W,W,W
+252,CT,U.S. Rep.,Jahana,Hayes,D,I,W,W,B
+253,DC,U.S. Del.,Eleanor,Norton,D,I,W,W,B
+254,DE,Lt. Gov.,Bethany,Hall-Long,D,I,W,W,W
+255,DE,U.S. Rep.,Lisa,Blunt Rochester,D,I,W,W,B
+256,FL,U.S. Rep.,Kat,Cammack,R,O,W,W,W
+257,FL,U.S. Rep.,Kathy,Castor,D,I,W,W,W
+258,FL,U.S. Rep.,Val,Demings,D,I,W,W,B
+259,FL,U.S. Rep.,Lois,Frankel,D,I,W,W,W
+260,FL,U.S. Rep.,Stephanie,Murphy,D,I,W,W,AP
+261,FL,U.S. Rep.,Maria,Salazar,R,C,W,W,H
+262,FL,U.S. Rep.,Debbie,Wasserman Schultz,D,I,W,W,W
+263,FL,U.S. Rep.,Frederica,Wilson,D,I,W,W,B
+264,GA,U.S. Rep.,Carolyn,Bourdeaux,D,O,W,W,W
+265,GA,U.S. Rep.,Marjorie,Greene,R,O,W,W,W
+266,GA,U.S. Rep.,Lucy,McBath,D,I,W,W,B
+267,GA,U.S. Rep.,Nikema,Williams,D,O,NA,W,B
+268,IA,U.S. Rep.,Cindy,Axne,D,I,W,W,W
+269,IA,U.S. Rep.,Ashley,Hinson,R,C,W,W,W
+270,IA,U.S. Sen.,Joni,Ernst,R,I,W,W,W
+271,IL,U.S. Rep.,Cheri,Bustos,D,I,W,W,W
+272,IL,U.S. Rep.,Robin,Kelly,D,I,W,W,B
+273,IL,U.S. Rep.,Mary,Miller,R,O,W,W,W
+274,IL,U.S. Rep.,Marie,Newman,D,O,W,W,W
+275,IL,U.S. Rep.,Jan,Schakowsky,D,I,W,W,W
+276,IL,U.S. Rep.,Lauren,Underwood,D,I,W,W,B
+277,IN,Lt. Gov.,Suzanne,Crouch,R,I,W,W,W
+278,IN,U.S. Rep.,Victoria,Spartz,R,O,W,W,W
+279,IN,U.S. Rep.,Jackie,Walorski,R,I,W,W,W
+280,KS,U.S. Rep.,Sharice,Davids,D,I,W,W,NA
+281,MA,U.S. Rep.,Katherine,Clark,D,I,W,W,W
+282,MA,U.S. Rep.,Ayanna,Pressley,D,I,W,W,B
+283,MA,U.S. Rep.,Lori,Trahan,D,I,W,W,W
+284,ME,U.S. Rep.,Chellie,Pingree,D,I,W,W,W
+285,ME,U.S. Sen.,Susan,Collins,R,I,W,W,W
+286,MI,U.S. Rep.,Debbie,Dingell,D,I,W,W,W
+287,MI,U.S. Rep.,Brenda,Lawrence,D,I,W,W,B
+288,MI,U.S. Rep.,Lisa,McClain,R,O,W,W,W
+289,MI,U.S. Rep.,Elissa,Slotkin,D,I,W,W,W
+290,MI,U.S. Rep.,Haley,Stevens,D,I,W,W,W
+291,MI,U.S. Rep.,Rashida,Tlaib,D,I,W,W,MENA
+292,MN,U.S. Rep.,Angela,Craig,D,I,W,W,W
+293,MN,U.S. Rep.,Michelle,Fischbach,R,C,W,W,W
+294,MN,U.S. Rep.,Betty,McCollum,D,I,W,W,W
+295,MN,U.S. Rep.,Ilhan,Omar,D,I,W,W,B
+296,MN,U.S. Sen.,Tina,Smith,D,I,W,W,W
+297,MO,U.S. Rep.,Cori,Bush,D,O,W,W,B
+298,MO,U.S. Rep.,Vicky,Hartzler,R,I,W,W,W
+299,MO,U.S. Rep.,Ann,Wagner,R,I,W,W,W
+300,MS,U.S. Sen.,Cindy,Hyde-Smith,R,I,W,W,W
+301,MT,Lt. Gov.,Kristen,Juras,R,O,W,W,W
+302,MT,S.P.I.,Elsie,Arntzen,R,I,W,W,W
+303,MT,Sec. St.,Christi,Jacobsen,R,O,W,W,sent email 7/27/20
+304,NC,Auditor,Beth,Wood,D,I,W,W,W
+305,NC,S.P.I.,Catherine,Truitt,R,O,W,W,W
+306,NC,Sec. St.,Elaine,Marshall,D,I,W,W,W
+307,NC,U.S. Rep.,Alma,Adams,D,I,W,W,B
+308,NC,U.S. Rep.,Virginia,Foxx,R,I,W,W,W
+309,NC,U.S. Rep.,Kathy,Manning,D,O,W,W,W
+310,NC,U.S. Rep.,Deborah,Ross,D,O,W,W,W
+311,ND,S.P.I.,Kirsten,Baesler,NP,I,W,W,W
+312,NH,U.S. Rep.,Ann,Kuster,D,I,W,W,W
+313,NH,U.S. Sen.,Jeanne,Shaheen,D,I,W,W,W
+314,NJ,U.S. Rep.,Mikie,Sherrill,D,I,W,W,W
+315,NJ,U.S. Rep.,Bonnie,Watson Coleman,D,I,W,W,B
+316,NM,U.S. Rep.,Debra,Haaland,D,I,W,W,NA
+317,NM,U.S. Rep.,Yvette,Herrell,R,C,W,W,W
+318,NM,U.S. Rep.,Teresa,Leger,D,O,W,W,H
+319,NV,U.S. Rep.,Susie,Lee,D,I,W,W,W
+320,NV,U.S. Rep.,Dina,Titus,D,I,W,W,W
+321,NY,U.S. Rep.,Yvette,Clarke,D,I,W,W,B
+322,NY,U.S. Rep.,Nicole,Malliotakis,R,C,W,W,W/H
+323,NY,U.S. Rep.,Carolyn,Maloney,D,I,W,W,W
+324,NY,U.S. Rep.,Grace,Meng,D,I,W,W,AP
+325,NY,U.S. Rep.,Alexandria,Ocasio-Cortez,D,I,W,W,H
+326,NY,U.S. Rep.,Kathleen,Rice,D,I,W,W,W
+327,NY,U.S. Rep.,Elise,Stefanik,R,I,W,W,W
+328,NY,U.S. Rep.,Nydia,Velazquez,D,I,W,W,H
+329,OH,U.S. Rep.,Joyce,Beatty,D,I,W,W,B
+330,OH,U.S. Rep.,Marcia,Fudge,D,I,W,W,B
+331,OH,U.S. Rep.,Marcy,Kaptur,D,I,W,W,W
+332,OK,U.S. Rep.,Stephanie,Bice,R,C,W,W,W
+333,OR,At Gen,Ellen,Rosenblum,D,I,W,W,W
+334,OR,Sec. St.,Shemia,Fagan,D,O,W,W,W
+335,OR,U.S. Rep.,Suzanne,Bonamici,D,I,W,W,W
+336,PA,Treasurer,Stacy,Garrity,R,C,W,W,W
+337,PA,U.S. Rep.,Madeleine,Dean,D,I,W,W,W
+338,PA,U.S. Rep.,Chrissy,Houlahan,D,I,W,W,W
+339,PA,U.S. Rep.,Mary,Scanlon,D,I,W,W,W
+340,PA,U.S. Rep.,Susan,Wild,D,I,W,W,W
+341,PR,U.S. Del.,Jenniffer,Gonzalez,R,I,W,W,H
+342,SC,U.S. Rep.,Nancy,Mace,R,C,W,W,W
+343,TN,U.S. Rep.,Diana,Harshbarger,R,O,W,W,W
+344,TX,U.S. Rep.,Veronica,Escobar,D,I,W,W,H
+345,TX,U.S. Rep.,Sylvia,Garcia,D,I,W,W,H
+346,TX,U.S. Rep.,Kay,Granger,R,I,W,W,W
+347,TX,U.S. Rep.,Sheila,Jackson Lee,D,I,W,W,B
+348,TX,U.S. Rep.,Eddie,Johnson,D,I,W,W,B
+349,TX,U.S. Rep.,Elizabeth,Pannill Fletcher,D,I,W,W,W
+350,TX,U.S. Rep.,Beth,Van Duyne,R,O,W,W,W
+351,UT,Lt. Gov.,Deidre,Henderson,R,O,W,W,W
+352,VA,U.S. Rep.,Elaine,Luria,D,I,W,W,W
+353,VA,U.S. Rep.,Abigail,Spanberger,D,I,W,W,W
+354,VA,U.S. Rep.,Jennifer,Wexton,D,I,W,W,W
+355,VI,U.S. Del.,Stacey,Plaskett,D,I,W,W,B
+356,VT,Lt. Gov.,Molly,Gray,D,O,W,W,W
+357,VT,Treasurer,Beth,Pearce,D,I,W,W,W
+358,WA,Auditor,Pat,McCarthy,D,I,W,W,W
+359,WA,Land,Hilary,Franz,D,I,W,W,W
+360,WA,Sec. St.,Kim,Wyman,R,I,W,W,W
+361,WA,U.S. Rep.,Suzan,DelBene,D,I,W,W,W
+362,WA,U.S. Rep.,Jaime,Herrera Beutler,R,I,W,W,H
+363,WA,U.S. Rep.,Pramila,Jayapal,D,I,W,W,AP
+364,WA,U.S. Rep.,Cathy,McMorris Rodgers,R,I,W,W,W
+365,WA,U.S. Rep.,Kim,Schrier,D,I,W,W,W
+366,WA,U.S. Rep.,Marilyn,Strickland,D,O,W,W,B/AP
+367,WI,U.S. Rep.,Gwen,Moore,D,I,W,W,B
+368,WV,U.S. Rep.,Carol,Miller,R,I,W,W,W
+369,WV,U.S. Sen.,Shelley,Capito,R,I,W,W,W
+370,WY,U.S. Rep.,Liz,Cheney,R,I,W,W,W
+371,WY,U.S. Sen.,Cynthia,Lummis,R,O,W,W,W
+372,AL,P.S.C.,Robin,Litaker,R,CP,L,Lost primary,W
+373,AL,U.S. Rep.,Kiani,Gardner,D,O,L,Lost primary,AP/W
+374,AL,U.S. Rep.,Terri,Hasdorff,R,O,L,Lost primary,W
+375,AL,U.S. Rep.,Jessica,Taylor,R,O,L,Lost primary,W
+376,AL,U.S. Sen.,Ruth,Nelson,R,C,L,Lost primary,B
+377,AZ,U.S. Rep.,Anita,Malik,D,C,L,Lost primary,AP
+378,AZ,U.S. Rep.,Eva,Putzova,D,CP,L,Lost primary,W
+379,AZ,U.S. Rep.,Stephanie,Rimmer,D,C,L,Lost primary,MENA/W
+380,AZ,U.S. Rep.,Anne,Ward,R,CP,L,Lost primary,W
+381,CA,U.S. Rep.,Agatha,Bacelar,D,CP,L,Lost primary,H
+382,CA,U.S. Rep.,Liz,Barris,D,CP,L,Lost primary,W
+383,CA,U.S. Rep.,Julianne,Benzel,R,CP,L,Lost primary,W
+384,CA,U.S. Rep.,Marisa,Calderon,D,O,L,Lost primary,H
+385,CA,U.S. Rep.,Sam,Campbell,D,CP,L,Lost primary,NA/W
+386,CA,U.S. Rep.,Beatrice,Cardenas,R,C,L,Lost primary,H
+387,CA,U.S. Rep.,Nancy,Casady,D,CP,L,Lost primary,W
+388,CA,U.S. Rep.,Rhonda,Furin,R,C,L,Lost primary,W
+389,CA,U.S. Rep.,Maebe,Girl,D,CP,L,Lost primary,W
+390,CA,U.S. Rep.,Janessa,Goldbeck,D,O,L,Lost primary,W
+391,CA,U.S. Rep.,Peggy,Huang,R,C,L,Lost primary,AP
+392,CA,U.S. Rep.,Patrice,Kimbler,R,C,L,Lost primary,W
+393,CA,U.S. Rep.,Sarah,Liew,R,C,L,Lost primary,AP
+394,CA,U.S. Rep.,Marla,Livengood,R,C,L,Lost primary,Unavailable
+395,CA,U.S. Rep.,DeAnna,Lorraine,R,C,L,Lost primary,W
+396,CA,U.S. Rep.,Regina,Marston,D,C,L,Lost primary,W
+397,CA,U.S. Rep.,Annette,Meza,D,O,L,Lost primary,H
+398,CA,U.S. Rep.,Rachel,Moniz,D,CP,L,Lost primary,W
+399,CA,U.S. Rep.,Frances,Motiwalla,D,CP,L,Lost primary,H/AP
+400,CA,U.S. Rep.,Famela,Ramos,R,O,L,Lost primary,AP
+401,CA,U.S. Rep.,Suzette,Santori,D,O,L,Lost primary,H
+402,CA,U.S. Rep.,Keanakay,Scott,D,CP,L,Lost primary,B
+403,CA,U.S. Rep.,Esmeralda,Soria,D,CP,L,Lost primary,H
+404,CA,U.S. Rep.,Lisa,Sparks,R,C,L,Lost primary,W
+405,CA,U.S. Rep.,Amy,West,R,C,L,Lost primary,AP
+406,CA,U.S. Rep.,Kim,Williams,D,CP,L,Lost primary,W
+407,CA,U.S. Rep.,Grace,Williams,D,CP,L,Lost primary,AP/B
+408,CA,U.S. Rep.,Joanne,Wright,R,C,L,Lost primary,W
+409,DE,U.S. Sen.,Jess,Scarane,D,CP,L,Lost primary,W
+410,FL,U.S. Rep.,Sharon,Barry Newby,R,C,L,Lost primary,W
+411,FL,U.S. Rep.,Sheila,Cherfilus-McCormick,D,CP,L,Lost primary,B
+412,FL,U.S. Rep.,Elizabeth,Felton,R,C,L,Lost primary,W
+413,FL,U.S. Rep.,Fran,Flynn,R,C,L,Lost primary,W
+414,FL,U.S. Rep.,Sheila,Griffin,R,C,L,Lost primary,B
+415,FL,U.S. Rep.,LaShonda,Holloway,D,CP,L,Lost primary,B
+416,FL,U.S. Rep.,Sakinah,Lehtola,D,CP,L,Lost primary,B
+417,FL,U.S. Rep.,Amanda,Makki,R,C,L,Lost primary,MENA
+418,FL,U.S. Rep.,Christy,McLaughlin,R,O,L,Lost primary,H
+419,FL,U.S. Rep.,Jessi,Melton,R,C,L,Lost primary,W
+420,FL,U.S. Rep.,Jennifer,Perelman,D,CP,L,Lost primary,W
+421,FL,U.S. Rep.,Reba,Sherrill,R,C,L,Lost primary,W
+422,FL,U.S. Rep.,Darlene,Swaffar,R,C,L,Lost primary,H/W
+423,FL,U.S. Rep.,Amy,Wells,R,O,L,Lost primary,W
+424,GA,U.S. Rep.,Elaine,Amankwah Nietmann,D,CP,L,Lost primary,B
+425,GA,U.S. Rep.,Lisa,Babbage,R,O,L,Lost primary,B/W
+426,GA,U.S. Rep.,Mykel,Barthelemy,R,C,L,Lost primary,B/NA
+427,GA,U.S. Rep.,Vivian,Childs,R,C,L,Lost primary,B
+428,GA,U.S. Rep.,Lynne,Homrich,R,O,L,Lost primary,W
+429,GA,U.S. Rep.,Nabilah,Islam,D,O,L,Lost primary,AP
+430,GA,U.S. Rep.,Zahra,Karinshak,D,O,L,Lost primary,MENA
+431,GA,U.S. Rep.,Brenda,Lopez Romero,D,O,L,Lost primary,H
+432,GA,U.S. Rep.,Jannquell,Peters,D,CP,L,Lost primary,B
+433,GA,U.S. Rep.,Lisa,Ring,D,C,L,Lost primary,W
+434,GA,U.S. Rep.,Barbara,Seidman,D,C,L,Lost primary,B
+435,GA,U.S. Rep.,Brooke,Siskin,D,O,L,Lost primary,W
+436,GA,U.S. Rep.,Paulette,Smith,R,C,L,Lost primary,B
+437,GA,U.S. Rep.,Maria,Strickland,R,O,L,Lost primary,H/W
+438,GA,U.S. Rep.,Renee,Unterman,R,O,L,Lost primary,W
+439,GA,U.S. Rep.,Keisha,Waites,D,CP,L,Lost primary,B
+440,GA,U.S. Rep.,Kellie,Weeks,R,O,L,Lost primary,W/NA
+441,GA,U.S. Sen.,Sarah,Amico,D,C,L,Lost primary,W
+442,GA,U.S. Sen.,Annette,Jackson,R,CP,L,Lost primary,B
+443,GA,U.S. Sen.,Deborah,Jackson,D,C,L,Lost primary,B
+444,GA,U.S. Sen.,Jamesia,James,D,C,L,Lost primary,B
+445,GA,U.S. Sen.,Tamara,Johnson-Shealey,D,C,L,Lost primary,B
+446,GA,U.S. Sen.,Tricia,McCracken,D,C,L,Lost primary,W
+447,GA,U.S. Sen.,Joy,Slade,D,C,L,Lost primary,sent email 5/26/20
+448,GA,U.S. Sen.,Maya,Smith,D,C,L,Lost primary,B
+449,GA,U.S. Sen.,Kandiss,Taylor,R,CP,L,Lost primary,W
+450,GA,U.S. Sen.,Teresa,Tomlinson,D,C,L,Lost primary,W
+451,HI,U.S. Rep.,Noelle,Famera,D,O,L,Lost primary,W
+452,HI,U.S. Rep.,Karla,Gottschalk,R,O,L,Lost primary,W
+453,HI,U.S. Rep.,Elise,Kaneshiro,R,O,L,Lost primary,AP
+454,HI,U.S. Rep.,Brenda,Lee,D,O,L,Lost primary,AP/H/W
+455,HI,U.S. Rep.,Nancy,Olson,R,C,L,Lost primary,W
+456,IA,U.S. Sen.,Kimberly,Graham,D,C,L,Lost primary,W
+457,ID,U.S. Rep.,Staniela,Nikolova,D,C,L,Lost primary,W
+458,IL,U.S. Rep.,Kina,Collins,D,CP,L,Lost primary,B
+459,IL,U.S. Rep.,Sarah,Gad,D,CP,L,Lost primary,MENA
+460,IL,U.S. Rep.,Catalina,Lauf,R,C,L,Lost primary,H
+461,IL,U.S. Rep.,Ameena,Matthews,D,CP,L,Lost primary,B
+462,IL,U.S. Rep.,Catherine,O'Shea,R,C,L,Lost primary,W
+463,IL,U.S. Rep.,Sue,Rezin,R,C,L,Lost primary,W
+464,IL,U.S. Rep.,Kristine,Schanbacher,D,CP,L,Lost primary,W
+465,IL,U.S. Rep.,Stefanie,Smith,D,C,L,Lost primary,W
+466,IL,U.S. Rep.,Rachel,Ventura,D,CP,L,Lost primary,W
+467,IL,U.S. Sen.,Peggy,Hubbard,R,C,L,Lost primary,B
+468,IN,U.S. Rep.,Melissa,Borom,D,O,L,Lost primary,B
+469,IN,U.S. Rep.,Carrie,Castro,D,O,L,Lost primary,H
+470,IN,U.S. Rep.,Jennifer,Christie,D,O,L,Lost primary,W
+471,IN,U.S. Rep.,Sabrina,Haake,D,O,L,Lost primary,W
+472,IN,U.S. Rep.,Beth,Henderson,R,O,L,Lost primary,W
+473,IN,U.S. Rep.,Ellen,Marks,D,C,L,Lost primary,W
+474,IN,U.S. Rep.,Kelly,Mitchell,R,O,L,Lost primary,W
+475,IN,U.S. Rep.,Mara,Reardon,D,O,L,Lost primary,H
+476,IN,U.S. Rep.,Dee,Thornton,D,O,L,Lost primary,B
+477,IN,U.S. Rep.,Veronikka,Ziol,D,C,L,Lost primary,W
+478,KS,U.S. Rep.,Christy,Davis,D,O,L,Lost primary,W
+479,KS,U.S. Rep.,Adrienne,Foster,R,C,L,Lost primary,H
+480,KS,U.S. Rep.,Sara,Weir,R,C,L,Lost primary,W
+481,KY,U.S. Rep.,Shannon,Fabert,D,C,L,Lost primary,B/AP
+482,KY,U.S. Rep.,Kathleen,Free,R,CP,L,Lost primary,W
+483,KY,U.S. Sen.,Maggie,Hilliard,D,C,L,Lost primary,W
+484,KY,U.S. Sen.,Mary,Tobin,D,C,L,Lost primary,W
+485,LA,U.S. Rep.,Candy,Christophe,D,O,L,Lost primary,B
+486,LA,U.S. Rep.,Lee,Dugas,D,C,L,Lost primary,W
+487,MA,U.S. Rep.,Becky,Grossman,D,O,L,Lost primary,W
+488,MA,U.S. Rep.,Ihssane,Leckey,D,O,L,Lost primary,MENA
+489,MA,U.S. Rep.,Natalia,Linos,D,O,L,Lost primary,W
+490,MA,U.S. Rep.,Jesse,Mermell,D,O,L,Lost primary,W
+491,MA,U.S. Rep.,Jamie,Zahlaway Belsito,D,CP,L,Lost primary,MENA/W
+492,MD,U.S. Rep.,Alicia,Brown,D,CP,L,Lost primary,sent email 5/26/20
+493,MD,U.S. Rep.,Sheila,Bryant,D,CP,L,Lost primary,B
+494,MD,U.S. Rep.,Jill,Carter,D,CP,L,Lost primary,B
+495,MD,U.S. Rep.,Bridgette,Cooper,R,C,L,Lost primary,B
+496,MD,U.S. Rep.,Maya,Cummings,D,CP,L,Lost primary,B
+497,MD,U.S. Rep.,Allison,Galbraith,D,C,WD,Lost primary,W
+498,MD,U.S. Rep.,Reba,Hawkins,R,C,L,Lost primary,B
+499,MD,U.S. Rep.,Vanessa,Hoffman,D,CP,L,Lost primary,H/W
+500,MD,U.S. Rep.,M.J.,Madwolf,R,C,L,Lost primary,NA/W
+501,MD,U.S. Rep.,Liz,Matory,R,C,L,Lost primary,B/AP
+502,MD,U.S. Rep.,Marcia,Morgan,D,CP,L,Lost primary,W
+503,MD,U.S. Rep.,Genevieve,Morris,R,C,L,Lost primary,W
+504,MD,U.S. Rep.,Jennifer,Pingley,D,C,L,Lost primary,W
+505,MD,U.S. Rep.,Patricia,Rogers,R,C,L,Lost primary,B
+506,MD,U.S. Rep.,Kim,Shelton,D,CP,L,Lost primary,B
+507,MD,U.S. Rep.,Briana,Urbina,D,CP,L,Lost primary,H
+508,MD,U.S. Rep.,Mckayla,Wilkes,D,CP,L,Lost primary,B
+509,MD,U.S. Rep.,Lih,Young,D,CP,L,Lost primary,AP
+510,ME,U.S. Rep.,Adrienne,Bennett,R,C,L,Lost primary,W
+511,ME,U.S. Sen.,Betsy,Sweet,D,C,L,Lost primary,W
+512,MI,U.S. Rep.,Lynn,Afendoulis,R,O,L,Lost primary,W
+513,MI,U.S. Rep.,Carmelita,Greco,R,C,L,Lost primary,H
+514,MI,U.S. Rep.,Brenda,Jones,D,CP,L,Lost primary,B
+515,MI,U.S. Rep.,Kristina,Lyke,R,C,L,Lost primary,W
+516,MI,U.S. Rep.,Kelly,Noland,D,O,L,Lost primary,W
+517,MI,U.S. Rep.,Linda,O'Dell,D,C,L,Lost primary,W
+518,MI,U.S. Rep.,Elena,Oelke,R,CP,L,Lost primary,W
+519,MI,U.S. Rep.,Emily,Rafi,R,O,L,Lost primary,sent email 7/27/20
+520,MI,U.S. Rep.,Jen,Richardson,D,C,L,Lost primary,W
+521,MI,U.S. Rep.,Linda,Sawyer,R,C,L,Lost primary,W
+522,MI,U.S. Rep.,Whittney,Williams,R,C,L,Lost primary,AP
+523,MN,U.S. Rep.,Dalia,Al-Aqidi,R,C,L,Lost primary,MENA
+524,MN,U.S. Rep.,Tiffini,Forslund,D,CP,L,Lost primary,B/W
+525,MN,U.S. Rep.,Alberder,Gillespie,D,CP,L,Lost primary,B
+526,MN,U.S. Rep.,Alycia,Gruenhagen,D,CP,L,Lost primary,W
+527,MN,U.S. Rep.,Danielle,Stella,R,C,L,Lost primary,W
+528,MN,U.S. Sen.,Cynthia,Gail,R,C,L,Lost primary,W
+529,MN,U.S. Sen.,Paula,Overby,D,CP,L,Lost primary,W
+530,MO,Governor,Saundra,McDowell,R,CP,L,Lost primary,W
+531,MO,U.S. Rep.,Katherine,Bruckner,D,CP,L,Lost primary,Unavailable
+532,MO,U.S. Rep.,Ramona,Farris,D,C,L,Lost primary,H
+533,MO,U.S. Rep.,Winnie,Heartstrong,R,C,L,Lost primary,B
+534,MO,U.S. Rep.,Camille,Lombardi-Olive,R,CP,L,Lost primary,W
+535,MO,U.S. Rep.,Richonda,Oaks,R,C,L,Lost primary,Unavailable
+536,MO,U.S. Rep.,Maite,Salazar,D,CP,L,Lost primary,MU
+537,MO,U.S. Rep.,Lynette,Trares,R,CP,L,Lost primary,W
+538,MO,U.S. Rep.,Adela,Wisdom,R,CP,L,Lost primary,NA
+539,MS,U.S. Rep.,Katelyn,Lee,D,C,L,Lost primary,W
+540,MS,U.S. Rep.,Sonia,Rathburn,D,CP,L,Lost primary,B
+541,MT,At Gen,Kimberly,Dudik,D,O,L,Lost primary,W
+542,MT,Auditor,Nelly,Nicol,R,O,L,Lost primary,W
+543,MT,Governor,Whitney,Williams,D,O,L,Lost primary,W
+544,MT,U.S. Rep.,Debra,Lamm,R,O,L,Lost primary,W
+545,NC,At Gen,Christine,Mumma,R,C,L,Lost primary,W
+546,NC,Governor,Holly,Grange,R,C,L,Lost primary,W
+547,NC,Labor,Pearl,Burris-Floyd,R,O,L,Lost primary,B
+548,NC,Lt. Gov.,Deborah,Cochran,R,O,L,Lost primary,W
+549,NC,Lt. Gov.,Renee,Ellmers,R,O,L,Lost primary,W
+550,NC,Lt. Gov.,Terry,Van Duyn,D,O,L,Lost primary,W
+551,NC,S.P.I.,Constance,Johnson,D,O,L,Lost primary,B
+552,NC,Treasurer,Dimple,Ajmera,D,C,L,Lost primary,AP
+553,NC,U.S. Rep.,Lynda,Bennett,R,O,L,Lost primary,W
+554,NC,U.S. Rep.,Gina,Collias,D,O,L,Lost primary,W
+555,NC,U.S. Rep.,Rhonda,Foxx,D,O,L,Lost primary,B
+556,NC,U.S. Rep.,Monika,Johnson-Hostler,D,O,L,Lost primary,B
+557,NC,U.S. Rep.,Michele,Nix,R,C,L,Lost primary,W
+558,NC,U.S. Rep.,Laura,Pichardo,R,O,L,Lost primary,H
+559,NC,U.S. Sen.,Sharon,Hudson,R,CP,L,Lost primary,W
+560,NC,U.S. Sen.,Erica,Smith,D,C,L,Lost primary,B
+561,NE,U.S. Rep.,Ann,Ashford,D,C,L,Lost primary,W
+562,NE,U.S. Rep.,Gladys,Harrison,D,C,L,Lost primary,B
+563,NE,U.S. Rep.,Babs,Ramsey,D,C,L,Lost primary,W
+564,NE,U.S. Sen.,Angie,Phillips,D,C,L,Lost primary,W
+565,NE,U.S. Sen.,Alisha,Shelton,D,C,L,Lost primary,B
+566,NH,Governor,Karen,Testerman,R,CP,L,Lost primary,AP/W
+567,NH,U.S. Rep.,Lynne,Blankenbeker,R,C,L,Lost primary,W
+568,NJ,U.S. Rep.,Amani,Al-Khatahtbeh,D,CP,L,Lost primary,MENA
+569,NJ,U.S. Rep.,Christine,Conforti,D,C,L,Lost primary,W
+570,NJ,U.S. Rep.,Kate,Gibbs,R,C,L,Lost primary,W
+571,NJ,U.S. Rep.,Brigid,Harrison,D,C,L,Lost primary,W
+572,NJ,U.S. Rep.,Arati,Kreibich,D,CP,L,Lost primary,AP
+573,NJ,U.S. Rep.,Lisa,McCormick,D,CP,L,Lost primary,W
+574,NJ,U.S. Rep.,Zina,Spezakis,D,CP,L,Lost primary,W
+575,NJ,U.S. Sen.,Tricia,Flanagan,R,C,L,Lost primary,W
+576,NJ,U.S. Sen.,Natalie,Rivera,R,C,L,Lost primary,B
+577,NM,U.S. Rep.,Karen,Bedonie,R,O,L,Lost primary,NA
+578,NM,U.S. Rep.,Claire,Chase,R,C,L,Lost primary,W
+579,NM,U.S. Rep.,Laura,Montoya,D,O,L,Lost primary,H
+580,NM,U.S. Rep.,Valerie,Plame,D,O,L,Lost primary,W
+581,NM,U.S. Sen.,Elisa,Martinez,R,O,L,Lost primary,NA/H
+582,NV,U.S. Rep.,Rosalie,Bingham,R,C,L,Lost primary,W
+583,NV,U.S. Rep.,Steffanie,D'Ayr,D,CP,L,Lost primary,W
+584,NV,U.S. Rep.,Jennifer,Eason,D,CP,L,Lost primary,W
+585,NV,U.S. Rep.,Citlaly,Larois-Elias,R,C,L,Lost primary,H
+586,NV,U.S. Rep.,Randi,Reed,R,C,L,Lost primary,W
+587,NV,U.S. Rep.,Mindy,Robinson,R,C,L,Lost primary,W
+588,NV,U.S. Rep.,Lisa,Sutton,R,C,L,Lost primary,AP
+589,NV,U.S. Rep.,Tiffany,Watson,D,CP,L,Lost primary,W
+590,NV,U.S. Rep.,Rebecca,Wood,R,C,L,Lost primary,W
+591,NY,U.S. Rep.,Lauren,Ashcraft,D,CP,L,Lost primary,AP/W
+592,NY,U.S. Rep.,Lindsey,Boylan,D,CP,L,Lost primary,W
+593,NY,U.S. Rep.,Michelle,Caruso-Cabrera,D,CP,L,Lost primary,H/W
+594,NY,U.S. Rep.,Asha,Castleberry-Hernandez,D,O,L,Lost primary,B
+595,NY,U.S. Rep.,Sandra,Choi,D,CP,L,Lost primary,AP
+596,NY,U.S. Rep.,Melanie,D'Arrigo,D,CP,L,Lost primary,W
+597,NY,U.S. Rep.,Evelyn,Farkas,D,O,L,Lost primary,W
+598,NY,U.S. Rep.,Allison,Fine,D,O,L,Lost primary,W
+599,NY,U.S. Rep.,Bridget,Fleming,D,C,L,Lost primary,W
+600,NY,U.S. Rep.,Yehudis,Gottesfeld,R,O,L,Lost primary,W
+601,NY,U.S. Rep.,Cindy,Grosz,R,C,L,Lost primary,W
+602,NY,U.S. Rep.,Ola,Hawatmeh,R,C,L,Lost primary,MENA
+603,NY,U.S. Rep.,Badrun,Khan,D,CP,L,Lost primary,AP
+604,NY,U.S. Rep.,Samelys,Lopez,D,O,L,Lost primary,H
+605,NY,U.S. Rep.,Pat,Maher,D,O,L,Lost primary,W
+606,NY,U.S. Rep.,Melissa,Mark-Viverito,D,O,L,Lost primary,H
+607,NY,U.S. Rep.,Chivona,Newsome,D,O,L,Lost primary,B
+608,NY,U.S. Rep.,Catherine,Parker,D,O,L,Lost primary,W
+609,NY,U.S. Rep.,Beth,Parlato,R,O,L,Lost primary,W
+610,NY,U.S. Rep.,Marlene,Tapper,D,O,L,Lost primary,B
+611,NY,U.S. Rep.,Robin,Wilt,D,CP,L,Lost primary,B
+612,OH,U.S. Rep.,Jenny,Bell,D,C,L,Lost primary,W
+613,OH,U.S. Rep.,Kathi,Flanders,R,CP,L,Lost primary,W
+614,OH,U.S. Rep.,Nikki,Foster,D,C,L,Lost primary,AP/W
+615,OH,U.S. Rep.,Morgan,Harper,D,CP,L,Lost primary,B
+616,OH,U.S. Rep.,Shalira,Taylor,R,C,L,Lost primary,B
+617,OK,U.S. Rep.,Janet,Barresi,R,C,L,Lost primary,W
+618,OK,U.S. Rep.,Rhonda,Hopkins,R,CP,L,Lost primary,NA
+619,OK,U.S. Rep.,Shelli,Landon,R,C,L,Lost primary,W
+620,OK,U.S. Rep.,Terry,Neese,R,C,L,Lost primary,W
+621,OK,U.S. Sen.,Sheila,Bilyeu,D,C,L,Lost primary,NA/W
+622,OK,U.S. Sen.,Elysabeth,Britt,D,C,L,Lost primary,W
+623,OR,Sec. St.,Jamie,McLeod-Skinner,D,O,L,Lost primary,W
+624,OR,U.S. Rep.,Heidi,Briones,D,CP,L,Lost primary,H/W
+625,OR,U.S. Rep.,Doyle,Canning,D,CP,L,Lost primary,W
+626,OR,U.S. Rep.,Army,Murray,R,C,L,Lost primary,H
+627,OR,U.S. Rep.,Angela,Roman,R,C,L,Lost primary,W
+628,OR,U.S. Rep.,Amanda,Siebe,D,CP,L,Lost primary,W
+629,PA,Auditor,Rose,Davis,D,O,L,Lost primary,B
+630,PA,Auditor,Tracie,Fountain,D,O,L,Lost primary,B
+631,PA,Auditor,Christina,Hartman,D,O,L,Lost primary,W
+632,PA,U.S. Rep.,Laura,Quick,D,C,L,Lost primary,W
+633,PR,PR Governor,Wanda,Vasquez,PNP,I,L,Lost primary,H
+634,PR,PR Governor,Carmen,Yulín Cruz,PPD,C,L,Lost primary,H
+635,SC,U.S. Rep.,Kathy,Landing,R,C,L,Lost primary,W
+636,SD,U.S. Rep.,Liz,Marty May,R,CP,L,Lost primary,W
+637,SD,U.S. Sen.,Scyller,Borglum,R,CP,L,Lost primary,W
+638,TN,U.S. Rep.,Noelle,Bivens,D,C,L,Lost primary,W
+639,TN,U.S. Rep.,Keeda,Haynes,D,CP,L,Lost primary,B
+640,TN,U.S. Rep.,Nichole,Williams,R,O,L,Lost primary,W
+641,TN,U.S. Sen.,Natisha,Brooks,R,O,L,Lost primary,no email
+642,TN,U.S. Sen.,Robin,Kimbrough,D,O,L,Lost primary,B
+643,TX,RailRoad Comm.,Kelly,Stone,D,C,L,Lost primary,W
+644,TX,U.S. Rep.,Rosey,Abuabara,D,O,L,Lost primary,H
+645,TX,U.S. Rep.,Alma,Arrendondo-Lynch,R,O,L,Lost primary,H
+646,TX,U.S. Rep.,Sanjanetta,Barnes,D,C,L,Lost primary,B
+647,TX,U.S. Rep.,Barbara,Caraway,D,CP,L,Lost primary,B
+648,TX,U.S. Rep.,Elisa,Cardnell,D,C,L,Lost primary,W
+649,TX,U.S. Rep.,Catherine,Carr,R,O,L,Lost primary,W
+650,TX,U.S. Rep.,Sunny,Chaparala,R,O,L,Lost primary,AP
+651,TX,U.S. Rep.,Jessica,Cisneros,D,CP,L,Lost primary,H
+652,TX,U.S. Rep.,Shenita,Cleveland,D,CP,L,Lost primary,B
+653,TX,U.S. Rep.,Jamie,Culley,R,O,L,Lost primary,NA/W
+654,TX,U.S. Rep.,Melissa,Esparza-Mathis,R,CP,L,Lost primary,H
+655,TX,U.S. Rep.,Maria,Espinoza,R,C,L,Lost primary,H
+656,TX,U.S. Rep.,Crystal,Fletcher,D,O,L,Lost primary,W
+657,TX,U.S. Rep.,Elaine,Hays,R,O,L,Lost primary,W
+658,TX,U.S. Rep.,Nellie,Heiskell,R,C,L,Lost primary,B
+659,TX,U.S. Rep.,Shannon,Hutcheson,D,C,L,Lost primary,W
+660,TX,U.S. Rep.,Laura,Jones,D,C,L,Lost primary,W
+661,TX,U.S. Rep.,Anita,Kegley,R,C,L,Lost primary,W
+662,TX,U.S. Rep.,Diane,Knowlton,R,O,L,Lost primary,W
+663,TX,U.S. Rep.,Jennie,Leeder,D,C,L,Lost primary,W
+664,TX,U.S. Rep.,Christine,Mann,D,C,L,Lost primary,W
+665,TX,U.S. Rep.,Jan,McDowell,D,O,L,Lost primary,W
+666,TX,U.S. Rep.,Laurie,McReynolds,R,O,L,Lost primary,W
+667,TX,U.S. Rep.,Diana,Miller,R,O,L,Lost primary,H
+668,TX,U.S. Rep.,Nyanza,Moore,D,O,L,Lost primary,B
+669,TX,U.S. Rep.,Kim,Olson,D,O,L,Lost primary,W
+670,TX,U.S. Rep.,Tammy,Orta,R,C,L,Lost primary,H
+671,TX,U.S. Rep.,Ava,Pate,R,C,L,Lost primary,H
+672,TX,U.S. Rep.,Asusena,Resendiz,R,O,L,Lost primary,H
+673,TX,U.S. Rep.,Kristen,Rowin,R,O,L,Lost primary,H/W
+674,TX,U.S. Rep.,Cindy,Siegel,R,C,L,Lost primary,W
+675,TX,U.S. Rep.,Heidi,Sloan,D,C,L,Lost primary,W
+676,TX,U.S. Rep.,Renee,Swann,R,O,L,Lost primary,W
+677,TX,U.S. Rep.,Sharon,Thomas,R,O,L,Lost primary,B
+678,TX,U.S. Rep.,Blanca,Trout,R,C,L,Lost primary,H
+679,TX,U.S. Rep.,Alia,Ureste,R,O,L,Lost primary,H
+680,TX,U.S. Rep.,Elianor,Vessali,R,O,L,Lost primary,MENA
+681,TX,U.S. Rep.,Kathaleen,Wall,R,O,L,Lost primary,W
+682,TX,U.S. Rep.,Melissa,Wilson,D,CP,L,Lost primary,B
+683,TX,U.S. Rep.,Monique,Worthy,R,O,L,Lost primary,B
+684,TX,U.S. Rep.,Tammy,Young,D,C,L,Lost primary,W
+685,TX,U.S. Sen.,Amanda,Edwards,D,C,L,Lost primary,B
+686,TX,U.S. Sen.,Annie,Garcia,D,C,L,Lost primary,W
+687,TX,U.S. Sen.,Sema,Hernandez,D,C,L,Lost primary,H
+688,TX,U.S. Sen.,Cristina,Ramirez,D,C,L,Lost primary,H/W
+689,UT,Governor,Aimee,Winder Newton,R,O,L,Lost primary,W
+690,UT,Lt. Gov.,Michelle,Kaufusi,R,O,L,Lost primary,W
+691,UT,U.S. Rep.,Kathleen,Anderson,R,C,L,Lost primary,W
+692,UT,U.S. Rep.,Mary,Burkett,R,CP,L,Lost primary,W
+693,UT,U.S. Rep.,Tina,Cannon,R,O,L,Lost primary,W
+694,UT,U.S. Rep.,Jamie,Cheek,D,O,L,Lost primary,W
+695,UT,U.S. Rep.,Kim,Coleman,R,C,L,Lost primary,W
+696,UT,U.S. Rep.,JC,DeYoung,R,O,L,Lost primary,W
+697,UT,U.S. Rep.,Cathy,Hammon,R,O,L,Lost primary,Unavailable
+698,UT,U.S. Rep.,Cindy,Thompson,R,C,L,Lost primary,W
+699,UT,U.S. Rep.,Katie,Witt,R,O,L,Lost primary,W
+700,VA,U.S. Rep.,R. Cazel,Levine,D,CP,L,Lost primary,B
+701,VA,U.S. Rep.,Zainab,Mohsini,D,CP,L,Lost primary,AP
+702,VA,U.S. Rep.,Claire,Russo,D,C,L,Lost primary,W
+703,VA,U.S. Rep.,Vangie,Williams,D,C,L,Lost primary,AP/B/MENA/NA/W
+704,VA,U.S. Sen.,Alissa,Baldwin,R,C,L,Lost primary,W
+705,VT,At Gen,Emily,Peyton,R,C,L,Lost primary,W
+706,VT,Auditor,Linda,Sullivan,D,CP,L,Lost primary,W
+707,VT,Governor,Rebecca,Holcombe,D,C,L,Lost primary,W
+708,VT,Governor,Emily,Peyton,R,CP,L,Lost primary,W
+709,VT,Lt. Gov.,Meg,Hansen,R,O,L,Lost primary,AP
+710,VT,Lt. Gov.,Debbie,Ingram,D,O,L,Lost primary,W
+711,VT,Lt. Gov.,Brenda,Siegel,D,O,L,Lost primary,W
+712,VT,U.S. Rep.,Anya,Tynio,R,C,L,Lost primary,W
+713,WA,Land,Maryam,Abasbarzy,R,C,WD,Lost primary,no email
+714,WA,Lt. Gov.,Ann,Davison Sattler,R,O,L,Lost primary,W
+715,WA,Lt. Gov.,Michelle,Jasmer,D,O,L,Lost primary,B/H/W
+716,WA,U.S. Rep.,Mary,Bacon,D,O,L,Lost primary,AP/W
+717,WA,U.S. Rep.,Carrie,Kennedy,R,C,L,Lost primary,W
+718,WA,U.S. Rep.,Rebecca,Parson,D,CP,L,Lost primary,W
+719,WA,U.S. Rep.,Kristine,Reeves,D,O,L,Lost primary,B
+720,WA,U.S. Rep.,Sarena,Sloot,R,CP,L,Lost primary,sent email 7/30/20
+721,WA,U.S. Rep.,Nancy,Slotnick,R,O,L,Lost primary,W
+722,WA,U.S. Rep.,Tracy,Wright,R,CP,L,Lost primary,Unavailable
+723,WI,U.S. Rep.,Jessi,Ebben,R,C,L,Lost primary,W
+724,WI,U.S. Rep.,Cindy,Werner,R,C,L,Lost primary,B
+725,WV,Governor,Shelby,Fitzhugh,R,CP,L,Lost primary,W
+726,WY,U.S. Rep.,Carol,Hafner,D,C,L,Lost primary,W
+727,WY,U.S. Sen.,Yana,Ludwig,D,O,L,Lost primary,W

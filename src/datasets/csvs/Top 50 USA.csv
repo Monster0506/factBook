@@ -1,0 +1,50 @@
+id,Position,Track Name,Artist,Popularity,URL
+1,1,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,87,https://api.spotify.com/v1/tracks/5Z9KJZvQzH6PFmb8SNkxuk
+2,2,STAY (with Justin Bieber),The Kid LAROI,92,https://api.spotify.com/v1/tracks/5PjdY0CKGZdEuoNab3yDmX
+3,3,Way 2 Sexy (with Future & Young Thug),Drake,93,https://api.spotify.com/v1/tracks/0k1WUmIRnG3xU6fvvDVfRG
+4,4,Knife Talk (with 21 Savage ft. Project Pat),Drake,91,https://api.spotify.com/v1/tracks/2BcMwX1MPV6ZHP4tUT9uq6
+5,5,Heat Waves,Glass Animals,89,https://api.spotify.com/v1/tracks/02MWAaffLxlfxAUY7c5dvx
+6,6,good 4 u,Olivia Rodrigo,96,https://api.spotify.com/v1/tracks/4ZtFanR9U6ndgddUvNcjcG
+7,7,Need To Know,Doja Cat,93,https://api.spotify.com/v1/tracks/3Vi5XqYrmQgOYBajMWSvCi
+8,8,THATS WHAT I WANT,Lil Nas X,92,https://api.spotify.com/v1/tracks/0e8nrvls4Qqv5Rfa2UhqmO
+9,9,MONTERO (Call Me By Your Name),Lil Nas X,87,https://api.spotify.com/v1/tracks/1SC5rEoYDGUK4NfG82494W
+10,10,Kiss Me More (feat. SZA),Doja Cat,86,https://api.spotify.com/v1/tracks/3DarAbFujv6eYNliUTyqtz
+11,11,family ties (with Kendrick Lamar),Baby Keem,76,https://api.spotify.com/v1/tracks/3QFInJAm9eyaho5vBzxInN
+12,12,Meet Me At Our Spot,THE ANXIETY,89,https://api.spotify.com/v1/tracks/07MDkzWARZaLEdKxo6yArG
+13,13,Fair Trade (with Travis Scott),Drake,93,https://api.spotify.com/v1/tracks/40iJIUlhi6renaREYGeIDS
+14,14,Woman,Doja Cat,95,https://api.spotify.com/v1/tracks/6Uj1ctrBOjOas8xZXGqKk4
+15,15,2055,Sleepy Hallow,88,https://api.spotify.com/v1/tracks/4XvcHTUfIlWfyJTRG0aqlo
+16,16,Pepas,Farruko,59,https://api.spotify.com/v1/tracks/2B4GHvToeLTOBB4QLzW3Ni
+17,17,Happier Than Ever,Billie Eilish,94,https://api.spotify.com/v1/tracks/4RVwu0g32PAqgUiJoXsdF8
+18,18,Bad Habits,Ed Sheeran,97,https://api.spotify.com/v1/tracks/6PQ88X9TkUIAUIZJHW2upE
+19,19,Girls Want Girls (with Lil Baby),Drake,92,https://api.spotify.com/v1/tracks/37Nqx7iavZpotJSDXZWbJ3
+20,20,traitor,Olivia Rodrigo,92,https://api.spotify.com/v1/tracks/5CZ40GBx1sQ9agT82CLQCT
+21,21,Shivers,Ed Sheeran,92,https://api.spotify.com/v1/tracks/75MNhvTCCKsST3YqqUiU9r
+22,22,Hurricane,Kanye West,92,https://api.spotify.com/v1/tracks/0RbW8kWozrVSIGb4V13o0o
+23,23,Beggin',Måneskin,96,https://api.spotify.com/v1/tracks/3Wrjm47oTz2sjIgck11l5e
+24,24,Levitating (feat. DaBaby),Dua Lipa,87,https://api.spotify.com/v1/tracks/5nujrmhLynf4yMoMtj8AQF
+25,25,Fancy Like,Walker Hayes,66,https://api.spotify.com/v1/tracks/0lnpnsrVaW9elGgRxpDCgE
+26,26,Dark Red,Steve Lacy,87,https://api.spotify.com/v1/tracks/37y7iDayfwm3WXn5BiAoRk
+27,27,Jugaste y Sufrí,Eslabon Armado,84,https://api.spotify.com/v1/tracks/3NqBxTOMCJ3zW9CIP51td4
+28,28,Get Into It (Yuh),Doja Cat,88,https://api.spotify.com/v1/tracks/0W6I02J9xcqK8MtSeosEXb
+29,29,Sharing Locations (feat. Lil Baby & Lil Durk),Meek Mill,60,https://api.spotify.com/v1/tracks/3T9BKc4kB7ukeNQrCqv6ZV
+30,30,Life Goes On,Oliver Tree,91,https://api.spotify.com/v1/tracks/0eu4C55hL6x29mmeAjytzC
+31,31,RAPSTAR,Polo G,78,https://api.spotify.com/v1/tracks/18vXApRmJSgQ6wG2ll9AOg
+32,32,Sweater Weather,The Neighbourhood,88,https://api.spotify.com/v1/tracks/2QjOHCTQ1Jl3zawyYOpxh6
+33,33,love nwantiti (ah ah ah),CKay,89,https://api.spotify.com/v1/tracks/2Xr1dTzJee307rmrkt8c0g
+34,34,My Universe,Coldplay,91,https://api.spotify.com/v1/tracks/3FeVmId7tL5YN8B7R3imoM
+35,35,Moon,Kanye West,87,https://api.spotify.com/v1/tracks/2Rd4eJ4KwXQQn2sMSToyUM
+36,36,deja vu,Olivia Rodrigo,90,https://api.spotify.com/v1/tracks/6HU7h9RYOaPRFeh0R3UeAr
+37,37,"...And to Those I Love, Thanks for Sticking Around",$uicideboy$,84,https://api.spotify.com/v1/tracks/30QR0ndUdiiMQMA9g1PGCm
+38,38,Freaks,Surf Curse,88,https://api.spotify.com/v1/tracks/7EkWXAI1wn8Ii883ecd9xr
+39,39,Wants and Needs (feat. Lil Baby),Drake,85,https://api.spotify.com/v1/tracks/65OVbaJR5O1RmwOQx0875b
+40,40,Champagne Poetry,Drake,88,https://api.spotify.com/v1/tracks/2HSmyk2qMN8WQjuGhaQgCk
+41,41,Your Heart,Joyner Lucas,79,https://api.spotify.com/v1/tracks/2DTpP3caqX3QdJIEoS83mD
+42,42,Cold Heart - PNAU Remix,Elton John,92,https://api.spotify.com/v1/tracks/6zSpb8dQRaw0M1dK8PBwQz
+43,43,"Last One Standing (feat. Polo G, Mozzy & Eminem)",Skylar Grey,75,https://api.spotify.com/v1/tracks/5W8HXMOMLtXLz0RGKUtnlZ
+44,44,Too Easy,Gunna,78,https://api.spotify.com/v1/tracks/4eL3XeuGaEoVT8ttDh3hwY
+45,45,drivers license,Olivia Rodrigo,90,https://api.spotify.com/v1/tracks/5wANPM4fQCJwkGd4rN57mH
+46,46,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,92,https://api.spotify.com/v1/tracks/4iJyoBOLtHqaGxP12qzhQI
+47,47,Blinding Lights,The Weeknd,91,https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b
+48,48,No Role Modelz,J. Cole,84,https://api.spotify.com/v1/tracks/62vpWI1CHwFy7tMIcSStl8
+49,49,Have Mercy,Chlöe,84,https://api.spotify.com/v1/tracks/5SixeLvPsYpk7qq9lo5xYg

@@ -1,0 +1,1830 @@
+id,Address,City,County,Latitude,Longitude,Postal Code,State Code,State
+1,400 Oxford Exchange Blvd,Oxford,Calhoun,33.61,-85.78,36203.0,AL,Alabama
+2,2640 Enterprise Dr,Opelika,Lee,32.62,-85.41,36801.0,AL,Alabama
+3,1129 S Park St,Carrollton,Carroll,33.56,-85.08,30117.0,GA,Georgia
+4,555 Bullsboro Dr,Newnan,Coweta,33.39,-84.76,30265.0,GA,Georgia
+5,1591 Bradley Park Dr,Columbus,Muscogee,32.53,-84.97,31904.0,GA,Georgia
+6,1209 Peachtree Pkwy N,Peachtree City,Fayette,33.44,-84.59,30269.0,GA,Georgia
+7,2576 Berryhill Rd,Montgomery,Montgomery,32.36,-86.16,36117.0,AL,Alabama
+8,2950 Chapel Hill Rd,Douglasville,Douglas,33.73,-84.74,30135.0,GA,Georgia
+9,2754 Legends Pkwy,Prattville,Elmore,32.46,-86.4,36066.0,AL,Alabama
+10,4616 Highway 280,Birmingham,Shelby,33.43,-86.71,35242.0,AL,Alabama
+11,107 Pavilion Pkwy,Fayetteville,Fayette,33.48,-84.44,30214.0,GA,Georgia
+12,1654 Gadsden Hwy,Birmingham,Jefferson,33.61,-86.64,35235.0,AL,Alabama
+13,5220 Jimmy Lee Smith Pkwy,Hiram,Paulding,33.89,-84.74,30141.0,GA,Georgia
+14,250 S Colonial Dr,Alabaster,Shelby,33.22,-86.8,35007.0,AL,Alabama
+15,3660 Marketplace Blvd,East Point,Fulton,33.66,-84.5,30344.0,GA,Georgia
+16,531 Brookwood Village,Homewood,Jefferson,33.47,-86.77,35209.0,AL,Alabama
+17,4125 Austell Rd,Austell,Cobb,33.85,-84.6,30106.0,GA,Georgia
+18,5561 Grove Blvd,Birmingham,Jefferson,33.36,-86.85,35226.0,AL,Alabama
+19,2535 Dallas Hwy SW,Marietta,Cobb,33.94,-84.63,30064.0,GA,Georgia
+20,3489 Lowery Pkwy,Fultondale,Jefferson,33.61,-86.81,35068.0,AL,Alabama
+21,3378 Cobb Pkwy NW,Acworth,Cobb,34.04,-84.68,30101.0,GA,Georgia
+22,1850 Jonesboro Rd,Mcdonough,Henry,33.47,-84.22,30253.0,GA,Georgia
+23,375 18th St,Atlanta,Fulton,33.79,-84.4,30363.0,GA,Georgia
+24,2201 Cobb Pkwy SE,Smyrna,Cobb,33.9,-84.48,30080.0,GA,Georgia
+25,1275 Caroline St NE,Atlanta,Dekalb,33.76,-84.35,30307.0,GA,Georgia
+26,4889 Promenade Pkwy,Bessemer,Jefferson,33.33,-86.99,35022.0,AL,Alabama
+27,740 Ernest W Barrett Pkwy NW,Kennesaw,Cobb,34.01,-84.57,30144.0,GA,Georgia
+28,2539 Piedmont Rd NE,Atlanta,Fulton,33.82,-84.36,30324.0,GA,Georgia
+29,100 Cherokee Pl,Cartersville,Bartow,34.17,-84.79,30121.0,GA,Georgia
+30,3535 Peachtree Rd NE,Atlanta,Fulton,33.85,-84.36,30326.0,GA,Georgia
+31,2400 N Druid Hills Rd NE,Atlanta,Dekalb,33.83,-84.33,30329.0,GA,Georgia
+32,5570 Roswell Rd,Sandy Springs,Fulton,33.91,-84.38,30342.0,GA,Georgia
+33,1401 Johnson Ferry Rd,Marietta,Cobb,33.99,-84.43,30062.0,GA,Georgia
+34,140 Woodstock Square Ave,Woodstock,Cherokee,34.09,-84.55,30189.0,GA,Georgia
+35,3040 Shallowford Rd,Marietta,Cobb,34.04,-84.46,30062.0,GA,Georgia
+36,100 Perimeter Center Pl,Atlanta,DeKalb,33.93,-84.34,30346.0,GA,Georgia
+37,4241 Lavista Rd,Tucker,DeKalb,33.85,-84.25,30084.0,GA,Georgia
+38,1135 Woodstock Rd,Roswell,Fulton,34.06,-84.4,30075.0,GA,Georgia
+39,3200 Holcomb Bridge Rd,Peachtree Corners,Gwinnett,33.95,-84.23,30092.0,GA,Georgia
+40,2195 Hwy 20 SE,Conyers,Rockdale,33.63,-84.02,30013.0,GA,Georgia
+41,6000 N Point Pkwy,Alpharetta,Fulton,34.05,-84.29,30022.0,GA,Georgia
+42,2022 Cumming Hwy,Canton,Cherokee,34.23,-84.46,30115.0,GA,Georgia
+43,5950 State Bridge Rd,Duluth,Fulton,34.01,-84.19,30097.0,GA,Georgia
+44,13055 Highway 9 N,Milton,Fulton,34.1,-84.27,30004.0,GA,Georgia
+45,1905 Scenic Hwy N,Snellville,Gwinnett,33.87,-84.02,30078.0,GA,Georgia
+46,2625 Peachtree Pkwy,Suwanee,Forsyth,34.1,-84.17,30024.0,GA,Georgia
+47,875 Lawrenceville Suwanee Rd,Lawrenceville,Gwinnett,33.97,-84.01,30043.0,GA,Georgia
+48,1525 Market Place Blvd,Cumming,Forsyth,34.19,-84.13,30041.0,GA,Georgia
+49,3205 Woodward Crossing Blvd,Buford,Gwinnett,34.07,-83.98,30519.0,GA,Georgia
+50,1901 13th Ave E,Tuscaloosa,Tuscaloosa,33.19,-87.52,35404.0,AL,Alabama
+51,2929 Watson Blvd,Warner Robins,Houston,32.62,-83.69,31093.0,GA,Georgia
+52,916 Loganville Hwy,Bethlehem,Barrow,33.94,-83.75,30620.0,GA,Georgia
+53,5865 Spout Springs Rd,Flowery Branch,Hall,34.18,-83.91,30542.0,GA,Georgia
+54,2750 Carl T Jones Dr SE,Huntsville,Madison,34.67,-86.54,35802.0,AL,Alabama
+55,1235 Point Mallard Pkwy SE,Decatur,Morgan,34.56,-86.97,35601.0,AL,Alabama
+56,514 Shallowford Rd NW,Gainesville,Hall,34.29,-83.85,30504.0,GA,Georgia
+57,4601 Montgomery Hwy,Dothan,Houston,31.27,-85.45,36303.0,AL,Alabama
+58,6275 University Dr NW,Huntsville,Madison,34.74,-86.68,35806.0,AL,Alabama
+59,2721 Dawson Rd,Albany,Dougherty,31.62,-84.22,31707.0,GA,Georgia
+60,8207 HIGHWAY 72 W,Madison,Madison,34.75,-86.76,35758.0,AL,Alabama
+61,1816 Gunbarrel Rd,Chattanooga,Hamilton,35.02,-85.16,37421.0,TN,Tennessee
+62,3065 Atlanta Hwy,Athens,Clarke,33.94,-83.44,30606.0,GA,Georgia
+63,5579 Highway 153,Hixson,Hamilton,35.15,-85.25,37343.0,TN,Tennessee
+64,4570 Frontage Rd NW,Cleveland,Bradley,35.22,-84.87,37312.0,TN,Tennessee
+65,372 Cox Creek Pkwy,Florence,Lauderdale,34.84,-87.63,35630.0,AL,Alabama
+66,3519 Clemson Blvd,Anderson,Anderson,34.55,-82.68,29621.0,SC,South Carolina
+67,3700 Bradfordville Rd,Tallahassee,Leon,30.56,-84.22,32309.0,FL,Florida
+68,1851 Old Fort Pkwy,Murfreesboro,Rutherford,35.84,-86.43,37129.0,TN,Tennessee
+69,853 Harbor Blvd,Destin,Okaloosa,30.39,-86.48,32541.0,FL,Florida
+70,4727 Highway 90,Pace,Santa Rosa,30.6,-87.13,32571.0,FL,Florida
+71,1033 Crossings Blvd,Spring Hill,Maury,35.74,-86.94,37174.0,TN,Tennessee
+72,250 E Miracle Strip Pkwy,Mary Esther,Okaloosa,30.41,-86.66,32569.0,FL,Florida
+73,4223 Washington Rd,Evans,Columbia,33.53,-82.12,30809.0,GA,Georgia
+74,15555 Starfish St,Panama City Beach,Bay,30.22,-85.87,32413.0,FL,Florida
+75,2120 Apalachee Pkwy,Tallahassee,Leon,30.43,-84.24,32301.0,FL,Florida
+76,800 Watkins Rd,Maryville,Blount,35.75,-83.99,37801.0,TN,Tennessee
+77,2340 Highway 77,Panama City,Bay,30.19,-85.65,32405.0,FL,Florida
+78,235 Robert C Daniel Jr Pkwy,Augusta,Richmond,33.49,-82.08,30909.0,GA,Georgia
+79,1749 E Nine Mile Rd,Pensacola,Escambia,30.53,-87.22,32514.0,FL,Florida
+80,3064 Columbia Ave,Franklin,Williamson,35.89,-86.88,37064.0,TN,Tennessee
+81,803 Industrial Blvd,Smyrna,Rutherford,35.98,-86.57,37167.0,TN,Tennessee
+82,1815 Norman Dr,Valdosta,Lowndes,30.84,-83.32,31601.0,GA,Georgia
+83,4711 Bayou Blvd,Pensacola,Escambia,30.47,-87.21,32503.0,FL,Florida
+84,1900 Town Center Blvd,Knoxville,Knox,35.86,-84.08,37922.0,TN,Tennessee
+85,11100 Parkside Dr,Knoxville,Knox,35.9,-84.15,37934.0,TN,Tennessee
+86,1701 Galleria Blvd,Franklin,Williamson,35.97,-86.81,37067.0,TN,Tennessee
+87,8040 Ray Mears Blvd,Knoxville,Knox,35.92,-84.05,37919.0,TN,Tennessee
+88,780 Old Hickory Blvd,Brentwood,Davidson,36.04,-86.78,37027.0,TN,Tennessee
+89,401 S Mount Juliet Rd,Mount Juliet,Wilson,36.17,-86.51,37122.0,TN,Tennessee
+90,2950 S Blue Angel Pkwy,Pensacola,Escambia,30.36,-87.36,32506.0,FL,Florida
+91,6670 Clinton Hwy,Knoxville,Knox,36.01,-84.02,37912.0,TN,Tennessee
+92,694 Fairview Rd,Simpsonville,Greenville,34.71,-82.26,29680.0,SC,South Carolina
+93,3171 Lebanon Pike,Nashville,Davidson,36.18,-86.64,37214.0,TN,Tennessee
+94,26 White Bridge Rd,Nashville,Davidson,36.13,-86.85,37205.0,TN,Tennessee
+95,1112 Woodruff Rd,Greenville,Greenville,34.83,-82.31,29607.0,SC,South Carolina
+96,6814 Charlotte Pike,Nashville,Davidson,36.14,-86.89,37209.0,TN,Tennessee
+97,1698 US Highway 98,Daphne,Baldwin,30.6,-87.9,36526.0,AL,Alabama
+98,5405 Washington Pike,Knoxville,Knox,36.04,-83.89,37918.0,TN,Tennessee
+99,2545 Whiskey Rd,Aiken,Aiken,33.5,-81.71,29803.0,SC,South Carolina
+100,3150 Bel Air Mall,Mobile,Mobile,30.67,-88.12,36606.0,AL,Alabama
+101,6025 Wade Hampton Blvd,Taylors,Greenville,34.94,-82.28,29687.0,SC,South Carolina
+102,2050 Gallatin Rd N,Madison,Davidson,36.3,-86.69,37115.0,TN,Tennessee
+103,1004 Andrews Run,Hendersonville,Sumner,36.33,-86.63,37075.0,TN,Tennessee
+104,790 Schillinger Rd S,Mobile,Mobile,30.67,-88.23,36695.0,AL,Alabama
+105,3820 Gulf Shores Pkwy,Gulf Shores,Baldwin,30.3,-87.68,36542.0,AL,Alabama
+106,15 McKenna Rd,Arden,Buncombe,35.45,-82.54,28704.0,NC,North Carolina
+107,8199 Warren H Abernathy Pkwy,Spartanburg,Spartanburg,34.93,-82.01,29301.0,SC,South Carolina
+108,115 River Hills Rd,Asheville,Buncombe,35.57,-82.52,28805.0,NC,North Carolina
+109,93 Stonebrook Pl,Jackson,Madison,35.69,-88.86,38305.0,TN,Tennessee
+110,325 New Byhalia Rd,Collierville,Shelby,35.05,-89.69,38017.0,TN,Tennessee
+111,9235 Poplar Ave,Germantown,Shelby,35.07,-89.76,38138.0,TN,Tennessee
+112,475 N Germantown Pkwy,Cordova,Shelby,35.14,-89.8,38018.0,TN,Tennessee
+113,5150 Goodman Rd,Olive Branch,DeSoto,34.96,-89.9,38654.0,MS,Mississippi
+114,7989 US Highway 64,Memphis,Shelby,35.2,-89.8,38133.0,TN,Tennessee
+115,5959 Poplar Ave,Memphis,Shelby,35.1,-89.86,38119.0,TN,Tennessee
+116,2823 Wilma Rudolph Blvd,Clarksville,Montgomery,36.59,-87.29,37040.0,TN,Tennessee
+117,601 Colonial Rd,Memphis,Shelby,35.11,-89.9,38117.0,TN,Tennessee
+118,7255 Interstate Dr,Horn Lake,DeSoto,34.97,-90.0,38637.0,MS,Mississippi
+119,160 American Ave,Bowling Green,Warren,36.95,-86.44,42104.0,KY,Kentucky
+120,170 Promenade Blvd,Flowood,Rankin,32.34,-90.06,39232.0,MS,Mississippi
+121,6365 I 55 N,Jackson,Hinds,32.4,-90.15,39213.0,MS,Mississippi
+122,3000 E Highland Dr,Jonesboro,Craighead,35.82,-90.67,72401.0,AR,Arkansas
+123,6143 U S Highway 98,Hattiesburg,Lamar,31.32,-89.39,39402.0,MS,Mississippi
+124,5151 Frederica St,Owensboro,Daviess,37.72,-87.12,42301.0,KY,Kentucky
+125,1631 Ring Rd,Elizabethtown,Hardin,37.73,-85.88,42701.0,KY,Kentucky
+126,3867 Promenade Pkwy,D'iberville,Harrison,30.45,-88.9,39540.0,MS,Mississippi
+127,69320 Highway 21,Covington,St. Tammany Parish,30.44,-90.14,70433.0,LA,Louisiana
+128,2030 Hammond Square Dr,Hammond,Tangipahoa Parish,30.48,-90.46,70403.0,LA,Louisiana
+129,4103 Pecanland Mall Dr,Monroe,Ouachita Parish,32.5,-92.07,71203.0,LA,Louisiana
+130,4500 Veterans Memorial Blvd,Metairie,Jefferson Parish,30.0,-90.18,70006.0,LA,Louisiana
+131,1401 W Esplanade Ave,Kenner,Jefferson Parish,30.02,-90.25,70065.0,LA,Louisiana
+132,1731 Manhattan Blvd,Harvey,Jefferson Parish,29.89,-90.05,70058.0,LA,Louisiana
+133,2001 Millerville Rd,Baton Rouge,East Baton Rouge Parish,30.44,-91.02,70816.0,LA,Louisiana
+134,6885 Siegen Ln,Baton Rouge,East Baton Rouge Parish,30.38,-91.06,70809.0,LA,Louisiana
+135,6625 E Lloyd Expy,Evansville,Vanderburgh,37.98,-87.47,47715.0,IN,Indiana
+136,4000 1st Ave,Evansville,Vanderburgh,38.02,-87.58,47710.0,IN,Indiana
+137,202 Siemers Dr,Cape Girardeau,Cape Girardeau,37.3,-89.58,63701.0,MO,Missouri
+138,7311 Jefferson Blvd,Louisville,Jefferson,38.15,-85.67,40219.0,KY,Kentucky
+139,3000 W Deyoung St,Marion,Williamson,37.75,-88.98,62959.0,IL,Illinois
+140,3600 Mall Rd,Louisville,Jefferson,38.2,-85.67,40218.0,KY,Kentucky
+141,4640 Taylorsville Rd,Louisville,Jefferson,38.22,-85.59,40220.0,KY,Kentucky
+142,4174 Westport Rd,Louisville,Jefferson,38.26,-85.64,40207.0,KY,Kentucky
+143,2209 State St,New Albany,Floyd,38.31,-85.84,47150.0,IN,Indiana
+144,12975 Shelbyville Rd,Louisville,Jefferson,38.25,-85.51,40243.0,KY,Kentucky
+145,1125 Veterans Pkwy,Clarksville,Clark,38.33,-85.76,47129.0,IN,Indiana
+146,4101 Towne Center Dr,Louisville,Jefferson,38.3,-85.56,40241.0,KY,Kentucky
+147,131 West Reynolds Rd,Lexington,Fayette,37.99,-84.53,40503.0,KY,Kentucky
+148,1940 Pavillon Way,Lexington,Fayette,38.02,-84.42,40509.0,KY,Kentucky
+149,3970 SW Archer Rd,Gainesville,Alachua,29.62,-82.38,32608.0,FL,Florida
+150,250 NW 13th St,Gainesville,Alachua,29.65,-82.34,32601.0,FL,Florida
+151,1727 Martin Luther King Jr Blvd,Houma,Terrebonne Parish,29.61,-90.76,70360.0,LA,Louisiana
+152,3225 Louisiana Ave,Lafayette,Lafayette Parish,30.27,-92.0,70501.0,LA,Louisiana
+153,4313 Ambassador Caffery Pkwy,Lafayette,Lafayette Parish,30.16,-92.05,70508.0,LA,Louisiana
+154,9525 Crosshill Blvd,Jacksonville,Duval,30.2,-81.82,32222.0,FL,Florida
+155,200 Glynn Isle,Brunswick,Glynn,31.2,-81.48,31525.0,GA,Georgia
+156,6331 Roosevelt Blvd,Jacksonville,Duval,30.23,-81.7,32244.0,FL,Florida
+157,463737 State Rd 200,Yulee,Nassau,30.63,-81.55,32097.0,FL,Florida
+158,1490 County Rd 220,Orange Park,Clay,30.1,-81.71,32003.0,FL,Florida
+159,10490 San Jose Blvd,Jacksonville,Duval,30.19,-81.63,32257.0,FL,Florida
+160,444 Monument Rd,Jacksonville,Duval,30.33,-81.55,32225.0,FL,Florida
+161,4567 River City Dr,Jacksonville,Duval,30.26,-81.53,32246.0,FL,Florida
+162,9041 Southside Blvd,Jacksonville,Duval,30.19,-81.55,32256.0,FL,Florida
+163,2000 SW College Rd,Ocala,Marion,29.17,-82.16,34471.0,FL,Florida
+164,13740 Beach Blvd,Jacksonville,Duval,30.29,-81.46,32224.0,FL,Florida
+165,490 Marsh Landing Pkwy,Jacksonville Beach,Duval,30.25,-81.39,32250.0,FL,Florida
+166,2116 N Roan St,Johnson City,Washington,36.34,-82.37,37601.0,TN,Tennessee
+167,2626 E Stone Dr,Kingsport,Sullivan,36.55,-82.49,37660.0,TN,Tennessee
+168,5119 Sunset Blvd,Lexington,Lexington,34.01,-81.19,29072.0,SC,South Carolina
+169,134 Harbison Blvd,Columbia,Lexington,34.07,-81.16,29212.0,SC,South Carolina
+170,14065 Abercorn St,Savannah,Chatham,31.98,-81.18,31419.0,GA,Georgia
+171,1907 E Victory Dr,Savannah,Chatham,32.04,-81.07,31404.0,GA,Georgia
+172,1050 Fording Island Rd,Bluffton,Beaufort,32.26,-80.85,29910.0,SC,South Carolina
+173,150 W 100th Ave,Anchorage,Anchorage Borough,61.13,-149.88,99515.0,AK,Alaska
+174,1200 N Muldoon Rd,Anchorage,Anchorage Borough,61.23,-149.75,99504.0,AK,Alaska
+175,1801 E Parks Hwy,Wasilla,Matanuska-Susitna Borough,61.58,-149.4,99654.0,AK,Alaska
+176,7377 Alcoa Rd,Bryant,Saline,34.6,-92.53,72022.0,AR,Arkansas
+177,12700 Chenal Pkwy,Little Rock,Pulaski,34.76,-92.41,72211.0,AR,Arkansas
+178,420 S University Ave,Little Rock,Pulaski,34.75,-92.35,72205.0,AR,Arkansas
+179,4000 McCain Blvd,North Little Rock,Pulaski,34.79,-92.23,72116.0,AR,Arkansas
+180,501 Elsinger Blvd,Conway,Faulkner,35.09,-92.41,72032.0,AR,Arkansas
+181,4001 Phoenix Ave,Fort Smith,Sebastian,35.34,-94.39,72903.0,AR,Arkansas
+182,102 Richmond Ranch Rd,Texarkana,Bowie,33.46,-94.09,75503.0,TX,Texas
+183,3545 N Shiloh Dr,Fayetteville,Washington,36.12,-94.16,72703.0,AR,Arkansas
+184,1200 Branson Hills Pkwy,Branson,Taney,36.67,-93.23,65616.0,MO,Missouri
+185,2404 Promenade Blvd,Rogers,Benton,36.3,-94.17,72758.0,AR,Arkansas
+186,2735 Beene Blvd,Bossier City,Bossier Parish,32.56,-93.71,71111.0,LA,Louisiana
+187,7110 Youree Dr,Shreveport,Caddo Parish,32.44,-93.72,71105.0,LA,Louisiana
+188,1825 E Primrose St,Springfield,Greene,37.15,-93.26,65804.0,MO,Missouri
+189,3092 N Eastman Rd,Longview,Gregg,32.55,-94.72,75605.0,TX,Texas
+190,3151 E 7th St,Joplin,Jasper,37.09,-94.47,64801.0,MO,Missouri
+191,1150 E Hillside Dr,Broken Arrow,Tulsa,36.07,-95.78,74012.0,OK,Oklahoma
+192,10711 E 71st St,Tulsa,Tulsa,36.06,-95.86,74133.0,OK,Oklahoma
+193,10019 S Memorial Dr,Tulsa,Tulsa,36.02,-95.88,74133.0,OK,Oklahoma
+194,1701 S Yale Ave,Tulsa,Tulsa,36.14,-95.92,74112.0,OK,Oklahoma
+195,9010 N 121st East Ave,Owasso,Tulsa,36.29,-95.84,74055.0,OK,Oklahoma
+196,7437 S Olympia Ave W,Tulsa,Tulsa,36.06,-96.0,74132.0,OK,Oklahoma
+197,7003 S Broadway Ave,Tyler,Smith,32.27,-95.31,75703.0,TX,Texas
+198,2206 Memorial Dr,Alexandria,Rapides Parish,31.28,-92.46,71301.0,LA,Louisiana
+199,4160 Town Center Rd,Sherman,Grayson,33.68,-96.61,75092.0,TX,Texas
+200,919 Highway D,Osage Beach,Miller,38.16,-92.6,65065.0,MO,Missouri
+201,7305 SE 29th St,Midwest City,Oklahoma,35.44,-97.4,73110.0,OK,Oklahoma
+202,1200 E 2nd St,Edmond,Oklahoma,35.65,-97.46,73034.0,OK,Oklahoma
+203,1400 24th Ave NW,Norman,Cleveland,35.24,-97.48,73069.0,OK,Oklahoma
+204,720 SW 19TH ST,Moore,Cleveland,35.32,-97.5,73160.0,OK,Oklahoma
+205,13924 N Pennsylvania Ave,Oklahoma City,Oklahoma,35.61,-97.55,73134.0,OK,Oklahoma
+206,5400 N May Ave,Oklahoma City,Oklahoma,35.52,-97.56,73112.0,OK,Oklahoma
+207,8315 N Rockwell Ave,Oklahoma City,Oklahoma,35.56,-97.64,73132.0,OK,Oklahoma
+208,1700 Garth Brooks Blvd,Yukon,Canadian,35.48,-97.76,73099.0,OK,Oklahoma
+209,2025 N Central Expy,Mckinney,Collin,33.22,-96.64,75070.0,TX,Texas
+210,150 E Stacy Rd,Allen,Collin,33.12,-96.66,75002.0,TX,Texas
+211,907 W McDermott Dr,Allen,Collin,33.1,-96.68,75013.0,TX,Texas
+212,8900 State Highway 121,McKinney,Collin,33.13,-96.73,75070.0,TX,Texas
+213,3440 W FM 544,Wylie,Collin,33.01,-96.59,75098.0,TX,Texas
+214,4885 Eldorado Pkwy,Frisco,Denton,33.17,-96.84,75033.0,TX,Texas
+215,2024 N Rock Rd,Derby,Sedgwick,37.57,-97.24,67037.0,KS,Kansas
+216,850 Steger Towne Rd,Rockwall,Rockwall,32.89,-96.47,75032.0,TX,Texas
+217,120 W Parker Rd,Plano,Collin,33.04,-96.71,75075.0,TX,Texas
+218,3201 Preston Rd,Frisco,Collin,33.1,-96.81,75034.0,TX,Texas
+219,5301 N Garland Ave,Garland,Dallas,32.97,-96.65,75040.0,TX,Texas
+220,4701 Lakeview Pkwy,Rowlett,Dallas,32.91,-96.56,75088.0,TX,Texas
+221,10800 E 21st St N,Wichita,Sedgwick,37.72,-97.21,67206.0,KS,Kansas
+222,2200 Dallas Pkwy,Plano,Collin,33.03,-96.83,75093.0,TX,Texas
+223,601 S Plano Rd,Richardson,Dallas,32.94,-96.7,75081.0,TX,Texas
+224,16731 Coit Rd,Dallas,Dallas,32.98,-96.77,75248.0,TX,Texas
+225,4760 State Highway 121,Lewisville,Denton,33.06,-96.89,75056.0,TX,Texas
+226,1801 S Loop 288,Denton,Denton,33.19,-97.1,76205.0,TX,Texas
+227,1106 E North Ave,Belton,Cass,38.82,-94.52,64012.0,MO,Missouri
+228,1629 N Town East Blvd,Mesquite,Dallas,32.81,-96.62,75150.0,TX,Texas
+229,13131 Montfort Dr,Dallas,Dallas,32.93,-96.81,75240.0,TX,Texas
+230,3730 Belt Line Rd,Addison,Dallas,32.95,-96.85,75001.0,TX,Texas
+231,6419 Skillman St,Dallas,Dallas,32.87,-96.75,75231.0,TX,Texas
+232,725 Hebron Pkwy,Lewisville,Denton,33.01,-96.97,75057.0,TX,Texas
+233,7575 Maple St,Wichita,Sedgwick,37.68,-97.43,67209.0,KS,Kansas
+234,6464 E NORTHWEST HWY STE 212,Dallas,Dallas,32.86,-96.75,75214.0,TX,Texas
+235,8101 W 151st,Overland Park,Johnson,38.85,-94.68,66223.0,KS,Kansas
+236,20255 W 154th St,Olathe,Johnson,38.85,-94.82,66062.0,KS,Kansas
+237,5959 Long Prairie Rd,Flower Mound,Denton,33.07,-97.08,75028.0,TX,Texas
+238,1201 W 136th St,Kansas City,Jackson,38.88,-94.61,64145.0,MO,Missouri
+239,9440 Marsh Ln,Dallas,Dallas,32.86,-96.85,75220.0,TX,Texas
+240,2727 N Maize Rd,Wichita,Sedgwick,37.73,-97.46,67205.0,KS,Kansas
+241,12200 Blue Valley Pkwy,Overland Park,Johnson,38.91,-94.67,66213.0,KS,Kansas
+242,2417 N Haskell Ave,Dallas,Dallas,32.8,-96.79,75204.0,TX,Texas
+243,1850 NW Chipman Rd,Lees Summit,Jackson,38.93,-94.41,64081.0,MO,Missouri
+244,15345 W 119th St,Olathe,Johnson,38.91,-94.76,66062.0,KS,Kansas
+245,7845 N Macarthur Blvd,Irving,Dallas,32.91,-96.96,75063.0,TX,Texas
+246,11501 W 97th St,Overland Park,Johnson,38.95,-94.72,66214.0,KS,Kansas
+247,735 W Stadium Blvd,Jefferson City,Cole,38.58,-92.21,65109.0,MO,Missouri
+248,8509 State Line Rd,Kansas City,Jackson,38.97,-94.61,64114.0,MO,Missouri
+249,1101 Ira E Woods Ave,Grapevine,Tarrant,32.93,-97.09,76051.0,TX,Texas
+250,3333 W Airport Fwy,Irving,Dallas,32.84,-96.99,75062.0,TX,Texas
+251,3201 S Iowa St,Lawrence,Douglas,38.93,-95.26,66046.0,KS,Kansas
+252,1040 NE CORONADO,Blue Springs,Jackson,39.02,-94.25,64014.0,MO,Missouri
+253,6100 Broadmoor St,Mission,Johnson,39.02,-94.67,66202.0,KS,Kansas
+254,15700 Shawnee Mission Pkwy,Shawnee,Johnson,39.01,-94.77,66217.0,KS,Kansas
+255,1401 W Glade Rd,Euless,Tarrant,32.88,-97.1,76039.0,TX,Texas
+256,17810 E 39th St S,Independence,Jackson,39.05,-94.37,64055.0,MO,Missouri
+257,8532 Davis Blvd,North Richland Hills,Tarrant,32.91,-97.19,76182.0,TX,Texas
+258,39739 LBJ Fwy,Dallas,Dallas,32.65,-96.86,75237.0,TX,Texas
+259,2030 NW 82nd Street,Lawton,Comanche,34.63,-98.49,73505.0,OK,Oklahoma
+260,2400 Bernadette Dr,Columbia,Boone,38.96,-92.38,65203.0,MO,Missouri
+261,1851 Vernaci Dr,Washington,Franklin,38.54,-90.98,63090.0,MO,Missouri
+262,4375 N Chouteau Trfy,Kansas City,Clay,39.17,-94.53,64117.0,MO,Missouri
+263,10900 Stadium Pkwy,Kansas City,Wyandotte,39.13,-94.83,66111.0,KS,Kansas
+264,9220 NE Barry Rd,Kansas City,Clay,39.25,-94.46,64157.0,MO,Missouri
+265,8420 N Madison Ave,Kansas City,Clay,39.25,-94.6,64155.0,MO,Missouri
+266,9040 N Skyview Ave,Kansas City,Platte,39.26,-94.65,64154.0,MO,Missouri
+267,3849 Vogel Rd,Arnold,Jefferson,38.41,-90.4,63010.0,MO,Missouri
+268,197 Gravois Bluffs Plaza Dr,Fenton,St. Louis,38.5,-90.45,63026.0,MO,Missouri
+269,1883 Wentzville Pkwy,Wentzville,St. Charles,38.82,-90.88,63385.0,MO,Missouri
+270,15025 Manchester Rd,Ballwin,St. Louis,38.59,-90.55,63011.0,MO,Missouri
+271,7955 Highway N,Dardenne Prairie,St. Charles,38.77,-90.77,63368.0,MO,Missouri
+272,40 THF Blvd,Chesterfield,St. Louis,38.67,-90.59,63005.0,MO,Missouri
+273,1272 Town And Country Crossing Dr,Chesterfield,St. Louis,38.62,-90.52,63017.0,MO,Missouri
+274,2300 Highway K,O Fallon,St. Charles,38.78,-90.7,63368.0,MO,Missouri
+275,4250 Rusty Rd,Saint Louis,St. Louis,38.51,-90.34,63128.0,MO,Missouri
+276,6241 Mid Rivers Mall Dr,Saint Peters,St. Charles,38.74,-90.64,63304.0,MO,Missouri
+277,1042 S Kirkwood Rd,Kirkwood,St. Louis,38.56,-90.4,63122.0,MO,Missouri
+278,3881 Mexico Rd,Saint Charles,St. Charles,38.79,-90.56,63303.0,MO,Missouri
+279,25 Brentwood Promenade Ct,Brentwood,St. Louis,38.63,-90.34,63144.0,MO,Missouri
+280,4255 Hampton Ave,Saint Louis,St. Louis,38.59,-90.3,63109.0,MO,Missouri
+281,2120 SW Wanamaker Rd,Topeka,Shawnee,39.03,-95.76,66614.0,KS,Kansas
+282,12275 St Charles Rock Rd,Bridgeton,St. Louis,38.75,-90.43,63044.0,MO,Missouri
+283,5601 Belleville Crossing St,Belleville,St. Clair,38.53,-90.03,62226.0,IL,Illinois
+284,2341 N Highway 67,Florissant,St. Louis,38.81,-90.31,63033.0,MO,Missouri
+285,4701 N Illinois St,Fairview Heights,St. Clair,38.57,-89.99,62208.0,IL,Illinois
+286,3400 Green Mountcrossing Dr,Shiloh,St. Clair,38.57,-89.92,62269.0,IL,Illinois
+287,4200 S Medford Dr,Lufkin,Angelina,31.31,-94.72,75901.0,TX,Texas
+288,739 N Highway 67,Cedar Hill,Dallas,32.6,-96.94,75104.0,TX,Texas
+289,1316 N Highway 77,Waxahachie,Ellis,32.42,-96.84,75165.0,TX,Texas
+290,554 W Interstate 20,Grand Prairie,Dallas,32.68,-97.01,75052.0,TX,Texas
+291,5270 S State Highway 360,Grand Prairie,Tarrant,32.64,-97.06,75052.0,TX,Texas
+292,1400 Precinct Line Rd,Hurst,Tarrant,32.84,-97.18,76053.0,TX,Texas
+293,8550 East Fwy,Fort Worth,Tarrant,32.76,-97.17,76120.0,TX,Texas
+294,1600 W Arbrook Blvd,Arlington,Tarrant,32.68,-97.14,76015.0,TX,Texas
+295,8000 Denton Hwy,Watauga,Tarrant,32.89,-97.26,76148.0,TX,Texas
+296,1801 Highway 287 N,Mansfield,Tarrant,32.59,-97.14,76063.0,TX,Texas
+297,8917 Tehama Ridge Pkwy,Fort Worth,Tarrant,32.9,-97.32,76177.0,TX,Texas
+298,301 Carroll St,Fort Worth,Tarrant,32.76,-97.35,76107.0,TX,Texas
+299,6604 Lake Worth Blvd,Lake Worth,Tarrant,32.81,-97.43,76135.0,TX,Texas
+300,751 Alta Mere Dr,Fort Worth,Tarrant,32.75,-97.43,76116.0,TX,Texas
+301,5700 Overton Ridge Blvd,Fort Worth,Tarrant,32.68,-97.41,76132.0,TX,Texas
+302,200 NW John Jones Dr,Burleson,Johnson,32.52,-97.35,76028.0,TX,Texas
+303,122 E Interstate 20,Weatherford,Parker,32.73,-97.78,76087.0,TX,Texas
+304,259 Interstate 45 S,Huntsville,Walker,30.71,-95.57,77340.0,TX,Texas
+305,5401 Bosque Blvd,Waco,McLennan,31.53,-97.19,76710.0,TX,Texas
+306,3061 Wildflower Dr,Bryan,Brazos,30.66,-96.32,77802.0,TX,Texas
+307,503 I 45 N,Conroe,Montgomery,30.31,-95.47,77304.0,TX,Texas
+308,5850 Eastex Fwy,Beaumont,Jefferson,30.13,-94.15,77708.0,TX,Texas
+309,1720 W Prien Lake Rd,Lake Charles,Calcasieu Parish,30.2,-93.25,70601.0,LA,Louisiana
+310,2100 Texas Ave S,College Station,Brazos,30.61,-96.32,77840.0,TX,Texas
+311,2350 Troy Rd,Edwardsville,Madison,38.78,-89.95,62025.0,IL,Illinois
+312,300 Homer M Adams Pkwy,Alton,Madison,38.92,-90.17,62002.0,IL,Illinois
+313,4317 Kemp Blvd,Wichita Falls,Wichita,33.86,-98.53,76308.0,TX,Texas
+314,3100 Highway 365 Ste 90,Port Arthur,Jefferson,29.95,-93.99,77642.0,TX,Texas
+315,32858 FM 2978 Rd,Magnolia,Montgomery,30.22,-95.57,77354.0,TX,Texas
+316,1100 Lake Woodlands Dr,The Woodlands,Montgomery,30.17,-95.45,77380.0,TX,Texas
+317,6931 FM 1960 Rd E,Humble,Harris,30.0,-95.17,77346.0,TX,Texas
+318,20777 Hwy 59 N,Humble,Harris,30.02,-95.27,77338.0,TX,Texas
+319,6635 N Grand Pkwy W,Spring,Harris,30.09,-95.52,77389.0,TX,Texas
+320,19511 I H 45,Spring,Harris,30.05,-95.43,77388.0,TX,Texas
+321,14302 FM 2920 Rd,Tomball,Harris,30.09,-95.64,77377.0,TX,Texas
+322,5201 N Belt Hwy,St. Joseph,Buchanan,39.82,-94.81,64506.0,MO,Missouri
+323,800 Commons Pl,Manhattan,Riley,39.17,-96.61,66503.0,KS,Kansas
+324,3901 W Ina Rd,Tucson,Pima,32.34,-111.05,85741.0,AZ,Arizona
+325,1225 W Irvington Rd,Tucson,Pima,32.16,-110.99,85714.0,AZ,Arizona
+326,4040 N Oracle Rd,Tucson,Pima,32.28,-110.98,85705.0,AZ,Arizona
+327,10555 N Oracle Rd,Oro Valley,Pima,32.4,-110.96,85737.0,AZ,Arizona
+328,3699 E Broadway Blvd,Tucson,Pima,32.22,-110.91,85716.0,AZ,Arizona
+329,5255 E Broadway Blvd,Tucson,Pima,32.22,-110.88,85711.0,AZ,Arizona
+330,6500 E Grant Rd,Tucson,Pima,32.25,-110.85,85715.0,AZ,Arizona
+331,9615 E Old Spanish Trl,Tucson,Pima,32.21,-110.79,85748.0,AZ,Arizona
+332,3777 S ARIZONA AVE,Chandler,Maricopa,33.25,-111.84,85248.0,AZ,Arizona
+333,3931 S Gilbert Rd,Gilbert,Maricopa,33.28,-111.79,85297.0,AZ,Arizona
+334,3425 W Frye Rd,Chandler,Maricopa,33.3,-111.9,85226.0,AZ,Arizona
+335,21398 S Ellsworth Loop Rd,Queen Creek,Maricopa,33.25,-111.64,85142.0,AZ,Arizona
+336,4734 E Ray Rd,Phoenix,Maricopa,33.32,-111.98,85044.0,AZ,Arizona
+337,1515 E Warner Rd,Gilbert,Maricopa,33.33,-111.76,85296.0,AZ,Arizona
+338,5110 S Power Rd,Mesa,Maricopa,33.32,-111.69,85212.0,AZ,Arizona
+339,2140 E Baseline Rd,Phoenix,Maricopa,33.38,-112.04,85042.0,AZ,Arizona
+340,1818 E Baseline Rd,Tempe,Maricopa,33.38,-111.91,85283.0,AZ,Arizona
+341,1230 S Longmore Ave,Mesa,Maricopa,33.39,-111.86,85202.0,AZ,Arizona
+342,1135 S Gilbert Rd,Mesa,Maricopa,33.39,-111.79,85204.0,AZ,Arizona
+343,1525 S Power Rd,Mesa,Maricopa,33.39,-111.68,85206.0,AZ,Arizona
+344,9830 W Lower Buckeye Rd,Tolleson,Maricopa,33.42,-112.27,85353.0,AZ,Arizona
+345,1800 E Rio Salado Pkwy,Tempe,Maricopa,33.43,-111.91,85281.0,AZ,Arizona
+346,995 S Cotton Ln,Goodyear,Maricopa,33.44,-112.42,85338.0,AZ,Arizona
+347,4515 E Thomas Rd,Phoenix,Maricopa,33.48,-111.98,85018.0,AZ,Arizona
+348,7409 W Virginia Ave,Phoenix,Maricopa,33.48,-112.22,85035.0,AZ,Arizona
+349,1515 N Litchfield Rd,Goodyear,Maricopa,33.46,-112.36,85395.0,AZ,Arizona
+350,2151 N Power Rd,Mesa,Maricopa,33.45,-111.68,85215.0,AZ,Arizona
+351,1625 E Camelback Rd,Phoenix,Maricopa,33.51,-112.05,85016.0,AZ,Arizona
+352,5715 N 19th Ave,Phoenix,Maricopa,33.52,-112.1,85015.0,AZ,Arizona
+353,9000 E Talking Stick Way,Scottsdale,Maricopa,33.54,-111.89,85250.0,AZ,Arizona
+354,9350 W Northern Ave,Glendale,Maricopa,33.55,-112.26,85305.0,AZ,Arizona
+355,10404 N 43rd Ave,Glendale,Maricopa,33.58,-112.15,85302.0,AZ,Arizona
+356,12602 N Paradise Village Pkwy W,Phoenix,Maricopa,33.6,-111.99,85032.0,AZ,Arizona
+357,16825 E Shea Blvd,Fountain Hills,Maricopa,33.57,-111.72,85268.0,AZ,Arizona
+358,15444 N Frank Lloyd Wright Blvd,Scottsdale,Maricopa,33.63,-111.89,85260.0,AZ,Arizona
+359,16806 N 7th St,Phoenix,Maricopa,33.64,-112.07,85022.0,AZ,Arizona
+360,8055 W Bell Rd,Peoria,Maricopa,33.64,-112.23,85382.0,AZ,Arizona
+361,13731 W Bell Rd,Surprise,Maricopa,33.64,-112.35,85374.0,AZ,Arizona
+362,2727 W Agua Fria Fwy,Phoenix,Maricopa,33.67,-112.12,85027.0,AZ,Arizona
+363,21001 N Tatum Blvd Ste 20,Phoenix,Maricopa,33.67,-111.97,85050.0,AZ,Arizona
+364,24890 N Lake Pleasant Pkwy,Peoria,Maricopa,33.71,-112.28,85383.0,AZ,Arizona
+365,4151 E Highway 90,Sierra Vista,Cochise,31.56,-110.26,85635.0,AZ,Arizona
+366,32351 N Scottsdale Rd,Scottsdale,Maricopa,33.78,-111.92,85266.0,AZ,Arizona
+367,1450 S Yuma Palms Pkwy,Yuma,Yuma,32.7,-114.61,85365.0,AZ,Arizona
+368,1851 E Highway 69,Prescott,Yavapai,34.55,-112.43,86301.0,AZ,Arizona
+369,2295 N Imperial Ave,El Centro,Imperial,32.81,-115.57,92243.0,CA,California
+370,1650 S Milton Rd,Flagstaff,Coconino,35.18,-111.66,86001.0,AZ,Arizona
+371,9371 Coors Blvd NW,Albuquerque,Bernalillo,35.19,-106.66,87114.0,NM,New Mexico
+372,2120 Louisiana Blvd NE,Albuquerque,Bernalillo,35.1,-106.57,87110.0,NM,New Mexico
+373,11120 Lomas Blvd NE,Albuquerque,Bernalillo,35.09,-106.53,87112.0,NM,New Mexico
+374,4225 Crestview Dr,Rio Rancho,Sandoval,35.25,-106.65,87124.0,NM,New Mexico
+375,6100 Paseo Del Norte NE,Albuquerque,Bernalillo,35.17,-106.58,87113.0,NM,New Mexico
+376,8510 Montgomery Blvd NE,Albuquerque,Bernalillo,35.13,-106.55,87111.0,NM,New Mexico
+377,2541 E Lohman Ave,Las Cruces,Dona Ana,32.32,-106.74,88011.0,NM,New Mexico
+378,801 Sunland Park Dr,El Paso,El Paso,31.82,-106.55,79912.0,TX,Texas
+379,4900 E Main St,Farmington,San Juan,36.77,-108.15,87402.0,NM,New Mexico
+380,6001 W Gateway Blvd,El Paso,El Paso,31.78,-106.41,79925.0,TX,Texas
+381,3550 Zafarano Dr,Santa Fe,Santa Fe,35.64,-106.01,87507.0,NM,New Mexico
+382,1901 George Dieter Dr,El Paso,El Paso,31.77,-106.31,79936.0,TX,Texas
+383,1874 Joe Battle Blvd,El Paso,El Paso,31.76,-106.27,79936.0,TX,Texas
+384,3699 Hwy 95,Bullhead City,Mohave,35.05,-114.59,86442.0,AZ,Arizona
+385,350 W Lake Mead Pkwy,Henderson,Clark,36.04,-114.99,89015.0,NV,Nevada
+386,605 N Stephanie St,Henderson,Clark,36.07,-115.05,89014.0,NV,Nevada
+387,695 S Green Valley Pkwy,Henderson,Clark,36.0,-115.09,89052.0,NV,Nevada
+388,9725 S Eastern Ave,Las Vegas,Clark,36.01,-115.12,89183.0,NV,Nevada
+389,1200 S Nellis Blvd,Las Vegas,Clark,36.16,-115.06,89104.0,NV,Nevada
+390,4001 S Maryland Pkwy,Las Vegas,Clark,36.12,-115.14,89119.0,NV,Nevada
+391,4100 Blue Diamond Rd,Las Vegas,Clark,36.04,-115.19,89139.0,NV,Nevada
+392,7090 N 5th St,North Las Vegas,Clark,36.29,-115.13,89084.0,NV,Nevada
+393,3550 S Rainbow Blvd,Las Vegas,Clark,36.12,-115.24,89103.0,NV,Nevada
+394,275 S River Rd,Saint George,Washington,37.1,-113.55,84790.0,UT,Utah
+395,6371 N Decatur Blvd,Las Vegas,Clark,36.27,-115.21,89130.0,NV,Nevada
+396,3210 N Tenaya Way,Las Vegas,Clark,36.22,-115.25,89129.0,NV,Nevada
+397,8750 W Charleston Blvd,Las Vegas,Clark,36.16,-115.29,89117.0,NV,Nevada
+398,4155 S Grand Canyon Dr,Las Vegas,Clark,36.11,-115.31,89147.0,NV,Nevada
+399,6480 Sky Pointe Dr,Las Vegas,Clark,36.28,-115.26,89131.0,NV,Nevada
+400,78935 US Hwy 111,La Quinta,Riverside,33.71,-116.29,92253.0,CA,California
+401,72549 Highway 111,Palm Desert,Riverside,33.72,-116.4,92260.0,CA,California
+402,67750 E Palm Canyon Dr,Cathedral City,Riverside,33.79,-116.48,92234.0,CA,California
+403,20288 US Highway 18,Apple Valley,San Bernardino,34.53,-117.22,92307.0,CA,California
+404,19201 Bear Valley Rd,Apple Valley,San Bernardino,34.47,-117.24,92308.0,CA,California
+405,12795 Main St,Hesperia,San Bernardino,34.43,-117.38,92345.0,CA,California
+406,2380 Sterling Ave,San Bernardino,San Bernardino,34.14,-117.25,92404.0,CA,California
+407,27320 W Lugonia Ave,Redlands,San Bernardino,34.07,-117.21,92374.0,CA,California
+408,3527 W Florida Ave,Hemet,Riverside,33.75,-117.01,92545.0,CA,California
+409,27100 Eucalyptus Ave,Moreno Valley,Riverside,33.94,-117.19,92555.0,CA,California
+410,499 W Orange Show Rd,San Bernardino,San Bernardino,34.08,-117.29,92408.0,CA,California
+411,2755 Canyon Springs Pkwy,Riverside,Riverside,33.94,-117.28,92507.0,CA,California
+412,15272 Summit Ave,Fontana,San Bernardino,34.15,-117.47,92336.0,CA,California
+413,30340 Haun Rd,Menifee,Riverside,33.68,-117.17,92584.0,CA,California
+414,16964 Slover Ave,Fontana,San Bernardino,34.06,-117.43,92337.0,CA,California
+415,3333 Arlington Ave,Riverside,Riverside,33.95,-117.38,92506.0,CA,California
+416,27818 Clinton Keith Rd,Murrieta,Riverside,33.6,-117.17,92562.0,CA,California
+417,2424 Highway 6 and 50 Ste C,Grand Junction,Mesa,39.09,-108.6,81505.0,CO,Colorado
+418,3530 Wolverine Dr,Montrose,Montrose,38.44,-107.87,81401.0,CO,Colorado
+419,175 W Center St,Orem,Utah,40.3,-111.7,84057.0,UT,Utah
+420,608 W Main St,American Fork,Utah,40.38,-111.82,84003.0,UT,Utah
+421,29676 Rancho California Rd,Temecula,Riverside,33.51,-117.15,92591.0,CA,California
+422,41040 California Oaks Rd,Murrieta,Riverside,33.57,-117.2,92562.0,CA,California
+423,3520 Tyler St,Riverside,Riverside,33.91,-117.46,92503.0,CA,California
+424,10576 Foothill Blvd,Rancho Cucamonga,San Bernardino,34.11,-117.57,91730.0,CA,California
+425,4200 E 4th St,Ontario,San Bernardino,34.08,-117.56,91764.0,CA,California
+426,18287 Collier Ave,Lake Elsinore,Riverside,33.69,-117.34,92530.0,CA,California
+427,12471 Limonite Ave,Mira Loma,Riverside,33.98,-117.55,91752.0,CA,California
+428,1931 Campus Ave,Upland,San Bernardino,34.13,-117.64,91784.0,CA,California
+429,2615 Tuscanny St,Corona,Riverside,33.83,-117.52,92881.0,CA,California
+430,1290 Hamner Ave,Norco,Riverside,33.9,-117.56,92860.0,CA,California
+431,9052 Central Ave,Montclair,San Bernardino,34.09,-117.69,91763.0,CA,California
+432,5555 Philadelphia St,Chino,San Bernardino,34.03,-117.68,91710.0,CA,California
+433,2462 Foothill Blvd,La Verne,Los Angeles,34.11,-117.76,91750.0,CA,California
+434,3944 Grand Ave,Chino,San Bernardino,34.0,-117.72,91710.0,CA,California
+435,701 Rio Rancho Road,Pomona,Los Angeles,34.03,-117.76,91766.0,CA,California
+436,1280 Auto Park Way,Escondido,San Diego,33.11,-117.1,92029.0,CA,California
+437,280 E Via Rancho Pkwy,Escondido,San Diego,33.07,-117.07,92025.0,CA,California
+438,888 W Arrow Hwy,San Dimas,Los Angeles,34.1,-117.82,91773.0,CA,California
+439,1751 University Dr,Vista,San Diego,33.17,-117.21,92083.0,CA,California
+440,30602 Santa Margarita Pkwy,Rancho Santa Margarita,Orange,33.64,-117.6,92688.0,CA,California
+441,443 College Blvd,Oceanside,San Diego,33.25,-117.29,92057.0,CA,California
+442,8148 E Santa Ana Canyon Rd,Anaheim,Orange,33.87,-117.75,92808.0,CA,California
+443,747 Grand Ave,Diamond Bar,Los Angeles,34.01,-117.82,91765.0,CA,California
+444,14823 Pomerado Rd,Poway,San Diego,32.98,-117.06,92064.0,CA,California
+445,38019 47Th St E,Palmdale,Los Angeles,34.57,-118.05,93552.0,CA,California
+446,3150 Business Park Dr,Vista,San Diego,33.14,-117.23,92081.0,CA,California
+447,26762 Portola Pkwy,Foothill Ranch,Orange,33.68,-117.66,92610.0,CA,California
+448,809 N Azusa Ave,Azusa,Los Angeles,34.14,-117.91,91702.0,CA,California
+449,17170 Camino Del Sur,San Diego,San Diego,33.02,-117.13,92127.0,CA,California
+450,2831 E Eastland Ctr Dr,West Covina,Los Angeles,34.07,-117.88,91791.0,CA,California
+451,2255 S El Camino Real,Oceanside,San Diego,33.18,-117.33,92054.0,CA,California
+452,9846 Mission Gorge Rd,Santee,San Diego,32.84,-116.98,92071.0,CA,California
+453,25601 Jeronimo Rd,Mission Viejo,Orange,33.62,-117.68,92691.0,CA,California
+454,2370 S Azusa Ave,West Covina,Los Angeles,34.03,-117.91,91792.0,CA,California
+455,250 Broadway,El Cajon,San Diego,32.81,-116.96,92021.0,CA,California
+456,24500 Alicia Pkwy,Mission Viejo,Orange,33.61,-117.69,92691.0,CA,California
+457,43525 10th St W,Lancaster,Los Angeles,34.67,-118.15,93534.0,CA,California
+458,1050 Huntington Dr,Duarte,Los Angeles,34.14,-117.98,91010.0,CA,California
+459,17751 Colima Rd,Rowland Heights,Los Angeles,33.99,-117.92,91748.0,CA,California
+460,2191 N Tustin St,Orange,Orange,33.82,-117.83,92865.0,CA,California
+461,855 E Birch St,Brea,Orange,33.92,-117.89,92821.0,CA,California
+462,1010 N El Camino Real,Encinitas,San Diego,33.06,-117.26,92024.0,CA,California
+463,990 Avenida Vista Hermosa,San Clemente,Orange,33.46,-117.61,92673.0,CA,California
+464,13200 Jamboree Rd,Irvine,Orange,33.73,-117.78,92602.0,CA,California
+465,2920 Yorba Linda Blvd,Fullerton,Orange,33.89,-117.88,92831.0,CA,California
+466,39440 10th St W,Palmdale,Los Angeles,34.6,-118.15,93551.0,CA,California
+467,900 Spectrum Center Dr,Irvine,Orange,33.65,-117.74,92618.0,CA,California
+468,2620 E Chapman Ave,Orange,Orange,33.79,-117.83,92869.0,CA,California
+469,3100 Baldwin Park Blvd,Baldwin Park,Los Angeles,34.07,-117.98,91706.0,CA,California
+470,26932 La Paz Rd,Aliso Viejo,Orange,33.57,-117.71,92656.0,CA,California
+471,2911 Jamacha Rd,El Cajon,San Diego,32.74,-116.94,92019.0,CA,California
+472,8251 Mira Mesa Blvd,San Diego,San Diego,32.91,-117.15,92126.0,CA,California
+473,5500 Grossmont Ctr Dr,La Mesa,San Diego,32.78,-117.01,91942.0,CA,California
+474,1330 E 17th St,Santa Ana,Orange,33.76,-117.85,92705.0,CA,California
+475,3750 Barranca Pkwy,Irvine,Orange,33.69,-117.81,92606.0,CA,California
+476,2300 Park Ave,Tustin,Orange,33.7,-117.83,92782.0,CA,California
+477,1000 W Imperial Hwy,La Habra,Orange,33.92,-117.96,90631.0,CA,California
+478,200 W Orangethorpe Ave,Fullerton,Orange,33.86,-117.93,92832.0,CA,California
+479,1441 W 17th St,Santa Ana,Orange,33.76,-117.89,92706.0,CA,California
+480,1893 W Malvern Ave,Fullerton,Orange,33.88,-117.96,92833.0,CA,California
+481,3121 E Colorado Blvd,Pasadena,Los Angeles,34.15,-118.09,91107.0,CA,California
+482,12100 Harbor Blvd,Garden Grove,Orange,33.79,-117.91,92840.0,CA,California
+483,15614 Whittwood Ln,Whittier,Los Angeles,33.94,-118.0,90603.0,CA,California
+484,101 S Euclid St,Anaheim,Orange,33.83,-117.94,92802.0,CA,California
+485,4255 CAMPUS DR STE A150,Irvine,Orange,33.65,-117.84,92612.0,CA,California
+486,3600 Rosemead Blvd,Rosemead,Los Angeles,34.07,-118.07,91770.0,CA,California
+487,3424 College Ave,San Diego,San Diego,32.74,-117.06,92115.0,CA,California
+488,3300 S Bristol St,Santa Ana,Orange,33.7,-117.89,92704.0,CA,California
+489,8001 Othello Ave,San Diego,San Diego,32.82,-117.15,92111.0,CA,California
+490,910 Eastlake Pkwy,Chula Vista,San Diego,32.65,-116.97,91914.0,CA,California
+491,5680 Balboa Ave,San Diego,San Diego,32.82,-117.18,92111.0,CA,California
+492,7530 Orangethorpe Ave,Buena Park,Orange,33.86,-118.0,90621.0,CA,California
+493,777 E Colorado Blvd,Pasadena,Los Angeles,34.15,-118.13,91101.0,CA,California
+494,10621 Carmenita Rd,Santa Fe Springs,Los Angeles,33.94,-118.05,90670.0,CA,California
+495,13831 Brookhurst St,Garden Grove,Orange,33.76,-117.96,92843.0,CA,California
+496,3030 Harbor Blvd Ste A,Costa Mesa,Orange,33.68,-117.92,92626.0,CA,California
+497,8800 Whittier Blvd,Pico Rivera,Los Angeles,34.0,-118.09,90660.0,CA,California
+498,1288 Camino Del Rio N,San Diego,San Diego,32.77,-117.15,92108.0,CA,California
+499,2120 W Main St,Alhambra,Los Angeles,34.09,-118.15,91801.0,CA,California
+500,6835 Katella Ave,Cypress,Orange,33.8,-118.01,90630.0,CA,California
+501,3030 Grape St,San Diego,San Diego,32.73,-117.13,92102.0,CA,California
+502,12051 Imperial Hwy,Norwalk,Los Angeles,33.92,-118.08,90650.0,CA,California
+503,16400 Beach Blvd,Westminster,Orange,33.73,-117.99,92683.0,CA,California
+504,9882 Adams Ave,Huntington Beach,Orange,33.67,-117.96,92646.0,CA,California
+505,3060 Plaza Bonita Rd,National City,San Diego,32.65,-117.06,91950.0,CA,California
+506,20200 Bloomfield Ave,Cerritos,Los Angeles,33.85,-118.06,90703.0,CA,California
+507,200 Westminster Mall,Westminster,Orange,33.75,-118.01,92683.0,CA,California
+508,10600 Firestone Blvd,Norwalk,Los Angeles,33.93,-118.11,90650.0,CA,California
+509,5600 Whittier Blvd,Commerce,Los Angeles,34.02,-118.15,90022.0,CA,California
+510,3245 Sports Arena Blvd,San Diego,San Diego,32.75,-117.21,92110.0,CA,California
+511,11525 South St,Cerritos,Los Angeles,33.86,-118.09,90703.0,CA,California
+512,2626 Colorado Blvd,Los Angeles,Los Angeles,34.14,-118.22,90041.0,CA,California
+513,4211 Eagle Rock Blvd,Los Angeles,Los Angeles,34.12,-118.23,90065.0,CA,California
+514,12300 Seal Beach Blvd,Seal Beach,Orange,33.78,-118.07,90740.0,CA,California
+515,1240 Broadway,Chula Vista,San Diego,32.6,-117.08,91911.0,CA,California
+516,5700 Firestone Blvd,South Gate,Los Angeles,33.95,-118.17,90280.0,CA,California
+517,2195 Glendale Galleria,Glendale,Los Angeles,34.14,-118.26,91210.0,CA,California
+518,5760 E 7TH ST,Long Beach,Los Angeles,33.77,-118.12,90803.0,CA,California
+519,2270 N Bellflower Blvd,Long Beach,Los Angeles,33.8,-118.12,90815.0,CA,California
+520,141 Lakewood Center Mall,Lakewood,Los Angeles,33.85,-118.14,90712.0,CA,California
+521,950 E 33rd St,Signal Hill,Los Angeles,33.82,-118.18,90755.0,CA,California
+522,6750 Cherry Ave,Long Beach,Los Angeles,33.88,-118.17,90805.0,CA,California
+523,1621 S Alameda St,Compton,Los Angeles,33.88,-118.22,90220.0,CA,California
+524,1701 N Gaffey St,San Pedro,Los Angeles,33.76,-118.29,90731.0,CA,California
+525,20700 S Avalon Blvd,Carson,Los Angeles,33.84,-118.26,90746.0,CA,California
+526,651 W Sepulveda Blvd,Carson,Los Angeles,33.81,-118.29,90745.0,CA,California
+527,2169 W Redondo Beach Blvd,Gardena,Los Angeles,33.89,-118.32,90247.0,CA,California
+528,3433 Sepulveda Blvd,Torrance,Los Angeles,33.83,-118.35,90505.0,CA,California
+529,2700 W 120th St,Hawthorne,Los Angeles,33.92,-118.32,90250.0,CA,California
+530,735 S Figueroa St,Los Angeles,Los Angeles,34.05,-118.26,90017.0,CA,California
+531,1601 Kingsdale Ave,Redondo Beach,Los Angeles,33.87,-118.36,90278.0,CA,California
+532,3131 S HOOVER ST STE 1910,LOS ANGELES,LOS ANGELES,34.02,-118.29,90089.0,CA,California
+533,3471 W Century Blvd,Inglewood,Los Angeles,33.95,-118.33,90301.0,CA,California
+534,620 S Virgil Ave Ste 100,Los Angeles,Los Angeles,34.06,-118.29,90005.0,CA,California
+535,1200 N Sepulveda Blvd,Manhattan Beach,Los Angeles,33.89,-118.39,90266.0,CA,California
+536,3535 S La Cienega Blvd,Los Angeles,Los Angeles,34.02,-118.37,90016.0,CA,California
+537,6000 Sepulveda Blvd,Culver City,Los Angeles,33.99,-118.39,90230.0,CA,California
+538,"7100 Santa Monica Blvd, STE 201",West Hollywood,Los Angeles,34.09,-118.34,90046.0,CA,California
+539,10820 Jefferson Blvd,Culver City,Los Angeles,34.0,-118.39,90230.0,CA,California
+540,8480 Beverly Blvd Ste 1A,Los Angeles,Los Angeles,34.07,-118.38,90048.0,CA,California
+541,1800 W Empire Ave,Burbank,Los Angeles,34.19,-118.33,91504.0,CA,California
+542,1033 N Hollywood Way,Burbank,Los Angeles,34.17,-118.35,91505.0,CA,California
+543,11051 Victory Blvd,North Hollywood,Los Angeles,34.19,-118.37,91606.0,CA,California
+544,10861 Weyburn Ave,Los Angeles,Los Angeles,34.06,-118.44,90024.0,CA,California
+545,9725 Laurel Canyon Blvd,Pacoima,Los Angeles,34.25,-118.42,91331.0,CA,California
+546,5711 Sepulveda Blvd,Van Nuys,Los Angeles,34.18,-118.47,91411.0,CA,California
+547,14920 Raymer St,Van Nuys,Los Angeles,34.21,-118.46,91405.0,CA,California
+548,10340 N Sepulveda Blvd,Mission Hills,Los Angeles,34.26,-118.47,91345.0,CA,California
+549,8999 Balboa Blvd,Northridge,Los Angeles,34.23,-118.5,91325.0,CA,California
+550,2355 W Kettleman Ln,Lodi,San Joaquin,38.12,-121.3,95242.0,CA,California
+551,10424 Trinity Parkway,Stockton,San Joaquin,38.05,-121.37,95219.0,CA,California
+552,4707 Pacific Ave,Stockton,San Joaquin,37.99,-121.31,95207.0,CA,California
+553,7505 Laguna Blvd,Elk Grove,Sacramento,38.43,-121.42,95758.0,CA,California
+554,8101 Cosumnes River Blvd,Sacramento,Sacramento,38.46,-121.41,95823.0,CA,California
+555,6507 4th Ave,Sacramento,Sacramento,38.55,-121.43,95817.0,CA,California
+556,10881 Olson Dr,Rancho Cordova,Sacramento,38.6,-121.29,95670.0,CA,California
+557,2505 Riverside Blvd,Sacramento,Sacramento,38.56,-121.5,95818.0,CA,California
+558,2005 Town Center Plz,West Sacramento,Yolo,38.55,-121.54,95691.0,CA,California
+559,1919 Fulton Ave,Sacramento,Sacramento,38.6,-121.4,95825.0,CA,California
+560,16858 Golden Valley Pkwy,Lathrop,San Joaquin,37.81,-121.3,95330.0,CA,California
+561,280 Spreckels Ave,Manteca,San Joaquin,37.8,-121.2,95336.0,CA,California
+562,5769 Lone Tree Way,Antioch,Contra Costa,37.96,-121.74,94531.0,CA,California
+563,5001 Madison Ave,Sacramento,Sacramento,38.66,-121.35,95841.0,CA,California
+564,5837 Sunrise Blvd,Citrus Heights,Sacramento,38.67,-121.27,95610.0,CA,California
+565,3601 N Freeway Blvd,Sacramento,Sacramento,38.64,-121.5,95834.0,CA,California
+566,4400 Town Center Blvd,El Dorado Hills,El Dorado,38.65,-121.06,95762.0,CA,California
+567,430 Blue Ravine Rd,Folsom,Sacramento,38.67,-121.15,95630.0,CA,California
+568,4601 2nd St,Davis,Yolo,38.55,-121.7,95618.0,CA,California
+569,2800 Naglee Rd,Tracy,San Joaquin,37.76,-121.46,95304.0,CA,California
+570,4301 Century Blvd,Pittsburg,Contra Costa,38.01,-121.84,94565.0,CA,California
+571,1925 Douglas Blvd,Roseville,Placer,38.75,-121.25,95661.0,CA,California
+572,3900 Sisk Rd,Modesto,Stanislaus,37.69,-121.06,95356.0,CA,California
+573,3000 Harbison Dr,Vacaville,Solano,38.36,-121.96,95687.0,CA,California
+574,2425 Claribel Rd,Riverbank,Stanislaus,37.71,-120.95,95367.0,CA,California
+575,10451 Fairway Dr,Roseville,Placer,38.79,-121.29,95678.0,CA,California
+576,3405 Mchenry Ave,Modesto,Stanislaus,37.69,-121.0,95350.0,CA,California
+577,2185 Bronze Star Dr,Woodland,Yolo,38.67,-121.73,95776.0,CA,California
+578,5104 Commons Dr,Rocklin,Placer,38.8,-121.21,95677.0,CA,California
+579,2059 Cadenasso Dr,Fairfield,Solano,38.25,-122.07,94533.0,CA,California
+580,4300 Las Positas Rd,Livermore,Alameda,37.7,-121.75,94551.0,CA,California
+581,950 Groveland Ln,Lincoln,Placer,38.87,-121.3,95648.0,CA,California
+582,560 Contra Costa Blvd,Pleasant Hill,Contra Costa,37.98,-122.07,94523.0,CA,California
+583,2800 Dublin Blvd,Dublin,Alameda,37.7,-121.85,94568.0,CA,California
+584,1871 N Main St,Walnut Creek,Contra Costa,37.91,-122.06,94596.0,CA,California
+585,2610 Bishop Dr,San Ramon,Contra Costa,37.76,-121.96,94583.0,CA,California
+586,7200 Amador Plaza Rd,Dublin,Alameda,37.71,-121.93,94568.0,CA,California
+587,2700 Bell Rd,Auburn,Placer,38.94,-121.1,95603.0,CA,California
+588,904 Admiral Callaghan Lane,Vallejo,Solano,38.13,-122.22,94591.0,CA,California
+589,3000 Countryside Dr,Turlock,Stanislaus,37.52,-120.88,95380.0,CA,California
+590,205 Soscol Ave,Napa,Napa,38.28,-122.28,94559.0,CA,California
+591,4000 Bel Aire Plz,Napa,Napa,38.32,-122.31,94558.0,CA,California
+592,1400 Fitzgerald Dr,Pinole,Contra Costa,37.99,-122.31,94564.0,CA,California
+593,15555 E 14th St,San Leandro,Alameda,37.7,-122.13,94578.0,CA,California
+594,2187 Shattuck Ave,Berkeley,Alameda,37.87,-122.27,94704.0,CA,California
+595,19661 Hesperian Blvd,Hayward,Alameda,37.67,-122.12,94541.0,CA,California
+596,1414 University Ave,Berkeley,Alameda,37.87,-122.28,94702.0,CA,California
+597,2499 Whipple Rd,Hayward,Alameda,37.61,-122.06,94544.0,CA,California
+598,39201 Fremont Blvd,Fremont,Alameda,37.55,-121.98,94538.0,CA,California
+599,4500 Macdonald Ave,Richmond,Contra Costa,37.93,-122.33,94805.0,CA,California
+600,1057 Eastshore Hwy,Albany,Alameda,37.88,-122.31,94710.0,CA,California
+601,1555 40th Street,Emeryville,Alameda,37.83,-122.29,94608.0,CA,California
+602,43950 Pacific Commons Blvd,Fremont,Alameda,37.5,-121.97,94538.0,CA,California
+603,2700 Fifth Street,Alameda,Alameda,37.79,-122.28,94501.0,CA,California
+604,2155 Morrill Ave,San Jose,Santa Clara,37.41,-121.88,95132.0,CA,California
+605,450 N Capitol Ave,San Jose,Santa Clara,37.37,-121.84,95133.0,CA,California
+606,95 Holger Way,San Jose,Santa Clara,37.42,-121.96,95134.0,CA,California
+607,1153 Butte House Rd,Yuba City,Sutter,39.15,-121.63,95991.0,CA,California
+608,225 Bush St,San Francisco,San Francisco,37.79,-122.4,94104.0,CA,California
+609,1750 Story Rd,San Jose,Santa Clara,37.34,-121.84,95122.0,CA,California
+610,789 Mission St,San Francisco,San Francisco,37.78,-122.4,94103.0,CA,California
+611,125 Shoreline Pkwy,San Rafael,Marin,37.96,-122.49,94901.0,CA,California
+612,3155 Silver Creek Rd,San Jose,Santa Clara,37.31,-121.81,95121.0,CA,California
+613,533 Coleman Ave,San Jose,Santa Clara,37.34,-121.91,95110.0,CA,California
+614,200 Vintage Way,Novato,Marin,38.09,-122.55,94945.0,CA,California
+615,1775 E Bayshore Rd,East Palo Alto,San Mateo,37.46,-122.14,94303.0,CA,California
+616,2675 Geary Blvd,San Francisco,San Francisco,37.78,-122.45,94118.0,CA,California
+617,1000 Commerce Ave,Atwater,Merced,37.34,-120.61,95301.0,CA,California
+618,2004 El Camino Real,Santa Clara,Santa Clara,37.35,-121.96,95050.0,CA,California
+619,2161 Monterey Hwy,San Jose,Santa Clara,37.3,-121.87,95125.0,CA,California
+620,180 Donahue St,Sausalito,Marin,37.87,-122.51,94965.0,CA,California
+621,2220 Bridgepointe Pkwy,San Mateo,San Mateo,37.56,-122.28,94404.0,CA,California
+622,298 W McKinley Ave,Sunnyvale,Santa Clara,37.37,-122.03,94086.0,CA,California
+623,555 Showers Dr,Mountain View,Santa Clara,37.4,-122.11,94040.0,CA,California
+624,2485 El Camino Real,Redwood City,San Mateo,37.48,-122.22,94063.0,CA,California
+625,5630 Cottle Rd,San Jose,Santa Clara,37.25,-121.8,95123.0,CA,California
+626,1830 Ocean Ave,San Francisco,San Francisco,37.73,-122.46,94112.0,CA,California
+627,401 Kenilworth Drive,Petaluma,Sonoma,38.24,-122.63,94952.0,CA,California
+628,233 Winston Dr,San Francisco,San Francisco,37.73,-122.48,94132.0,CA,California
+629,19499 Stevens Creek Blvd,Cupertino,Santa Clara,37.32,-122.01,95014.0,CA,California
+630,879 Blossom Hill Rd,San Jose,Santa Clara,37.25,-121.86,95123.0,CA,California
+631,1150 El Camino Real,San Bruno,San Mateo,37.64,-122.42,94066.0,CA,California
+632,20745 Stevens Creek Blvd,Cupertino,Santa Clara,37.32,-122.04,95014.0,CA,California
+633,1811 Hillsdale Ave,San Jose,Santa Clara,37.26,-121.92,95124.0,CA,California
+634,5001 Junipero Serra Blvd,Colma,San Mateo,37.67,-122.46,94014.0,CA,California
+635,1600 Saratoga Ave,San Jose,Santa Clara,37.29,-121.99,95129.0,CA,California
+636,133 Serramonte Ctr,Daly City,San Mateo,37.67,-122.47,94015.0,CA,California
+637,3280 R St,Merced,Merced,37.32,-120.49,95348.0,CA,California
+638,1061 Cochrane Rd,Morgan Hill,Santa Clara,37.16,-121.65,95037.0,CA,California
+639,475 Rohnert Park Expy W,Rohnert Park,Sonoma,38.35,-122.72,94928.0,CA,California
+640,1980 Santa Rosa Ave,Santa Rosa,Sonoma,38.42,-122.71,95407.0,CA,California
+641,950 Coddingtown Center,Santa Rosa,Sonoma,38.46,-122.73,95401.0,CA,California
+642,1405 W Pacheco Blvd,Los Banos,Merced,37.05,-120.87,93635.0,CA,California
+643,6705 Camino Arroyo,Gilroy,Santa Clara,37.0,-121.55,95020.0,CA,California
+644,1825 41st Ave,Capitola,Santa Cruz,36.97,-121.97,95010.0,CA,California
+645,1415 Main St,Watsonville,Santa Cruz,36.92,-121.77,95076.0,CA,California
+646,1790 Airline Hwy,Hollister,San Benito,36.84,-121.39,95023.0,CA,California
+647,910 Jacks Valley Rd,Carson City,Douglas,39.1,-119.78,89705.0,NV,Nevada
+648,1640 N Main St,Salinas,Monterey,36.71,-121.65,93906.0,CA,California
+649,1951 E 20th St,Chico,Butte,39.73,-121.8,95928.0,CA,California
+650,133 General Stilwell Dr,Marina,Monterey,36.67,-121.81,93933.0,CA,California
+651,2040 California Ave,Sand City,Monterey,36.62,-121.84,93955.0,CA,California
+652,6845 Sierra Center Pkwy,Reno,Washoe,39.46,-119.78,89511.0,NV,Nevada
+653,6655 North Riverside Dr,Fresno,Fresno,36.83,-119.91,93722.0,CA,California
+654,1550 E Lincoln Way,Sparks,Washoe,39.54,-119.72,89434.0,NV,Nevada
+655,3150 W Shaw Ave,Fresno,Fresno,36.81,-119.85,93711.0,CA,California
+656,7600 N Blackstone Ave,Fresno,Fresno,36.85,-119.79,93720.0,CA,California
+657,5740 N Blackstone Ave,Fresno,Fresno,36.82,-119.79,93710.0,CA,California
+658,695 W Herndon Ave,Clovis,Fresno,36.84,-119.73,93612.0,CA,California
+659,3173 E Shields Ave,Fresno,Fresno,36.78,-119.77,93726.0,CA,California
+660,900 Shaw Ave,Clovis,Fresno,36.81,-119.7,93612.0,CA,California
+661,140 N 12th Ave,Hanford,Kings,36.32,-119.68,93230.0,CA,California
+662,3308 N Dinuba Blvd,Visalia,Tulare,36.36,-119.3,93291.0,CA,California
+663,4247 S Mooney Blvd,Visalia,Tulare,36.29,-119.32,93277.0,CA,California
+664,1280 Dana Dr,Redding,Shasta,40.59,-122.35,96003.0,CA,California
+665,2195 E Prosperity Ave,Tulare,Tulare,36.22,-119.31,93274.0,CA,California
+666,2305 Theatre Dr,Paso Robles,San Luis Obispo,35.58,-120.7,93446.0,CA,California
+667,1363 W Henderson Ave,Porterville,Tulare,36.08,-119.05,93257.0,CA,California
+668,11990 LOS OSOS VALLEY RD,San Luis Obispo,San Luis Obispo,35.25,-120.69,93405.0,CA,California
+669,9100 Rosedale Hwy,Bakersfield,Kern,35.39,-119.1,93312.0,CA,California
+670,11000 Stockdale Hwy,Bakersfield,Kern,35.35,-119.12,93311.0,CA,California
+671,223 E Betteravia Rd,Santa Maria,Santa Barbara,34.92,-120.43,93454.0,CA,California
+672,3401 Mall View Rd,Bakersfield,Kern,35.39,-118.96,93306.0,CA,California
+673,2901 Ming Ave,Bakersfield,Kern,35.34,-119.04,93304.0,CA,California
+674,2525 4th St,Eureka,Humboldt,40.81,-124.14,95501.0,CA,California
+675,2000 Crater Lake Hwy,Medford,Jackson,42.35,-122.88,97504.0,OR,Oregon
+676,63435 N Highway 97,Bend,Deschutes,44.1,-121.3,97701.0,OR,Oregon
+677,2750 Gateway St,Springfield,Lane,44.07,-123.05,97477.0,OR,Oregon
+678,4575 W 11th Ave,Eugene,Lane,44.05,-123.17,97402.0,OR,Oregon
+679,11133 Balboa Blvd,Granada Hills,Los Angeles,34.27,-118.5,91344.0,CA,California
+680,20801 Ventura Blvd,Woodland Hills,Los Angeles,34.17,-118.59,91364.0,CA,California
+681,8840 Corbin Ave,Northridge,Los Angeles,34.23,-118.56,91324.0,CA,California
+682,19105 Golden Valley Rd,Santa Clarita,Los Angeles,34.39,-118.46,91387.0,CA,California
+683,6700 Topanga Canyon Blvd,Canoga Park,Los Angeles,34.19,-118.6,91303.0,CA,California
+684,6635 Fallbrook Ave,West Hills,Los Angeles,34.19,-118.63,91307.0,CA,California
+685,24425 Magic Mountain Pkwy,Valencia,Los Angeles,34.42,-118.56,91355.0,CA,California
+686,30740 Russell Ranch Rd,Westlake Village,Los Angeles,34.15,-118.79,91362.0,CA,California
+687,2907 Cochran St,Simi Valley,Ventura,34.28,-118.74,93065.0,CA,California
+688,51 Tierra Rejada Rd,Simi Valley,Ventura,34.27,-118.8,93065.0,CA,California
+689,800 New Los Angeles Ave,Moorpark,Ventura,34.28,-118.87,93021.0,CA,California
+690,2705 Teller Rd,Thousand Oaks,Ventura,34.19,-118.93,91320.0,CA,California
+691,209 W Ventura Blvd,Camarillo,Ventura,34.22,-119.07,93010.0,CA,California
+692,2850 N OXNARD BLVD,Oxnard,Ventura,34.24,-119.18,93036.0,CA,California
+693,4200 E Main St,Ventura,Ventura,34.26,-119.24,93003.0,CA,California
+694,245 S Mills Rd,Ventura,Ventura,34.27,-119.25,93003.0,CA,California
+695,2939 Market Pl,Salina,Saline,38.78,-97.61,67401.0,KS,Kansas
+696,4800 3rd Ave,Kearney,Buffalo,40.72,-99.09,68845.0,NE,New Hampshire
+697,2401 E Kansas Ave,Garden City,Finney,37.98,-100.84,67846.0,KS,Kansas
+698,8201 S 40th St,Lincoln,Lancaster,40.73,-96.67,68516.0,NE,New Hampshire
+699,5330 S 56th St,Lincoln,Lancaster,40.76,-96.64,68516.0,NE,New Hampshire
+700,333 N 48th St,Lincoln,Lancaster,40.82,-96.65,68504.0,NE,New Hampshire
+701,17810 W Center Rd,Omaha,Douglas,41.24,-96.19,68130.0,NE,New Hampshire
+702,12500 K Plaza,Omaha,Douglas,41.21,-96.11,68137.0,NE,New Hampshire
+703,16959 Evans Plaza,Omaha,Douglas,41.29,-96.18,68116.0,NE,New Hampshire
+704,718 N Washington St,Papillion,Sarpy,41.17,-96.04,68046.0,NE,New Hampshire
+705,1510 Market Ln,Norfolk,Madison,42.02,-97.43,68701.0,NE,New Hampshire
+706,3808 Twin Creek Dr,Bellevue,Sarpy,41.14,-95.97,68123.0,NE,New Hampshire
+707,4001 N 132nd St,Omaha,Douglas,41.29,-96.12,68164.0,NE,New Hampshire
+708,7200 Dodge St,Omaha,Douglas,41.26,-96.03,68114.0,NE,New Hampshire
+709,6636 N 73rd Plz,Omaha,Douglas,41.32,-96.03,68122.0,NE,New Hampshire
+710,3804 Metro Dr,Council Bluffs,Pottawattamie,41.22,-95.84,51501.0,IA,Iowa
+711,5775 Sunnybrook Dr,Sioux City,Woodbury,42.45,-96.33,51106.0,IA,Iowa
+712,2255 14th Ave SE,Albany,Linn,44.63,-123.08,97322.0,OR,Oregon
+713,3790 Center St NE,Salem,Marion,44.94,-122.99,97301.0,OR,Oregon
+714,6450 Keizer Station Blvd NE,Keizer,Marion,45.01,-123.0,97303.0,OR,Oregon
+715,3300 Dillon Dr,Pueblo,Pueblo,38.3,-104.61,81008.0,CO,Colorado
+716,1630 E Cheyenne Mountain Blvd,Colorado Springs,El Paso,38.79,-104.8,80906.0,CO,Colorado
+717,3810 Bloomington St,Colorado Springs,El Paso,38.89,-104.72,80922.0,CO,Colorado
+718,5240 N Academy Blvd,Colorado Springs,El Paso,38.91,-104.78,80918.0,CO,Colorado
+719,9670 Prominent Pt,Colorado Springs,El Paso,38.97,-104.75,80924.0,CO,Colorado
+720,5010 Founders Pkwy,Castle Rock,Douglas,39.41,-104.86,80108.0,CO,Colorado
+721,11150 S Twenty Mile Rd,Parker,Douglas,39.51,-104.77,80134.0,CO,Colorado
+722,10001 Commons St,Lone Tree,Douglas,39.53,-104.88,80124.0,CO,Colorado
+723,1265 Sgt Jon Stiles Dr,Highlands Ranch,Douglas,39.55,-105.01,80129.0,CO,Colorado
+724,1950 E County Line Rd,Highlands Ranch,Douglas,39.57,-104.97,80126.0,CO,Colorado
+725,7400 S Gartrell Rd,Aurora,Arapahoe,39.58,-104.72,80016.0,CO,Colorado
+726,6767 S Clinton St,Englewood,Arapahoe,39.59,-104.88,80112.0,CO,Colorado
+727,15700 E Briarwood Cir,Aurora,Arapahoe,39.59,-104.8,80016.0,CO,Colorado
+728,9390 W Cross Dr,Littleton,Jefferson,39.61,-105.1,80123.0,CO,Colorado
+729,16910 E Quincy Ave,Aurora,Arapahoe,39.64,-104.79,80015.0,CO,Colorado
+730,3650 Riverpoint Pkwy,Sheridan,Arapahoe,39.65,-105.01,80110.0,CO,Colorado
+731,7777 E Hampden Ave,Denver,Denver,39.66,-104.9,80231.0,CO,Colorado
+732,1400 S Havana St,Aurora,Arapahoe,39.69,-104.86,80012.0,CO,Colorado
+733,4301 E Virginia Ave,Glendale,Arapahoe,39.71,-104.94,80246.0,CO,Colorado
+734,460 S Vance St,Lakewood,Jefferson,39.71,-105.08,80226.0,CO,Colorado
+735,14200 E Ellsworth Ave,Aurora,Arapahoe,39.72,-104.82,80012.0,CO,Colorado
+736,14500 W Colfax Ave Unit B1,Lakewood,Jefferson,39.73,-105.16,80401.0,CO,Colorado
+737,1985 Sheridan Blvd,Edgewater,Jefferson,39.75,-105.06,80214.0,CO,Colorado
+738,7930 Northfield Blvd,Denver,Denver,39.78,-104.89,80238.0,CO,Colorado
+739,5071 Kipling St,Wheat Ridge,Jefferson,39.79,-105.11,80033.0,CO,Colorado
+740,715 Blue River Pkwy,Silverthorne,Summit,39.64,-106.08,80498.0,CO,Colorado
+741,7899 Wadsworth Blvd,Arvada,Jefferson,39.84,-105.09,80003.0,CO,Colorado
+742,10445 Reed St,Westminster,Jefferson,39.89,-105.08,80021.0,CO,Colorado
+743,1001 E 120th Ave,Thornton,Adams,39.92,-104.98,80233.0,CO,Colorado
+744,14451 Orchard Pkwy,Westminster,Adams,39.96,-105.0,80023.0,CO,Colorado
+745,2171 Prairie Center Pkwy,Brighton,Adams,39.96,-104.78,80601.0,CO,Colorado
+746,400 Marshall Rd,Superior,Boulder,39.96,-105.17,80027.0,CO,Colorado
+747,2800 Pearl St,Boulder,Boulder,40.02,-105.26,80301.0,CO,Colorado
+748,551 S Hover Rd,Longmont,Boulder,40.15,-105.13,80501.0,CO,Colorado
+749,110 W Meadows Dr,Glenwood Springs,Garfield,39.56,-107.34,81601.0,CO,Colorado
+750,4400 Centerplace Dr,Greeley,Weld,40.39,-104.75,80634.0,CO,Colorado
+751,1725 Rocky Mountain Ave,Loveland,Larimer,40.41,-105.0,80538.0,CO,Colorado
+752,2936 Council Tree Ave,Fort Collins,Larimer,40.53,-105.02,80525.0,CO,Colorado
+753,105 W Troutman Pkwy,Fort Collins,Larimer,40.53,-105.08,80525.0,CO,Colorado
+754,8201 I-40 W,Amarillo,Potter,35.19,-101.93,79121.0,TX,Texas
+755,1708 Dell Range Blvd,Cheyenne,Laramie,41.16,-104.8,82009.0,WY,Wyoming
+756,1401 Frontage Rd,Scottsbluff,Scotts Bluff,41.87,-103.64,69361.0,NE,New Hampshire
+757,1415 Eglin St,Rapid City,Pennington,44.1,-103.19,57701.0,SD,South Dakota
+758,401 SE Wyoming Blvd,Casper,Natrona,42.85,-106.26,82609.0,WY,Wyoming
+759,6064 Marsha Sharp Freeway,Lubbock,Lubbock,33.55,-101.95,79407.0,TX,Texas
+760,7025 S Park Centre Dr,Salt Lake City,Salt Lake,40.62,-111.85,84121.0,UT,Utah
+761,10130 S State St,Sandy,Salt Lake,40.57,-111.89,84070.0,UT,Utah
+762,11525 Parkway Plaza Dr,South Jordan,Salt Lake,40.54,-111.98,84095.0,UT,Utah
+763,6748 Redwood Rd,West Jordan,Salt Lake,40.63,-111.94,84084.0,UT,Utah
+764,7779 Jordan Landing Blvd,West Jordan,Salt Lake,40.61,-111.98,84084.0,UT,Utah
+765,1110 S 300 W,Salt Lake City,Salt Lake,40.74,-111.9,84101.0,UT,Utah
+766,5518 W High Market Dr,West Valley City,Salt Lake,40.71,-112.02,84120.0,UT,Utah
+767,200 N Market Place Dr,Centerville,Davis,40.92,-111.89,84014.0,UT,Utah
+768,815 W 2000 N,Layton,Davis,41.09,-111.98,84041.0,UT,Utah
+769,1135 W Riverdale Rd,Riverdale,Weber,41.17,-112.01,84405.0,UT,Utah
+770,20 W Main St,Ansonia,New Haven,41.34,-73.08,6401.0,CT,Connecticut
+771,25 Boston Post Rd,Orange,New Haven,41.28,-72.99,6477.0,CT,Connecticut
+772,1191 Boston Post Rd,Milford,New Haven,41.24,-73.04,6460.0,CT,Connecticut
+773,120 Hawley Ln,Trumbull,Fairfield,41.23,-73.15,6611.0,CT,Connecticut
+774,200 Universal Dr N,North Haven,New Haven,41.35,-72.87,6473.0,CT,Connecticut
+775,5065 Main St,Trumbull,Fairfield,41.23,-73.23,6611.0,CT,Connecticut
+776,300 Chase Ave,Waterbury,New Haven,41.58,-73.03,6704.0,CT,Connecticut
+777,7 Stony Hill Rd,Bethel,Fairfield,41.42,-73.4,6801.0,CT,Connecticut
+778,474 Chamberlain Hwy,Meriden,New Haven,41.55,-72.82,6451.0,CT,Connecticut
+779,600 Executive Blvd,Southington,Hartford,41.61,-72.9,6489.0,CT,Connecticut
+780,3265 Berlin Turnpike,Newington,Hartford,41.66,-72.73,6111.0,CT,Connecticut
+781,475 Hartford Rd,New Britain,Hartford,41.71,-72.76,6053.0,CT,Connecticut
+782,21 Broad St,Stamford,Fairfield,41.06,-73.54,6901.0,CT,Connecticut
+783,255 Pond Path Rd,South Setauket,Suffolk,40.88,-73.1,11720.0,NY,New York
+784,1922 E Main St,Torrington,Litchfield,41.82,-73.08,6790.0,CT,Connecticut
+785,195 N Bedford Rd Ste A,Mount Kisco,Westchester,41.22,-73.72,10549.0,NY,New York
+786,1150 Old Country Rd,Riverhead,Suffolk,40.93,-72.68,11901.0,NY,New York
+787,2975 Horseblock Rd,Medford,Suffolk,40.82,-72.99,11763.0,NY,New York
+788,98 Veterans Memorial Hwy,Commack,Suffolk,40.84,-73.29,11725.0,NY,New York
+789,4 Henry St,Commack,Suffolk,40.81,-73.29,11725.0,NY,New York
+790,124 E Jericho Tpke,Huntington Station,Suffolk,40.83,-73.41,11746.0,NY,New York
+791,5750 Sunrise Hwy,Sayville,Suffolk,40.77,-73.07,11782.0,NY,New York
+792,160 N Research Pl,Central Islip,Suffolk,40.77,-73.2,11722.0,NY,New York
+793,9 City Pl,White Plains,Westchester,41.03,-73.77,10601.0,NY,New York
+794,125 Buckland Hills Dr,Manchester,Hartford,41.81,-72.55,6042.0,CT,Connecticut
+795,1075 Kennedy Rd,Windsor,Hartford,41.89,-72.65,6095.0,CT,Connecticut
+796,838 Sunrise Hwy,Bay Shore,Suffolk,40.73,-73.28,11706.0,NY,New York
+797,100 Willow Park Ctr,Farmingdale,Suffolk,40.75,-73.42,11735.0,NY,New York
+798,2003 Broadway Mall,Hicksville,Nassau,40.77,-73.53,11801.0,NY,New York
+799,101 Shore Rd,Port Washington,Nassau,40.84,-73.7,11050.0,NY,New York
+800,2001 South Rd,Poughkeepsie,Dutchess,41.63,-73.92,12601.0,NY,New York
+801,3850 Hempstead Tpke,Levittown,Nassau,40.72,-73.49,11756.0,NY,New York
+802,900 Hartford Tpke,Waterford,New London,41.38,-72.15,6385.0,CT,Connecticut
+803,1149 Sunrise Hwy,Copiague,Suffolk,40.69,-73.41,11726.0,NY,New York
+804,4120 Palisades Center Dr,West Nyack,Rockland,41.1,-73.96,10994.0,NY,New York
+805,500 East Sandford Blvd,Mount Vernon,Westchester,40.9,-73.82,10550.0,NY,New York
+806,999 Corporate Dr,Westbury,Nassau,40.74,-73.6,11590.0,NY,New York
+807,90 Elm St,Enfield,Hartford,42.0,-72.58,6082.0,CT,Connecticut
+808,50 Spring Valley Market Pl,Spring Valley,Rockland,41.1,-74.02,10977.0,NY,New York
+809,50 Route 17K,Newburgh,Orange,41.51,-74.06,12550.0,NY,New York
+810,29 Vervalen St,Closter,Bergen,40.97,-73.96,7624.0,NJ,New Jersey
+811,815 E Hutchinson River Pkwy,Bronx,Bronx,40.82,-73.84,10465.0,NY,New York
+812,248 Sunrise Hwy,Freeport,Nassau,40.66,-73.57,11520.0,NY,New York
+813,40 W 225th St,Bronx,Bronx,40.87,-73.91,10463.0,NY,New York
+814,1730 Hempstead TPK,Elmont,Nassau,40.71,-73.7,11003.0,NY,New York
+815,13505 20th Ave,College Point,Queens,40.78,-73.83,11356.0,NY,New York
+816,128 Bailey Farm Rd,Monroe,Orange,41.32,-74.15,10950.0,NY,New York
+817,4024 College Point Blvd,Flushing,Queens,40.76,-73.83,11354.0,NY,New York
+818,700 Exterior St,Bronx,Bronx,40.82,-73.93,10451.0,NY,New York
+819,500 W Sunrise Hwy,Valley Stream,Nassau,40.66,-73.72,11581.0,NY,New York
+820,195 River Rd,Lisbon,New London,41.59,-72.0,6351.0,CT,Connecticut
+821,517 E 117th Street,New York,New York,40.8,-73.93,10035.0,NY,New York
+822,630 Main St,Hackensack,Bergen,40.9,-74.04,7601.0,NJ,New Jersey
+823,7000 AUSTIN ST,FOREST HILLS,Queens,40.72,-73.85,11375.0,NY,New York
+824,8801 Queens Blvd,Elmhurst,Queens,40.74,-73.87,11373.0,NY,New York
+825,900 Bergen Town Ctr,Paramus,Bergen,40.92,-74.06,7652.0,NJ,New Jersey
+826,543 River Rd,Edgewater,Bergen,40.81,-73.98,7020.0,NJ,New Jersey
+827,50 Holyoke St,Holyoke,Hampden,42.17,-72.64,1040.0,MA,Massachusetts
+828,7101 Tonnelle Ave,North Bergen,Hudson,40.8,-74.02,7047.0,NJ,New Jersey
+829,112 W 34th St,New York,New York,40.75,-73.99,10120.0,NY,New York
+830,519 Gateway Dr,Brooklyn,Kings,40.65,-73.87,11239.0,NY,New York
+831,1300 Ulster Ave,Kingston,Ulster,41.97,-73.99,12401.0,NY,New York
+832,255 Greenwich St,New York,New York,40.71,-74.01,10007.0,NY,New York
+833,445 Albee Square West,BROOKLYN,Kings,40.69,-73.98,11201.0,NY,New York
+834,139 Flatbush Ave,Brooklyn,Kings,40.68,-73.98,11217.0,NY,New York
+835,100 14th St,Jersey City,Hudson,40.73,-74.04,7310.0,NJ,New Jersey
+836,30 Kingsland Rd,Clifton,Passaic,40.82,-74.14,7014.0,NJ,New Jersey
+837,1598 Flatbush Ave,Brooklyn,Kings,40.63,-73.95,11210.0,NY,New York
+838,1 N Galleria Dr,Middletown,Orange,41.45,-74.37,10941.0,NY,New York
+839,6401 18th Ave,Brooklyn,Kings,40.62,-73.99,11204.0,NY,New York
+840,94 State Rt 23,Riverdale,Morris,40.99,-74.33,7457.0,NJ,New Jersey
+841,632 Route 46 E,Fairfield,Essex,40.89,-74.27,7004.0,NJ,New Jersey
+842,2177 Killingly Cmns,Dayville,Windham,41.84,-71.88,6241.0,CT,Connecticut
+843,367 Russell St,Hadley,Hampshire,42.36,-72.55,1035.0,MA,Massachusetts
+844,1157 Route 46,Parsippany,Morris,40.86,-74.39,7054.0,NJ,New Jersey
+845,2235 Springfield Ave,Vauxhall,Union,40.72,-74.28,7088.0,NJ,New Jersey
+846,130 State Route 10,East Hanover,Morris,40.81,-74.38,7936.0,NJ,New Jersey
+847,2873 Richmond Ave,Staten Island,Richmond,40.57,-74.17,10314.0,NY,New York
+848,2690 US Hwy 22 E,Union,Union,40.69,-74.31,7083.0,NJ,New Jersey
+849,621 W Edgar Rd,Linden,Union,40.62,-74.24,7036.0,NJ,New Jersey
+850,655 Cheshire Rd,Lanesborough,Berkshire,42.5,-73.21,1237.0,MA,Massachusetts
+851,45 Central Ave,Clark,Union,40.63,-74.31,7066.0,NJ,New Jersey
+852,2900 Veterans Rd W,Staten Island,Richmond,40.53,-74.23,10309.0,NY,New York
+853,381 Mount Hope Ave,Rockaway,Morris,40.91,-74.56,7866.0,NJ,New Jersey
+854,2105 Route 35,Middletown,Monmouth,40.41,-74.14,7748.0,NJ,New Jersey
+855,1515 US Highway 22,Watchung,Somerset,40.64,-74.42,7069.0,NJ,New Jersey
+856,100 Parsonage Rd,Edison,Middlesex,40.55,-74.33,8837.0,NJ,New Jersey
+857,1245 Bald Hill Rd,Warwick,Kent,41.71,-71.49,2886.0,RI,Rhode Island
+858,400 Bald Hill Rd,Warwick,Kent,41.72,-71.48,2886.0,RI,Rhode Island
+859,371 Putnam Pike Ste A-250,Smithfield,Providence,41.88,-71.52,2917.0,RI,Rhode Island
+860,70 Worcester Providence Tpke #100,Millbury,Worcester,42.19,-71.77,1527.0,MA,Massachusetts
+861,5000 Hadley Center Dr,South Plainfield,Middlesex,40.55,-74.43,7080.0,NJ,New Jersey
+862,2331 Route 66,Ocean,Monmouth,40.23,-74.04,7712.0,NJ,New Jersey
+863,620 George Washington Hwy,Lincoln,Providence,41.94,-71.48,2865.0,RI,Rhode Island
+864,529 Lincoln St,Worcester,Worcester,42.29,-71.78,1605.0,MA,Massachusetts
+865,200 Promenade Blvd,Bridgewater,Somerset,40.56,-74.55,8807.0,NJ,New Jersey
+866,400 Ryders Ln,Milltown,Middlesex,40.44,-74.43,8850.0,NJ,New Jersey
+867,625 3rd Ave Ext,Rensselaer,Rensselaer,42.64,-73.7,12144.0,NY,New York
+868,79 Commerce Way,Seekonk,Bristol,41.8,-71.32,2771.0,MA,Massachusetts
+869,68 US Highway 46 W,Hackettstown,Morris,40.85,-74.81,7840.0,NJ,New Jersey
+870,55 US Hwy 9,Manalapan,Monmouth,40.29,-74.3,7726.0,NJ,New Jersey
+871,101 Grand Ave,North Brunswick,Middlesex,40.44,-74.5,8902.0,NJ,New Jersey
+872,330 Turnpike Rd,Westborough,Worcester,42.28,-71.66,1581.0,MA,Massachusetts
+873,1205 S Washington St,North Attleboro,Bristol,41.94,-71.35,2760.0,MA,Massachusetts
+874,250 Fortune Blvd,Milford,Worcester,42.16,-71.5,1757.0,MA,Massachusetts
+875,579 GAR Hwy,Swansea,Bristol,41.75,-71.21,2777.0,MA,Massachusetts
+876,1440 Central Ave,Colonie,Albany,42.71,-73.82,12205.0,NY,New York
+877,4196 US Highway 1,Monmouth Junction,Middlesex,40.38,-74.58,8852.0,NJ,New Jersey
+878,91 Taunton St,Plainville,Norfolk,42.03,-71.31,2762.0,MA,Massachusetts
+879,4955 US Highway 9,Howell,Monmouth,40.13,-74.22,7731.0,NJ,New Jersey
+880,423 Donald Lynch Blvd,Marlborough,Middlesex,42.36,-71.61,1752.0,MA,Massachusetts
+881,675 Troy Schenectady Rd,Latham,Albany,42.76,-73.77,12110.0,NY,New York
+882,570 Route 70,Brick,Ocean,40.06,-74.15,8723.0,NJ,New Jersey
+883,70 Princeton Hightstown Rd,East Windsor,Mercer,40.28,-74.54,8520.0,NJ,New Jersey
+884,605 Boston Post Rd E,Marlborough,Middlesex,42.35,-71.5,1752.0,MA,Massachusetts
+885,428 Balltown Rd,Schenectady,Schenectady,42.78,-73.89,12304.0,NY,New York
+886,86 Orchard Hill Park Dr,Leominster,Worcester,42.53,-71.71,1453.0,MA,Massachusetts
+887,400 Cochituate Rd,Framingham,Middlesex,42.31,-71.4,1701.0,MA,Massachusetts
+888,479 State Rd,North Dartmouth,Bristol,41.64,-71.0,2747.0,MA,Massachusetts
+889,1331 Hooper Ave,Toms River,Ocean,39.99,-74.18,8753.0,NJ,New Jersey
+890,81 Taunton Depot Dr,Taunton,Bristol,41.88,-71.07,2780.0,MA,Massachusetts
+891,500 Nassau Park Blvd,Princeton,Mercer,40.31,-74.68,8540.0,NJ,New Jersey
+892,41 Robert Dr,South Easton,Bristol,42.03,-71.14,2375.0,MA,Massachusetts
+893,26 Crossing Blvd,Clifton Park,Saratoga,42.86,-73.77,12065.0,NY,New York
+894,204 Saratoga Rd,Schenectady,Schenectady,42.87,-73.93,12302.0,NY,New York
+895,155 Pocono Commons,Stroudsburg,Monroe,41.0,-75.24,18360.0,PA,Pennsylvania
+896,221 University Ave,Westwood,Norfolk,42.2,-71.16,2090.0,MA,Massachusetts
+897,46 Ash Brook Rd,Keene,Cheshire,42.93,-72.3,3431.0,NH,New Hampshire
+898,1204 New Brunswick Ave,Phillipsburg,Warren,40.67,-75.13,8865.0,NJ,New Jersey
+899,1 Hawes Way,Stoughton,Norfolk,42.15,-71.07,2072.0,MA,Massachusetts
+900,4165 Washington St,Roslindale,Suffolk,42.29,-71.13,2131.0,MA,Massachusetts
+901,550 Arsenal St,Watertown,Middlesex,42.36,-71.16,2472.0,MA,Massachusetts
+902,250 Granite St,Braintree,Norfolk,42.22,-71.02,2184.0,MA,Massachusetts
+903,860 COMMONWEALTH AVE,Boston,Norfolk,42.35,-71.11,2215.0,MA,Massachusetts
+904,385 Centre Ave,Abington,Plymouth,42.11,-70.93,2351.0,MA,Massachusetts
+905,1341 BOYLSTON ST,Boston,Suffolk,42.34,-71.1,2215.0,MA,Massachusetts
+906,3835 Dryland Way,Easton,Northampton,40.71,-75.29,18045.0,PA,Pennsylvania
+907,564 Massachusetts Ave,Cambridge,Middlesex,42.36,-71.1,2139.0,MA,Massachusetts
+908,7 Allstate Rd,Dorchester,Suffolk,42.33,-71.06,2125.0,MA,Massachusetts
+909,2331 E Lincoln Hwy,Langhorne,Bucks,40.18,-74.88,19047.0,PA,Pennsylvania
+910,2421 Cranberry Hwy,Wareham,Plymouth,41.77,-70.75,2571.0,MA,Massachusetts
+911,180 Somerville Ave,Somerville,Middlesex,42.38,-71.09,2143.0,MA,Massachusetts
+912,100 Amsterdam Commons,Amsterdam,Montgomery,42.97,-74.19,12010.0,NY,New York
+913,3031 Route 50,Saratoga Springs,Saratoga,43.1,-73.74,12866.0,NY,New York
+914,310 Daniel Webster Hwy,Nashua,Hillsborough,42.7,-71.44,3060.0,NH,New Hampshire
+915,1 Mystic View Rd,Everett,Middlesex,42.4,-71.07,2149.0,MA,Massachusetts
+916,181 Plain St,Lowell,Middlesex,42.62,-71.32,1852.0,MA,Massachusetts
+917,1167 Washington St,Hanover,Plymouth,42.14,-70.84,2339.0,MA,Massachusetts
+918,600 Amherst St,Nashua,Hillsborough,42.8,-71.54,3063.0,NH,New Hampshire
+919,2703 Route 541,Burlington,Burlington,40.04,-74.82,8016.0,NJ,New Jersey
+920,101 Commerce Way,Woburn,Middlesex,42.52,-71.14,1801.0,MA,Massachusetts
+921,113 Main St,Stoneham,Middlesex,42.49,-71.1,2180.0,MA,Massachusetts
+922,800 Rock Hill Dr,Bensalem,Bucks,40.14,-74.96,19020.0,PA,Pennsylvania
+923,101 Independence Mall Way,Kingston,Plymouth,41.97,-70.72,2364.0,MA,Massachusetts
+924,36 Furlong Dr,Revere,Suffolk,42.4,-71.0,2151.0,MA,Massachusetts
+925,209 Stafford Park Blvd,Manahawkin,Ocean,39.71,-74.28,8050.0,NJ,New Jersey
+926,210 Ballardvale St,Wilmington,Middlesex,42.59,-71.16,1887.0,MA,Massachusetts
+927,400 Lynn Fells Pkwy,Saugus,Essex,42.48,-71.02,1906.0,MA,Massachusetts
+928,912 Airport Center Dr,Allentown,Lehigh,40.64,-75.44,18109.0,PA,Pennsylvania
+929,401 Easton Rd,Warrington,Bucks,40.22,-75.14,18976.0,PA,Pennsylvania
+930,11000 Roosevelt Blvd Ste 3,Philadelphia,Philadelphia,40.1,-75.01,19116.0,PA,Pennsylvania
+931,1140 Commerce Blvd,Dickson City,Lackawanna,41.47,-75.64,18519.0,PA,Pennsylvania
+932,610 N West End Blvd,Quakertown,Bucks,40.46,-75.37,18951.0,PA,Pennsylvania
+933,4004 Rte 130 N,Delran,Burlington,40.01,-74.96,8075.0,NJ,New Jersey
+934,4 Centerton Rd,Mount Laurel,Burlington,39.97,-74.91,8054.0,NJ,New Jersey
+935,1495 Old York Rd,Abington,Montgomery,40.12,-75.12,19001.0,PA,Pennsylvania
+936,227 Highland Ave,Salem,Essex,42.5,-70.92,1970.0,MA,Massachusetts
+937,203 S Broadway,Salem,Rockingham,42.76,-71.22,3079.0,NH,New Hampshire
+938,7400 Bustleton Ave,Philadelphia,Philadelphia,40.05,-75.06,19152.0,PA,Pennsylvania
+939,125 Witchwood Dr,North Wales,Montgomery,40.22,-75.24,19454.0,PA,Pennsylvania
+940,220 S River Rd,Bedford,Hillsborough,42.94,-71.47,3110.0,NH,New Hampshire
+941,67 Pleasant Valley St,Methuen,Essex,42.74,-71.16,1844.0,MA,Massachusetts
+942,1600 N Cedar Crest Blvd,Allentown,Lehigh,40.61,-75.54,18104.0,PA,Pennsylvania
+943,240 Independence Way,Danvers,Essex,42.55,-70.94,1923.0,MA,Massachusetts
+944,2450 Shoppers Ln,Wyncote,PA - Pennsylvania,40.08,-75.16,19095.0,PA,Pennsylvania
+945,749 N KROCKS RD,ALLENTOWN,Lehigh,40.57,-75.56,18106.0,PA,Pennsylvania
+946,578 Aviation Rd,Queensbury,Warren,43.33,-73.68,12804.0,NY,New York
+947,751 Route 73 S,Marlton,Burlington,39.87,-74.92,8053.0,NJ,New Jersey
+948,2701 Castor Ave,Philadelphia,Philadelphia,39.99,-75.09,19134.0,PA,Pennsylvania
+949,2137 Route 38,Cherry Hill,Camden,39.93,-75.02,8002.0,NJ,New Jersey
+950,35 Computer Dr,Haverhill,Essex,42.79,-71.12,1832.0,MA,Massachusetts
+951,1139 White Horse Rd,Voorhees,Camden,39.85,-74.98,8043.0,NJ,New Jersey
+952,100 Quality Dr,Hooksett,Merrimack,43.05,-71.46,3106.0,NH,New Hampshire
+953,3400 Wilkes-Barre Township Commons,Wilkes-Barre Township,Luzerne,41.24,-75.84,18702.0,PA,Pennsylvania
+954,7162 Ridge Ave,Philadelphia,Philadelphia,40.04,-75.23,19128.0,PA,Pennsylvania
+955,2250 Chemical Rd,Plymouth Meeting,Montgomery,40.1,-75.3,19462.0,PA,Pennsylvania
+956,4000 Monument Rd,Philadelphia,Philadelphia,40.01,-75.21,19131.0,PA,Pennsylvania
+957,2001 Pennsylvania Ave,Philadelphia,Philadelphia,39.96,-75.17,19130.0,PA,Pennsylvania
+958,1128 CHESTNUT ST,Philadelphia,Philadelphia,39.95,-75.16,19107.0,PA,Pennsylvania
+959,1900 CHESTNUT ST,Philadelphia,Philadelphia,39.95,-75.17,19103.0,PA,Pennsylvania
+960,1 Mifflin St,Philadelphia,Philadelphia,39.92,-75.15,19148.0,PA,Pennsylvania
+961,160 W Dekalb Pike,King of Prussia,Montgomery,40.09,-75.37,19406.0,PA,Pennsylvania
+962,1900 Deptford Center Rd,Deptford,Gloucester,39.83,-75.09,8096.0,NJ,New Jersey
+963,1824 E Ridge Pike,Royersford,Montgomery,40.21,-75.5,19468.0,PA,Pennsylvania
+964,487 Cross Keys Rd,Sicklerville,Camden,39.75,-74.99,8081.0,NJ,New Jersey
+965,200 Mill Road,Phoenixville,Montgomery,40.13,-75.45,19460.0,PA,Pennsylvania
+966,4001 Black Horse Pike,Turnersville,Gloucester,39.73,-75.04,8012.0,NJ,New Jersey
+967,80 Damante Dr,Concord,Merrimack,43.22,-71.49,3301.0,NH,New Hampshire
+968,675 Woodbury Glassboro Rd,Sewell,Gloucester,39.76,-75.13,8080.0,NJ,New Jersey
+969,100 Upland Square Dr,Pottstown,Montgomery,40.27,-75.66,19464.0,PA,Pennsylvania
+970,857 Baltimore Pike,Springfield,Delaware,39.92,-75.33,19064.0,PA,Pennsylvania
+971,380 Consumer Sq,Mays Landing,Atlantic,39.45,-74.63,8330.0,NJ,New Jersey
+972,1200 Baltimore Pike,Springfield,Delaware,39.91,-75.35,19064.0,PA,Pennsylvania
+973,455 Carnegie Blvd,Malvern,Chester,40.05,-75.52,19355.0,PA,Pennsylvania
+974,3112 Vestal Pkwy E,Vestal,Broome,42.09,-76.0,13850.0,NY,New York
+975,201 Sunrise Blvd,Exton,Chester,40.04,-75.63,19341.0,PA,Pennsylvania
+976,4599 Perkiomen Ave,Reading,Berks,40.31,-75.86,19606.0,PA,Pennsylvania
+977,180 Eagleview Blvd,Exton,Chester,40.05,-75.67,19341.0,PA,Pennsylvania
+978,4220 N 5th Street Hwy,Temple,Berks,40.4,-75.93,19560.0,PA,Pennsylvania
+979,600 Hatton Dr,Glen Mills,Delaware,39.88,-75.53,19342.0,PA,Pennsylvania
+980,1450 Greenland Rd,Greenland,Rockingham,43.05,-70.82,3840.0,NH,New Hampshire
+981,1 Sangertown Sq Ste 3,New Hartford,Oneida,43.08,-75.32,13413.0,NY,New York
+982,1050 Brandywine Pkwy,Wilmington,New Castle,39.83,-75.54,19803.0,DE,Delaware
+983,2769 Papermill Rd,Wyomissing,Berks,40.36,-75.98,19610.0,PA,Pennsylvania
+984,2100 N 2nd St,Millville,Cumberland,39.42,-75.04,8332.0,NJ,New Jersey
+985,11 Andrews Rd,Somersworth,Strafford,43.24,-70.88,3878.0,NH,New Hampshire
+986,800 Christiana Mall,Newark,New Castle,39.68,-75.65,19702.0,DE,Delaware
+987,2385 Covered Bridge Dr,Lancaster,Lancaster,40.03,-76.2,17602.0,PA,Pennsylvania
+988,960 Lititz Pike,Lititz,Lancaster,40.13,-76.31,17543.0,PA,Pennsylvania
+989,340 Towne Dr,Fayetteville,Onondaga,43.03,-76.02,13066.0,NY,New York
+990,1589 Fruitville Pike,Lancaster,Lancaster,40.07,-76.31,17601.0,PA,Pennsylvania
+991,40 Catherwood Rd,Ithaca,Tompkins,42.48,-76.49,14850.0,NY,New York
+992,170 S Lycoming Mall Rd,Muncy,Lycoming,41.24,-76.84,17756.0,PA,Pennsylvania
+993,430 Mariner Way,Biddeford,York,43.47,-70.51,4005.0,ME,Maine
+994,148 John Hunn Brown Rd,Dover,Kent,39.16,-75.51,19901.0,DE,Delaware
+995,501 Market Place Blvd,Selinsgrove,Snyder,40.84,-76.84,17870.0,PA,Pennsylvania
+996,3657 W Genesee St,Syracuse,Onondaga,43.05,-76.24,13219.0,NY,New York
+997,8061 Brewerton Rd,Cicero,Onondaga,43.16,-76.12,13039.0,NY,New York
+998,930 County Rd 64,Elmira,Chemung,42.15,-76.87,14903.0,NY,New York
+999,1025 Middleton Rd,Aberdeen,Harford,39.52,-76.18,21001.0,MD,Maryland
+1000,3857 State Route 31,Liverpool,Onondaga,43.19,-76.25,13090.0,NY,New York
+1001,5125 Jonestown Rd Ste 331,Harrisburg,Dauphin,40.31,-76.8,17112.0,PA,Pennsylvania
+1002,4600 High Pointe Blvd,Harrisburg,Dauphin,40.25,-76.81,17111.0,PA,Pennsylvania
+1003,200 Running Hill Rd,South Portland,Cumberland,43.63,-70.35,4106.0,ME,Maine
+1004,2610 Pleasant Valley Rd,York,York,39.99,-76.68,17402.0,PA,Pennsylvania
+1005,580 Marketplace Dr,Bel Air,Harford,39.53,-76.35,21014.0,MD,Maryland
+1006,403 Constant Friendship Blvd,Abingdon,Harford,39.46,-76.32,21009.0,MD,Maryland
+1007,2251 York Crossing Dr,York,York,39.97,-76.78,17408.0,PA,Pennsylvania
+1008,6416 Carlisle Pike,Mechanicsburg,Cumberland,40.25,-77.01,17050.0,PA,Pennsylvania
+1009,5230 Campbell Blvd,Nottingham,Baltimore,39.37,-76.45,21236.0,MD,Maryland
+1010,1330 Martin Blvd,Middle River,Baltimore,39.33,-76.45,21220.0,MD,Maryland
+1011,246 Westminster Dr,Carlisle,Cumberland,40.2,-77.16,17013.0,PA,Pennsylvania
+1012,9901 York Rd,Cockeysville,Baltimore,39.46,-76.63,21030.0,MD,Maryland
+1013,1238 Putty Hill Ave,Towson,Baltimore,39.39,-76.58,21286.0,MD,Maryland
+1014,31 WILSON AVE,Hanover,York,39.83,-77.0,17331.0,PA,Pennsylvania
+1015,3559 Boston Street,Baltimore,Baltimore City,39.28,-76.57,21224.0,MD,Maryland
+1016,60 Smithfield Blvd,Plattsburgh,Clinton,44.7,-73.49,12901.0,NY,New York
+1017,21800 Towne Center Dr,Watertown,Jefferson,43.97,-75.96,13601.0,NY,New York
+1018,1737 Reisterstown Rd,Pikesville,Baltimore,39.38,-76.73,21208.0,MD,Maryland
+1019,11200 Reisterstown Rd,Owings Mills,Baltimore,39.43,-76.8,21117.0,MD,Maryland
+1020,200 Malcolm Dr,Westminster,Carroll,39.57,-76.97,21157.0,MD,Maryland
+1021,125 Topsham Fair Mall Rd,Topsham,Sagadahoc,43.93,-69.99,4086.0,ME,Maine
+1022,119 Crossing Way,Augusta,Kennebec,44.31,-69.8,4330.0,ME,Maine
+1023,7500 Commons Blvd,Victor,Ontario,43.03,-77.45,14564.0,NY,New York
+1024,2161 N Nine Mile Point Rd,Fairport,Monroe,43.13,-77.44,14450.0,NY,New York
+1025,1050 Ridge Rd,Webster,Monroe,43.21,-77.45,14580.0,NY,New York
+1026,500 Medley Centre Pkwy,Rochester,Monroe,43.2,-77.57,14622.0,NY,New York
+1027,2325 Marketplace Dr,Rochester,Monroe,43.08,-77.63,14623.0,NY,New York
+1028,600 Greece Ridge Center Dr,Rochester,Monroe,43.2,-77.69,14626.0,NY,New York
+1029,3181 Chili Ave,Rochester,Monroe,43.1,-77.75,14624.0,NY,New York
+1030,6717 Ritchie Hwy,Glen Burnie,Anne Arundel,39.19,-76.61,21061.0,MD,Maryland
+1031,7951 Nolpark Ct,Glen Burnie,Anne Arundel,39.13,-76.63,21061.0,MD,Maryland
+1032,28539 Marlboro Ave,Easton,Talbot,38.78,-76.09,21601.0,MD,Maryland
+1033,1911 Towne Centre Blvd,Annapolis,Anne Arundel,38.98,-76.54,21401.0,MD,Maryland
+1034,4390 Montgomery Rd,Ellicott City,Howard,39.25,-76.82,21043.0,MD,Maryland
+1035,6111 Dobbin Rd,Columbia,Howard,39.2,-76.81,21045.0,MD,Maryland
+1036,2384 BRANDERMILL BLVD,Gambrills,Anne Arundel,39.03,-76.68,21054.0,MD,Maryland
+1037,3343 Corridor Marketplace,Laurel,Anne Arundel,39.1,-76.81,20724.0,MD,Maryland
+1038,4600 Mitchellville Rd,Bowie,Prince George's,38.95,-76.72,20716.0,MD,Maryland
+1039,10401 Martin Luther King Jr Hwy,Bowie,Prince George's,38.95,-76.82,20720.0,MD,Maryland
+1040,6100 Greenbelt Rd,Greenbelt,Prince George's,39.0,-76.91,20770.0,MD,Maryland
+1041,12000 Cherry Hill Rd,Silver Spring,Montgomery,39.05,-76.96,20904.0,MD,Maryland
+1042,10500 Campus Way S,Upper Marlboro,Prince George's,38.9,-76.83,20774.0,MD,Maryland
+1043,125 E North Pointe Dr,Salisbury,Wicomico,38.42,-75.56,21804.0,MD,Maryland
+1044,7501 Baltimore Ave,College Park,Prince George's,38.98,-76.94,20740.0,MD,Maryland
+1045,3500 East West Hwy Ste 1200,Hyattsville,Prince George's,38.97,-76.96,20782.0,MD,Maryland
+1046,11160 Veirs Mill Rd,Silver Spring,Montgomery,39.04,-77.06,20902.0,MD,Maryland
+1047,3101 Donnell Dr,District Heights,Prince George's,38.85,-76.89,20747.0,MD,Maryland
+1048,5700 Bou Ave,Rockville,Montgomery,39.06,-77.11,20852.0,MD,Maryland
+1049,3100 14th St NW,Washington,District of Columbia,38.93,-77.03,20010.0,DC,District of Columbia
+1050,20908 Frederick Rd,Germantown,Montgomery,39.2,-77.25,20876.0,MD,Maryland
+1051,6831 Wisconsin Ave,Bethesda,Montgomery,38.98,-77.09,20815.0,MD,Maryland
+1052,25 Grand Corner Ave,Gaithersburg,Montgomery,39.12,-77.2,20878.0,MD,Maryland
+1053,1500 Wilson Blvd,Rosslyn,Arlington,38.89,-77.07,22209.0,VA,Virginia
+1054,5437 Urbana Pike,Frederick,Frederick,39.38,-77.4,21704.0,MD,Maryland
+1055,3101 Jefferson Davis Hwy,Alexandria,Alexandria,38.83,-77.05,22305.0,VA,Virginia
+1056,15922 Crain Hwy SE,Brandywine,Prince George's,38.67,-76.87,20613.0,MD,Maryland
+1057,5115 Leesburg Pike,Falls Church,Fairfax,38.84,-77.12,22041.0,VA,Virginia
+1058,6100 Arlington Blvd,Falls Church,Fairfax,38.87,-77.14,22044.0,VA,Virginia
+1059,500 S. Washington St,Falls Church,Fairfax,38.88,-77.18,22046.0,VA,Virginia
+1060,6600 Richmond Hwy,Alexandria,Fairfax,38.78,-77.08,22306.0,VA,Virginia
+1061,3300 Western Pkwy,Waldorf,Charles,38.62,-76.92,20603.0,MD,Maryland
+1062,2905 District Ave S,Fairfax,Fairfax,38.87,-77.23,22031.0,VA,Virginia
+1063,913 Norland Ave,Chambersburg,Franklin,39.94,-77.63,17201.0,PA,Pennsylvania
+1064,6600 Springfield Mall,Springfield,Fairfax,38.78,-77.17,22150.0,VA,Virginia
+1065,46201 Potomac Run Plz,Sterling,Loudoun,39.03,-77.4,20164.0,VA,Virginia
+1066,12197 Sunset Hills Rd,Reston,Fairfax,38.95,-77.37,20190.0,VA,Virginia
+1067,45130 Columbia Pl,Sterling,Loudoun,39.01,-77.44,20166.0,VA,Virginia
+1068,45155 First Colony Way,California,St. Mary's,38.3,-76.51,20619.0,MD,Maryland
+1069,60 Shining Willow Way,La Plata,Charles,38.54,-76.98,20646.0,MD,Maryland
+1070,1200 Edwards Ferry Rd,Leesburg,Loudoun,39.12,-77.53,20176.0,VA,Virginia
+1071,10301 New Guinea Rd,Fairfax,Fairfax,38.8,-77.3,22032.0,VA,Virginia
+1072,13047 Fair Lakes Shopping Ctr,Fairfax,Fairfax,38.86,-77.39,22033.0,VA,Virginia
+1073,17213 Cole Rd,Hagerstown,Washington,39.62,-77.77,21740.0,MD,Maryland
+1074,14391 Chantilly Crossing Ln,Chantilly,Fairfax,38.9,-77.45,20151.0,VA,Virginia
+1075,2460 Prince William Pkwy,Woodbridge,Prince William,38.65,-77.29,22192.0,VA,Virginia
+1076,4310 Fortuna Center Plz,Dumfries,Prince William,38.6,-77.33,22025.0,VA,Virginia
+1077,9900 Sowder Village Sq,Manassas,Prince William,38.74,-77.53,20109.0,VA,Virginia
+1078,13301 Gateway Center Dr,Gainesville,Prince William,38.79,-77.61,20155.0,VA,Virginia
+1079,436 Retail Commons Pkwy,Martinsburg,Berkeley,39.44,-77.99,25403.0,WV,West Virginia
+1080,1090 Stafford Market Pl,Stafford,Stafford,38.47,-77.41,22556.0,VA,Virginia
+1081,201 W Beaver Ave,State College,Centre,40.79,-77.86,16801.0,PA,Pennsylvania
+1082,315 Colonnade Blvd,State College,Centre,40.81,-77.91,16803.0,PA,Pennsylvania
+1083,191 Market St,Winchester,Frederick,39.22,-78.14,22603.0,VA,Virginia
+1084,25 S Gateway Dr,Fredericksburg,Stafford,38.34,-77.49,22406.0,VA,Virginia
+1085,2340 Legge Blvd,Winchester,Winchester City,39.15,-78.17,22601.0,VA,Virginia
+1086,1180 Carl D Silver Pkwy,Fredericksburg,Fredericksburg City,38.3,-77.51,22401.0,VA,Virginia
+1087,9785 Jefferson Davis Hwy,Fredericksburg,Spotsylvania,38.22,-77.5,22407.0,VA,Virginia
+1088,10 Crooked Run Plaza,Front Royal,Warren,38.96,-78.19,22630.0,VA,Virginia
+1089,153 Sierra Dr,Altoona,Blair,40.46,-78.41,16601.0,PA,Pennsylvania
+1090,15341 Montanus Dr,Culpeper,Culpeper,38.48,-77.97,22701.0,VA,Virginia
+1091,10100 Brook Rd,Glen Allen,Henrico,37.67,-77.46,23059.0,VA,Virginia
+1092,7235 Bell Creek Rd,Mechanicsville,Hanover,37.6,-77.35,23111.0,VA,Virginia
+1093,9001 Staples Mill Rd,Henrico,Henrico,37.64,-77.51,23228.0,VA,Virginia
+1094,200 Marquis Pkwy,Williamsburg,York,37.26,-76.64,23185.0,VA,Virginia
+1095,4521 S Laburnum Ave,Richmond,Henrico,37.53,-77.36,23231.0,VA,Virginia
+1096,11290 W Broad St,Glen Allen,Henrico,37.65,-77.61,23060.0,VA,Virginia
+1097,5401 W Broad St,Richmond,Henrico,37.59,-77.5,23230.0,VA,Virginia
+1098,4630 Monticello Ave,Williamsburg,James City,37.27,-76.76,23188.0,VA,Virginia
+1099,7107 Forest Hill Ave,Richmond,Richmond City,37.54,-77.53,23225.0,VA,Virginia
+1100,12130 Jefferson Ave,Newport News,Newport News City,37.11,-76.49,23602.0,VA,Virginia
+1101,11301 Midlothian Tpke,Richmond,Chesterfield,37.5,-77.61,23235.0,VA,Virginia
+1102,312 Connor Dr,Charlottesville,Albemarle,38.13,-78.44,22911.0,VA,Virginia
+1103,5001 Holt Ave,Hampton,Hampton City,37.04,-76.39,23666.0,VA,Virginia
+1104,201 Perimeter Dr,Midlothian,Chesterfield,37.51,-77.69,23113.0,VA,Virginia
+1105,2530 Weir Rd,Chester,Chesterfield,37.35,-77.41,23831.0,VA,Virginia
+1106,4601 Commonwealth Centre Pkwy,Midlothian,Chesterfield,37.42,-77.63,23112.0,VA,Virginia
+1107,1995 E Market St,Harrisonburg,Harrisonburg City,38.43,-78.84,22801.0,VA,Virginia
+1108,525 First Colonial Rd,Virginia Beach,Virginia Beach City,36.85,-76.02,23451.0,VA,Virginia
+1109,1245 N Military Hwy,Norfolk,Norfolk City,36.87,-76.21,23502.0,VA,Virginia
+1110,4554 Virginia Beach Blvd,Virginia Beach,Virginia Beach City,36.84,-76.13,23462.0,VA,Virginia
+1111,2060 S Independence Blvd,Virginia Beach,Virginia Beach City,36.79,-76.11,23453.0,VA,Virginia
+1112,2233 Upton Dr,Virginia Beach,Virginia Beach City,36.76,-76.01,23454.0,VA,Virginia
+1113,"4200 Portsmouth Blvd, STE 600",Chesapeake,Chesapeake,36.83,-76.41,23321.0,VA,Virginia
+1114,1316 Greenbrier Pkwy,Chesapeake,Chesapeake,36.77,-76.23,23320.0,VA,Virginia
+1115,721 Southpark Blvd,Colonial Heights,Colonial Heights City,37.25,-77.39,23834.0,VA,Virginia
+1116,233 Carmichael Way,Chesapeake,Chesapeake,36.66,-76.23,23322.0,VA,Virginia
+1117,811 Town Center Dr,Waynesboro,Waynesboro City,38.06,-78.94,22980.0,VA,Virginia
+1118,4028 Wards Rd,Lynchburg,Lynchburg City,37.35,-79.19,24502.0,VA,Virginia
+1119,731 Sutters Creek Blvd,Rocky Mount,Nash,35.97,-77.81,27804.0,NC,North Carolina
+1120,3040 S Evans St,Greenville,Pitt,35.58,-77.38,27834.0,NC,North Carolina
+1121,716 N US Highway 441,The Villages,Lake,28.93,-81.94,32159.0,FL,Florida
+1122,1440 US Hwy 1 S,Saint Augustine,St. Johns,29.88,-81.32,32084.0,FL,Florida
+1123,5100 E Highway 100,Palm Coast,Flagler,29.48,-81.22,32164.0,FL,Florida
+1124,17450 US Highway 441,Mount Dora,Lake,28.82,-81.67,32757.0,FL,Florida
+1125,4401 Commercial Way,Spring Hill,Hernando,28.5,-82.6,34606.0,FL,Florida
+1126,3101 Aerial Way,Brooksville,Hernando,28.48,-82.48,34604.0,FL,Florida
+1127,2575 Enterprise Rd,Orange City,Volusia,28.92,-81.29,32763.0,FL,Florida
+1128,2380 W International Speedway Blvd,Daytona Beach,Volusia,29.18,-81.08,32114.0,FL,Florida
+1129,1201 WP Ball Blvd,Sanford,Seminole,28.8,-81.34,32771.0,FL,Florida
+1130,2660 East Hwy 50,Clermont,Lake,28.55,-81.7,34711.0,FL,Florida
+1131,4155 W Lake Mary Blvd,Lake Mary,Seminole,28.75,-81.35,32746.0,FL,Florida
+1132,1771 Dunlawton Ave,Port Orange,Volusia,29.11,-81.03,32127.0,FL,Florida
+1133,886 W State Road 436,Altamonte Springs,Seminole,28.66,-81.42,32714.0,FL,Florida
+1134,3343 Daniels Rd,Winter Garden,Orange,28.52,-81.58,34787.0,FL,Florida
+1135,4410 S Highway 17 92,Casselberry,Seminole,28.67,-81.34,32707.0,FL,Florida
+1136,820 Oviedo Mall Blvd,Oviedo,Seminole,28.66,-81.24,32765.0,FL,Florida
+1137,718 Maguire Blvd,Orlando,Orange,28.56,-81.35,32803.0,FL,Florida
+1138,3770 N Goldenrod Rd,Winter Park,Orange,28.6,-81.29,32792.0,FL,Florida
+1139,2900 Little Rd,Trinity,Pasco,28.2,-82.66,34655.0,FL,Florida
+1140,4750 Millenia Plaza Way,Orlando,Orange,28.49,-81.43,32839.0,FL,Florida
+1141,120 W Grant St,Orlando,Orange,28.52,-81.38,32806.0,FL,Florida
+1142,1040 Dale Mabry Hwy,Lutz,Pasco,28.17,-82.47,33548.0,FL,Florida
+1143,1201 County Rd 581,Wesley Chapel,Pasco,28.17,-82.36,33544.0,FL,Florida
+1144,3200 Rolling Oaks Blvd,Kissimmee,Osceola,28.34,-81.61,34747.0,FL,Florida
+1145,880 Sand Lake Rd,Orlando,Orange,28.45,-81.39,32809.0,FL,Florida
+1146,325 N Alafaya Trl,Orlando,Orange,28.55,-81.2,32828.0,FL,Florida
+1147,15240 N Dale Mabry Hwy,Tampa,Hillsborough,28.09,-82.5,33618.0,FL,Florida
+1148,2155 Town Center Blvd,Orlando,Orange,28.37,-81.41,32837.0,FL,Florida
+1149,4795 W Irlo Bronson Memorial Hwy,Kissimmee,Osceola,28.33,-81.47,34746.0,FL,Florida
+1150,13658 University Plaza St,Tampa,Hillsborough,28.07,-82.43,33613.0,FL,Florida
+1151,5000 Grandview Pkwy,Davenport,Polk,28.23,-81.64,33837.0,FL,Florida
+1152,900 E Lake Rd,Palm Harbor,Pinellas,28.06,-82.71,34685.0,FL,Florida
+1153,4005 US Highway 98 N,Lakeland,Polk,28.09,-81.97,33809.0,FL,Florida
+1154,6295 W Waters Ave,Tampa,Hillsborough,28.03,-82.55,33634.0,FL,Florida
+1155,11627 W Hillsborough Ave,Tampa,Hillsborough,28.02,-82.61,33635.0,FL,Florida
+1156,1544 N Dale Mabry Hwy,Tampa,Hillsborough,27.96,-82.51,33607.0,FL,Florida
+1157,2747 Gulf To Bay Blvd,Clearwater,Pinellas,27.96,-82.72,33759.0,FL,Florida
+1158,3570 Harden Blvd,Lakeland,Polk,28.0,-81.97,33803.0,FL,Florida
+1159,187 Brandon Town Center Dr,Brandon,Hillsborough,27.94,-82.32,33511.0,FL,Florida
+1160,3625 W Gandy Blvd,Tampa,Hillsborough,27.89,-82.5,33611.0,FL,Florida
+1161,10150 Bloomingdale Ave,Riverview,Hillsborough,27.9,-82.33,33578.0,FL,Florida
+1162,3055 Columbia Blvd,Titusville,Brevard,28.55,-80.84,32780.0,FL,Florida
+1163,10500 Ulmerton Rd,Largo,Pinellas,27.89,-82.78,33771.0,FL,Florida
+1164,8151 Dr Martin Luther King St N,Saint Petersburg,Pinellas,27.85,-82.64,33702.0,FL,Florida
+1165,7150 US 19 N,Pinellas Park,Pinellas,27.84,-82.68,33781.0,FL,Florida
+1166,4450 Park St N,Saint Petersburg,Pinellas,27.81,-82.76,33709.0,FL,Florida
+1167,250 Crockett Blvd,Merritt Island,Brevard,28.39,-80.7,32953.0,FL,Florida
+1168,8455 N Wickham Rd,Melbourne,Brevard,28.23,-80.72,32940.0,FL,Florida
+1169,2750 W New Haven Ave,Melbourne Village,Brevard,28.08,-80.67,32904.0,FL,Florida
+1170,6150 14th St W,Bradenton,Manatee,27.43,-82.58,34207.0,FL,Florida
+1171,4305 Norfolk Pkwy,Melbourne,Brevard,28.04,-80.66,32904.0,FL,Florida
+1172,101 N Cattlemen Rd,Sarasota,Sarasota,27.39,-82.46,34243.0,FL,Florida
+1173,5350 Fruitville Rd,Sarasota,Sarasota,27.34,-82.46,34232.0,FL,Florida
+1174,8401 S Tamiami Trl,Sarasota,Sarasota,27.23,-82.49,34238.0,FL,Florida
+1175,4271 Tamiami Trl S,Venice,Sarasota,27.05,-82.39,34293.0,FL,Florida
+1176,1400A Tamiami Trl,Port Charlotte,Charlotte,27.01,-82.14,33948.0,FL,Florida
+1177,5800 20th St,Vero Beach,Indian River,27.64,-80.45,32966.0,FL,Florida
+1178,10720 SW Village Pkwy,Port Saint Lucie,St. Lucie,27.27,-80.43,34987.0,FL,Florida
+1179,1890 NE Pine Island Rd,Cape Coral,Lee,26.67,-81.93,33909.0,FL,Florida
+1180,2650 NW Federal Hwy,Stuart,Martin,27.24,-80.27,34994.0,FL,Florida
+1181,2430 Santa Barbara Blvd,Cape Coral,Lee,26.61,-81.98,33914.0,FL,Florida
+1182,9350 Dynasty Dr,Fort Myers,Lee,26.62,-81.8,33905.0,FL,Florida
+1183,13711 S Tamiami Trl,Fort Myers,Lee,26.54,-81.87,33912.0,FL,Florida
+1184,15880 San Carlos Blvd,Fort Myers,Lee,26.51,-81.95,33908.0,FL,Florida
+1185,10000 Gulf Center Dr,Fort Myers,Lee,26.48,-81.79,33913.0,FL,Florida
+1186,8040 Mediterranean Dr,Estero,Lee,26.41,-81.81,33928.0,FL,Florida
+1187,2415 Tarpon Bay Blvd,Naples,Collier,26.27,-81.74,34119.0,FL,Florida
+1188,2324 Pine Ridge Rd,Naples,Collier,26.21,-81.77,34109.0,FL,Florida
+1189,10155 Okeechobee Blvd,West Palm Beach,Palm Beach,26.71,-80.2,33411.0,FL,Florida
+1190,500 N Congress Ave,Lake Park,Palm Beach,26.81,-80.08,33403.0,FL,Florida
+1191,5900 State Rd 7,Lake Worth,Palm Beach,26.59,-80.2,33449.0,FL,Florida
+1192,1760 Palm Beach Lakes Blvd,West Palm Beach,Palm Beach,26.72,-80.09,33401.0,FL,Florida
+1193,5900 Lake Worth Rd,Greenacres,Palm Beach,26.62,-80.14,33463.0,FL,Florida
+1194,10201 Hagen Ranch Rd,Boynton Beach,Palm Beach,26.53,-80.17,33437.0,FL,Florida
+1195,650 N Congress Ave,Boynton Beach,Palm Beach,26.53,-80.09,33426.0,FL,Florida
+1196,21637 State Road 7,Boca Raton,Palm Beach,26.35,-80.2,33428.0,FL,Florida
+1197,9600 Westview Dr,Coral Springs,Broward,26.3,-80.25,33076.0,FL,Florida
+1198,1200 Linton Blvd,Delray Beach,Palm Beach,26.44,-80.08,33444.0,FL,Florida
+1199,4400 N State Rd 7,Coral Springs,Broward,26.28,-80.2,33073.0,FL,Florida
+1200,12801 W Sunrise Blvd,Sunrise,Broward,26.15,-80.32,33323.0,FL,Florida
+1201,3599 W Hillsboro Blvd,Deerfield Beach,Broward,26.32,-80.15,33442.0,FL,Florida
+1202,8201 Federated West Roadway,Plantation,Broward,26.12,-80.26,33324.0,FL,Florida
+1203,1200 S Federal Hwy,Deerfield Beach,Broward,26.3,-80.09,33441.0,FL,Florida
+1204,16901 Miramar Pkwy,Miramar,Broward,25.98,-80.37,33027.0,FL,Florida
+1205,11253 Pines Blvd,Pembroke Pines,Broward,26.01,-80.3,33026.0,FL,Florida
+1206,5800 S University Dr,Davie,Broward,26.05,-80.25,33328.0,FL,Florida
+1207,3200 N Federal Hwy,Fort Lauderdale,Broward,26.17,-80.12,33306.0,FL,Florida
+1208,5601 NW 183rd St,Miami Gardens,Miami-Dade,25.94,-80.29,33055.0,FL,Florida
+1209,3251 Hollywood Blvd,Hollywood,Broward,26.01,-80.17,33021.0,FL,Florida
+1210,1750 W 37th St,Hialeah,Miami-Dade,25.85,-80.32,33012.0,FL,Florida
+1211,21265 Biscayne Blvd,Aventura,Miami-Dade,25.97,-80.14,33180.0,FL,Florida
+1212,10101 W Flagler St,Miami,Miami-Dade,25.77,-80.36,33174.0,FL,Florida
+1213,15005 SW 88th St,Miami,Miami-Dade,25.69,-80.44,33196.0,FL,Florida
+1214,14075 Biscayne Blvd,North Miami Beach,Miami-Dade,25.91,-80.16,33181.0,FL,Florida
+1215,7795 SW 40th St,Miami,Miami-Dade,25.74,-80.32,33155.0,FL,Florida
+1216,3401 N Miami Ave,Miami,Miami-Dade,25.81,-80.19,33127.0,FL,Florida
+1217,8350 S Dixie Hwy,Miami,Miami-Dade,25.69,-80.31,33143.0,FL,Florida
+1218,7800 SW 104th St,Miami,Miami-Dade,25.67,-80.32,33156.0,FL,Florida
+1219,20500 SW 112th Ave,Miami,Miami-Dade,25.58,-80.38,33189.0,FL,Florida
+1220,2070 Sam Rittenberg Blvd,Charleston,Charleston,32.8,-80.03,29407.0,SC,South Carolina
+1221,1300 Long Grove Dr,Mount Pleasant,Charleston,32.82,-79.82,29464.0,SC,South Carolina
+1222,7250 Rivers Ave,North Charleston,Charleston,32.94,-80.04,29406.0,SC,South Carolina
+1223,450 Azalea Square Blvd,Summerville,Berkeley,33.04,-80.16,29483.0,SC,South Carolina
+1224,6090A Garners Ferry Rd,Columbia,Richland,33.98,-80.97,29209.0,SC,South Carolina
+1225,425 Cox Rd,Gastonia,Gaston,35.26,-81.14,28054.0,NC,North Carolina
+1226,10204 Two Notch Rd,Columbia,Richland,34.12,-80.88,29229.0,SC,South Carolina
+1227,1900 Springsteen Rd,Rock Hill,York,34.94,-80.98,29730.0,SC,South Carolina
+1228,12830 Walker Branch Dr,Charlotte,Mecklenburg,35.1,-80.99,28273.0,NC,North Carolina
+1229,1910 Catawba Valley Blvd SE,Hickory,Catawba,35.7,-81.31,28602.0,NC,North Carolina
+1230,9531 South Blvd,Charlotte,Mecklenburg,35.11,-80.88,28273.0,NC,North Carolina
+1231,16600 Highlands Center Blvd,Bristol,Washington,36.64,-82.11,24202.0,VA,Virginia
+1232,7860 Rea Rd,Charlotte,Mecklenburg,35.06,-80.82,28277.0,NC,North Carolina
+1233,9870 Rea Rd,Charlotte,Mecklenburg,35.04,-80.81,28277.0,NC,North Carolina
+1234,900 Metropolitan Ave,Charlotte,Mecklenburg,35.21,-80.83,28204.0,NC,North Carolina
+1235,9841 Northlake Centre Pkwy,Charlotte,Mecklenburg,35.35,-80.86,28216.0,NC,North Carolina
+1236,6350 Weddington Rd,Wesley Chapel,Union,35.0,-80.7,28104.0,NC,North Carolina
+1237,9801 Sam Furr Rd,Huntersville,Mecklenburg,35.44,-80.86,28078.0,NC,North Carolina
+1238,1900 Matthews Township Pkwy,Matthews,Mecklenburg,35.12,-80.71,28105.0,NC,North Carolina
+1239,8120 University City Blvd,Charlotte,Mecklenburg,35.29,-80.75,28213.0,NC,North Carolina
+1240,8830 Albemarle Rd,Charlotte,Mecklenburg,35.21,-80.69,28227.0,NC,North Carolina
+1241,594 River Hwy,Mooresville,Iredell,35.6,-80.87,28117.0,NC,North Carolina
+1242,2901 W Highway 74,Monroe,Union,35.02,-80.58,28110.0,NC,North Carolina
+1243,6150 Bayfield Pkwy,Concord,Cabarrus,35.42,-80.68,28027.0,NC,North Carolina
+1244,2791 David H Mcleod Blvd,Florence,Florence,34.19,-79.84,29501.0,SC,South Carolina
+1245,140 Sayebrook Pkwy,Myrtle Beach,Horry,33.65,-78.98,29588.0,SC,South Carolina
+1246,1150 Seaboard St,Myrtle Beach,Horry,33.71,-78.89,29577.0,SC,South Carolina
+1247,1040 Hanes Mall Blvd,Winston Salem,Forsyth,36.07,-80.32,27103.0,NC,North Carolina
+1248,5420 University Pkwy,Winston Salem,Forsyth,36.17,-80.28,27105.0,NC,North Carolina
+1249,1090 S Main St,Kernersville,Forsyth,36.11,-80.1,27284.0,NC,North Carolina
+1250,1050 Mall Loop Rd,High Point,Guilford,35.99,-80.01,27262.0,NC,North Carolina
+1251,1212 Bridford Pkwy,Greensboro,Guilford,36.06,-79.91,27407.0,NC,North Carolina
+1252,1628 Highwoods Blvd,Greensboro,Guilford,36.11,-79.88,27410.0,NC,North Carolina
+1253,2701 Lawndale Dr,Greensboro,Guilford,36.1,-79.82,27408.0,NC,North Carolina
+1254,1475 University Dr,Burlington,Alamance,36.07,-79.52,27215.0,NC,North Carolina
+1255,2056 Skibo Rd,Fayetteville,Cumberland,35.05,-78.97,28314.0,NC,North Carolina
+1256,195 Conston Ave,Christiansburg,Montgomery,37.16,-80.42,24073.0,VA,Virginia
+1257,"143 W Franklin St, Ste 120",Chapel Hill,Orange,35.91,-79.06,27516.0,NC,North Carolina
+1258,4711 New Centre Dr,Wilmington,New Hanover,34.25,-77.88,28405.0,NC,North Carolina
+1259,100 Grand Hill Place,Holly Springs,Wake,35.66,-78.85,27540.0,NC,North Carolina
+1260,391 E MAKAALA ST,Hilo,Hawaii,19.7,-155.06,96720.0,HI,Hawaii
+1261,74-5455 Makala Blvd,Kailua Kona,Hawaii,19.65,-156.0,96740.0,HI,Hawaii
+1262,100 Hookele St,Kahului,Honolulu,20.87,-156.46,96732.0,HI,Hawaii
+1263,345 Hahani St,Kailua,Honolulu,21.39,-157.74,96734.0,HI,Hawaii
+1264,"1450 Ala Moana Blvd, Ste 2401",Honolulu,Honolulu,21.29,-157.84,96814.0,HI,Hawaii
+1265,4380 Lawehana St,Honolulu,Honolulu,21.36,-157.93,96818.0,HI,Hawaii
+1266,4450 Kapolei Pkwy,Kapolei,Honolulu,21.33,-158.09,96707.0,HI,Hawaii
+1267,214 Viking Plaza Dr,Cedar Falls,Black Hawk,42.48,-92.44,50613.0,IA,Iowa
+1268,3450 4th St SW,Mason City,Cerro Gordo,43.15,-93.25,50401.0,IA,Iowa
+1269,1501 E San Marnan Dr,Waterloo,Black Hawk,42.47,-92.33,50702.0,IA,Iowa
+1270,320 S Duff Ave,Ames,Story,42.02,-93.61,50010.0,IA,Iowa
+1271,2910 1st Ave S,Fort Dodge,Webster,42.51,-94.16,50501.0,IA,Iowa
+1272,2135 SE Delaware Ave,Ankeny,Polk,41.71,-93.58,50021.0,IA,Iowa
+1273,3414 8th St SW,Altoona,Polk,41.64,-93.5,50009.0,IA,Iowa
+1274,5901 Douglas Ave,Des Moines,Polk,41.63,-93.7,50322.0,IA,Iowa
+1275,11148 Plum Dr,Urbandale,Polk,41.65,-93.77,50322.0,IA,Iowa
+1276,1030 Blairs Ferry Rd NE,Cedar Rapids,Linn,42.04,-91.65,52402.0,IA,Iowa
+1277,1800 Valley West Dr,West Des Moines,Polk,41.6,-93.75,50266.0,IA,Iowa
+1278,3400 Edgewood Rd SW,Cedar Rapids,Linn,41.94,-91.72,52404.0,IA,Iowa
+1279,1111 E Army Post Rd Ste 2204,Des Moines,Polk,41.52,-93.6,50315.0,IA,Iowa
+1280,5405 Mills Civic Pkwy,West Des Moines,Polk,41.56,-93.78,50266.0,IA,Iowa
+1281,4611 Maine Ave SE,Rochester,Olmsted,43.95,-92.46,55904.0,MN,Minnesota
+1282,1441 Coral Ridge Ave,Coralville,Johnson,41.69,-91.6,52241.0,IA,Iowa
+1283,301 Park Dr,Owatonna,Steele,44.09,-93.25,55060.0,MN,Minnesota
+1284,3827 Marketplace Dr NW,Rochester,Olmsted,44.06,-92.5,55901.0,MN,Minnesota
+1285,1850 Adams St,Mankato,Blue Earth,44.17,-93.95,56001.0,MN,Minnesota
+1286,3500 Dodge St,Dubuque,Dubuque,42.49,-90.72,52003.0,IA,Iowa
+1287,860 Mankato Ave,Winona,Winona,44.03,-91.62,55987.0,MN,Minnesota
+1288,2323 Highway 3 S,Northfield,Rice,44.43,-93.19,55057.0,MN,Minnesota
+1289,9400 State Road 16,Onalaska,La Crosse,43.87,-91.19,54650.0,WI,Wisconsin
+1290,151 Tyler Rd N,Red Wing,Goodhue,44.57,-92.58,55066.0,MN,Minnesota
+1291,18275 Kenrick Ave,Lakeville,Dakota,44.68,-93.29,55044.0,MN,Minnesota
+1292,15560 Pilot Knob Rd,Apple Valley,Dakota,44.72,-93.18,55124.0,MN,Minnesota
+1293,15150 Cedar Ave,Apple Valley,Dakota,44.73,-93.21,55124.0,MN,Minnesota
+1294,810 County Road 42 W,Burnsville,Dakota,44.75,-93.29,55337.0,MN,Minnesota
+1295,14333 Hwy 13,Savage,Scott,44.74,-93.38,55378.0,MN,Minnesota
+1296,2000 Cliff Lake Rd,Eagan,Dakota,44.79,-93.21,55122.0,MN,Minnesota
+1297,5225 Elmore Ave,Davenport,Scott,41.57,-90.53,52807.0,IA,Iowa
+1298,1685 17th Ave E,Shakopee,Scott,44.78,-93.5,55379.0,MN,Minnesota
+1299,8655 E Point Douglas Rd S,Cottage Grove,Washington,44.82,-92.93,55016.0,MN,Minnesota
+1300,7841 Amana Trail,Inver Grove Heights,Dakota,44.84,-93.09,55077.0,MN,Minnesota
+1301,900 42nd Avenue Dr,Moline,Rock Island,41.47,-90.53,61265.0,IL,Illinois
+1302,111 Pioneer Trl,Chaska,Carver,44.83,-93.6,55318.0,MN,Minnesota
+1303,2555 W 79th St,Bloomington,Hennepin,44.86,-93.31,55431.0,MN,Minnesota
+1304,8225 Flying Cloud Dr,Eden Prairie,Hennepin,44.86,-93.43,55344.0,MN,Minnesota
+1305,7000 York Ave S,Edina,Hennepin,44.88,-93.32,55435.0,MN,Minnesota
+1306,6445 Richfield Pkwy,Richfield,Hennepin,44.89,-93.25,55423.0,MN,Minnesota
+1307,1750 Robert St S,West St Paul,Dakota,44.89,-93.08,55118.0,MN,Minnesota
+1308,851 W 78th St,Chanhassen,Carver,44.86,-93.54,55317.0,MN,Minnesota
+1309,875 E Main St,Waconia,Carver,44.84,-93.77,55387.0,MN,Minnesota
+1310,2080 Ford Pkwy,Saint Paul,Ramsey,44.92,-93.19,55116.0,MN,Minnesota
+1311,7200 Valley Creek Plz,Woodbury,Washington,44.93,-92.96,55125.0,MN,Minnesota
+1312,449 Commerce Dr,Woodbury,Washington,44.94,-92.91,55125.0,MN,Minnesota
+1313,4848 County Road 101,Minnetonka,Hennepin,44.92,-93.5,55345.0,MN,Minnesota
+1314,3601 Highway 100 S,St Louis Park,Hennepin,44.94,-93.35,55416.0,MN,Minnesota
+1315,1744 Suburban Ave,Saint Paul,Ramsey,44.95,-93.03,55106.0,MN,Minnesota
+1316,525 S Gear Ave,West Burlington,Des Moines,40.82,-91.17,52655.0,IA,Iowa
+1317,8900 Highway 7,Minneapolis,Hennepin,44.94,-93.39,55426.0,MN,Minnesota
+1318,2500 E Lake St,Minneapolis,Hennepin,44.95,-93.24,55406.0,MN,Minnesota
+1319,1300 University Ave W,Saint Paul,Ramsey,44.95,-93.16,55104.0,MN,Minnesota
+1320,1300 W Lake St,Minneapolis,Hennepin,44.95,-93.3,55408.0,MN,Minnesota
+1321,2401 Coulee Rd,Hudson,St. Croix,44.97,-92.72,54016.0,WI,Wisconsin
+1322,900 Nicollet Mall,Minneapolis,Hennepin,44.98,-93.27,55403.0,MN,Minnesota
+1323,1329 5th St SE,Minneapolis,Hennepin,44.98,-93.24,55414.0,MN,Minnesota
+1324,13201 Ridgedale Dr,Minnetonka,Hennepin,44.97,-93.45,55305.0,MN,Minnesota
+1325,7900 32nd St N,Oakdale,Washington,45.0,-92.95,55128.0,MN,Minnesota
+1326,1650 New Brighton Blvd,Minneapolis,Hennepin,45.0,-93.23,55413.0,MN,Minnesota
+1327,1515 County Road B W,Roseville,Ramsey,45.01,-93.16,55113.0,MN,Minnesota
+1328,2199 Hwy 36 E,North Saint Paul,Ramsey,45.01,-93.01,55109.0,MN,Minnesota
+1329,2021 Market Dr,Stillwater,Washington,45.04,-92.84,55082.0,MN,Minnesota
+1330,4175 Vinewood Ln N,Plymouth,Hennepin,45.03,-93.45,55442.0,MN,Minnesota
+1331,975 County Road E,Vadnais Heights,Ramsey,45.05,-93.06,55127.0,MN,Minnesota
+1332,3800 Lexington Ave N,Shoreview,Ramsey,45.06,-93.14,55126.0,MN,Minnesota
+1333,5537 W Broadway Ave,Crystal,Hennepin,45.05,-93.37,55428.0,MN,Minnesota
+1334,3649 S Hastings Way,Eau Claire,Eau Claire,44.78,-91.43,54701.0,WI,Wisconsin
+1335,755 53rd Ave NE,Fridley,Anoka,45.07,-93.25,55421.0,MN,Minnesota
+1336,300 Clydesdale Trl,Medina,Hennepin,45.05,-93.53,55340.0,MN,Minnesota
+1337,6100 Shingle Creek Pkwy,Brooklyn Center,Hennepin,45.07,-93.31,55430.0,MN,Minnesota
+1338,1370 Highway 15 S,Hutchinson,McLeod,44.87,-94.38,55350.0,MN,Minnesota
+1339,7535 W Broadway Ave,Brooklyn Park,Hennepin,45.09,-93.38,55428.0,MN,Minnesota
+1340,8600 Springbrook Dr NW,Coon Rapids,Anoka,45.13,-93.27,55433.0,MN,Minnesota
+1341,15300 Grove Circle N,Maple Grove,Hennepin,45.14,-93.47,55369.0,MN,Minnesota
+1342,1500 109th Ave NE,Blaine,Anoka,45.17,-93.23,55449.0,MN,Minnesota
+1343,749 Apollo Dr,Lino Lakes,Anoka,45.18,-93.1,55014.0,MN,Minnesota
+1344,11990 Business Park Blvd N,Champlin,Hennepin,45.17,-93.39,55316.0,MN,Minnesota
+1345,3300 124th Ave NW,Coon Rapids,Anoka,45.19,-93.35,55433.0,MN,Minnesota
+1346,2000 Bunker Lake Blvd NW,Andover,Anoka,45.22,-93.32,55304.0,MN,Minnesota
+1347,21615 S Diamond Lake Rd,Rogers,Hennepin,45.2,-93.55,55374.0,MN,Minnesota
+1348,1300 State Highway 55 NE,Buffalo,Wright,45.16,-93.86,55313.0,MN,Minnesota
+1349,1071 W Carl Sandburg Dr,Galesburg,Knox,40.98,-90.39,61401.0,IL,Illinois
+1350,201 Junction Rd,Madison,Dane,43.06,-89.53,53717.0,WI,Wisconsin
+1351,6321 McKee Rd,Fitchburg,Dane,43.01,-89.48,53719.0,WI,Wisconsin
+1352,356 12th St SW,Forest Lake,Washington,45.27,-93.0,55025.0,MN,Minnesota
+1353,750 Hilldale Way,Madison,Dane,43.07,-89.45,53705.0,WI,Wisconsin
+1354,15800 87th St NE,Otsego,Wright,45.28,-93.56,55330.0,MN,Minnesota
+1355,1447 E 7th St,Monticello,Wright,45.29,-93.77,55362.0,MN,Minnesota
+1356,4301 Lien Rd,Madison,Dane,43.12,-89.31,53704.0,WI,Wisconsin
+1357,660 S Grand Ave,Sun Prairie,Dane,43.17,-89.27,53590.0,WI,Wisconsin
+1358,1021 Highline Pl,Sioux Falls,Minnehaha,43.54,-96.65,57110.0,SD,South Dakota
+1359,2505 1st St S,Willmar,Kandiyohi,45.1,-95.04,56201.0,MN,Minnesota
+1360,3600 S Louise Ave,Sioux Falls,Minnehaha,43.51,-96.77,57106.0,SD,South Dakota
+1361,1708 N Central Ave,Marshfield,Wood,44.68,-90.16,54449.0,WI,Wisconsin
+1362,215 Balsam St N,Cambridge,Isanti,45.57,-93.2,55008.0,MN,Minnesota
+1363,9833 N Alpine Rd,Machesney Park,Winnebago,42.37,-89.03,61115.0,IL,Illinois
+1364,2017 Humes Rd,Janesville,Rock,42.72,-89.0,53545.0,WI,Wisconsin
+1365,6560 E State St,Rockford,Winnebago,42.27,-88.99,61108.0,IL,Illinois
+1366,125 Lincoln Ave SE,Saint Cloud,Benton,45.57,-94.15,56304.0,MN,Minnesota
+1367,4201 W Division St,Saint Cloud,Stearns,45.56,-94.21,56301.0,MN,Minnesota
+1368,5300 US Highway 10 E,Stevens Point,Portage,44.52,-89.52,54482.0,WI,Wisconsin
+1369,5001 N Big Hollow Rd,Peoria,Peoria,40.75,-89.64,61615.0,IL,Illinois
+1370,4370 Venture Dr,Peru,La Salle,41.36,-89.13,61354.0,IL,Illinois
+1371,480 W Washington St,East Peoria,Tazewell,40.67,-89.58,61611.0,IL,Illinois
+1372,2555 Sycamore Rd,Dekalb,Dekalb,41.96,-88.72,60115.0,IL,Illinois
+1373,2707 Schofield Ave,Schofield,Marathon,44.91,-89.59,54476.0,WI,Wisconsin
+1374,660 N Edwards Blvd,Lake Geneva,Walworth,42.6,-88.42,53147.0,WI,Wisconsin
+1375,2553 Sun Valley Dr,Delafield,Waukesha,43.05,-88.38,53018.0,WI,Wisconsin
+1376,750 S Randall Rd,Algonquin,McHenry,42.16,-88.34,60102.0,IL,Illinois
+1377,485 N Rolling Meadows Dr,Fond Du Lac,Fond Du Lac,43.79,-88.48,54937.0,WI,Wisconsin
+1378,1900 S Koeller St,Oshkosh,Winnebago,44.0,-88.58,54902.0,WI,Wisconsin
+1379,5580 Northwest Hwy,Crystal Lake,McHenry,42.23,-88.3,60014.0,IL,Illinois
+1380,1250 W Sunset Dr,Waukesha,Waukesha,42.99,-88.26,53189.0,WI,Wisconsin
+1381,300 S Randall Rd,Elgin,Kane,42.03,-88.34,60123.0,IL,Illinois
+1382,1652 N Beecher Rd,Yorkville,Kendall,41.66,-88.46,60560.0,IL,Illinois
+1383,530 Randall Rd,South Elgin,Kane,41.98,-88.34,60177.0,IL,Illinois
+1384,1800 Orchard Gateway Blvd,North Aurora,Kane,41.8,-88.36,60542.0,IL,Illinois
+1385,115 N Randall Rd,Batavia,Kane,41.85,-88.34,60510.0,IL,Illinois
+1386,2401 Kossow Rd,Waukesha,Waukesha,43.03,-88.18,53186.0,WI,Wisconsin
+1387,3885 E Main St,St Charles,Kane,41.92,-88.26,60174.0,IL,Illinois
+1388,2800 N Sutton Rd,HoffMan Estates,Cook,42.07,-88.19,60192.0,IL,Illinois
+1389,3020 Route 34,Oswego,Kendall,41.7,-88.32,60543.0,IL,Illinois
+1390,4798 S Moorland Rd,New Berlin,Waukesha,42.96,-88.11,53151.0,WI,Wisconsin
+1391,3445 Freedom Dr,Springfield,Sangamon,39.75,-89.71,62704.0,IL,Illinois
+1392,301 Veterans Pkwy,Normal,Mclean,40.51,-88.96,61761.0,IL,Illinois
+1393,355 W Mound Rd,Decatur,Macon,39.89,-88.96,62526.0,IL,Illinois
+1394,1111 Brook Forest Ave,Shorewood,Will,41.54,-88.2,60404.0,IL,Illinois
+1395,2102 N Prospect Ave,Champaign,Champaign,40.14,-88.26,61822.0,IL,Illinois
+1396,12800 S State Route 59,Plainfield,Will,41.65,-88.21,60585.0,IL,Illinois
+1397,2701 Plainfield Rd,Joliet,Will,41.58,-88.15,60435.0,IL,Illinois
+1398,1951 W Jefferson Ave,Naperville,Dupage,41.77,-88.2,60540.0,IL,Illinois
+1399,28201 Diehl Rd,Warrenville,Dupage,41.8,-88.17,60555.0,IL,Illinois
+1400,1188 W Boughton Rd,Bolingbrook,Will,41.7,-88.12,60440.0,IL,Illinois
+1401,601 S County Farm Rd,Wheaton,Dupage,41.86,-88.14,60187.0,IL,Illinois
+1402,1001 Sutton Rd,Streamwood,Cook,42.02,-88.2,60107.0,IL,Illinois
+1403,2621 W Schaumburg Rd,Schaumburg,Cook,42.02,-88.15,60194.0,IL,Illinois
+1404,13460 S Archer Ave,Lemont,Cook,41.64,-88.0,60439.0,IL,Illinois
+1405,2333 63rd St,Woodridge,Dupage,41.77,-88.04,60517.0,IL,Illinois
+1406,175 W Army Trail Rd,Glendale Heights,Dupage,41.94,-88.1,60139.0,IL,Illinois
+1407,2370 E Lincoln Hwy,New Lenox,Will,41.51,-87.92,60451.0,IL,Illinois
+1408,60 Yorktown Shopping Ctr,Lombard,Dupage,41.84,-88.0,60148.0,IL,Illinois
+1409,1615 N State Route 50,Bourbonnais,Kankakee,41.17,-87.85,60914.0,IL,Illinois
+1410,7601 Kingery Hwy,Willowbrook,Dupage,41.75,-87.94,60527.0,IL,Illinois
+1411,1235 E Higgins Rd,Schaumburg,Cook,42.04,-88.05,60173.0,IL,Illinois
+1412,50 E North Ave,Villa Park,Dupage,41.91,-87.98,60181.0,IL,Illinois
+1413,555 S Rand Rd,Lake Zurich,Lake,42.19,-88.1,60047.0,IL,Illinois
+1414,401 W Irving Park Rd,Wood Dale,Dupage,41.97,-87.99,60191.0,IL,Illinois
+1415,15850 S 94th Ave,Orland Park,Cook,41.6,-87.85,60462.0,IL,Illinois
+1416,679 E Dundee Rd,Palatine,Cook,42.14,-88.03,60074.0,IL,Illinois
+1417,7300 191st St,Tinley Park,Will,41.55,-87.8,60487.0,IL,Illinois
+1418,9250 Joliet Rd,Hodgkins,Cook,41.78,-87.86,60525.0,IL,Illinois
+1419,130 S Mannheim Rd,Hillside,Cook,41.87,-87.89,60162.0,IL,Illinois
+1420,1700 E Rand Rd,Arlington Heights,Cook,42.1,-87.96,60004.0,IL,Illinois
+1421,800 Broadview Village Sq,Broadview,Cook,41.85,-87.85,60155.0,IL,Illinois
+1422,3100 W IL Route 60,Mundelein,Lake,42.28,-88.04,60060.0,IL,Illinois
+1423,7000 Mannheim Rd,Rosemont,Cook,42.01,-87.89,60018.0,IL,Illinois
+1424,850 W North Ave,Melrose Park,Cook,41.91,-87.84,60160.0,IL,Illinois
+1425,1400 W Lake Cook Rd,Wheeling,Lake,42.15,-87.95,60090.0,IL,Illinois
+1426,5071 Cal Sag Rd,Crestwood,Cook,41.66,-87.75,60445.0,IL,Illinois
+1427,1129 Lake Street,Oak Park,Cook,41.89,-87.8,60301.0,IL,Illinois
+1428,313 E Townline Rd,Vernon Hills,Lake,42.24,-87.96,60061.0,IL,Illinois
+1429,7100 S Cicero Ave,Chicago,Cook,41.76,-87.74,60629.0,IL,Illinois
+1430,4050 N Harlem Ave,Norridge,Cook,41.95,-87.81,60706.0,IL,Illinois
+1431,4120 W 95th St,Oak Lawn,Cook,41.72,-87.72,60453.0,IL,Illinois
+1432,6525 W Diversey Ave,Chicago,Cook,41.93,-87.79,60707.0,IL,Illinois
+1433,239 Golf Mill Ctr,Niles,Cook,42.05,-87.84,60714.0,IL,Illinois
+1434,2901 S Cicero Ave,Cicero,Cook,41.84,-87.74,60804.0,IL,Illinois
+1435,4433 S Pulaski Rd,Chicago,Cook,41.81,-87.72,60632.0,IL,Illinois
+1436,6150 W Touhy Ave,Niles,Cook,42.01,-87.78,60714.0,IL,Illinois
+1437,6601 Grand Ave,Gurnee,Lake,42.38,-87.97,60031.0,IL,Illinois
+1438,11840 S Marshfield Ave,Chicago,Cook,41.68,-87.66,60643.0,IL,Illinois
+1439,17605 S Halsted St,Homewood,Cook,41.57,-87.63,60430.0,IL,Illinois
+1440,2241 Willow Rd,Glenview,Cook,42.1,-87.81,60025.0,IL,Illinois
+1441,975 Rockland Rd,Lake Bluff,Lake,42.28,-87.87,60044.0,IL,Illinois
+1442,2099 Skokie Valley Rd,Highland Park,Lake,42.19,-87.82,60035.0,IL,Illinois
+1443,1940 W 33rd St,Chicago,Cook,41.84,-87.67,60608.0,IL,Illinois
+1444,4955 Dempster St,Skokie,Cook,42.04,-87.75,60077.0,IL,Illinois
+1445,2939 W Addison St,Chicago,Cook,41.95,-87.7,60618.0,IL,Illinois
+1446,2656 N Elston Ave,Chicago,Cook,41.93,-87.69,60647.0,IL,Illinois
+1447,1101 W Jackson Blvd,Chicago,Cook,41.88,-87.65,60607.0,IL,Illinois
+1448,2209 Howard St,Evanston,Cook,42.02,-87.71,60202.0,IL,Illinois
+1449,8560 S Cottage Grove Ave,Chicago,Cook,41.74,-87.61,60619.0,IL,Illinois
+1450,3300 N. Ashland Ave,Chicago,Cook,41.94,-87.67,60657.0,IL,Illinois
+1451,2112 W Peterson Ave,Chicago,Cook,41.99,-87.68,60659.0,IL,Illinois
+1452,1200 N Larrabee St,Chicago,Cook,41.9,-87.64,60610.0,IL,Illinois
+1453,1154 S Clark St,Chicago,Cook,41.87,-87.63,60605.0,IL,Illinois
+1454,3204 N Clark St,Chicago,Cook,41.94,-87.65,60657.0,IL,Illinois
+1455,1 S State St,Chicago,Cook,41.88,-87.63,60603.0,IL,Illinois
+1456,2650 N. Clark St,Chicago,Cook,41.93,-87.64,60614.0,IL,Illinois
+1457,4466 N Broadway St,Chicago,Cook,41.96,-87.66,60640.0,IL,Illinois
+1458,1346 E 53rd St,Chicago,Cook,41.8,-87.59,60615.0,IL,Illinois
+1459,1616 Sherman Ave,Evanston,Cook,42.05,-87.68,60201.0,IL,Illinois
+1460,401 E Illinois St,Chicago,Cook,41.89,-87.62,60611.0,IL,Illinois
+1461,3050 N Lewis Ave,Waukegan,Lake,42.41,-87.86,60087.0,IL,Illinois
+1462,8005 Calumet Ave,Munster,Lake,41.57,-87.51,46321.0,IN,Indiana
+1463,9777 76th St,Pleasant Prairie,Kenosha,42.56,-87.93,53158.0,WI,Wisconsin
+1464,9885 Wicker Ave,Saint John,Lake,41.44,-87.47,46373.0,IN,Indiana
+1465,10451 Indianapolis Blvd,Highland,Lake,41.52,-87.47,46322.0,IN,Indiana
+1466,2000 9th Ave SE,Watertown,Codington,44.89,-97.08,57201.0,SD,South Dakota
+1467,4404 Highway 29 S,Alexandria,Douglas,45.85,-95.39,56308.0,MN,Minnesota
+1468,7800 S Lovers Lane Rd,Franklin,Milwaukee,42.9,-88.04,53132.0,WI,Wisconsin
+1469,12725 W Bluemound Rd,Brookfield,Waukesha,43.03,-88.07,53005.0,WI,Wisconsin
+1470,2600 S 108th St,West Allis,Milwaukee,43.0,-88.04,53227.0,WI,Wisconsin
+1471,N95 W 17707 Shady Ln,Menomonee Falls,Waukesha,43.19,-88.13,53051.0,WI,Wisconsin
+1472,3900 N 124th St,Wauwatosa,Milwaukee,43.09,-88.06,53222.0,WI,Wisconsin
+1473,4777 S 27th St,Greenfield,Milwaukee,42.96,-87.95,53221.0,WI,Wisconsin
+1474,1501 Miller Park Way,West Milwaukee,Milwaukee,43.01,-87.97,53214.0,WI,Wisconsin
+1475,8989 S Howell Ave,Oak Creek,Milwaukee,42.88,-87.92,53154.0,WI,Wisconsin
+1476,5300 Durand Ave,Racine,Racine,42.7,-87.84,53406.0,WI,Wisconsin
+1477,2950 S Chase Ave,Milwaukee,Milwaukee,42.99,-87.91,53207.0,WI,Wisconsin
+1478,1250 N Port Washington Rd,Grafton,Ozaukee,43.32,-87.92,53024.0,WI,Wisconsin
+1479,4301 W Wisconsin Ave,Appleton,Outagamie,44.27,-88.47,54913.0,WI,Wisconsin
+1480,1800 S Kensington Dr,Appleton,Outagamie,44.25,-88.36,54915.0,WI,Wisconsin
+1481,4085 State Highway 28,Sheboygan Falls,Sheboygan,43.72,-87.77,53085.0,WI,Wisconsin
+1482,2661 E US Highway 30,Merrillville,Lake,41.47,-87.3,46410.0,IN,Indiana
+1483,1001 Cormier Rd,Green Bay,Brown,44.49,-88.07,54304.0,WI,Wisconsin
+1484,2420 Laporte Ave,Valparaiso,Porter,41.47,-87.03,46383.0,IN,Indiana
+1485,2050 Lime Kiln Rd,Green Bay,Brown,44.47,-87.99,54311.0,WI,Wisconsin
+1486,14546 Dellwood Dr N,Baxter,Crow Wing,46.36,-94.24,56425.0,MN,Minnesota
+1487,3316 7th Ave SE,Aberdeen,Brown,45.46,-98.44,57401.0,SD,South Dakota
+1488,3630 South Street,Lafayette,Tippecanoe,40.42,-86.85,47905.0,IN,Indiana
+1489,1400 E Ireland Rd,South Bend,St. Joseph,41.63,-86.23,46614.0,IN,Indiana
+1490,5057 Harvey St,Muskegon,Muskegon,43.16,-86.21,49444.0,MI,Michigan
+1491,155 University Dr E,Granger,St. Joseph,41.72,-86.18,46530.0,IN,Indiana
+1492,3456 W Shore Dr,Holland,Ottawa,42.83,-86.09,49424.0,MI,Michigan
+1493,410 S Ashland Ave,Sturgeon Bay,Door,44.82,-87.4,54235.0,WI,Wisconsin
+1494,1902 Miller Trunk Hwy,Duluth,St. Louis,46.81,-92.17,55811.0,MN,Minnesota
+1495,4202 13th Ave SW,Fargo,Cass,46.86,-96.85,58103.0,ND,North Dakota
+1496,3301 Highway 10 E,Moorhead,Clay,46.88,-96.73,56560.0,MN,Minnesota
+1497,1611 Blue Lakes Blvd N,Twin Falls,Twin Falls,42.59,-114.46,83301.0,ID,Idaho
+1498,2171 S 25th E,Idaho Falls,Bonneville,43.48,-111.98,83406.0,ID,Idaho
+1499,633 N Milwaukee St,Boise,Ada,43.61,-116.29,83704.0,ID,Idaho
+1500,6280 N Eagle Rd,Boise,Ada,43.66,-116.35,83713.0,ID,Idaho
+1501,16300 N Market Place Blvd,Nampa,Canyon,43.61,-116.59,83687.0,ID,Idaho
+1502,2550 Catron St,Bozeman,Gallatin,45.71,-111.07,59718.0,MT,Montana
+1503,3303 N Montana Ave,Helena,Lewis and Clark,46.62,-112.02,59602.0,MT,Montana
+1504,2601 Central Ave,Billings,Yellowstone,45.77,-108.58,59102.0,MT,Montana
+1505,403 Main St,Billings,Yellowstone,45.81,-108.47,59105.0,MT,Montana
+1506,315 W Canfield Ave,Coeur d'Alene,Kootenai,47.73,-116.79,83815.0,ID,Idaho
+1507,13724 E Sprague Ave,Spokane,Spokane,47.66,-117.22,99216.0,WA,Washington
+1508,4915 S Regal St,Spokane,Spokane,47.61,-117.37,99223.0,WA,Washington
+1509,9770 N Newport Hwy,Spokane,Spokane,47.75,-117.4,99218.0,WA,Washington
+1510,2420 N Reserve St,Missoula,Missoula,46.89,-114.04,59808.0,MT,Montana
+1511,2365 US Highway 93 N,Kalispell,Flathead,48.24,-114.33,59901.0,MT,Montana
+1512,1106 N Columbia Center Blvd,Kennewick,Benton,46.22,-119.22,99336.0,WA,Washington
+1513,2941 Queensgate Dr,Richland,Benton,46.26,-119.31,99352.0,WA,Washington
+1514,1102 Springwater St,Wenatchee,Chelan,47.44,-120.33,98801.0,WA,Washington
+1515,12 N Fair Ave,Yakima,Yakima,46.61,-120.49,98901.0,WA,Washington
+1516,2000 10th Ave S,Great Falls,Cascade,47.49,-111.27,59405.0,MT,Montana
+1517,755 NW Gilman Blvd,Issaquah,King,47.54,-122.05,98027.0,WA,Washington
+1518,17700 NE 76th St,Redmond,King,47.67,-122.1,98052.0,WA,Washington
+1519,9601 Market Pl,Lake Stevens,Snohomish,48.0,-122.1,98258.0,WA,Washington
+1520,3938 Midway Rd,Goshen,Elkhart,41.62,-85.91,46526.0,IN,Indiana
+1521,1037 S Reed Rd,Kokomo,Howard,40.47,-86.11,46902.0,IN,Indiana
+1522,5350 W Main St,Kalamazoo,Kalamazoo,42.3,-85.65,49009.0,MI,Michigan
+1523,6839 S Westnedge Ave,Portage,Kalamazoo,42.22,-85.59,49002.0,MI,Michigan
+1524,3130 44th St SW,Grandville,Kent,42.88,-85.74,49418.0,MI,Michigan
+1525,5455 Clyde Park Ave SW,Wyoming,Kent,42.87,-85.69,49509.0,MI,Michigan
+1526,10401 N Michigan Rd,Carmel,Hamilton,39.94,-86.23,46032.0,IN,Indiana
+1527,10209 E US Highway 36,Avon,Hendricks,39.76,-86.34,46123.0,IN,Indiana
+1528,1600 E 151st Street,Carmel,Hamilton,40.01,-86.13,46032.0,IN,Indiana
+1529,1925 Marketplace Dr SE,Caledonia,Kent,42.85,-85.62,49316.0,MI,Michigan
+1530,3248 Alpine Ave NW,Walker,Kent,43.02,-85.69,49544.0,MI,Michigan
+1531,6925 W 38th St,Indianapolis,Marion,39.82,-86.28,46254.0,IN,Indiana
+1532,2673 E Main St,Plainfield,Hendricks,39.72,-86.36,46168.0,IN,Indiana
+1533,5120 28th St SE,Grand Rapids,Kent,42.91,-85.54,49512.0,MI,Michigan
+1534,5700 Beckley Rd,Battle Creek,Calhoun,42.26,-85.19,49015.0,MI,Michigan
+1535,1102 S Thomas Rd,Fort Wayne,Allen,41.08,-85.2,46804.0,IN,Indiana
+1536,3801 Coldwater Rd,Fort Wayne,Allen,41.11,-85.14,46805.0,IN,Indiana
+1537,6119 Stellhorn Rd,Fort Wayne,Allen,41.12,-85.06,46815.0,IN,Indiana
+1538,5609 W Saginaw Hwy,Lansing,Eaton,42.74,-84.63,48917.0,MI,Michigan
+1539,1300 E 86th St Ste 35,Indianapolis,Marion,39.91,-86.14,46240.0,IN,Indiana
+1540,11750 Commercial Dr,Fishers,Hamilton,39.96,-86.01,46038.0,IN,Indiana
+1541,500 E Edgewood Blvd,Lansing,Ingham,42.66,-84.54,48911.0,MI,Michigan
+1542,6101 N Keystone Ave,Indianapolis,Marion,39.87,-86.12,46220.0,IN,Indiana
+1543,1076 Jackson Xing,Jackson,Jackson,42.27,-84.43,49202.0,MI,Michigan
+1544,4890 Marsh Rd,Okemos,Ingham,42.72,-84.41,48864.0,MI,Michigan
+1545,3601 N Barr St,Muncie,Delaware,40.22,-85.38,47303.0,IN,Indiana
+1546,4097 E Blue Grass Rd,Mount Pleasant,Isabella,43.58,-84.77,48858.0,MI,Michigan
+1547,10202 E Washington St,Indianapolis,Marion,39.78,-85.99,46229.0,IN,Indiana
+1548,4850 E Southport Rd,Indianapolis,Marion,39.67,-86.09,46237.0,IN,Indiana
+1549,895 S State Rd 135,Greenwood,Johnson,39.6,-86.16,46143.0,IN,Indiana
+1550,3130 S Airport Rd W,Traverse City,Grand Traverse,44.73,-85.64,49684.0,MI,Michigan
+1551,2966 E 3rd St,Bloomington,Monroe,39.16,-86.49,47401.0,IN,Indiana
+1552,6820 Eastman Ave,Midland,Midland,43.66,-84.24,48642.0,MI,Michigan
+1553,8043 Challis Rd,Brighton,Livingston,42.54,-83.79,48116.0,MI,Michigan
+1554,2000 Waters Rd,Ann Arbor,Washtenaw,42.24,-83.77,48103.0,MI,Michigan
+1555,10025 E Highland Rd,Howell,Livingston,42.64,-83.76,48843.0,MI,Michigan
+1556,3255 Owen Rd,Fenton,Genesee,42.79,-83.74,48430.0,MI,Michigan
+1557,3749 Carpenter Rd,Ypsilanti,Washtenaw,42.24,-83.68,48197.0,MI,Michigan
+1558,2772 Tittabawassee Rd,Saginaw,Saginaw,43.48,-83.97,48604.0,MI,Michigan
+1559,G3515 Miller Rd,Flint,Genesee,42.98,-83.75,48507.0,MI,Michigan
+1560,1465 E Mall Dr,Holland,Lucas,41.62,-83.7,43528.0,OH,Ohio
+1561,1865 N National Rd,Columbus,Bartholomew,39.22,-85.89,47201.0,IN,Indiana
+1562,5225 Monroe St,Toledo,Lucas,41.7,-83.65,43623.0,OH,Ohio
+1563,27100 Wixom Rd,Novi,Oakland,42.49,-83.53,48374.0,MI,Michigan
+1564,817 W Alexis Rd,Toledo,Lucas,41.72,-83.56,43612.0,OH,Ohio
+1565,47330 Michigan Ave,Canton,Wayne,42.27,-83.5,48188.0,MI,Michigan
+1566,9666 Olde US 20,Rossford,Wood,41.54,-83.58,43460.0,OH,Ohio
+1567,43670 Ford Rd,Canton,Wayne,42.32,-83.47,48187.0,MI,Michigan
+1568,495 Haggerty Hwy,Walled Lake,Oakland,42.53,-83.44,48390.0,MI,Michigan
+1569,20100 Haggerty Rd,Livonia,Wayne,42.43,-83.43,48152.0,MI,Michigan
+1570,1100 Hansel Dr,Florence,Boone,39.02,-84.63,41042.0,KY,Kentucky
+1571,6150 Glenway Ave,Cincinnati,Hamilton,39.14,-84.62,45211.0,OH,Ohio
+1572,9040 Colerain Ave,Cincinnati,Hamilton,39.24,-84.59,45251.0,OH,Ohio
+1573,235 Calhoun St,Cincinnati,Hamilton,39.13,-84.52,45219.0,OH,Ohio
+1574,160 Pavilion Pkwy,Newport,Campbell,39.09,-84.48,41071.0,KY,Kentucky
+1575,4825A Marburg Ave,Cincinnati,Hamilton,39.16,-84.43,45209.0,OH,Ohio
+1576,3369 Princeton Rd,Hamilton,Butler,39.39,-84.5,45011.0,OH,Ohio
+1577,900 E Kemper Rd,Springdale,Hamilton,39.29,-84.45,45246.0,OH,Ohio
+1578,9099 Plainfield Rd,Blue Ash,Hamilton,39.22,-84.4,45236.0,OH,Ohio
+1579,8680 Beechmont Ave,Cincinnati,Hamilton,39.07,-84.31,45255.0,OH,Ohio
+1580,7644 Voice of America Center Dr,West Chester,Butler,39.36,-84.36,45069.0,OH,Ohio
+1581,100 Rivers Edge,Milford,Clermont,39.16,-84.27,45150.0,OH,Ohio
+1582,9841 Waterstone Blvd,Cincinnati,Warren,39.3,-84.3,45249.0,OH,Ohio
+1583,400 Corwin Nixon Blvd,South Lebanon,Warren,39.38,-84.22,45065.0,OH,Ohio
+1584,2300 Miamisburg Centerville Rd,Dayton,Montgomery,39.63,-84.21,45459.0,OH,Ohio
+1585,4341 Feedwire Rd,Dayton,Greene,39.66,-84.1,45440.0,OH,Ohio
+1586,5700 Executive Blvd,Huber Heights,Montgomery,39.87,-84.13,45424.0,OH,Ohio
+1587,2490 N Fairfield Rd,Beavercreek,Greene,39.76,-84.05,45431.0,OH,Ohio
+1588,35401 Warren Rd,Westland,Wayne,42.34,-83.39,48185.0,MI,Michigan
+1589,30020 Grand River Ave,Farmington Hills,Oakland,42.45,-83.34,48336.0,MI,Michigan
+1590,29451 Plymouth Rd,Livonia,Wayne,42.37,-83.33,48150.0,MI,Michigan
+1591,26650 Ford Rd,Dearborn Heights,Wayne,42.33,-83.3,48127.0,MI,Michigan
+1592,2400 S Telegraph Rd,Bloomfield Hills,Oakland,42.6,-83.29,48302.0,MI,Michigan
+1593,14099 Pardee Rd,Taylor,Wayne,42.2,-83.26,48180.0,MI,Michigan
+1594,23555 Allen Rd,Woodhaven,Wayne,42.14,-83.22,48183.0,MI,Michigan
+1595,3100 Fairlane Dr,Allen Park,Wayne,42.29,-83.21,48101.0,MI,Michigan
+1596,15901 Ford Rd,Dearborn,Wayne,42.33,-83.2,48126.0,MI,Michigan
+1597,650 Brown Rd,Auburn Hills,Oakland,42.71,-83.29,48326.0,MI,Michigan
+1598,30333 Southfield Rd,Southfield,Oakland,42.51,-83.23,48076.0,MI,Michigan
+1599,1301 Coolidge Hwy,Troy,Oakland,42.54,-83.19,48084.0,MI,Michigan
+1600,32001 John R Rd,Madison Heights,Oakland,42.53,-83.11,48071.0,MI,Michigan
+1601,28800 Dequindre Rd,Warren,Macomb,42.5,-83.08,48092.0,MI,Michigan
+1602,2887 S Rochester Rd,Rochester Hills,Oakland,42.64,-83.13,48307.0,MI,Michigan
+1603,2310 Metropolitan Pkwy,Sterling Heights,Macomb,42.56,-83.09,48310.0,MI,Michigan
+1604,35700 Van Dyke Ave,Sterling Heights,Macomb,42.56,-83.03,48312.0,MI,Michigan
+1605,13221 Hall Rd,Shelby Township,Macomb,42.63,-83.0,48315.0,MI,Michigan
+1606,8200 26 Mile Rd,Shelby Township,Macomb,42.71,-83.03,48316.0,MI,Michigan
+1607,33860 S Gratiot Ave,Clinton Township,Macomb,42.55,-82.9,48035.0,MI,Michigan
+1608,20877 Hall Rd,Macomb,Macomb,42.63,-82.91,48044.0,MI,Michigan
+1609,4020 Milan Rd,Sandusky,Erie,41.42,-82.67,44870.0,OH,Ohio
+1610,10560 Sawmill Pky,Powell,Delaware,40.14,-83.09,43065.0,OH,Ohio
+1611,6000 Sawmill Rd,Dublin,Franklin,40.09,-83.09,43017.0,OH,Ohio
+1612,4211 Trueman Blvd,Hilliard,Franklin,40.04,-83.12,43026.0,OH,Ohio
+1613,51400 Gratiot Ave,Chesterfield,Macomb,42.68,-82.83,48051.0,MI,Michigan
+1614,1970 Hilliard Rome Rd,Hilliard,Franklin,39.99,-83.15,43026.0,OH,Ohio
+1615,1485 Polaris Pkwy,Columbus,Delaware,40.14,-82.98,43240.0,OH,Ohio
+1616,55 Graceland Blvd,Columbus,Franklin,40.07,-83.02,43214.0,OH,Ohio
+1617,1717 Olentangy River Rd,Columbus,Franklin,39.99,-83.03,43212.0,OH,Ohio
+1618,2205 Walker Lake Rd,Mansfield,Richland,40.79,-82.59,44903.0,OH,Ohio
+1619,4199 Morse Xing,Columbus,Franklin,40.06,-82.92,43219.0,OH,Ohio
+1620,4144 Buckeye Pkwy,Grove City,Franklin,39.88,-83.04,43123.0,OH,Ohio
+1621,3955 E Broad St,Whitehall,Franklin,39.97,-82.9,43213.0,OH,Ohio
+1622,8000 Oak Point Rd,Amherst,Lorain,41.41,-82.24,44001.0,OH,Ohio
+1623,8100 E Broad St,Reynoldsburg,Franklin,39.99,-82.79,43068.0,OH,Ohio
+1624,2437 Taylor Park Dr,Reynoldsburg,Fairfield,39.93,-82.79,43068.0,OH,Ohio
+1625,240 Market Dr,Elyria,Lorain,41.39,-82.11,44035.0,OH,Ohio
+1626,35830 Detroit Rd,Avon,Lorain,41.46,-82.01,44011.0,OH,Ohio
+1627,270 Airport Pkwy,Heath,Licking,40.03,-82.45,43056.0,OH,Ohio
+1628,24646 Brookpark Rd,North Olmsted,Cuyahoga,41.42,-81.9,44070.0,OH,Ohio
+1629,20900 Westgate Mall,Fairview Park,Cuyahoga,41.46,-81.85,44126.0,OH,Ohio
+1630,1015 N Court St,Medina,Medina,41.16,-81.86,44256.0,OH,Ohio
+1631,18200 Royalton Rd,Strongsville,Cuyahoga,41.32,-81.83,44136.0,OH,Ohio
+1632,1300 River Valley Blvd,Lancaster,Fairfield,39.73,-82.62,43130.0,OH,Ohio
+1633,3100 W 117th St,Cleveland,Cuyahoga,41.47,-81.77,44111.0,OH,Ohio
+1634,4300 24th Ave,Fort Gratiot,St. Clair,43.03,-82.45,48059.0,MI,Michigan
+1635,6850 Ridge Rd,Parma,Cuyahoga,41.38,-81.74,44129.0,OH,Ohio
+1636,3535 Steelyard Dr,Cleveland,Cuyahoga,41.46,-81.69,44109.0,OH,Ohio
+1637,1183 Williams Reserve Blvd,Wadsworth,Medina,41.04,-81.69,44281.0,OH,Ohio
+1638,2801 W Market St,Fairlawn,Summit,41.13,-81.6,44333.0,OH,Ohio
+1639,14070 Cedar Rd,University Heights,Cuyahoga,41.5,-81.53,44118.0,OH,Ohio
+1640,8282 Golden Link Blvd,Northfield,Summit,41.31,-81.53,44067.0,OH,Ohio
+1641,449 Howe Ave,Cuyahoga Falls,Summit,41.12,-81.48,44221.0,OH,Ohio
+1642,762 Arlington Rdg,Akron,Summit,40.98,-81.5,44312.0,OH,Ohio
+1643,1285 Som Center Rd,Mayfield Heights,Cuyahoga,41.53,-81.44,44124.0,OH,Ohio
+1644,36195 Euclid Ave,Willoughby,Lake,41.63,-81.43,44094.0,OH,Ohio
+1645,1980 Lincoln Way E,Massillon,Stark,40.8,-81.5,44646.0,OH,Ohio
+1646,4200 Kent Rd,Stow,Summit,41.16,-81.41,44224.0,OH,Ohio
+1647,18855 N Market Place Dr,Aurora,Geauga,41.36,-81.39,44202.0,OH,Ohio
+1648,5584 Dressler Rd NW,North Canton,Stark,40.86,-81.43,44720.0,OH,Ohio
+1649,1144 State Route 303,Streetsboro,Portage,41.24,-81.35,44241.0,OH,Ohio
+1650,9669 Mentor Ave,Mentor,Lake,41.69,-81.29,44060.0,OH,Ohio
+1651,2070 Thundering Herd Rd,Barboursville,Cabell,38.42,-82.29,25504.0,WV,West Virginia
+1652,30 Rhl Blvd,South Charleston,Kanawha,38.34,-81.71,25309.0,WV,West Virginia
+1653,300 Cabela Dr,Triadelphia,Ohio,40.06,-80.6,26059.0,WV,West Virginia
+1654,2800 Meadowbrook Mall,Bridgeport,Harrison,39.31,-80.27,26330.0,WV,West Virginia
+1655,5555 Youngstown Warren Rd,Niles,Trumbull,41.22,-80.75,44446.0,OH,Ohio
+1656,417 Boardman Poland Rd,Boardman,Mahoning,41.02,-80.65,44512.0,OH,Ohio
+1657,4737 Valley View Blvd NW,Roanoke,Roanoke City,37.3,-79.96,24012.0,VA,Virginia
+1658,155 Holt Garrison Pkwy,Danville,Danville City,36.6,-79.42,24540.0,VA,Virginia
+1659,4037 Durham Chapel Hill Blvd,Durham,Durham,35.97,-78.96,27707.0,NC,North Carolina
+1660,8210 Renaissance Pkwy,Durham,Durham,35.9,-78.96,27713.0,NC,North Carolina
+1661,5001 University Towne Center Dr,Morgantown,Monongalia,39.65,-80.0,26501.0,WV,West Virginia
+1662,335 Washington Rd,Washington,Washington,40.19,-80.23,15301.0,PA,Pennsylvania
+1663,120 Matthew Dr,Uniontown,Fayette,39.91,-79.76,15401.0,PA,Pennsylvania
+1664,600 Chauvet Dr,Pittsburgh,Allegheny,40.45,-80.18,15275.0,PA,Pennsylvania
+1665,201 S Hills Vlg,Pittsburgh,Allegheny,40.34,-80.06,15241.0,PA,Pennsylvania
+1666,1717 Lebanon Church Rd,West Mifflin,Allegheny,40.35,-79.95,15236.0,PA,Pennsylvania
+1667,87 Wagner Rd,Monaca,Beaver,40.68,-80.31,15061.0,PA,Pennsylvania
+1668,288 Mt Nebo Pointe Dr,Pittsburgh,Allegheny,40.54,-80.07,15237.0,PA,Pennsylvania
+1669,360 Waterfront Dr E,Homestead,Allegheny,40.41,-79.91,15120.0,PA,Pennsylvania
+1670,4801 McKnight Rd Ste 3,Pittsburgh,Allegheny,40.53,-80.01,15237.0,PA,Pennsylvania
+1671,6231 PENN AVE,PITTSBURGH,Allegheny,40.46,-79.92,15206.0,PA,Pennsylvania
+1672,9805 McKnight Rd,Pittsburgh,Allegheny,40.59,-80.04,15237.0,PA,Pennsylvania
+1673,8931 Route 30,North Huntingdon,Westmoreland,40.32,-79.69,15642.0,PA,Pennsylvania
+1674,1717 Route 228,Cranberry Twp,Butler,40.69,-80.08,16066.0,PA,Pennsylvania
+1675,4004 Monroeville Blvd,Monroeville,Allegheny,40.43,-79.77,15146.0,PA,Pennsylvania
+1676,6206 State Rte 30,Greensburg,Westmoreland,40.3,-79.6,15601.0,PA,Pennsylvania
+1677,2661 Freeport Rd,Pittsburgh,Allegheny,40.54,-79.84,15238.0,PA,Pennsylvania
+1678,550 Grandview Crossing Dr,Gibsonia,Allegheny,40.64,-79.94,15044.0,PA,Pennsylvania
+1679,200 Butler Commons,Butler,Butler,40.87,-79.94,16001.0,PA,Pennsylvania
+1680,7129 O'Kelly Chapel Road,Cary,Wake,35.84,-78.89,27519.0,NC,North Carolina
+1681,1201 Beaver Creek Commons Dr,Apex,Wake,35.74,-78.88,27502.0,NC,North Carolina
+1682,8651 Brier Creek Pkwy,Raleigh,Wake,35.9,-78.79,27617.0,NC,North Carolina
+1683,3001 Market Center Dr,Morrisville,Wake,35.81,-78.82,27560.0,NC,North Carolina
+1684,4841 Grove Barton Rd,Raleigh,Wake,35.87,-78.72,27613.0,NC,North Carolina
+1685,2021 Walnut St,Cary,Wake,35.76,-78.74,27518.0,NC,North Carolina
+1686,2512 Hillsborough St,Raleigh,Wake,35.79,-78.67,27607.0,NC,North Carolina
+1687,4191 The Circle at North Hills St,Raleigh,Wake,35.84,-78.64,27609.0,NC,North Carolina
+1688,4510 Garth Rd,Baytown,Harris,29.77,-94.98,77521.0,TX,Texas
+1689,6128 Broadway St,Galveston,Galveston,29.29,-94.84,77551.0,TX,Texas
+1690,255 Marina Bay Dr,Clear Lake Shores,Galveston,29.54,-95.02,77565.0,TX,Texas
+1691,1801 Gulf Fwy,Dickinson,Galveston,29.47,-95.09,77539.0,TX,Texas
+1692,5757 Fairmont Pkwy,Pasadena,Harris,29.65,-95.15,77505.0,TX,Texas
+1693,1801 W Bay Area Blvd,Webster,Harris,29.54,-95.15,77598.0,TX,Texas
+1694,8503 S Sam Houston Pkwy E,Houston,Harris,29.6,-95.26,77075.0,TX,Texas
+1695,6801 FM 1960 Rd W,Houston,Harris,29.97,-95.53,77069.0,TX,Texas
+1696,21515 Tomball Pkwy,Houston,Harris,30.0,-95.58,77070.0,TX,Texas
+1697,2580 Shearn St,Houston,Harris,29.77,-95.38,77007.0,TX,Texas
+1698,13250 Northwest Fwy,Houston,Harris,29.85,-95.5,77040.0,TX,Texas
+1699,12701 FM 1960 Rd W,Houston,Harris,29.92,-95.6,77065.0,TX,Texas
+1700,4323 San Felipe St,Houston,Harris,29.75,-95.45,77027.0,TX,Texas
+1701,8500 Main St,Houston,Harris,29.69,-95.42,77025.0,TX,Texas
+1702,25901 Highway 290,Cypress,Harris,29.97,-95.7,77429.0,TX,Texas
+1703,984 Gessner Rd,Houston,Harris,29.78,-95.54,77024.0,TX,Texas
+1704,6955 Highway 6 N,Houston,Harris,29.88,-95.65,77084.0,TX,Texas
+1705,300 Meyerland Plaza Mall,Houston,Harris,29.69,-95.46,77096.0,TX,Texas
+1706,8605 Westheimer Rd,Houston,Harris,29.74,-95.52,77063.0,TX,Texas
+1707,10801 Westheimer Rd,Houston,Harris,29.74,-95.57,77042.0,TX,Texas
+1708,3045 Silverlake Village St,Pearland,Brazoria,29.55,-95.38,77584.0,TX,Texas
+1709,2700 Eldridge Pkwy,Houston,Harris,29.73,-95.63,77082.0,TX,Texas
+1710,19955 Katy Fwy,Houston,Harris,29.78,-95.72,77094.0,TX,Texas
+1711,6000 Highway 6,Missouri City,Fort Bend,29.57,-95.57,77459.0,TX,Texas
+1712,16300 Southwest Fwy,Sugar Land,Fort Bend,29.6,-95.63,77479.0,TX,Texas
+1713,23710 Westheimer Pkwy,Katy,Fort Bend,29.74,-95.78,77494.0,TX,Texas
+1714,10241 W Grand Pkwy S,Richmond,Fort Bend,29.66,-95.71,77407.0,TX,Texas
+1715,23912 Commercial Dr,Rosenberg,Fort Bend,29.55,-95.75,77471.0,TX,Texas
+1716,202 Highway 332 W,Lake Jackson,Brazoria,29.05,-95.46,77566.0,TX,Texas
+1717,3550 S General Bruce Dr,Temple,Bell,31.09,-97.39,76504.0,TX,Texas
+1718,201 E Central Texas Expy,Harker Heights,Bell,31.07,-97.66,76548.0,TX,Texas
+1719,18700 Limestone Commercial Dr,Pflugerville,Travis,30.47,-97.6,78660.0,TX,Texas
+1720,1021 W University Ste B3,Georgetown,Williamson,30.63,-97.7,78628.0,TX,Texas
+1721,121 Louis Henna Blvd,Round Rock,Travis,30.48,-97.67,78664.0,TX,Texas
+1722,7608 NE Zac Lentz Pkwy,Victoria,Victoria,28.87,-97.0,77904.0,TX,Texas
+1723,5621 N I H 35,Austin,Travis,30.32,-97.71,78723.0,TX,Texas
+1724,8601 Research Blvd,Austin,Travis,30.36,-97.72,78758.0,TX,Texas
+1725,60 Longview Dr,Bangor,Penobscot,44.84,-68.74,4401.0,ME,Maine
+1726,3401 Raleigh Road Pkwy W,Wilson,Wilson,35.74,-77.97,27896.0,NC,North Carolina
+1727,12000 Retail Dr,Wake Forest,Wake,35.97,-78.54,27587.0,NC,North Carolina
+1728,7900 Old Wake Forest Rd,Raleigh,Wake,35.87,-78.57,27616.0,NC,North Carolina
+1729,1000 Shoppes at Midway Dr,Knightdale,Wake,35.8,-78.51,27545.0,NC,North Carolina
+1730,3410 Dr Martin Luther King Jr Blvd,New Bern,Craven,35.1,-77.1,28562.0,NC,North Carolina
+1731,6700 Peach St,Erie,Erie,42.06,-80.09,16509.0,PA,Pennsylvania
+1732,5622 Amanda Ln,Orchard Park,Erie,42.79,-78.78,14127.0,NY,New York
+1733,4920 Transit Rd,Depew,Erie,42.88,-78.7,14043.0,NY,New York
+1734,1750 Walden Ave,Cheektowaga,Erie,42.91,-78.77,14225.0,NY,New York
+1735,2626 Delaware Ave,Buffalo,Erie,42.96,-78.87,14216.0,NY,New York
+1736,8290 Transit Rd,Williamsville,Erie,42.99,-78.7,14221.0,NY,New York
+1737,1575 Niagara Falls Blvd,Amherst,Erie,43.0,-78.82,14228.0,NY,New York
+1738,4300 Veterans Memorial Dr,Batavia,Genesee,43.02,-78.2,14020.0,NY,New York
+1739,7414 Niagara Falls Blvd,Niagara Falls,Niagara,43.09,-78.98,14304.0,NY,New York
+1740,1040 Timber Dr E,Garner,Wake,35.69,-78.58,27529.0,NC,North Carolina
+1741,2700 Timber Dr,Garner,Wake,35.72,-78.64,27529.0,NC,North Carolina
+1742,1204 Sunburst Dr,Goldsboro,Wayne,35.38,-77.94,27534.0,NC,North Carolina
+1743,3250 US Hwy 41 W,Marquette,Marquette,46.55,-87.46,49855.0,MI,Michigan
+1744,1001 13th St S,Virginia,St. Louis,47.51,-92.55,55792.0,MN,Minnesota
+1745,2140 S Pokegama Ave,Grand Rapids,Itasca,47.21,-93.53,55744.0,MN,Minnesota
+1746,2100 Paul Bunyan Dr NW,Bemidji,Beltrami,47.49,-94.91,56601.0,MN,Minnesota
+1747,3601 32nd Ave S,Grand Forks,Grand Forks,47.89,-97.08,58201.0,ND,North Dakota
+1748,600 Kirkwood Mall,Bismarck,Burleigh,46.8,-100.78,58504.0,ND,North Dakota
+1749,2400 10th St SW,Minot,Ward,48.21,-101.31,58701.0,ND,North Dakota
+1750,1395D Western Blvd,Jacksonville,Onslow,34.79,-77.4,28546.0,NC,North Carolina
+1751,2725 N Main St,Roswell,Chaves,33.43,-104.52,88201.0,NM,New Mexico
+1752,3909 E 42nd St,Odessa,Ector,31.89,-102.35,79762.0,TX,Texas
+1753,7302 University Ave,Lubbock,Lubbock,33.53,-101.87,79423.0,TX,Texas
+1754,4001 N Midland Dr,Midland,Midland,32.02,-102.15,79707.0,TX,Texas
+1755,3710 Ridgemont Dr,Abilene,Taylor,32.41,-99.77,79606.0,TX,Texas
+1756,4235 Sunset Dr,San Angelo,Tom Green,31.43,-100.5,76904.0,TX,Texas
+1757,1101 C-Bar Ranch Trl Lot #2,Cedar Park,Williamson,30.53,-97.81,78613.0,TX,Texas
+1758,10900 Lakeline Mall Dr,Austin,Williamson,30.48,-97.8,78717.0,TX,Texas
+1759,10107 Research Blvd,Austin,Travis,30.39,-97.74,78759.0,TX,Texas
+1760,11220 FM 2222,Austin,Travis,30.4,-97.85,78730.0,TX,Texas
+1761,3702 Ranch Rd 620 S,Bee Cave,Travis,30.32,-97.95,78738.0,TX,Texas
+1762,2021 Guadalupe St,Austin,Travis,30.28,-97.74,78705.0,TX,Texas
+1763,2300 W Ben White Blvd,Austin,Travis,30.23,-97.79,78704.0,TX,Texas
+1764,5300 S Mo Pac Expy,Austin,Travis,30.23,-97.83,78749.0,TX,Texas
+1765,21500 NE Halsey St,Fairview,Multnomah,45.53,-122.44,97024.0,OR,Oregon
+1766,16200 SE Mill Plain Blvd,Vancouver,Clark,45.62,-122.51,98684.0,WA,Washington
+1767,9401 NE Cascades Pkwy,Portland,Multnomah,45.58,-122.56,97220.0,OR,Oregon
+1768,9800 SE Washington St,Portland,Multnomah,45.52,-122.56,97216.0,OR,Oregon
+1769,7809C NE Vancouver Plaza Dr,Vancouver,Clark,45.65,-122.59,98662.0,WA,Washington
+1770,9400 192nd Ave E,Bonney Lake,Pierce,47.17,-122.17,98391.0,WA,Washington
+1771,9000 SE Sunnyside Rd,Clackamas,Clackamas,45.43,-122.57,97015.0,OR,Oregon
+1772,8801 NE Hazel Dell Ave,Vancouver,Clark,45.69,-122.67,98665.0,WA,Washington
+1773,10302 156Th St E,Puyallup,Pierce,47.11,-122.29,98374.0,WA,Washington
+1774,1555 N Tomahawk Island Dr,Portland,Multnomah,45.61,-122.68,97217.0,OR,Oregon
+1775,939 SW Morrison,Portland,Multnomah,45.52,-122.68,97205.0,OR,Oregon
+1776,3310 S Meridian,Puyallup,Pierce,47.16,-122.3,98373.0,WA,Washington
+1777,26301 104th Ave SE,Kent,King,47.37,-122.2,98030.0,WA,Washington
+1778,9009 SW Hall Blvd,Tigard,Washington,45.45,-122.78,97223.0,OR,Oregon
+1779,2201 S Commons,Federal Way,King,47.31,-122.31,98003.0,WA,Washington
+1780,10775 SW Beaverton Hillsdale Hwy,Beaverton,Washington,45.49,-122.79,97005.0,OR,Oregon
+1781,25925 SW Heather Pl,Wilsonville,Washington,45.33,-122.77,97070.0,OR,Oregon
+1782,1215 N Landing Way,Renton,King,47.5,-122.2,98057.0,WA,Washington
+1783,301 Strander Blvd,Tukwila,King,47.46,-122.26,98188.0,WA,Washington
+1784,18101 NW Evergreen Pkwy,Beaverton,Washington,45.54,-122.86,97006.0,OR,Oregon
+1785,21365 SW Baler Way,Sherwood,Washington,45.37,-122.84,97140.0,OR,Oregon
+1786,4053 Factoria Square Mall SE,Bellevue,King,47.57,-122.17,98006.0,WA,Washington
+1787,5618 Lakewood Town Center Blvd SW,Lakewood,Pierce,47.16,-122.51,98499.0,WA,Washington
+1788,205 Three Rivers Dr,Kelso,Cowlitz,46.14,-122.9,98626.0,WA,Washington
+1789,3320 S 23rd St,Tacoma,Pierce,47.24,-122.48,98405.0,WA,Washington
+1790,2295 SE Tualatin Valley Hwy,Hillsboro,Washington,45.51,-122.96,97123.0,OR,Oregon
+1791,2800 SW Barton St,Seattle,King,47.52,-122.37,98126.0,WA,Washington
+1792,13950 NE 178th Pl,Woodinville,King,47.76,-122.15,98072.0,WA,Washington
+1793,1401 2nd Ave,Seattle,King,47.61,-122.34,98101.0,WA,Washington
+1794,11400 51st Ave NW,Gig Harbor,Pierce,47.36,-122.61,98332.0,WA,Washington
+1795,665 Sleater Kinney Rd SE,Lacey,Thurston,47.04,-122.84,98503.0,WA,Washington
+1796,302 NE Northgate Way,Seattle,King,47.71,-122.33,98125.0,WA,Washington
+1797,18305 Alderwood Mall Pkwy,Lynnwood,Snohomish,47.83,-122.27,98037.0,WA,Washington
+1798,2925 Harrison Ave NW,Olympia,Thurston,47.04,-122.94,98502.0,WA,Washington
+1799,405 SE Everett Mall Way,Everett,Snohomish,47.91,-122.23,98208.0,WA,Washington
+1800,3201 NW Randall Way,Silverdale,Kitsap,47.66,-122.69,98383.0,WA,Washington
+1801,16818 Twin Lakes Ave,Marysville,Snohomish,48.15,-122.19,98271.0,WA,Washington
+1802,199 Cascade Mall Dr,Burlington,Skagit,48.47,-122.34,98233.0,WA,Washington
+1803,30 Bellis Fair Pkwy,Bellingham,Whatcom,48.79,-122.49,98226.0,WA,Washington
+1804,1910 Bob Bullock Loop,Laredo,Webb,27.52,-99.45,78043.0,TX,Texas
+1805,7501 San Dario Ave,Laredo,Webb,27.57,-99.5,78045.0,TX,Texas
+1806,7400 N 10th St,Mcallen,Hidalgo,26.27,-98.22,78504.0,TX,Texas
+1807,3600 Nolana Ave,McAllen,Hidalgo,26.24,-98.25,78504.0,TX,Texas
+1808,2427 E Expressway 83,Mission,Hidalgo,26.2,-98.28,78572.0,TX,Texas
+1809,5425 S Padre Island Dr,Corpus Christi,Nueces,27.71,-97.37,78411.0,TX,Texas
+1810,708 E Expressway 83,McAllen,Hidalgo,26.19,-98.21,78503.0,TX,Texas
+1811,1002 Dixieland Rd,Harlingen,Cameron,26.18,-97.72,78552.0,TX,Texas
+1812,301 E Morrison Rd,Brownsville,Cameron,25.97,-97.51,78526.0,TX,Texas
+1813,2810 SW Military Dr,San Antonio,Bexar,29.36,-98.54,78224.0,TX,Texas
+1814,3227 SE Military Dr,San Antonio,Bexar,29.35,-98.44,78223.0,TX,Texas
+1815,8223 State Highway 151,San Antonio,Bexar,29.44,-98.65,78245.0,TX,Texas
+1816,5355 W Loop 1604 N,San Antonio,Bexar,29.49,-98.71,78253.0,TX,Texas
+1817,4522 Fredricksburg Rd,Balcones Heights,Bexar,29.49,-98.55,78201.0,TX,Texas
+1818,1223 Austin Hwy,San Antonio,Bexar,29.49,-98.45,78209.0,TX,Texas
+1819,746 NW Loop 410,San Antonio,Bexar,29.52,-98.5,78216.0,TX,Texas
+1820,11311 Bandera Rd,San Antonio,Bexar,29.55,-98.66,78250.0,TX,Texas
+1821,13700 San Pedro Ave,San Antonio,Bexar,29.57,-98.48,78232.0,TX,Texas
+1822,8234 Agora Pkwy,Selma,Bexar,29.57,-98.33,78154.0,TX,Texas
+1823,17502 La Cantera Pkwy,San Antonio,Bexar,29.61,-98.6,78257.0,TX,Texas
+1824,18255 Blanco Rd,San Antonio,Bexar,29.61,-98.51,78258.0,TX,Texas
+1825,22832 US Highway 281 N,San Antonio,Bexar,29.65,-98.45,78258.0,TX,Texas
+1826,135 Creekside Way,New Braunfels,Comal,29.73,-98.07,78130.0,TX,Texas
+1827,700 Barnes Dr,San Marcos,Hays,29.85,-97.97,78666.0,TX,Texas
+1828,5188 Kyle Center Dr,Kyle,Hays,30.01,-97.86,78640.0,TX,Texas
+1829,9500 S IH 35,Austin,Travis,30.16,-97.79,78748.0,TX,Texas

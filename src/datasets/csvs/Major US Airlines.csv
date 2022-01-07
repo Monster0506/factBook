@@ -1,0 +1,135 @@
+id,Airline type,Airline name,IATA code,ICAO code,Callsign,Main hubs,Founded,Notes
+1,Cargo,Bemidji Airlines,CH,BMJ,BEMIDJI,Bemidji,1946.0,Commenced operations in 1947.
+2,Cargo,Air Cargo Carriers,2Q,SNC,NIGHT CARGO,Milwaukee,1986.0,Commenced operations in 1980.
+3,Cargo,Skyway Enterprises,KI,SKZ,SKYWAY-INC,None,1981.0,Commenced operations in 1983.
+4,Cargo,National Airlines,N8,NCR,NATIONAL CARGO,Orlando,1985.0,Commenced operations in 1986.
+5,Cargo,Atlas Air,5Y,GTI,GIANT,New York JFK,1992.0,Commenced operations in 1993. Operates some Amazon Air flights.
+6,Cargo,IFL Group,IF,IFL,EIFFEL,Waterford,1983.0,Founded as Air Contract Cargo.
+7,Cargo,ABX Air,GB,ABX,ABEX,Wilmington,1980.0,Founded as Airborne Express. Operates some Amazon Air flights.
+8,Cargo,Kalitta Air,K4,CKS,CONNIE,Anchorage,1967.0,Founded as American International Airways.
+9,Cargo,Ameriflight,A8,AMF,AMFLIGHT,Dallas/Fort Worth,1968.0,Founded as California Air Charter.
+10,Cargo,FedEx Express,FX,FDX,FEDEX,Memphis,1971.0,Founded as Federal Express and commenced operations in 1973.
+11,Cargo,AirNet Express,None,USC,STAR CHECK,Columbus,1974.0,Founded as Financial Air Express.
+12,Cargo,Aloha Air Cargo,KH,AAH,ALOHA,Honolulu,1946.0,Founded as Trans-Pacific Airlines and separated from now-defunct Aloha Airlines in 2008.
+13,Cargo,Ryan Air Services,7S,RYA,RYAN AIR,Anchorage,1953.0,Founded as Unalakleet Air Taxi.
+14,Cargo,Air Transport International,8C,ATN,AIR TRANSPORT,Wilmington,1978.0,Founded as US Airways and commenced operations in 1980. Operates some Amazon Air flights.
+15,Cargo,Sky Lease Cargo,GG,KYE,SKY CUBE,Miami,1969.0,Founded as Wrangler Aviation and commenced operations in 1973.
+16,Cargo,Southern Air,9S,SOO,SOUTHERN AIR,Cincinatti,1999.0,Operates some Amazon Air flights.
+17,Cargo,Alaska Central Express,KO,AER,ACE AIR,Anchorage,1996.0,None
+18,Cargo,Alpine Air Express,5A,AIP,ALPINE AIR,Provo,1971.0,None
+19,Cargo,Ameristar Jet Charter,7Z,AJI,AMERISTAR,Dallas,2000.0,None
+20,Cargo,Amerijet International,M6,AJT,AMERIJET,Miami,1974.0,None
+21,Cargo,Empire Airlines,EM,CFS,EMPIRE,Spokane,1977.0,None
+22,Cargo,Corporate Air,None,CPT,AIRSPUR,Billings,1981.0,None
+23,Cargo,21 Air,2I,CSB,CARGO SOUTH,Miami,2014.0,None
+24,Cargo,Castle Aviation,None,CSJ,CASTLE,Akron,1986.0,None
+25,Cargo,Freight Runners Express,None,FRG,FREIGHT RUNNERS,Milwaukee,1985.0,None
+26,Cargo,CSA Air,None,IRO,IRON AIR,Iron Mountain,1998.0,None
+27,Cargo,USA Jet Airlines,UJ,JUS,JET USA,Laredo,1994.0,None
+28,Cargo,Lynden Air Cargo,L2,LYC,LYNDEN,Anchorage,1995.0,None
+29,Cargo,Mid-Atlantic Freight,None,MDC,NIGHT SHIP,Greensboro,1990.0,None
+30,Cargo,Merlin Airways,None,MEI,AVALON,Billings,1983.0,None
+31,Cargo,Asia Pacific Airlines,P9,MGE,MAGELLAN,Guam,1998.0,None
+32,Cargo,Martinaire,None,MRA,MARTEX,Addison,1978.0,None
+33,Cargo,Mountain Air Cargo,C2,MTN,MOUNTAIN,Kinston,1974.0,None
+34,Cargo,Transair,KH,MUI,MAUI,Honolulu,1982.0,None
+35,Cargo,Northern Air Cargo,NC,NAC,YUKON,Anchorage,1956.0,None
+36,Cargo,Polar Air Cargo,PO,PAC,POLAR,Anchorage,1993.0,None
+37,Cargo,West Air,None,PCM,PAC VALLEY,Las Vegas,1988.0,None
+38,Cargo,Royal Air Freight,None,RAX,AIR ROYAL,Waterford,1961.0,None
+39,Cargo,UPS Airlines,5X,UPS,UPS,Louisville,1988.0,None
+40,Cargo,Everts Air Cargo,5V,VTS,EVERTS,Fairbanks,1995.0,None
+41,Cargo,Western Global Airlines,KD,WGN,WESTERN GLOBAL,Miami,2013.0,None
+42,Cargo,Wiggins Airways,WG,WIG,WIGGINS AIRWAYS,Manchester,1929.0,None
+43,Charter,Air Flight Charters,None,FLL,,Miami,1987.0,airflightcharters.com
+44,Charter,Sierra Pacific Airlines,SI,SPA,SIERRA PACIFIC,Tucson,1970.0,Commenced operations in 1971.
+45,Charter,Skymax,None,SMX,SKYMAX,Fort Lauderdale,1997.0,Commenced operations in 2013.
+46,Charter,Orange Air,None,ORN,ORANGE JET,Orlando,2011.0,Commenced operations in 2014.
+47,Charter,World Atlantic Airlines,K8,WAL,WORLD ATLANTIC,Miami,2002.0,Founded as Caribbean Sun Airlines and commenced operations in 2003.
+48,Charter,Xtra Airways,XP,CXP,CASINO EXPRESS,MiamiSan Antonio,1987.0,Founded as Casino Express Airlines and commenced operations in 1989.
+49,Charter,Pentastar Aviation,None,DCX,TANGO,Waterford,1964.0,Founded as Chrysler Air Transportation.
+50,Charter,Airshare,None,XSR,AIRSHARE,None,2000.0,Founded as Executive Flight Services
+51,Charter,NetJets,1I,EJA,EXECJET,,1964.0,Founded as Executive Jets Aviation.
+52,Charter,IAero Airways,WQ,SWQ,SWIFTFLIGHT,Miami,1997.0,Founded as Swift Air
+53,Charter,Talkeetna Air Taxi,None,None,None,Talkeetna,1947.0,Founded as Talkeetna Flying Service.
+54,Charter,Bighorn Airways,None,BHR,BIGHORN AIR,Sheridan,1947.0,None
+55,Charter,Berry Aviation,None,BYA,BERRY,San Marcos,1983.0,None
+56,Charter,PlaneSense,None,CNS,CHRONOS,Portsmouth (NH),1992.0,None
+57,Charter,IBC Airways,II,CSQ,CHASQUI,Fort Lauderdale,1991.0,None
+58,Charter,Choice Airways,None,CSX,CHOICE AIR,Fort Lauderdale,2009.0,None
+59,Charter,Delta Private Jets,None,DPJ,JET CARD,Cincinnati,1984.0,None
+60,Charter,"Eastern Airlines, LLC",2D,DYA,DYNAMIC AIR,None,2010.0,None
+61,Charter,Superior Aviation,SO,HKA,SPEND AIR,Lansing,1979.0,None
+62,Charter,Liberty Jet Management,None,LRT,LIBERTY JET,Long Island,2006.0,None
+63,Charter,Omni Air International,X9,OAE,OMNI-EXPRESS,Tulsa,1993.0,None
+64,Charter,Phoenix Air,None,PHA,GRAY BIRD,Cartersville,1978.0,None
+65,Charter,Pacific Coast Jet,None,PXT,PACK COAST,None,2006.0,None
+66,Charter,JetSuite,None,RSP,REDSTRIPE,None,2006.0,None
+67,Charter,Songbird Airways,SK,SGB,SONGBIRD,Miami,1990.0,None
+68,Charter,Charter Air Transport,VC,SRY,STINGRAY,Cleveland,1997.0,None
+69,Charter,Twin Cities Air Service,None,TCY,TWIN CITY,Auburn,1992.0,None
+70,Charter,ExcelAire,None,XLS,EXCELAIRE,Long Island,1993.0,None
+71,Charter,XOJET,None,XOJ,EXOJET,Sacramento,2006.0,None
+72,Charter,Rediske Air,None,None,None,Soldotna,1991.0,None
+73,Charter,Stampede Aviation,None,None,None,Healy,2011.0,None
+74,Charter,Tropic Ocean Airways,None,None,None,Fort Lauderdale,2009.0,None
+75,Commuter,Grant Aviation,GV,GUN,HOOT,Anchorage,1971.0,Founded as Delta Air Services.
+76,Commuter,Island Airways,None,None,None,Charlevoix,1945.0,Founded as McPhillips Flying Service.
+77,Commuter,Kenmore Air,M5,KEN,KENMORE,Kenmore,1946.0,Founded as Mines Collins Munro.
+78,Commuter,Mokulele Airlines,MW,MHO,MAHALO,Kailua,1994.0,Founded as Mokulele Flight Service.
+79,Commuter,Air Choice One,3E,WBR,WEBER,St. Louis,1979.0,Founded as Multi-Aero Corporation.
+80,Commuter,Scenic Airlines,YR,CVU,CANYON VIEW,Boulder City,1927.0,Founded as Scenic Airways.
+81,Commuter,Everts Air,5V,VTS,EVERTS,Fairbanks,1978.0,Founded as Tatonduk Flying Service.
+82,Commuter,Advanced Air,AN,WSN,WINGSPAN,Hawthorne,2005.0,Has the EAS contract to serve Grant County Airport (New Mexico). Scheduled to operate Taos Air flights for 2019–2020.
+83,Commuter,Key Lime Air,KG,LYM,KEY LIME,Denver,1997.0,Operates as Denver Air Connection.
+84,Commuter,Frontier Flying Service,2F,FTA,FRONTIER-AIR,Fairbanks,1950.0,Operates as Ravn Connect.
+85,Commuter,Hageland Aviation Services,H6,HAG,HAGELAND,Anchorage,1981.0,Operates as Ravn Connect.
+86,Commuter,Bering Air,8E,BRG,BERING AIR,Nome,1979.0,None
+87,Commuter,Boutique Air,4B,BTQ,BOUTIQUE,Dallas / Fort Worth,2007.0,None
+88,Commuter,"Eastern Airlines, LLC",2D,EAL,EASTERN,New York-JFK,2010.0,None
+89,Commuter,Southern Airways Express,9X,FDY,FRIENDLY,Memphis,2013.0,None
+90,Commuter,Tradewind Aviation,TJ,GPD,GOODSPEED,Oxford,2001.0,None
+91,Commuter,JSX,XE,JSX,BIGSTRIPE,Burbank,2016.0,None
+92,Commuter,New England Airlines,EJ,NEA,NEW ENGLAND,Westerly,1970.0,None
+93,Commuter,Servant Air,8D,None,None,Kodiak,2003.0,None
+94,Commuter,Reliant Air,None,RLI,RELIANT,Danbury,1988.0,None
+95,Commuter,Air Sunshine,YI,RSI,AIR SUNSHINE,San Juan,1982.0,None
+96,Commuter,Grand Canyon Scenic Airlines,YR,SCE,SCENIC,Grand Canyon,1967.0,None
+97,Commuter,Taquan Air,K3,TQN,TAQUAN,Ketchikan Harbor,1977.0,None
+98,Commuter,Surf Air,None,UF,SURFAIR,Hawthorne,2012.0,None
+99,Commuter,Ultimate Air Shuttle,UE,UJC,ULTIMATE,Cincinatti,2009.0,None
+100,Commuter,Warbelow's Air Ventures,4W,WAV,WARBELOW,Fairbanks,1958.0,None
+101,Commuter,Wright Air Service,8V,WRF,WRIGHT FLYER,Fairbanks,1966.0,None
+102,Commuter,Gem Air,None,None,None,Salmon,2014.0,None
+103,Commuter,Griffing Flying Service,None,None,None,Port Clinton,1937.0,None
+104,Commuter,Makani Kai Air,None,None,None,Honolulu,1998.0,None
+105,Commuter,Penobscot Island Air,None,None,None,Rockland,2004.0,None
+106,Commuter,San Juan Airlines,None,None,SKYFERRY,Bellingham,2002.0,None
+107,Commuter,Utah Airways,None,None,None,Ogden,2015.0,None
+108,Mainline,Sun Country Airlines,SY,SCX,SUN COUNTRY,"Minneapolis, St. Paul",1982.0,Commenced operations in 1983.
+109,Mainline,Southwest Airlines,WN,SWA,SOUTHWEST,Dallas,1967.0,Founded as Air Southwest and commenced operations in 1971 as Southwest Airlines; largest airline in the world based on number of passengers served per year.
+110,Mainline,American Airlines,AA,AAL,AMERICAN,Dallas / Fort Worth,1926.0,"Founded as American Airways and commenced operations in 1936 as American Air Lines; largest airline in the world based on airline company revenue, scheduled passenger miles flown (per year), and fleet size."
+111,Mainline,Spirit Airlines,NK,NKS,SPIRIT WINGS,Atlantic City,1980.0,Founded as Charter One.
+112,Mainline,Delta Air Lines,DL,DAL,DELTA,Atlanta,1924.0,Founded as Huff Daland Dusters and commenced operations in 1929 as Delta Air Service.
+113,Mainline,Hawaiian Airlines,HA,HAL,HAWAIIAN,Honolulu,1929.0,Founded as Inter-Island Airways in early 1929 and commenced operations in late 1929 as Hawaiian Airlines
+114,Mainline,Alaska Airlines,AS,ASA,ALASKA,Seattle,1932.0,Founded as McGee Airways and commenced operations in 1944 as Alaska Airlines.
+115,Mainline,JetBlue Airways,B6,JBU,JETBLUE,New York-JFK,1998.0,Founded as New Air and commenced operations in 2000 as JetBlue Airways.
+116,Mainline,United Airlines,UA,UAL,UNITED,Chicago-O'Hare,1926.0,Founded as Varney Air Lines and commenced operations in 1931 as United Air Lines.
+117,Mainline,Allegiant Air,G4,AAY,ALLEGIANT,Las Vegas,1997.0,Founded as WestJet Express and commenced operations in 1998 as Allegiant Air.
+118,Mainline,Frontier Airlines,F9,FFT,FRONTIER FLIGHT,Denver,1994.0,None
+119,Regional,ExpressJet,EV,ASQ,ACEY,Houston,1986.0,Commenced operations in 1987. Operates as United Express.
+120,Regional,Republic Airways,YX,RPA,BRICKYARD,Indianapolis,1998.0,"Commenced operations in 2005. Operates as American Eagle, United Express and Delta Connection."
+121,Regional,GoJet Airlines,G7,GJS,LINDBERGH,Chicago-O'Hare,2004.0,Commenced operations in 2005. Operates as United Express.
+122,Regional,Elite Airways,7Q,MNU,MAINER,Orlando,2006.0,Commenced operations in 2014.
+123,Regional,Envoy Air,MQ,ENY,ENVOY,Dallas / Fort Worth,1984.0,Founded as American Eagle Airlines. Operates as American Eagle.
+124,Regional,Endeavor Air,9E,EDV,ENDEAVOR,"Minneapolis, St. Paul",1985.0,Founded as Express Airlines I. Operates as Delta Connection.
+125,Regional,Piedmont Airlines,PT,PDT,PIEDMONT,Charlotte,1961.0,Founded as Henson Aviation and commenced operations in 1962. Operates as American Eagle.
+126,Regional,Mesa Airlines,YV,ASH,AIR SHUTTLE,Phoenix,1980.0,Founded as Mesa Air Shuttle. All but one aircraft operated as American Eagle and United Express.
+127,Regional,PSA Airlines,OH,JIA,BLUE STREAK,Charlotte,1979.0,Founded as Vee Neal Airlines. Operates as American Eagle.
+128,Regional,Horizon Air,QX,QXE,HORIZON,Seattle,1981.0,Operates as Alaska Airlines.
+129,Regional,SkyWest Airlines,OO,SKW,SKYWEST,Atlanta,1972.0,"Operates as Delta Connection, United Express, American Eagle and Alaska Airlines."
+130,Regional,Air Wisconsin,ZW,AWI,WISCONSIN,Appleton,1965.0,Operates as United Express
+131,Regional,CommutAir,C5,UCA,COMMUTAIR,Newark,1989.0,Operates as United Express.
+132,Regional,Cape Air,9K,KAP,CAIR,Hyannis,1988.0,None
+133,Regional,Silver Airways,3M,SIL,SILVER WINGS,Fort Lauderdale,2011.0,None
+134,Regional,Contour Airlines,LF,VTE,VOLUNTEER,Smyrna (TN),1982.0,None

@@ -1,0 +1,501 @@
+id,Album Rank,Year,Album,Artist,Genre,Subgenre,Album Art
+1,1.0,1967.0,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Rock,"Rock & Roll, Psychedelic Rock",https://www.udiscovermusic.com/wp-content/uploads/2018/01/SgtPepper-1.jpg
+2,2.0,1966.0,Pet Sounds,The Beach Boys,Rock,"Pop Rock, Psychedelic Rock",https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/PetSoundsCover.jpg/220px-PetSoundsCover.jpg
+3,3.0,1966.0,Revolver,The Beatles,Rock,"Psychedelic Rock, Pop Rock",https://upload.wikimedia.org/wikipedia/en/1/16/Revolver.jpg
+4,4.0,1965.0,Highway 61 Revisited,Bob Dylan,Rock,"Folk Rock, Blues Rock",https://img.discogs.com/rC7Ou5qlwnIYxEugARB9_7M06HA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-546597-1379537138-7990.jpeg.jpg
+5,5.0,1965.0,Rubber Soul,The Beatles,"Rock, Pop",Pop Rock,https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Rubber_Soul.jpg/220px-Rubber_Soul.jpg
+6,6.0,1971.0,What's Going On,Marvin Gaye,Funk / Soul,Soul,https://images.theconversation.com/files/212618/original/file-20180329-189807-fofptc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+7,7.0,1972.0,Exile on Main St.,The Rolling Stones,Rock,"Blues Rock, Rock & Roll, Classic Rock",https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/ExileMainSt.jpg/220px-ExileMainSt.jpg
+8,8.0,1979.0,London Calling,The Clash,Rock,"Punk, New Wave",https://upload.wikimedia.org/wikipedia/en/thumb/0/00/TheClashLondonCallingalbumcover.jpg/220px-TheClashLondonCallingalbumcover.jpg
+9,9.0,1966.0,Blonde on Blonde,Bob Dylan,"Rock, Blues","Folk Rock, Rhythm & Blues",https://upload.wikimedia.org/wikipedia/en/3/38/Bob_Dylan_-_Blonde_on_Blonde.jpg
+10,10.0,1968.0,"The Beatles (""The White Album"")",The Beatles,Rock,"Rock & Roll, Pop Rock, Psychedelic Rock, Experimental",https://www.udiscovermusic.com/wp-content/uploads/2015/12/white-album-cover-serial-number04b-300x300.jpg
+11,11.0,1976.0,The Sun Sessions,Elvis Presley,Rock,Rock & Roll,https://img.discogs.com/pztSv1PtWWWydXf99W3NKyzGSzM=/fit-in/598x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1729944-1345331715-2311.jpeg.jpg
+12,12.0,1959.0,Kind of Blue,Miles Davis,Jazz,Modal,https://macdndev.azureedge.net/genesis-temp/7/c/a/2/b/0/7ca2b0c8484983a9d607c6b7f6a2dfdf365c77db.jpg
+13,13.0,1967.0,The Velvet Underground & Nico,The Velvet Underground,Rock,"Garage Rock, Art Rock, Experimental",https://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg
+14,14.0,1969.0,Abbey Road,The Beatles,Rock,"Psychedelic Rock, Classic Rock, Pop Rock",https://www.udiscovermusic.com/wp-content/uploads/2017/08/Abbey-Road.jpg
+15,15.0,1967.0,Are You Experienced,The Jimi Hendrix Experience,"Rock, Blues","Blues Rock, Psychedelic Rock",https://upload.wikimedia.org/wikipedia/commons/3/33/Are_You_Experienced_-_US_cover-edit.jpg
+16,16.0,1975.0,Blood on the Tracks,Bob Dylan,Rock,"Folk Rock, Acoustic, Ballad",https://consequenceofsound.net/wp-content/uploads/2018/10/bob-dylans-blood-on-the-tracks.jpg?quality=80
+17,17.0,1991.0,Nevermind,Nirvana,Rock,"Alternative Rock, Grunge",https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/p960x960/42406711_2064123793898252_6093152330536976384_o.jpg?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=TE2nZLvNswoAX-mXW5s&_nc_ht=scontent-sea1-1.xx&_nc_tp=6&oh=40895198076922937f4e2406633d3201&oe=5EE0E148
+18,18.0,1975.0,Born to Run,Bruce Springsteen,Rock,Pop Rock,https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Born_to_Run_%28Front_Cover%29.jpg/220px-Born_to_Run_%28Front_Cover%29.jpg
+19,19.0,1968.0,Astral Weeks,Van Morrison,"Jazz, Rock, Blues, Folk, World, & Country","Acoustic, Classic Rock, Free Improvisation",https://upload.wikimedia.org/wikipedia/en/f/f7/VanMorrisonAstralWeeks.jpg
+20,20.0,1982.0,Thriller,Michael Jackson,"Funk / Soul, Pop",Disco,https://images-na.ssl-images-amazon.com/images/I/712aTlKjhqL._SL1500_.jpg
+21,21.0,1982.0,The Great Twenty_Eight,Chuck Berry,Rock,Rock & Roll,https://upload.wikimedia.org/wikipedia/en/4/4c/ChuckBerry_TheGreatTwentyEight.png
+22,22.0,1990.0,The Complete Recordings,Robert Johnson,Blues,Delta Blues,https://images-na.ssl-images-amazon.com/images/I/81nGeDsbHYL._SX466_.jpg
+23,23.0,1970.0,John Lennon/Plastic Ono Band,John Lennon / Plastic Ono Band,Rock,Pop Rock,https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/JLPOBCover.jpg/220px-JLPOBCover.jpg
+24,24.0,1973.0,Innervisions,Stevie Wonder,Funk / Soul,Soul,https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Steviewonder_innervisions.jpg/220px-Steviewonder_innervisions.jpg
+25,25.0,1963.0,"Live at the Apollo, 1962",James Brown,Funk / Soul,"Rhythm & Blues, Soul",https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/James_Brown-Live_at_the_Apollo_%28album_cover%29.jpg/220px-James_Brown-Live_at_the_Apollo_%28album_cover%29.jpg
+26,26.0,1977.0,Rumours,Fleetwood Mac,Rock,Pop Rock,https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG
+27,27.0,1987.0,The Joshua Tree,U2,Rock,"Alternative Rock, Pop Rock",https://upload.wikimedia.org/wikipedia/en/6/6b/The_Joshua_Tree.png
+28,28.0,1971.0,Who's Next,The Who,Rock,"Hard Rock, Mod, Prog Rock, Psychedelic Rock",https://pure-music.co.uk/wp-content/uploads/2019/03/whos-next-album-cover.png
+29,29.0,1969.0,Led Zeppelin,Led Zeppelin,Rock,"Blues Rock, Hard Rock",https://cdn.shopify.com/s/files/1/2105/3701/products/Led-Zeppelin-Hindenburg-black-and-white-print_9deb95a0-29f0-4862-8142-4b04c6eed5f4_800x.jpg?v=1571713861
+30,30.0,1971.0,Blue,Joni Mitchell,Pop,"Acoustic, Ballad, Folk",https://images-na.ssl-images-amazon.com/images/I/81dCmd4fXTL._SL1500_.jpg
+31,31.0,1965.0,Bringing It All Back Home,Bob Dylan,"Rock, Folk, World, & Country","Folk Rock, Folk",https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Bob_Dylan_-_Bringing_It_All_Back_Home.jpg/220px-Bob_Dylan_-_Bringing_It_All_Back_Home.jpg
+32,32.0,1969.0,Let It Bleed,The Rolling Stones,Rock,"Blues Rock, Hard Rock",https://images-na.ssl-images-amazon.com/images/I/81Ut0SKKVhL._SY355_.jpg
+33,33.0,1976.0,Ramones,Ramones,Rock,"Rock & Roll, Punk",https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Ramones_-_Ramones_cover.jpg/220px-Ramones_-_Ramones_cover.jpg
+34,34.0,1968.0,Music From Big Pink,The Band,Rock,"Folk Rock, Acoustic, Blues Rock",https://upload.wikimedia.org/wikipedia/en/a/a9/Bigpink.jpg
+35,35.0,1972.0,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,Rock,"Classic Rock, Glam",https://images-na.ssl-images-amazon.com/images/I/91%2B9OVN138L._SL1500_.jpg
+36,36.0,1971.0,Tapestry,Carole King,"Rock, Pop","Folk Rock, Soft Rock",https://cdn11.bigcommerce.com/s-rdecee92oy/images/stencil/1280x1280/products/31772/1764007/1sonsami9318__43028.1580361985.jpg?c=2&imbypass=on
+37,37.0,1976.0,Hotel California,Eagles,Rock,Classic Rock,https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg
+38,38.0,2001.0,The Anthology,Muddy Waters,"Folk, World, & Country",Folk,https://images-na.ssl-images-amazon.com/images/I/41WFiy7%2BPGL._SY450_.jpg
+39,39.0,1963.0,Please Please Me,The Beatles,Rock,"Beat, Rock & Roll",https://2.bp.blogspot.com/-boQQSbSUZL4/VJGk1SW-XwI/AAAAAAAAO94/gNfZFgvHNTU/s1600/PleasePleaseMe_1.jpg
+40,40.0,1967.0,Forever Changes,Love,Rock,"Folk Rock, Psychedelic Rock",https://images-na.ssl-images-amazon.com/images/I/71KPBxAbmWL._SL1425_.jpg
+41,41.0,1977.0,Never Mind the Bollocks Here's the Sex Pistols,Sex Pistols,Rock,Punk,https://upload.wikimedia.org/wikipedia/en/4/4c/Never_Mind_the_Bollocks%2C_Here%27s_the_Sex_Pistols.png
+42,42.0,1967.0,The Doors,The Doors,Rock,Psychedelic Rock,https://farm6.staticflickr.com/5778/21671410599_72b4ebaa4d_z.jpg
+43,43.0,1973.0,The Dark Side of the Moon,Pink Floyd,Rock,Prog Rock,https://miro.medium.com/max/2480/1*8FkvzbSdSJ4HNxtuZo5kLg.jpeg
+44,44.0,1975.0,Horses,Patti Smith,Rock,Art Rock,https://images-na.ssl-images-amazon.com/images/I/71Y92VZcpfL._SX355_.jpg
+45,45.0,1969.0,"The Band (""The Brown Album"")",The Band,"Classical, Stage & Screen","Soundtrack, Modern Classical, Contemporary, Score",https://upload.wikimedia.org/wikipedia/en/7/74/The_Band_%28album%29_coverart.jpg
+46,46.0,1984.0,Legend: The Best of Bob Marley and The Wailers,Bob Marley & The Wailers,Reggae,"Reggae, Roots Reggae",https://upload.wikimedia.org/wikipedia/en/c/c2/BobMarley-Legend.jpg
+47,47.0,1965.0,A Love Supreme,John Coltrane,Jazz,"Free Jazz, Hard Bop, Modal",https://images-na.ssl-images-amazon.com/images/I/71LQ34%2BJj%2BL._SL1061_.jpg
+48,48.0,1988.0,It Takes a Nation of Millions to Hold Us Back,Public Enemy,Hip Hop,Conscious,https://upload.wikimedia.org/wikipedia/en/7/73/PublicEnemyItTakesaNationofMillionstoHoldUsBack.jpg
+49,49.0,1971.0,At Fillmore East,The Allman Brothers Band,"Rock, Blues",Blues Rock,https://images-na.ssl-images-amazon.com/images/I/71zTJg85UlL._SL1400_.jpg
+50,50.0,1957.0,Here's Little Richard,Little Richard,"Rock, Blues","Rock & Roll, Rhythm & Blues",https://images-na.ssl-images-amazon.com/images/I/81wcXzE64uL._SL1500_.jpg
+51,51.0,1970.0,Bridge Over Troubled Water,Simon & Garfunkel,Rock,"Folk Rock, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/51tKj1BYGLL.jpg
+52,52.0,1975.0,Greatest Hits,Al Green,Funk / Soul,Soul,https://cdn11.bigcommerce.com/s-rdecee92oy/images/stencil/1280x1280/products/16242/1744746/fplp11135__47774.1544635114.jpg?c=2&imbypass=on
+53,53.0,1964.0,Meet The Beatles!,The Beatles,Rock,"Beat, Rock & Roll",https://images-na.ssl-images-amazon.com/images/I/811RlXYoNfL._SL1428_.jpg
+54,54.0,1991.0,The Birth of Soul,Ray Charles,"Jazz, Funk / Soul","Rhythm & Blues, Big Band, Soul, Soul-Jazz",https://upload.wikimedia.org/wikipedia/en/f/f9/Ray_Charles_-_The_Birth_of_Soul.jpg
+55,55.0,1968.0,Electric Ladyland,The Jimi Hendrix Experience,"Rock, Blues","Electric Blues, Psychedelic Rock",https://recordmecca.com/wp-content/uploads/2015/12/Scan-Dec-9-2015-12.02-PM-3.jpg
+56,56.0,1956.0,Elvis Presley,Elvis Presley,Rock,"Rock & Roll, Rockabilly",https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Elvis_Presley_LPM-1254_Album_Cover.jpg/220px-Elvis_Presley_LPM-1254_Album_Cover.jpg
+57,57.0,1976.0,Songs in the Key of Life,Stevie Wonder,Funk / Soul,"Soul, Disco",https://upload.wikimedia.org/wikipedia/en/e/e2/Songs_in_the_key_of_life.jpg
+58,58.0,1968.0,Beggars Banquet,The Rolling Stones,"Rock, Funk / Soul, Pop","Blues Rock, Southern Rock, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/51PLYreKV5L._SX425_.jpg
+59,59.0,1976.0,Chronicle: The 20 Greatest Hits,Creedence Clearwater Revival,Rock,None,https://images-na.ssl-images-amazon.com/images/I/81RsH60wYKL._SL1500_.jpg
+60,60.0,1969.0,Trout Mask Replica,Captain Beefheart & His Magic Band,"Rock, Blues","Dialogue, Field Recording, Avantgarde, Electric Blues, Psychedelic Rock, Experimental",https://upload.wikimedia.org/wikipedia/en/3/30/Trout_Mask_Replica.png
+61,61.0,1970.0,Greatest Hits,Sly & The Family Stone,Funk / Soul,"Rhythm & Blues, Funk",https://images-na.ssl-images-amazon.com/images/I/81pfEujtjIL._SL1500_.jpg
+62,62.0,1987.0,Appetite for Destruction,Guns N' Roses,Rock,"Hard Rock, Heavy Metal",https://images-na.ssl-images-amazon.com/images/I/71H9ZR6EGFL._SY355_.jpg
+63,63.0,1991.0,Achtung Baby,U2,"Electronic, Rock","Pop Rock, Synth-pop, Alternative Rock, Arena Rock",https://images-na.ssl-images-amazon.com/images/I/71wrAlRtBDL._SL1000_.jpg
+64,64.0,1971.0,Sticky Fingers,The Rolling Stones,Rock,Classic Rock,https://hips.hearstapps.com/esq.h-cdn.co/assets/15/24/1433876679-sticky.jpg
+65,65.0,1991.0,Back to Mono (1958-1969),Phil Spector,"Rock, Funk / Soul, Pop","Doo Wop, Pop Rock, Ballad, Rhythm & Blues","https://images-na.ssl-images-amazon.com/images/I/51F11QWwocL._SX258_BO1,204,203,200_.jpg"
+66,66.0,1970.0,Moondance,Van Morrison,"Jazz, Rock, Funk / Soul, Folk, World, & Country","Folk Rock, Rhythm & Blues, Classic Rock, Contemporary Jazz",https://upload.wikimedia.org/wikipedia/en/a/ae/VanMorrisonMoondance.jpg
+67,67.0,2000.0,Kid A,Radiohead,"Electronic, Rock","Alternative Rock, IDM, Experimental",https://hips.hearstapps.com/esq.h-cdn.co/assets/15/24/1433876510-81p-o2cddll-sl1437-.jpg?resize=480:*
+68,68.0,1979.0,Off the Wall,Michael Jackson,"Funk / Soul, Pop","Disco, Soul, Ballad",https://upload.wikimedia.org/wikipedia/en/f/f6/Off_the_wall.jpg
+69,69.0,1971.0,[Led Zeppelin IV],Led Zeppelin,Rock,"Hard Rock, Classic Rock, Blues Rock",https://images-na.ssl-images-amazon.com/images/I/51h-cJeHf0L.jpg
+70,70.0,1977.0,The Stranger,Billy Joel,Rock,Pop Rock,https://images-na.ssl-images-amazon.com/images/I/81vbrv5cyhL._SL1500_.jpg
+71,71.0,1986.0,Graceland,Paul Simon,"Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country","Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm & Blues",https://upload.wikimedia.org/wikipedia/commons/c/c3/Graceland_cover_-_Paul_Simon.jpg
+72,72.0,1972.0,Superfly,Curtis Mayfield,"Funk / Soul, Stage & Screen","Soundtrack, Soul",https://images-na.ssl-images-amazon.com/images/I/81hBKihuLkL._SL1425_.jpg
+73,73.0,1975.0,Physical Graffiti,Led Zeppelin,Rock,Classic Rock,https://img.discogs.com/oPPZ83CvcFYHDixDeSumFEbIxHE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13198713-1573677117-8132.jpeg.jpg
+74,74.0,1970.0,After the Gold Rush,Neil Young,Rock,"Rock & Roll, Country Rock",https://img.discogs.com/YFKw0cpqQSQrU-FDUGmpndpgk6Q=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2349161-1417177241-1607.jpeg.jpg
+75,75.0,1991.0,Star Time,James Brown,Funk / Soul,"Soul, Funk, Disco",https://upload.wikimedia.org/wikipedia/en/b/b5/James_Brown_Star_Time.jpg
+76,76.0,1984.0,Purple Rain,Prince and the Revolution,"Electronic, Rock, Funk / Soul, Stage & Screen","Pop Rock, Funk, Soundtrack, Synth-pop",https://i.ebayimg.com/images/g/rBYAAOSwa51ZaVci/s-l300.jpg
+77,77.0,1980.0,Back in Black,AC/DC,Rock,Hard Rock,https://upload.wikimedia.org/wikipedia/commons/9/92/ACDC_Back_in_Black.png
+78,78.0,1965.0,Otis Blue: Otis Redding Sings Soul,Otis Redding,Funk / Soul,Soul,https://images-na.ssl-images-amazon.com/images/I/41NdIuI91jL.jpg
+79,79.0,1969.0,Led Zeppelin II,Led Zeppelin,Rock,"Blues Rock, Classic Rock, Hard Rock",https://images-na.ssl-images-amazon.com/images/I/619CcXRfEIL._SL1200_.jpg
+80,80.0,1971.0,Imagine,John Lennon,Rock,Pop Rock,https://upload.wikimedia.org/wikipedia/en/6/69/ImagineCover.jpg
+81,81.0,1977.0,The Clash,The Clash,Rock,Punk,https://images-na.ssl-images-amazon.com/images/I/81oLSe2dcKL._SL1500_.jpg
+82,82.0,1972.0,Harvest,Neil Young,Rock,"Folk Rock, Country Rock, Classic Rock",https://img.discogs.com/fCaLIHl_MbaUTnciSNfdz5zr-3I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044287-1400327359-6935.jpeg.jpg
+83,83.0,1967.0,Axis: Bold as Love,The Jimi Hendrix Experience,Rock,"Psychedelic Rock, Electric Blues",https://images-na.ssl-images-amazon.com/images/I/81f20JroW9L._SL1140_.jpg
+84,84.0,1967.0,I Never Loved a Man the Way I Love You,Aretha Franklin,Funk / Soul,Soul,https://upload.wikimedia.org/wikipedia/en/1/15/Aretha_Franklin_%E2%80%93_I_Never_Loved_a_Man_the_Way_I_Love_You.jpg
+85,85.0,1968.0,Lady Soul,Aretha Franklin,Funk / Soul,Soul,https://upload.wikimedia.org/wikipedia/en/1/17/ArethaFranklinLadySoul.jpg
+86,86.0,1984.0,Born in the U.S.A.,Bruce Springsteen,Rock,Pop Rock,https://images-na.ssl-images-amazon.com/images/I/510YFKjiVRL._SY355_.jpg
+87,87.0,1979.0,The Wall,Pink Floyd,Rock,"Alternative Rock, Prog Rock",https://images-na.ssl-images-amazon.com/images/I/715jbEtLNcL._SX355_.jpg
+88,88.0,1968.0,At Folsom Prison,Johnny Cash,"Folk, World, & Country",Country,https://images-na.ssl-images-amazon.com/images/I/71tp44HxiHL._SL1000_.jpg
+89,89.0,1969.0,Dusty in Memphis,Dusty Springfield,"Rock, Funk / Soul","Pop Rock, Soul",https://upload.wikimedia.org/wikipedia/en/c/cf/Dusty_Springfield%2C_Dusty_in_Memphis_%281969%29.png
+90,90.0,1972.0,Talking Book,Stevie Wonder,Funk / Soul,"Soul, Funk",https://upload.wikimedia.org/wikipedia/en/2/25/Talking_Book.jpg
+91,91.0,1973.0,Goodbye Yellow Brick Road,Elton John,Rock,"Pop Rock, Classic Rock",https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/goodbye-yellow-brick-road-robert-vanderwal.jpg
+92,92.0,1978.0,20 Golden Greats,Buddy Holly,Rock,Rock & Roll,https://img.discogs.com/nzASl2sj6ZPvwzJlIWqCPFZ2s1E=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13891557-1563529907-5010.jpeg.jpg
+93,93.0,1987.0,"Sign ""Peace"" the Times",Prince,"Rock, Reggae","Ska, Reggae-Pop",https://images-na.ssl-images-amazon.com/images/I/61bXmooblgL.jpg
+94,94.0,1984.0,40 Greatest Hits,Hank Williams,"Folk, World, & Country",Country,https://images-na.ssl-images-amazon.com/images/I/81W-03axABL._SL1400_.jpg
+95,95.0,1970.0,Brew,Miles Davis,Jazz,Fusion,https://images.genius.com/d982719e47d2927bf046cb5f094f9f72.780x780x1.jpg
+96,96.0,1969.0,Tommy,The Who,Rock,Psychedelic Rock,https://upload.wikimedia.org/wikipedia/en/1/19/Tommyalbumcover.jpg
+97,97.0,1963.0,The Freewheelin' Bob Dylan,Bob Dylan,"Folk, World, & Country",Folk,https://i2.wp.com/rockandrollroadmap.com/wp-content/uploads/2015/12/Freewheelin-by-Bob-Dylan.jpg?resize=1024%2C1024&ssl=1
+98,98.0,1978.0,This Year's Model,Elvis Costello,Rock,New Wave,https://upload.wikimedia.org/wikipedia/en/e/e1/Elvis-Costello-This-Years-Model.jpg
+99,99.0,1971.0,There's a Riot Goin' On,Sly & The Family Stone,Funk / Soul,"Rhythm & Blues, Funk",https://images-na.ssl-images-amazon.com/images/I/51rdkSVNBUL._SX355_.jpg
+100,100.0,1968.0,Odessey and Oracle,The Zombies,Rock,Psychedelic Rock,https://upload.wikimedia.org/wikipedia/en/6/6a/Odessey_and_Oracle.jpg
+101,101.0,1955.0,In the Wee Small Hours,Frank Sinatra,"Jazz, Pop","Big Band, Ballad",https://upload.wikimedia.org/wikipedia/en/1/12/Wee_small_hours_album_cover_high_definition.jpg
+102,102.0,1966.0,Fresh Cream,Cream,"Rock, Blues","Blues Rock, Electric Blues",https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Fresh_cream.jpg/220px-Fresh_cream.jpg
+103,103.0,1959.0,Giant Steps,John Coltrane,Jazz,Hard Bop,https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Coltrane_Giant_Steps.jpg/220px-Coltrane_Giant_Steps.jpg
+104,104.0,1970.0,Sweet Baby James,James Taylor,Rock,"Folk Rock, Acoustic, Soft Rock",https://upload.wikimedia.org/wikipedia/en/thumb/1/12/James_Taylor_-_Sweet_Baby_James.jpg/220px-James_Taylor_-_Sweet_Baby_James.jpg
+105,105.0,1962.0,Modern Sounds in Country and Western Music,Ray Charles,"Funk / Soul, Folk, World, & Country","Country, Rhythm & Blues",https://images-na.ssl-images-amazon.com/images/I/51KHXRnEG5L._SX466_.jpg
+106,106.0,1977.0,Rocket to Russia,Ramones,Rock,"Rock & Roll, Punk",https://upload.wikimedia.org/wikipedia/en/5/50/Ramones_-_Rocket_to_Russia_cover.jpg
+107,107.0,2003.0,Portrait of a Legend 1951-1964,Sam Cooke,"Latin, Funk / Soul","Soul, Rhythm & Blues, Gospel, Cha-Cha",https://images-na.ssl-images-amazon.com/images/I/71MTLkKfvPL._SL1100_.jpg
+108,108.0,1971.0,Hunky Dory,David Bowie,Rock,"Classic Rock, Glam",https://m.media-amazon.com/images/I/617I+ajR5jL.jpg
+109,109.0,1966.0,Aftermath,The Rolling Stones,Rock,"Blues Rock, Pop Rock",https://upload.wikimedia.org/wikipedia/en/8/8a/Aftermath_UK.jpg
+110,110.0,1970.0,Loaded,The Velvet Underground,Rock,"Art Rock, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/813n86QZJfL._SY355_.jpg
+111,111.0,1995.0,The Bends,Radiohead,Rock,Alternative Rock,https://images-na.ssl-images-amazon.com/images/I/71VJAU9IPSL._SL1200_.jpg
+112,112.0,1966.0,If You Can Believe Your Eyes and Ears,The Mamas and the Papas,Rock,"Folk Rock, Pop Rock",https://images.genius.com/d787618d4d480baba46f0c83f19366b5.1000x1000x1.jpg
+113,113.0,1974.0,Court and Spark,Joni Mitchell,Rock,"Soft Rock, Pop Rock",https://images-na.ssl-images-amazon.com/images/I/61-ioDtgnvL._SL1280_.jpg
+114,114.0,1967.0,Disraeli Gears,Cream,Rock,"Psychedelic Rock, Blues Rock",https://img.discogs.com/L3O0-d44S4eMDoIbPmdHd0-Vj_c=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1358659-1496055161-7572.jpeg.jpg
+115,115.0,1967.0,The Who Sell Out,The Who,Rock,"Psychedelic Rock, Mod",https://images-na.ssl-images-amazon.com/images/I/71zD-UhnsNL._SY450_.jpg
+116,116.0,1965.0,Out of Our Heads,The Rolling Stones,Rock,"Blues Rock, Rock & Roll",https://images-na.ssl-images-amazon.com/images/I/418QQTJCVAL.jpg
+117,117.0,1970.0,Layla and Other Assorted Love Songs,Derek and the Dominos,Rock,Blues Rock,https://upload.wikimedia.org/wikipedia/en/a/a7/LaylaCover.jpg
+118,118.0,2005.0,Late Registration,Kanye West,Hip Hop,None,https://img.discogs.com/OcUJvw3S7-SnaQWblQE1WuQEXvw=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530085-1399453998-8858.jpeg.jpg
+119,119.0,1960.0,At Last!,Etta James,"Funk / Soul, Blues","Rhythm & Blues, Soul",https://images-na.ssl-images-amazon.com/images/I/61HbgcOfI4L._SL1200_.jpg
+120,120.0,1968.0,Sweetheart of the Rodeo,The Byrds,Rock,"Folk Rock, Country Rock",https://images-na.ssl-images-amazon.com/images/I/91uFYdfAYWL._SL1500_.jpg
+121,121.0,1969.0,Stand!,Sly & The Family Stone,Funk / Soul,"Funk, Psychedelic, Disco",https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Stand-slyfam.jpg/220px-Stand-slyfam.jpg
+122,122.0,1972.0,The Harder They Come,Various Artists,Reggae,Reggae,https://upload.wikimedia.org/wikipedia/en/8/80/JimmyCliffTheHarderTheyComealbumcover.jpg
+123,123.0,1986.0,Raising Hell,Run D.M.C.,Hip Hop,None,https://images-na.ssl-images-amazon.com/images/I/81LZkUP-oTL._SL1500_.jpg
+124,124.0,1967.0,Moby Grape,Moby Grape,Rock,"Folk Rock, Psychedelic Rock",https://upload.wikimedia.org/wikipedia/en/6/6d/Moby_Grape_-_Moby_Grape.jpg
+125,125.0,1971.0,Pearl,Janis Joplin,"Rock, Blues",Blues Rock,https://images-na.ssl-images-amazon.com/images/I/81l0jrw7q8L._SX466_.jpg
+126,126.0,1973.0,Catch a Fire,The Wailers,Reggae,Roots Reggae,https://upload.wikimedia.org/wikipedia/en/b/bf/BobMarleyCatchAFire.jpg
+127,127.0,1967.0,Younger Than Yesterday,The Byrds,Rock,"Folk Rock, Psychedelic Rock",https://upload.wikimedia.org/wikipedia/en/6/6b/YoungerYesterdayCover.jpg
+128,128.0,1973.0,Raw Power,Iggy and The Stooges,Rock,"Garage Rock, Hard Rock, Punk",https://images-na.ssl-images-amazon.com/images/I/51W%2BcuXNMgL._SX425_.jpg
+129,129.0,1980.0,Remain in Light,Talking Heads,"Electronic, Rock","New Wave, Art Rock, Funk",https://images-na.ssl-images-amazon.com/images/I/81m509vvPbL._SL1425_.jpg
+130,130.0,1977.0,Marquee Moon,Television,Rock,"New Wave, Punk",https://upload.wikimedia.org/wikipedia/en/a/af/Marquee_moon_album_cover.jpg
+131,131.0,1970.0,Paranoid,Black Sabbath,Rock,"Hard Rock, Heavy Metal",https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg
+132,132.0,1977.0,Saturday Night Fever: The Original Movie Sound Track,Various Artists,Electronic,Soundtrack,https://m.media-amazon.com/images/I/81T8HWCy17L.jpg
+133,133.0,1973.0,"The Wild, the Innocent & the E Street Shuffle",Bruce Springsteen,Rock,None,https://img.discogs.com/CFadw-30EwyDhUJN3_QRzK1ELw0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116450-1264932926.jpeg.jpg
+134,134.0,1994.0,Ready to Die,The Notorious B.I.G.,Hip Hop,Thug Rap,https://images-na.ssl-images-amazon.com/images/I/31QQ4JfKzWL._SY355_.jpg
+135,135.0,1992.0,Slanted and Enchanted,Pavement,Rock,Alternative Rock,https://upload.wikimedia.org/wikipedia/en/5/54/Slanted_and_Enchanted_album_cover.jpg
+136,136.0,1974.0,Greatest Hits,Elton John,Rock,Classic Rock,https://images-na.ssl-images-amazon.com/images/I/71s7uOgUVBL._SL1092_.jpg
+137,137.0,1985.0,Tim,The Replacements,Rock,Indie Rock,https://img.discogs.com/CwMu9QFznVWyyvohSmAGNCBoc-Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-995839-1378266710-7019.jpeg.jpg
+138,138.0,1992.0,The Chronic,Dr. Dre,Hip Hop,Rap,https://upload.wikimedia.org/wikipedia/en/1/19/Dr.DreTheChronic.jpg
+139,139.0,1974.0,Rejuvenation,The Meters,Funk / Soul,"Bayou Funk, Soul",https://img.discogs.com/rsH6QHm6l5hY3sjpTWcaCWYAvtk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5196146-1564206855-5721.jpeg.jpg
+140,140.0,1978.0,Parallel Lines,Blondie,"Electronic, Rock","New Wave, Pop Rock, Punk, Disco",https://upload.wikimedia.org/wikipedia/en/e/ee/Blondie_-_Parallel_Lines.jpg
+141,141.0,1965.0,Live at the Regal,B.B. King,Blues,Chicago Blues,https://upload.wikimedia.org/wikipedia/en/2/2f/BB_King-Live_at_the_Regal_%28album_cover%29.jpg
+142,142.0,1963.0,A Christmas Gift for You From Phil Spector,Phil Spector,"Rock, Funk / Soul, Pop",Pop Rock,https://images-na.ssl-images-amazon.com/images/I/81XXQf7343L._SL1500_.jpg
+143,143.0,1968.0,Gris-Gris,"Dr. John, the Night Tripper","Jazz, Rock, Funk / Soul, Blues","Soul-Jazz, Louisiana Blues, Fusion, Bayou Funk",https://upload.wikimedia.org/wikipedia/en/3/35/DrjohnNighttripper.jpg
+144,144.0,1988.0,Straight Outta Compton,N.W.A,Hip Hop,Gangsta,https://i.ebayimg.com/images/g/KP8AAOSwUKxYd5um/s-l300.jpg
+145,145.0,1977.0,Aja,Steely Dan,"Jazz, Rock","Jazz-Rock, Classic Rock",https://img.discogs.com/2n1641bevCsLBugH4AIXMHRDAvI=/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1377969-1297999564.jpeg.jpg
+146,146.0,1967.0,Surrealistic Pillow,Jefferson Airplane,Rock,"Folk Rock, Psychedelic Rock",https://images-na.ssl-images-amazon.com/images/I/81bDIXu8p7L._SL1500_.jpg
+147,147.0,1970.0,Deja vu,"Crosby, Stills, Nash & Young",Rock,Classic Rock,https://images-na.ssl-images-amazon.com/images/I/71Z6lsvGxdL._SL1425_.jpg
+148,148.0,1973.0,Houses of the Holy,Led Zeppelin,Rock,Classic Rock,https://miro.medium.com/max/2000/1*T0dT2A8wfPZ0j-6vv_WiaQ.jpeg
+149,149.0,1969.0,Santana,Santana,"Rock, Latin, Funk / Soul","Afro-Cuban, Psychedelic Rock",https://upload.wikimedia.org/wikipedia/en/8/84/Santana_-_Santana_%281969%29.png
+150,150.0,1978.0,Darkness on the Edge of Town,Bruce Springsteen,Rock,Pop Rock,https://images-na.ssl-images-amazon.com/images/I/81ChBQil4zL._SL1500_.jpg
+151,151.0,2004.0,Funeral,Arcade Fire,Rock,Indie Rock,https://upload.wikimedia.org/wikipedia/en/2/25/ArcadeFireFuneralCover.jpg
+152,152.0,1979.0,The B 52's / Play Loud,The B 52's,"Electronic, Rock, Pop","New Wave, Punk, Mod",https://upload.wikimedia.org/wikipedia/en/9/92/The_B-52%27s_cover.jpg
+153,153.0,1991.0,The Low End Theory,A Tribe Called Quest,Hip Hop,Conscious,https://le0pard13.files.wordpress.com/2017/05/lowendtheory.jpg?w=584&h=584
+154,154.0,1958.0,Moanin' in the Moonlight,Howlin' Wolf,Blues,Chicago Blues,https://images-na.ssl-images-amazon.com/images/I/51AgLRyvciL._SX355_.jpg
+155,155.0,1980.0,Pretenders,Pretenders,Rock,"Alternative Rock, New Wave",https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Pretenders_album.jpg/220px-Pretenders_album.jpg
+156,156.0,1989.0,Paul's Boutique,Beastie Boys,"Hip Hop, Rock, Funk / Soul","Alternative Rock, Pop Rap, Psychedelic",https://upload.wikimedia.org/wikipedia/en/0/07/BeastieBoysPaul%27sBoutique.jpg
+157,157.0,1980.0,Closer,Joy Division,Rock,"Post-Punk, New Wave",https://img.discogs.com/auHHgMRRMeCgvUn3zOAu-8iBYoQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-255866-1516053936-1743.jpeg.jpg
+158,158.0,1975.0,Captain Fantastic and the Brown Dirt Cowboy,Elton John,Rock,"Pop Rock, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/81b1UfnwZqL._SL1200_.jpg
+159,159.0,1975.0,Alive!,KISS,Rock,"Hard Rock, Glam",https://images-na.ssl-images-amazon.com/images/I/51iRFI%2BJh8L._SX355_.jpg
+160,160.0,1971.0,Electric Warrior,T. Rex,Rock,"Glam, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/915wkGhJhYL._SL1500_.jpg
+161,161.0,1968.0,The Dock of the Bay,Otis Redding,Funk / Soul,"Rhythm & Blues, Soul",https://img.discogs.com/hEni01dDePXfzhwKsIR6EbZRq80=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7334278-1548884715-1249.jpeg.jpg
+162,162.0,1997.0,OK Computer,Radiohead,"Electronic, Rock",Alternative Rock,https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg
+163,163.0,1982.0,1999.0,Prince,"Funk / Soul, Pop",None,https://img.discogs.com/jqkPkyxZZ8PwxHGWpy8QqvFbJM8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7699636-1446996205-5620.jpeg.jpg
+164,164.0,2002.0,The Very Best of Linda Ronstadt,Linda Ronstadt,"Rock, Pop","Soft Rock, Pop Rock",https://upload.wikimedia.org/wikipedia/en/6/6d/LindaRonstadt.jpg
+165,165.0,1973.0,Let's Get It On,Marvin Gaye,Funk / Soul,Soul,https://img.discogs.com/qrQ0gptyAUixLYNHlst3sAN_aZU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-305438-1550584469-8419.jpeg.jpg
+166,166.0,1982.0,Imperial Bedroom,Elvis Costello & The Attractions,Rock,"Alternative Rock, New Wave",https://www.rollingstone.com/wp-content/uploads/2018/06/rs-144569-48a3c989e39b88fa4164c33b52cecaa8e2801711.jpg?w=390
+167,167.0,1986.0,Master of Puppets,Metallica,Rock,"Thrash, Speed Metal",https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg
+168,168.0,1977.0,My Aim Is True,Elvis Costello,Rock,"New Wave, Pop Rock",https://images-na.ssl-images-amazon.com/images/I/8188cLleEML._SL1400_.jpg
+169,169.0,1977.0,Exodus,Bob Marley & The Wailers,Reggae,"Reggae, Roots Reggae",https://upload.wikimedia.org/wikipedia/en/b/b8/Bob_Marley_and_the_Wailers_-_Exodus.png
+170,170.0,1970.0,Live at Leeds,The Who,Rock,"Classic Rock, Blues Rock, Hard Rock",https://images-na.ssl-images-amazon.com/images/I/712rC7p38CL._SX355_.jpg
+171,171.0,1968.0,The Notorious Byrd Brothers,The Byrds,Rock,"Psychedelic Rock, Folk Rock, Country Rock, Pop Rock",https://images-na.ssl-images-amazon.com/images/I/61CXW3FiyWL._SX425_.jpg
+172,172.0,1971.0,Every Picture Tells a Story,Rod Stewart,Rock,Pop Rock,https://i1.wp.com/www.thevinyldistrict.com/wp-content/uploads/2014/03/Rod_Stewart-Every_Picture_Tells_A_Story-Frontal.jpg?resize=425%2C425
+173,173.0,1972.0,Something/Anything?,Todd Rundgren,Rock,"Power Pop, Pop Rock, Prog Rock",https://images-na.ssl-images-amazon.com/images/I/81HChwTxqaL._SL1426_.jpg
+174,174.0,1976.0,Desire,Bob Dylan,Rock,Folk Rock,https://upload.wikimedia.org/wikipedia/en/0/0e/Bob_Dylan_-_Desire.jpg
+175,175.0,1970.0,Close to You,Carpenters,"Rock, Pop","Pop Rock, Vocal",https://images-na.ssl-images-amazon.com/images/I/61c2OM4aymL._SY355_.jpg
+176,176.0,1976.0,Rocks,Aerosmith,Rock,"Hard Rock, Classic Rock",https://upload.wikimedia.org/wikipedia/en/8/87/Aerosmith_-_Rocks.JPG
+177,177.0,1978.0,One Nation Under a Groove,Funkadelic,Funk / Soul,P.Funk,https://img.discogs.com/UPvfyok2U-QVowHgotxT9DN5vVE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10623214-1526486334-9258.jpeg.jpg
+178,178.0,1992.0,The Anthology: 1961-1977,Curtis Mayfield and The Impressions,Funk / Soul,"Rhythm & Blues, Soul, Funk",https://images-na.ssl-images-amazon.com/images/I/41-T4kvSZ2L._SY450_.jpg
+179,179.0,2001.0,The Definitive Collection,ABBA,"Electronic, Pop","Europop, Synth-pop, Disco",https://images-na.ssl-images-amazon.com/images/I/71b30e1GGML._SL1071_.jpg
+180,180.0,1965.0,"The Rolling Stones, Now!",The Rolling Stones,"Rock, Blues, Pop","Pop Rock, Rhythm & Blues, Rock & Roll",https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Rollingstonesnow.jpg/220px-Rollingstonesnow.jpg
+181,181.0,1974.0,Natty Dread,Bob Marley & The Wailers,Reggae,"Reggae, Roots Reggae",https://upload.wikimedia.org/wikipedia/en/f/f4/BobMarley%26theWailersNattyDread.jpg
+182,182.0,1975.0,Fleetwood Mac,Fleetwood Mac,"Rock, Pop","Folk Rock, Pop Rock",https://pure-music.co.uk/wp-content/uploads/2019/10/1975-fleetwood-mac-album-cover.png
+183,183.0,1975.0,Red Headed Stranger,Willie Nelson,"Folk, World, & Country",Country,https://images-na.ssl-images-amazon.com/images/I/91SgIHbwYCL._SL1500_.jpg
+184,184.0,1990.0,The Immaculate Collection,Madonna,"Electronic, Pop",Synth-pop,https://img.discogs.com/5sMY-WgqyOIZMjo0azHNephzHf0=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6363459-1417392159-7454.jpeg.jpg
+185,185.0,1969.0,The Stooges,The Stooges,Rock,"Garage Rock, Punk",https://upload.wikimedia.org/wikipedia/en/e/e6/StoogesStooges.jpg
+186,186.0,1973.0,Fresh,Sly & The Family Stone,Funk / Soul,"Rhythm & Blues, Funk",https://images-na.ssl-images-amazon.com/images/I/41hsS51vpQL._SY355_.jpg
+187,187.0,1986.0,So,Peter Gabriel,"Electronic, Rock, Funk / Soul, Pop","Art Rock, Pop Rock, Synth-pop, Funk",https://upload.wikimedia.org/wikipedia/en/a/a4/So_%28album%29.png
+188,188.0,1967.0,Buffalo Springfield Again,Buffalo Springfield,"Rock, Pop",Country Rock,https://e.snmc.io/i/600/w/534cc8a7c3279ecab7e19a5e00519bf7/6276795
+189,189.0,1969.0,Happy Trails,Quicksilver Messenger Service,Rock,"Acid Rock, Psychedelic Rock",https://img.discogs.com/6HPn1rnyM6yfhJ7yND0XBTaWvz0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3043498-1316889116.jpeg.jpg
+190,190.0,1969.0,From Elvis in Memphis,Elvis Presley,"Rock, Funk / Soul, Folk, World, & Country","Country, Soul",https://d31wxntiwn0x96.cloudfront.net/rzgade/productimages/387.jpg?width=400&height=400&etag=%22e730dba92fabbd897c7312e44bc509f3%22
+191,191.0,1970.0,Fun House,The Stooges,Rock,"Garage Rock, Punk",https://img.discogs.com/32DUi2Lx6Klpn1oqVAxDf6ybnQc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5675190-1400339859-9712.jpeg.jpg
+192,192.0,1969.0,The Gilded Palace of Sin,The Flying Burrito Brothers,"Rock, Folk, World, & Country",Country Rock,https://images-na.ssl-images-amazon.com/images/I/814Mzj8HitL._SL1182_.jpg
+193,193.0,1994.0,Dookie,Green Day,Rock,"Alternative Rock, Pop Punk, Punk",https://images-na.ssl-images-amazon.com/images/I/91kny7EUh5L._SL1425_.jpg
+194,194.0,1972.0,Transformer,Lou Reed,Rock,Glam,https://media.pitchfork.com/photos/5929a23cc0084474cd0bffcc/1:1/w_320/259de20d.jpg
+195,195.0,1966.0,"Blues Breakers With Eric Clapton (""The Beano Album"")",John Mayall & The Bluesbreakers,Rock,Blues,https://images-na.ssl-images-amazon.com/images/I/41W79FGBRGL._QL70_ML2_.jpg
+196,196.0,1998.0,"Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",Various Artists,Rock,Garage Rock,https://images-na.ssl-images-amazon.com/images/I/91Jdelqb5UL._SL1500_.jpg
+197,197.0,1983.0,Murmur,R.E.M.,Rock,Alternative Rock,https://www.udiscovermusic.com/wp-content/uploads/2019/11/murmur.jpg
+198,198.0,1967.0,The Best of Little Walter,Little Walter,Blues,Chicago Blues,https://img.discogs.com/UeUnAW9GKo5aIbCQJ1K8F3K_TTg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3437964-1421102493-6066.jpeg.jpg
+199,199.0,2001.0,Is This It,The Strokes,Rock,Indie Rock,https://images-na.ssl-images-amazon.com/images/I/81xesqe7UML._SL1500_.jpg
+200,200.0,1979.0,Highway to Hell,AC/DC,Rock,Hard Rock,https://images-na.ssl-images-amazon.com/images/I/51NdC7BYcRL._SY355_.jpg
+201,201.0,1994.0,The Downward Spiral,Nine Inch Nails,"Electronic, Rock",Industrial,https://img.discogs.com/u_pB79uck86UR8Os3vbmidbFlWo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1475731-1222631308.jpeg.jpg
+202,202.0,1966.0,"Parsley, Sage, Rosemary and Thyme",Simon & Garfunkel,"Rock, Pop, Folk, World, & Country","Folk Rock, Pop Rock",https://images-na.ssl-images-amazon.com/images/I/71gFPsKS2QL._SL1500_.jpg
+203,203.0,1987.0,Bad,Michael Jackson,"Funk / Soul, Pop","Pop Rock, Ballad, Funk, Soul",https://images-na.ssl-images-amazon.com/images/I/71rWMh8QHnL._SL1500_.jpg
+204,204.0,2006.0,Modern Times,Bob Dylan,Rock,"Blues Rock, Folk Rock",https://upload.wikimedia.org/wikipedia/en/2/28/Bob_Dylan_-_Modern_Times.jpg
+205,205.0,1968.0,Wheels of Fire,Cream,"Rock, Blues","Blues Rock, Psychedelic Rock, Classic Rock",https://www.sputnikmusic.com/images/albums/5129.jpg
+206,206.0,1980.0,Dirty Mind,Prince,Funk / Soul,None,https://beatopolis.files.wordpress.com/2015/03/dirtymind.jpg?w=640
+207,207.0,1970.0,Abraxas,Santana,"Rock, Latin","Fusion, Hard Rock, Psychedelic Rock",https://images.45worlds.com/f/ab/santana-kc-30130-3-ab.jpg
+208,208.0,1970.0,Tea for the Tillerman,Cat Stevens,"Rock, Stage & Screen","Folk Rock, Pop Rock",https://images-na.ssl-images-amazon.com/images/I/51QpQFE1Z5L.jpg
+209,209.0,1991.0,Ten,Pearl Jam,Rock,Grunge,https://images-na.ssl-images-amazon.com/images/I/81eaKFGNhSL._SL1500_.jpg
+210,210.0,1969.0,Everybody Knows This Is Nowhere,Neil Young & Crazy Horse,Rock,"Folk Rock, Country Rock, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/615j6Wbcc5L._SY300_QL70_ML2_.jpg
+211,211.0,1975.0,Wish You Were Here,Pink Floyd,Rock,"Classic Rock, Prog Rock",https://images-na.ssl-images-amazon.com/images/I/61LYfqeXUDL._AC_SX522_.jpg
+212,212.0,1994.0,Crooked Rain Crooked Rain,Pavement,Rock,"Alternative Rock, Indie Rock",https://upload.wikimedia.org/wikipedia/en/6/64/Pavement_Crooked_Rain.jpg
+213,213.0,1981.0,Tattoo You,The Rolling Stones,Rock,Classic Rock,https://www.udiscovermusic.com/wp-content/uploads/2016/08/Rolling-Stones-Tattoo-You-Album-Cover-web-optimised-820.jpg
+214,214.0,1991.0,Proud Mary: The Best of Ike and Tina Turner,Ike & Tina Turner,Funk / Soul,"Rhythm & Blues, Bayou Funk, Soul",https://img.discogs.com/EXr9g5QTsGNbL4X8FPwSGn8i0cE=/fit-in/420x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2309694-1458029177-7772.jpeg.jpg
+215,215.0,1973.0,New York Dolls,New York Dolls,Rock,Glam,https://images-na.ssl-images-amazon.com/images/I/814RvrhnvWL._SL1423_.jpg
+216,216.0,1986.0,Bo Diddley / Go Bo Diddley,Bo Diddley,"Rock, Blues","Rhythm & Blues, Rock & Roll",https://images-na.ssl-images-amazon.com/images/I/71VRR1ixQiL._SX355_.jpg
+217,217.0,1961.0,Two Steps From the Blues,"Bobby ""Blue"" Bland","Funk / Soul, Blues","Rhythm & Blues, Soul",https://images-na.ssl-images-amazon.com/images/I/815EDMmGuJL._SL1200_.jpg
+218,218.0,1986.0,The Queen Is Dead,The Smiths,"Rock, Pop",Indie Rock,https://images-na.ssl-images-amazon.com/images/I/71n8bP01wxL._SL1077_.jpg
+219,219.0,1986.0,Licensed to Ill,Beastie Boys,Hip Hop,None,https://i.etsystatic.com/15564183/r/il/06609f/1356484790/il_570xN.1356484790_619m.jpg
+220,220.0,1970.0,Look-Ka Py Py,The Meters,Funk / Soul,"Bayou Funk, Soul, Funk",https://m.media-amazon.com/images/I/514nJzEKKcL.jpg
+221,221.0,1991.0,Loveless,My Bloody Valentine,Rock,"Alternative Rock, Shoegaze","https://media.wired.com/photos/5932793ef682204f7369619f/master/w_660,c_limit/loveless.jpg"
+222,222.0,1972.0,New Orleans Piano,Professor Longhair,"Funk / Soul, Blues",Piano Blues,https://images-na.ssl-images-amazon.com/images/I/71407DyEElL._SX355_.jpg
+223,223.0,1983.0,War,U2,Rock,Pop Rock,https://images-na.ssl-images-amazon.com/images/I/816LHcgjwZL._SL1400_.jpg
+224,224.0,1999.0,The Neil Diamond Collection,Neil Diamond,"Rock, Pop","Soft Rock, Ballad","https://images-na.ssl-images-amazon.com/images/I/51KSFo41DoL._SX258_BO1,204,203,200_.jpg"
+225,225.0,2004.0,American Idiot,Green Day,Rock,"Pop Rock, Punk",https://images-na.ssl-images-amazon.com/images/I/71Z0rLIvpuL._SL1448_.jpg
+226,226.0,1982.0,Nebraska,Bruce Springsteen,Rock,Acoustic,https://images-na.ssl-images-amazon.com/images/I/71A8zZJkR6L._SX355_.jpg
+227,227.0,1989.0,Doolittle,Pixies,Rock,Indie Rock,https://images-na.ssl-images-amazon.com/images/I/81D%2BwuLfeIL._SX355_.jpg
+228,228.0,1987.0,Paid in Full,Eric B. & Rakim,Hip Hop,None,https://upload.wikimedia.org/wikipedia/en/e/e1/RakimPIF.jpg
+229,229.0,1975.0,Toys in the Attic,Aerosmith,Rock,"Hard Rock, Blues Rock",https://ak1.ostkcdn.com/images/products/17522206/Aerosmith-Toys-in-the-Attic-Framed-Album-Cover-123b3019-3ebe-42da-bf9a-8bd7ccf4bc51.jpg
+230,230.0,1989.0,Nick of Time,Bonnie Raitt,"Rock, Pop","Blues Rock, Pop Rock",https://target.scene7.com/is/image/Target/GUEST_3d288971-a132-4d39-a220-1b6d1343001a?wid=488&hei=488&fmt=pjpeg
+231,231.0,1975.0,A Night at the Opera,Queen,Rock,"Hard Rock, Pop Rock, Prog Rock",https://images-na.ssl-images-amazon.com/images/I/71eu02SZK1L._SL1058_.jpg
+232,232.0,1972.0,The Kink Kronikles,The Kinks,Rock,"Rock & Roll, Pop Rock",https://img.discogs.com/G5wWoJMvQ4pFjN54TKTrYsPi1GE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6419607-1488462164-4607.jpeg.jpg
+233,233.0,1965.0,Mr. Tambourine Man,The Byrds,Rock,"Folk Rock, Garage Rock, Pop Rock",https://images-na.ssl-images-amazon.com/images/I/91qI2eqRo-L._SL1500_.jpg
+234,234.0,1968.0,Bookends,Simon & Garfunkel,Rock,"Folk Rock, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/71DkT9Cx0oL._SL1500_.jpg
+235,235.0,2000.0,The Ultimate Collection,Patsy Cline,"Folk, World, & Country",None,https://images-na.ssl-images-amazon.com/images/I/51LfCJb0w1L._SY355_.jpg
+236,236.0,1992.0,Mr. Excitement!,Jackie Wilson,Funk / Soul,None,https://i.scdn.co/image/ab67706c0000da84636c42945e31a6aeb09f19c7
+237,237.0,1965.0,My Generation,The Who,Rock,Mod,https://upload.wikimedia.org/wikipedia/en/0/01/My-Generation--2.jpg
+238,238.0,1962.0,Howlin' Wolf,Howlin' Wolf,Blues,None,https://img.discogs.com/bWNnEJGz_VqQLY_8lXk2p0-e0N0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3901682-1348609131-2952.jpeg.jpg
+239,239.0,1989.0,Like a Prayer,Madonna,"Electronic, Pop",Synth-pop,https://www.classicpopmag.com/wp-content/uploads/2019/03/91etw5xmsL-1._SL1425_.jpg
+240,240.0,1972.0,Can't Buy a Thrill,Steely Dan,Rock,Classic Rock,https://upload.wikimedia.org/wikipedia/en/b/b2/Cant_buy_a_tcant_buy_a_thrill.jpg
+241,241.0,1984.0,Let It Be,The Replacements,Rock,"Alternative Rock, Power Pop, Punk, Indie Rock",https://upload.wikimedia.org/wikipedia/en/b/b7/The_Replacements_-_Let_It_Be_cover.jpg
+242,242.0,1984.0,Run D.M.C.,Run D.M.C.,Hip Hop,None,https://upload.wikimedia.org/wikipedia/en/0/0d/Run-D.M.C..jpg
+243,243.0,1970.0,Black Sabbath,Black Sabbath,Rock,"Blues Rock, Heavy Metal",https://townsquare.media/site/366/files/2015/07/Black-Sabbath-debut.jpg?w=980&q=75
+244,244.0,2000.0,The Marshall Mathers LP,Eminem,Hip Hop,"Pop Rap, Hardcore Hip-Hop, Horrorcore",https://images.squarespace-cdn.com/content/v1/593070a42994cad2710a6439/1501346920866-VPKSV4GHXO7C82S5CHWE/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzAFzFJoCInLPKyj9AG8yKe7-Q2aFvP177fkO9TY_-rz5WoqqTEZpmj4yDEOdwKV68/image-asset.jpeg
+245,245.0,1993.0,All Killer No Filler! The Jerry Lee Lewis Anthology,Jerry Lee Lewis,"Rock, Blues, Folk, World, & Country","Country Blues, Rock & Roll, Rhythm & Blues",https://images-na.ssl-images-amazon.com/images/I/51KPWfgm9LL._SX355_.jpg
+246,246.0,1966.0,Freak Out!,The Mothers of Invention,"Electronic, Rock","Avantgarde, Symphonic Rock, Rhythm & Blues, Psychedelic Rock, Experimental, Parody",https://images-na.ssl-images-amazon.com/images/I/61iuD8FPD3L._SY355_.jpg
+247,247.0,1969.0,Live/Dead,The Grateful Dead,Rock,"Folk Rock, Country Rock, Psychedelic Rock, Experimental",https://images-na.ssl-images-amazon.com/images/I/A1IEyNYU2GL._SL1500_.jpg
+248,248.0,1959.0,The Shape of Jazz to Come,Ornette Coleman,Jazz,Free Jazz,https://www.jazzmessengers.com/25002-large_default/the-shape-of-jazz-to-come.jpg
+249,249.0,1992.0,Automatic for the People,R.E.M.,Rock,Alternative Rock,https://images-na.ssl-images-amazon.com/images/I/71wRCew9-sL._SY355_.jpg
+250,250.0,1996.0,Reasonable Doubt,Jay Z,Hip Hop,None,https://img.discogs.com/IEQzqeLrd6xiJB7llRhAq2eqruU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7170598-1496897279-6613.jpeg.jpg
+251,251.0,1977.0,Low,David Bowie,"Electronic, Rock","Art Rock, Ambient, Experimental",https://images-na.ssl-images-amazon.com/images/I/81s%2BUFcFaUL._SY355_.jpg
+252,252.0,2001.0,The Blueprint,Jay Z,Hip Hop,None,https://images-na.ssl-images-amazon.com/images/I/81SnS%2BLoVoL._SX355_.jpg
+253,253.0,1980.0,The River,Bruce Springsteen,Rock,"Folk Rock, Pop Rock, Classic Rock",https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/10/1389369194950/The-River-album-cover-014.jpg?width=700&quality=85&auto=format&fit=max&s=7fc9ce64b2870611d9cc66e68845d317
+254,254.0,1966.0,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Otis Redding,Funk / Soul,Soul,https://images-na.ssl-images-amazon.com/images/I/61ux%2BU0y%2BrL._SX355_.jpg
+255,255.0,1991.0,"Metallica (""The Black Album"")",Metallica,Rock,Heavy Metal,https://i.pinimg.com/originals/03/22/b0/0322b061d8b41b84f0ecafeaa1200c09.jpg
+256,256.0,1977.0,Trans Europa Express,Kraftwerk,Electronic,Electro,https://images-na.ssl-images-amazon.com/images/I/516gPpUEupL._SY300_QL70_ML2_.jpg
+257,257.0,1985.0,Whitney Houston,Whitney Houston,"Funk / Soul, Pop","Synth-pop, Rhythm & Blues",https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Whitney_Houston_-_Whitney_Houston_%28album%29.jpg/220px-Whitney_Houston_-_Whitney_Houston_%28album%29.jpg
+258,258.0,1968.0,The Kinks Are The Village Green Preservation Society,The Kinks,Rock,"Psychedelic Rock, Pop Rock",https://upload.wikimedia.org/wikipedia/en/c/cb/TheKinksVillageGreenPreservationSociety.jpg
+259,259.0,1997.0,The Velvet Rope,Janet,"Electronic, Funk / Soul, Pop","RnB/Swing, Downtempo",https://img.discogs.com/6YCJGfyG4Qi8SSzIdkVQiny2lyA=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4025712-1352756190-4446.jpeg.jpg
+260,260.0,1978.0,Stardust,Willie Nelson,"Pop, Folk, World, & Country",Vocal,https://images-na.ssl-images-amazon.com/images/I/51w38JbzO-L.jpg
+261,261.0,1970.0,American Beauty,Grateful Dead,Rock,Folk Rock,https://img.discogs.com/cgY7mRnKTshy6c6LUFweETDvKb8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12997119-1546139015-5439.jpeg.jpg
+262,262.0,1969.0,"Crosby, Stills & Nash","Crosby, Stills & Nash","Rock, Folk, World, & Country","Folk Rock, Classic Rock",https://upload.wikimedia.org/wikipedia/en/3/39/Crosbystillsandnash.jpg
+263,263.0,1988.0,Tracy Chapman,Tracy Chapman,Rock,None,https://thebluegrasssituation.com/wp-content/uploads/2018/03/Tracy-chapman-album.jpg
+264,264.0,1970.0,Workingman's Dead,Grateful Dead,Rock,"Folk Rock, Country Rock, Classic Rock",https://cdn.jerrygarcia.com/wp-content/uploads/1970/06/12150656/WorkingmansDead_Cover.jpg
+265,265.0,1959.0,The Genius of Ray Charles,Ray Charles,"Jazz, Pop","Soul-Jazz, Big Band",https://upload.wikimedia.org/wikipedia/en/2/26/Ray_Charles-The_Genius_of_Ray_Charles_-Atlantic-_%28album_cover%29.jpg
+266,266.0,1968.0,Child Is Father to the Man,"Blood, Sweat & Tears",Rock,"Blues Rock, Jazz-Rock, Classic Rock",https://img.discogs.com/pQH9Xyhz-plGqxlkWpEY3YudU-w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1431998-1221024602.jpeg.jpg
+267,267.0,1973.0,Quadrophenia,The Who,Rock,"Hard Rock, Classic Rock, Mod",https://images-na.ssl-images-amazon.com/images/I/51zJyUc%2Br6L._SX355_.jpg
+268,268.0,1972.0,Paul Simon,Paul Simon,Rock,"Folk Rock, Pop Rock",https://upload.wikimedia.org/wikipedia/en/4/45/PaulSimon-Front.jpg
+269,269.0,1985.0,Psychocandy,The Jesus and Mary Chain,Rock,Noise,https://images-na.ssl-images-amazon.com/images/I/71YzhEseDsL._SX355_.jpg
+270,270.0,1978.0,Some Girls,The Rolling Stones,Rock,"Blues Rock, Rock & Roll, Classic Rock, Disco",https://images-na.ssl-images-amazon.com/images/I/81gRMFAKxmL._SL1400_.jpg
+271,271.0,1965.0,The Beach Boys Today!,The Beach Boys,Rock,"Pop Rock, Psychedelic Rock",https://static.tvtropes.org/pmwiki/pub/images/77b62228230b07d0c4da9a1b1e5352fe.jpg
+272,272.0,1997.0,Dig Me Out,Sleater Kinney,Rock,Indie Rock,https://upload.wikimedia.org/wikipedia/en/5/5e/SleaterKinneyDigMeOut.jpg
+273,273.0,1966.0,Going to a Go-Go,Smokey Robinson & The Miracles,Funk / Soul,Soul,https://img.discogs.com/8Giy8Ay3Avo-WJzy5juQKIXf_zM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13796258-1561316599-9974.jpeg.jpg
+274,274.0,1974.0,Nightbirds,LaBelle,Funk / Soul,"Funk, Disco",https://images-na.ssl-images-amazon.com/images/I/71RHYD5bbyL._SL1500_.jpg
+275,275.0,1999.0,The Slim Shady LP,Eminem,Hip Hop,None,https://images-na.ssl-images-amazon.com/images/I/719F9nNZ-wL._SL1000_.jpg
+276,276.0,1975.0,Mothership Connection,Parliament,Funk / Soul,"P.Funk, Funk",https://www.udiscovermusic.com/wp-content/uploads/2019/12/Parliament-Mothership-Connection-album-cover-820.jpg
+277,277.0,1989.0,Rhythm Nation 1814,Janet Jackson,"Electronic, Hip Hop, Pop","RnB/Swing, Downtempo, Synth-pop",https://upload.wikimedia.org/wikipedia/en/9/91/Janet_Jackson_Rhythm_Nation_1814.png
+278,278.0,1997.0,Anthology of American Folk Music,Various,"Blues, Folk, World, & Country","Cajun, Country, Field Recording, Gospel, Delta Blues, Folk",https://upload.wikimedia.org/wikipedia/en/thumb/8/88/AnthAmerFolkMusic.jpg/220px-AnthAmerFolkMusic.jpg
+279,279.0,1973.0,Aladdin Sane,David Bowie,Rock,Glam,https://img.discogs.com/mkKTmi4j15BmVYkb60F-sjoNoU4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-354906-1412775755-4012.jpeg.jpg
+280,280.0,2000.0,All That You Can't Leave Behind,U2,Rock,Pop Rock,https://images-na.ssl-images-amazon.com/images/I/41V6Q1R4BJL.jpg
+281,281.0,1994.0,My Life,Mary J. Blige,Hip Hop,RnB/Swing,https://images.genius.com/7d393bab03d9eda4fadfaa61222a1cea.1000x1000x1.jpg
+282,282.0,1964.0,Folk Singer,Muddy Waters,Blues,Delta Blues,https://images-na.ssl-images-amazon.com/images/I/81R-3FaeK%2BL._SY355_.jpg
+283,283.0,1974.0,Can't Get Enough,Barry White,Funk / Soul,"Soul, Disco",https://img.discogs.com/oen4jnBQxAgFbv97U74_fv_-j6w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-863997-1399911589-8778.jpeg.jpg
+284,284.0,1978.0,The Cars,The Cars,"Electronic, Rock","New Wave, Pop Rock, Synth-pop",https://images-na.ssl-images-amazon.com/images/I/41KxB6UGFFL._AC_.jpg
+285,285.0,1972.0,Music of My Mind,Stevie Wonder,Funk / Soul,"Soul-Jazz, Soul",https://images-na.ssl-images-amazon.com/images/I/71B3LXMTvkL._SY355_.jpg
+286,286.0,1972.0,I'm Still in Love With You,Al Green,Funk / Soul,"Rhythm & Blues, Soul",https://images-na.ssl-images-amazon.com/images/I/717g58emu7L._SL1200_.jpg
+287,287.0,1980.0,Los Angeles,X,Rock,"Punk, Rock & Roll",https://media.pitchfork.com/photos/5c6731b8702c0f32fb8e95fc/1:1/w_320/x_los%20angeles.jpg
+288,288.0,1968.0,Anthem of the Sun,Grateful Dead,Rock,Psychedelic Rock,https://img.discogs.com/PPFLCH0u9TLmjClttIfZarb7268=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4044231-1583093757-8816.jpeg.jpg
+289,289.0,1967.0,Something Else by The Kinks,The Kinks,Rock,"Pop Rock, Psychedelic Rock, Mod",https://images-na.ssl-images-amazon.com/images/I/51boryEV27L._SY355_.jpg
+290,290.0,1973.0,Call Me,Al Green,Funk / Soul,"Rhythm & Blues, Soul",https://images-na.ssl-images-amazon.com/images/I/61gUy2WeE7L._SX522_.jpg
+291,291.0,1977.0,Talking Heads: 77,Talking Heads,Rock,New Wave,https://img.discogs.com/8BNy4LkiDcjAWZ7prOpkkivhaZs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-192870-1209765498.jpeg.jpg
+292,292.0,1975.0,The Basement Tapes,Bob Dylan and the Band,Rock,"Folk Rock, Country Rock, Classic Rock",https://cdn-s3.allmusic.com/release-covers/500/0001/419/0001419998.jpg
+293,293.0,1968.0,White Light/White Heat,The Velvet Underground,Rock,"Avantgarde, Experimental",https://upload.wikimedia.org/wikipedia/en/6/61/Whitelightwhiteheat.jpg
+294,294.0,1969.0,Kick Out the Jams,MC5,Rock,"Garage Rock, Hard Rock, Punk, Blues Rock",https://img.discogs.com/ozDtEiPIQ92I87eaYzI_GSXJtsM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4611227-1369894726-8228.jpeg.jpg
+295,295.0,1970.0,Songs of Love and Hate,Leonard Cohen,"Folk, World, & Country","Folk Rock, Folk, Ballad",https://cdn-s3.allmusic.com/release-covers/250/0000/352/0000352704.jpg
+296,296.0,1985.0,Meat Is Murder,The Smiths,Rock,"Alternative Rock, Indie Rock",https://img.discogs.com/UwVrpyB0WgK3VuhqVVFXlyKPYRs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-373240-1189712644.jpeg.jpg
+297,297.0,1968.0,We're Only in It for the Money,The Mothers of Invention,"Electronic, Rock","Modern Classical, Avantgarde, Psychedelic Rock, Experimental, Parody",https://img.discogs.com/nxDjKARfXk9aPmBNm5Qwyh5YYbc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12803227-1547598441-8286.jpeg.jpg
+298,298.0,2003.0,The College Dropout,Kanye West,Hip Hop,"Pop Rap, Conscious, Contemporary R&B","https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/kap7sz3mbnrnrhdugnjl.jpg"
+299,299.0,1994.0,Weezer (Blue Album),Weezer,Rock,"Alternative Rock, Emo",https://images-na.ssl-images-amazon.com/images/I/61%2BYFnKqzgL._SL1400_.jpg
+300,300.0,1971.0,Master of Reality,Black Sabbath,Rock,"Hard Rock, Heavy Metal",https://lh3.googleusercontent.com/proxy/sF_20wiRKFhLBs0lm9_RmSbzyZp2RmW9wsWPnnYgstC_PLiZVRWHpUI4SW_jaeOFENhlSIBkGx7eqHncTSRkMBRXXGk0mPC7hc7hy1LggU8HAdo7RY4
+301,301.0,1971.0,Coat of Many Colors,Dolly Parton,"Folk, World, & Country",Country,https://images-na.ssl-images-amazon.com/images/I/61yGYjfP1KL._SX355_.jpg
+302,302.0,1990.0,Fear of a Black Planet,Public Enemy,Hip Hop,Conscious,https://images-na.ssl-images-amazon.com/images/I/71nY5WsayXL._SX355_.jpg
+303,303.0,1967.0,John Wesley Harding,Bob Dylan,Rock,"Folk Rock, Country Rock",https://images-na.ssl-images-amazon.com/images/I/71jFBSrV4TL._SL1500_.jpg
+304,304.0,1994.0,Grace,Jeff Buckley,Rock,"Alternative Rock, Folk Rock",https://consequenceofsound.net/wp-content/uploads/2016/03/jeffbuckley_grace.jpg?quality=80&w=807
+305,305.0,1998.0,Car Wheels on a Gravel Road,Lucinda Williams,"Folk, World, & Country","Country, Folk",https://media.pitchfork.com/photos/5bcf716b56cc3c1c8c597bf2/1:1/w_320/car%20wheels%20on%20a%20gravel%20road_lucinda%20williams.jpg
+306,306.0,1996.0,Odelay,Beck,"Electronic, Hip Hop, Funk / Soul, Pop","Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract",https://img.discogs.com/i4Db09ghuYkcRM9ZdjkZfF-Tt6Q=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-235913-1359397798-9718.jpeg.jpg
+307,307.0,1964.0,A Hard Day's Night,The Beatles,"Rock, Stage & Screen","Soundtrack, Beat, Pop Rock",https://d2s36jztkuk7aw.cloudfront.net/sites/default/files/tile/image/AHardsDays_0.jpg
+308,308.0,1956.0,Songs for Swingin' Lovers!,Frank Sinatra,"Jazz, Pop","Vocal, Easy Listening",https://images-na.ssl-images-amazon.com/images/I/A1SElbNCfQL._SY355_.jpg
+309,309.0,1969.0,Willy and the Poor Boys,Creedence Clearwater Revival,Rock,"Blues Rock, Rock & Roll, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/51zyoUcU3sL._SX355_.jpg
+310,310.0,1991.0,Blood Sugar Sex Magik,Red Hot Chili Peppers,Rock,"Alternative Rock, Funk Metal",https://images-na.ssl-images-amazon.com/images/I/81hS2wgxbhL._SL1425_.jpg
+311,311.0,1994.0,The Sun Records Collection,Various,"Rock, Funk / Soul, Blues, Pop, Folk, World, & Country","Country Blues, Rock & Roll, Rockabilly",https://img.discogs.com/4ZBaBzUxE9Ze0YLNWpWIm6bolXY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3796174-1509911543-6099.jpeg.jpg
+312,312.0,1988.0,Nothing's Shocking,Jane's Addiction,Rock,Alternative Rock,https://i.ytimg.com/vi/gMaiCc_5jeU/maxresdefault.jpg
+313,313.0,1994.0,MTV Unplugged in New York,Nirvana,Rock,"Folk Rock, Acoustic, Grunge",https://images-na.ssl-images-amazon.com/images/I/81UaBt0dbML._SL1400_.jpg
+314,314.0,1998.0,The Miseducation of Lauryn Hill,Lauryn Hill,Hip Hop,"RnB/Swing, Conscious",https://images-na.ssl-images-amazon.com/images/I/91j5pX9RdHL._SL1500_.jpg
+315,315.0,1979.0,Damn the Torpedoes,Tom Petty and the Heartbreakers,Rock,"Soft Rock, Hard Rock, Pop Rock",https://i5.walmartimages.com/asr/41525a07-eb93-4df2-bb48-489e2d21df12_1.9786f1eda6e9df61d005d5d71d5b2928.jpeg
+316,316.0,1969.0,The Velvet Underground,The Velvet Underground,Rock,"Garage Rock, Art Rock, Experimental",https://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg
+317,317.0,1988.0,Surfer Rosa,Pixies,Rock,Alternative Rock,https://images.genius.com/a6e085205e79264f2cf1a31e408735eb.1000x1000x1.jpg
+318,318.0,1972.0,Back Stabbers,The O'Jays,Funk / Soul,Soul,https://upload.wikimedia.org/wikipedia/en/9/97/Back_Stabbers.jpg
+319,319.0,1973.0,Burnin',The Wailers,Reggae,Reggae,https://img.discogs.com/tSM6avQ8PRZgHHKq5rf85Rem4WY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1581794-1320436764.jpeg.jpg
+320,320.0,2001.0,Amnesiac,Radiohead,"Electronic, Rock","Alternative Rock, Experimental",https://img.cdandlp.com/2015/07/imgL/117612695.jpeg
+321,321.0,1972.0,Pink Moon,Nick Drake,"Rock, Folk, World, & Country","Folk, Folk Rock, Acoustic",https://www.udiscovermusic.com/wp-content/uploads/2018/02/Nick-Drake-Pink-Moon-Album-Cover-web-optimised-820.jpg
+322,322.0,1972.0,Sail Away,Randy Newman,"Rock, Pop",None,https://images.genius.com/7e3d81ad2c2c948b3a12e97ebb8f237b.953x953x1.jpg
+323,323.0,1981.0,Ghost in the Machine,The Police,"Rock, Pop","Alternative Rock, New Wave, Pop Rock",https://upload.wikimedia.org/wikipedia/en/2/2a/Ghost_In_The_Machine_cover.jpg
+324,324.0,1976.0,Station to Station,David Bowie,"Rock, Funk / Soul","Classic Rock, Soul, Funk, Art Rock",https://images-na.ssl-images-amazon.com/images/I/717wsO2kTGL._SL1500_.jpg
+325,325.0,1977.0,Slowhand,Eric Clapton,Rock,None,https://images-na.ssl-images-amazon.com/images/I/51rTiZ8mA8L._AC_.jpg
+326,326.0,1989.0,Disintegration,The Cure,"Electronic, Rock","New Wave, Alternative Rock",https://www.covermesongs.com/wp-content/uploads/2016/01/cure-disintegration-500x500.png
+327,327.0,1993.0,Exile in Guyville,Liz Phair,Rock,"Lo-Fi, Indie Rock",https://images-na.ssl-images-amazon.com/images/I/61nTe9U28jL._SL1200_.jpg
+328,328.0,1988.0,Daydream Nation,Sonic Youth,Rock,"Alternative Rock, Indie Rock",https://img.discogs.com/romF60vGFmnwRuLWEBRfvzHRp18=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1352572-1541977552-4962.jpeg.jpg
+329,329.0,1986.0,In the Jungle Groove,James Brown,Funk / Soul,"Soul, Funk",https://images-na.ssl-images-amazon.com/images/I/817InGb%2B-XL._SL1500_.jpg
+330,330.0,1975.0,Tonight's the Night,Neil Young,Rock,"Blues Rock, Folk Rock, Classic Rock",https://upload.wikimedia.org/wikipedia/en/0/01/Neil_Young_TTN_cover.jpg
+331,331.0,1965.0,Help!,The Beatles,"Rock, Stage & Screen","Beat, Soundtrack, Pop Rock",https://img.discogs.com/6ygIOCFvmTEnKFjS7rKLX-loZYM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-735564-1391696740-8760.jpeg.jpg
+332,332.0,1982.0,Shoot Out the Lights,Richard & Linda Thompson,"Rock, Folk, World, & Country",Folk Rock,https://img.discogs.com/yGyfrnrKYkeyrLK-b_VpNxKRFTI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4396596-1510492520-2862.jpeg.jpg
+333,333.0,1981.0,Wild Gift,X,Rock,"Rock & Roll, Punk",https://images-na.ssl-images-amazon.com/images/I/912NLSyr%2BGL._SY355_.jpg
+334,334.0,1979.0,Squeezing Out Sparks,Graham Parker & The Rumour,"Rock, Blues",None,https://images-na.ssl-images-amazon.com/images/I/51sdm1ZYZ-L._SY355_.jpg
+335,335.0,1994.0,Superunknown,Soundgarden,Rock,Alternative Rock,https://upload.wikimedia.org/wikipedia/en/3/3a/Superunknown.jpg
+336,336.0,2007.0,In Rainbows,Radiohead,"Electronic, Rock","Alternative Rock, Art Rock",https://images-na.ssl-images-amazon.com/images/I/81KWYrlOt7L._SL1254_.jpg
+337,337.0,1971.0,Aqualung,Jethro Tull,Rock,"Classic Rock, Prog Rock",https://images-na.ssl-images-amazon.com/images/I/81Uogc1hSlL._SL1400_.jpg
+338,338.0,1968.0,Cheap Thrills,Big Brother & the Holding Company,Rock,"Folk Rock, Blues Rock, Psychedelic Rock",https://images-na.ssl-images-amazon.com/images/I/A1dRfDWg-ZL._SL1500_.jpg
+339,339.0,1974.0,The Heart of Saturday Night,Tom Waits,"Jazz, Pop, Folk, World, & Country","Contemporary Jazz, Spoken Word",https://upload.wikimedia.org/wikipedia/en/f/f7/TheHeartofSaturdayNight.jpg
+340,340.0,1981.0,Damaged,Black Flag,Rock,"Hardcore, Punk",https://img.discogs.com/uLfvgl8Q1DVYiTajOGlRzi5fOyQ=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-581152-1568041765-8786.jpeg.jpg
+341,341.0,1999.0,Play,Moby,Electronic,"Breakbeat, Leftfield, Downtempo",https://images-na.ssl-images-amazon.com/images/I/5107XD8268L._SY355_.jpg
+342,342.0,1990.0,Violator,Depeche Mode,Electronic,Synth-pop,https://images-na.ssl-images-amazon.com/images/I/61dlEQfq8lL._SY355_.jpg
+343,343.0,1977.0,Bat Out of Hell,Meat Loaf,Rock,Pop Rock,https://i.pinimg.com/originals/6f/c8/f9/6fc8f9f1be6e11e45740ed9597ef6d8f.jpg
+344,344.0,1973.0,Berlin,Lou Reed,Rock,Hard Rock,https://images-na.ssl-images-amazon.com/images/I/61HNmpPlzPL.jpg
+345,345.0,1984.0,Stop Making Sense,Talking Heads,"Rock, Funk / Soul","Funk, Indie Rock, New Wave",https://cdn11.bigcommerce.com/s-8e25iavqdi/images/stencil/original/products/64581/63380/stop-making-sense-1-album-cover-sticker__06111.1540295682.jpg?c=2&imbypass=on
+346,346.0,1989.0,3 Feet High and Rising,De La Soul,Hip Hop,None,https://img.discogs.com/8WnMGZ5cvUaZf5Lg8IS8KgFkemA=/fit-in/599x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005555-1248464166.jpeg.jpg
+347,347.0,1967.0,The Piper at the Gates of Dawn,Pink Floyd,Rock,Psychedelic Rock,https://images-na.ssl-images-amazon.com/images/I/91t8XcnSbEL._SY355_.jpg
+348,348.0,1960.0,Muddy Waters at Newport 1960,Muddy Waters,"Rock, Blues","Blues Rock, Chicago Blues",https://static.musictoday.com/store/bands/4116/product_large/FMLP296.jpg
+349,349.0,2003.0,The Black Album,Jay Z,Hip Hop,None,https://images-na.ssl-images-amazon.com/images/I/61hpb0sv3jL._SY355_.jpg
+350,350.0,1966.0,Roger the Engineer,The Yardbirds,"Rock, Blues","Blues Rock, Pop Rock",https://img.discogs.com/s7PtamvcVnbVm1DzGs1f816JaFQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4376141-1395659658-5626.jpeg.jpg
+351,351.0,1979.0,Rust Never Sleeps,Neil Young & Crazy Horse,Rock,"Hard Rock, Arena Rock",https://images.roughtrade.com/product/images/files/000/094/541/original/816CyNiNKIL._SL1425_.jpg?1501171070
+352,352.0,1985.0,Brothers in Arms,Dire Straits,Rock,"AOR, Classic Rock",https://www.markknopfler.com/wp-content/uploads/2013/08/BrothersInArms.jpg
+353,353.0,2010.0,My Beautiful Dark Twisted Fantasy,Kanye West,Hip Hop,None,https://images-na.ssl-images-amazon.com/images/I/91dHRGIV65L._SL1500_.jpg
+354,354.0,1978.0,52nd Street,Billy Joel,"Jazz, Rock, Pop","Pop Rock, Ballad, Latin Jazz",https://images-na.ssl-images-amazon.com/images/I/611OI35Ag2L._SY355_.jpg
+355,355.0,1965.0,Having a Rave Up,The Yardbirds,Rock,"Blues Rock, Psychedelic Rock",https://upload.wikimedia.org/wikipedia/en/e/e8/Havingaraveup.jpg
+356,356.0,1970.0,12 Songs,Randy Newman,"Rock, Pop","Pop Rock, Vocal",https://images-na.ssl-images-amazon.com/images/I/813F%2B3qaIFL._SL1425_.jpg
+357,357.0,1967.0,Between the Buttons,The Rolling Stones,Rock,"Blues Rock, Psychedelic Rock, Pop Rock",https://lh3.googleusercontent.com/proxy/Pg1U9QIS4-1xLi3o5iNPbwNkJN0vu1Yf2G0fU2A78SyL4H4c_7L8NzAXHLSAxwXU916GYNtBEVjGjpcgp4qoHXTy1Isj2aIhSNF-ZdnrowN5awHUQvGrR2uyBw
+358,358.0,1960.0,Sketches of Spain,Miles Davis,Jazz,Modal,https://images-na.ssl-images-amazon.com/images/I/811Ebk-akKL._SL1500_.jpg
+359,359.0,1972.0,Honky Chateau,Elton John,Rock,Pop Rock,https://m.media-amazon.com/images/I/81UxW2rdfrL.jpg
+360,360.0,1979.0,Singles Going Steady,Buzzcocks,Rock,Punk,https://img.discogs.com/TaDisWoFqfW64_XX-ZgYlsagMVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1712979-1304159966.jpeg.jpg
+361,361.0,2000.0,Stankonia,OutKast,"Hip Hop, Funk / Soul","Gangsta, P.Funk, Crunk, Conscious",https://m.media-amazon.com/images/I/81UA1Jm2FBL._SS500_.jpg
+362,362.0,1993.0,Siamese Dream,The Smashing Pumpkins,Rock,Alternative Rock,https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F02%2Fsiamese-dream.jpg&q=85
+363,363.0,1987.0,Substance 1987,New Order,Electronic,Synth-pop,https://img.discogs.com/61_7mNJhhmiUX1DbloQO5xaLzxo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-23662-1348258701-5880.jpeg.jpg
+364,364.0,1971.0,L.A. Woman,The Doors,Rock,"Blues Rock, Classic Rock",https://townsquare.media/site/295/files/2015/04/LA-Woman.jpg?w=980&q=75
+365,365.0,1992.0,Rage Against the Machine,Rage Against the Machine,"Hip Hop, Rock",Funk Metal,https://images-na.ssl-images-amazon.com/images/I/81ApIxyhiAL._SL1500_.jpg
+366,366.0,1994.0,American Recordings,Johnny Cash,"Folk, World, & Country","Country, Gospel, Folk",https://images-na.ssl-images-amazon.com/images/I/51N0lR6s1sL._SY400_.jpg
+367,367.0,1998.0,Ray of Light,Madonna,"Electronic, Pop","House, Techno, Downtempo, Vocal, Ambient",https://upload.wikimedia.org/wikipedia/en/d/dd/Ray_of_Light_Madonna.png
+368,368.0,1972.0,Eagles,Eagles,Rock,"Country Rock, Classic Rock",https://images.45worlds.com/f/ab/eagles-sd-5054-ab.jpg
+369,369.0,1987.0,Louder Than Bombs,The Smiths,Rock,"Alternative Rock, Indie Rock",https://images-na.ssl-images-amazon.com/images/I/41AT7ZTKDML._SX300_QL70_ML2_.jpg
+370,370.0,1973.0,Mott,Mott the Hoople,Rock,Classic Rock,https://images-na.ssl-images-amazon.com/images/I/41P1ml02dgL._SX355_.jpg
+371,371.0,2006.0,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,Rock,Indie Rock,https://i.redd.it/hs27v1b6ii8y.png
+372,372.0,1979.0,Reggatta de Blanc,The Police,"Rock, Pop","New Wave, Pop Rock",https://images.squarespace-cdn.com/content/v1/59b42337b7411c6d02fdca0e/1505669708291-7877OA40M3MHI6E0S8T7/ke17ZwdGBToddI8pDm48kNDA1KKPnejvrc8aNB1h53BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI_O0QXaCfy1WSgXfW7kCtZfhqU1lZMakzDgTpPIGZH6sKMshLAGzx4R3EDFOm1kBS/album_reggattadeblanc.jpg
+373,373.0,1969.0,Volunteers,Jefferson Airplane,Rock,"Psychedelic Rock, Folk Rock, Country Rock, Honky Tonk",https://images-na.ssl-images-amazon.com/images/I/81lAB-CqVfL._SY355_.jpg
+374,374.0,1975.0,Siren,Roxy Music,Rock,"Art Rock, Pop Rock, Glam",https://upload.wikimedia.org/wikipedia/en/a/ad/Roxysiren.jpg
+375,375.0,1974.0,Late for the Sky,Jackson Browne,Rock,Pop Rock,https://upload.wikimedia.org/wikipedia/en/3/30/JacksonBrowneLatefortheSky.jpg
+376,376.0,1995.0,Post,Bjork,Electronic,"Breakbeat, IDM, Electro",https://img.discogs.com/VHRo7pz4t8Kjz_VOBeJWytgwJgo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6744576-1459940263-4774.jpeg.jpg
+377,377.0,1991.0,The Ultimate Collection: 1948-1990,John Lee Hooker,Blues,"Country Blues, Electric Blues, Chicago Blues, Jump Blues",https://images-na.ssl-images-amazon.com/images/I/4114AASXA9L.jpg
+378,378.0,1995.0,(What's the Story) Morning Glory?,Oasis,"Rock, Pop",Brit Pop,https://images-na.ssl-images-amazon.com/images/I/81XAuWZWyqL._SL1425_.jpg
+379,379.0,1994.0,CrazySexyCool,TLC,"Electronic, Hip Hop, Funk / Soul",RnB/Swing,https://img.discogs.com/Q09qFHO758ebgOd8HekbGS173Rg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-247555-1542802842-1588.jpeg.jpg
+380,380.0,1973.0,Funky Kingston,Toots & The Maytals,Reggae,"Reggae Gospel, Reggae, Roots Reggae, Rocksteady",https://img.discogs.com/2VumeG31ie01XypAAEcHrjrm2MU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2545087-1289758825.jpeg.jpg
+381,381.0,2011.0,The Smile Sessions,The Beach Boys,Rock,"Pop Rock, Psychedelic Rock",https://townsquare.media/site/295/files/2011/11/Beachboys_smile_cover-300x300.jpg?w=980&q=75
+382,382.0,1976.0,The Modern Lovers,The Modern Lovers,Rock,"Art Rock, Indie Rock",https://media.pitchfork.com/photos/5929b2625e6ef959693222ad/1:1/w_320/e1499562.jpg
+383,383.0,1978.0,More Songs About Buildings and Food,Talking Heads,Rock,"New Wave, Indie Rock",https://images-na.ssl-images-amazon.com/images/I/A1muICLMfvL._SL1500_.jpg
+384,384.0,1966.0,A Quick One,The Who,Rock,"Mod, Beat, Psychedelic Rock",https://www.recordsbymail.com/uploads/4-23-15-2/728480.jpg
+385,385.0,2001.0,"""Love and Theft""",Bob Dylan,Rock,"Folk Rock, Blues Rock",https://upload.wikimedia.org/wikipedia/en/f/f9/Bob_Dylan_-_Love_and_Theft.jpg
+386,386.0,1974.0,Pretzel Logic,Steely Dan,"Jazz, Rock","Jazz-Rock, Pop Rock, Classic Rock",https://www.vinylpussycat.com/wp-content/uploads/DSC_0004-36.jpg
+387,387.0,1993.0,Enter the Wu_Tang: 36 Chambers,Wu Tang Clan,Hip Hop,Gangsta,https://images-na.ssl-images-amazon.com/images/I/71BUBWTvyhL._SL1500_.jpg
+388,388.0,1985.0,The Indestructible Beat of Soweto,Various Artists,Funk,African,https://img.discogs.com/AMQq6XK84QszfGl_k81x7aPD8ik=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2281501-1274211322.jpeg.jpg
+389,389.0,1989.0,The End of the Innocence,Don Henley,Rock,Pop Rock,https://m.media-amazon.com/images/I/81gjSbngDOL._SS500_.jpg
+390,390.0,2003.0,Elephant,The White Stripes,Rock,"Blues Rock, Garage Rock, Alternative Rock",https://upload.wikimedia.org/wikipedia/en/1/11/Elephant%2C_The_White_Stripes.png
+391,391.0,1976.0,The Pretender,Jackson Browne,Rock,"Soft Rock, Pop Rock",https://img.discogs.com/Wp3lWPStIDkb8HhsarPV2PELv0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1844636-1385393067-8580.jpeg.jpg
+392,392.0,1970.0,Let It Be,The Beatles,Rock,Pop Rock,https://upload.wikimedia.org/wikipedia/en/5/51/TheBeatles-LetItBe%282011VinylReissue%29.png
+393,393.0,2007.0,Kala,M.I.A.,"Electronic, Hip Hop, Reggae, Pop","Grime, Bollywood, Hip Hop, Dancehall",https://upload.wikimedia.org/wikipedia/en/c/cf/M.I.A._-_Kala.png
+394,394.0,1974.0,Good Old Boys,Randy Newman,"Rock, Pop","Pop Rock, Vocal",https://images-na.ssl-images-amazon.com/images/I/41a0ZiVZ5LL._SX355_.jpg
+395,395.0,2007.0,Sound of Silver,LCD Soundsystem,"Electronic, Rock","Leftfield, Alternative Rock, Electro, Disco",https://img.discogs.com/cej1_E1cHHdc-zdbv3CCmwgo-E4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9691744-1580043996-8264.jpeg.jpg
+396,396.0,1973.0,For Your Pleasure,Roxy Music,Rock,"Art Rock, Avantgarde, Glam",https://img.discogs.com/IKr75kr4RDabUEDG_CMVk8EurYs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2279476-1274206217.jpeg.jpg
+397,397.0,1991.0,Blue Lines,Massive Attack,"Electronic, Reggae","Dub, Downtempo",https://img.discogs.com/o2NLioei6tkQuwEOcFkUbNQl1tQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65754-1320097333.jpeg.jpg
+398,398.0,1983.0,Eliminator,ZZ Top,Rock,Pop Rock,https://images-na.ssl-images-amazon.com/images/I/713UXlz1MiL._AC_SL1417_.jpg
+399,399.0,1985.0,Rain Dogs,Tom Waits,"Rock, Blues",Blues Rock,https://images-na.ssl-images-amazon.com/images/I/81eN10gtGhL._SY355_.jpg
+400,400.0,1995.0,Anthology: The Best of The Temptations,The Temptations,"Electronic, Funk / Soul","Soul, Disco",https://images-na.ssl-images-amazon.com/images/I/41jWFJEO9HL._SY355_.jpg
+401,401.0,1999.0,Californication,Red Hot Chili Peppers,Rock,"Alternative Rock, Funk Metal",https://images-na.ssl-images-amazon.com/images/I/81TnWHafWdL._SY355_.jpg
+402,402.0,1994.0,Illmatic,Nas,Hip Hop,None,https://images-na.ssl-images-amazon.com/images/I/81oJg8R1C4L._SY355_.jpg
+403,403.0,1973.0,(pronounced 'leh-'nerd 'skin-'nerd),Lynyrd Skynyrd,Rock,"Blues Rock, Hard Rock, Southern Rock",https://images-na.ssl-images-amazon.com/images/I/813cxqBHguL._SL1200_.jpg
+404,404.0,1972.0,Dr. John's Gumbo,Dr. John,Funk / Soul,"Bayou Funk, Funk, Rhythm & Blues",https://images-na.ssl-images-amazon.com/images/I/A1Mm1dCsV3L._SY355_.jpg
+405,405.0,1974.0,Radio City,Big Star,Rock,Power Pop,https://consequenceofsound.net/wp-content/uploads/2019/03/Big-Star-Radio-City1.jpg?quality=80&w=807
+406,406.0,1993.0,Rid of Me,PJ Harvey,Rock,Indie Rock,https://media.pitchfork.com/photos/5b9153fccee94b2c79b99688/1:1/w_320/pj%20harvey_rid%20of%20me.jpg
+407,407.0,1980.0,Sandinista!,The Clash,"Rock, Reggae","Rock & Roll, Dub, Punk",https://upload.wikimedia.org/wikipedia/en/6/66/The_Clash_-_Sandinista%21.jpg
+408,408.0,1989.0,I Do Not Want What I Haven't Got,Sinead O'Connor,"Rock, Funk / Soul, Blues","Blues Rock, Rhythm & Blues, Soul",https://m.media-amazon.com/images/I/71az5TtBKbL._SS500_.jpg
+409,409.0,1967.0,Strange Days,The Doors,Rock,Psychedelic Rock,https://upload.wikimedia.org/wikipedia/en/f/fc/AlbumStrangeDays.jpg
+410,410.0,1997.0,Time Out of Mind,Bob Dylan,"Rock, Blues",Blues Rock,https://media.pitchfork.com/photos/5ad6530362be0b0b29074a9a/1:1/w_600/Bob%20Dylan_time%20out%20of%20mind.jpg
+411,411.0,1974.0,461 Ocean Boulevard,Eric Clapton,Rock,Blues Rock,https://images-na.ssl-images-amazon.com/images/I/813LRtJwm-L._SL1416_.jpg
+412,412.0,1977.0,Pink Flag,Wire,Rock,Punk,https://cdn.shopify.com/s/files/1/0890/9074/products/R-12172756-1530197830-3084_jpeg_grande.jpg?v=1538890592
+413,413.0,1984.0,Double Nickels on the Dime,Minutemen,Rock,"Alternative Rock, Hardcore, Punk",https://upload.wikimedia.org/wikipedia/en/b/bc/Doublenickels.jpg
+414,414.0,1981.0,Beauty and the Beat,The Go Go's,Rock,Pop Rock,https://m.media-amazon.com/images/I/819gwd5D6jL._SS500_.jpg
+415,415.0,1978.0,Van Halen,Van Halen,Rock,Hard Rock,https://www.vanhalenstore.com/shop/graphics/00000002/CD101B.jpg
+416,416.0,1999.0,Mule Variations,Tom Waits,"Electronic, Rock","Abstract, Art Rock",https://images-na.ssl-images-amazon.com/images/I/412YGAJNY4L.jpg
+417,417.0,1980.0,Boy,U2,Rock,"New Wave, Pop Rock",https://images-na.ssl-images-amazon.com/images/I/81RVXancHTL._SY355_.jpg
+418,418.0,1973.0,Band on the Run,Paul McCartney & Wings,Rock,Pop Rock,https://images-na.ssl-images-amazon.com/images/I/51STfCjOTZL._SY355_.jpg
+419,419.0,1994.0,Dummy,Portishead,Electronic,"Trip Hop, Downtempo",https://media.pitchfork.com/photos/5929c375eb335119a49ed6f6/1:1/w_320/d17fe61e.jpg
+420,420.0,1957.0,"The ""Chirping"" Crickets",The Crickets,"Rock, Pop","Rockabilly, Rock & Roll",https://images-na.ssl-images-amazon.com/images/I/61ak6igPW-L._SY355_.jpg
+421,421.0,1990.0,"The Best of the Girl Groups, Volume 1",Various Artists,Rock,"Pop Rock, Vocal",https://images-na.ssl-images-amazon.com/images/I/411Z866QZEL.jpg
+422,422.0,1963.0,Presenting the Fabulous Ronettes Featuring Veronica,The Ronettes,"Rock, Pop","Rock & Roll, Vocal",https://img.discogs.com/yKFAqsJ2RyFQgyYQn6WvtiF65Mw=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949463-1478607570-5335.jpeg.jpg
+423,423.0,2001.0,Anthology,Diana Ross & The Supremes,"Electronic, Funk / Soul","Pop Rock, Soul, Disco",https://images-na.ssl-images-amazon.com/images/I/61k02H9uCwL._SX355_.jpg
+424,424.0,2002.0,The Rising,Bruce Springsteen,Rock,"Folk Rock, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/41WX7CEJ72L.jpg
+425,425.0,1974.0,Grievous Angel,Gram Parsons,"Rock, Folk, World, & Country","Country Rock, Honky Tonk",https://img.discogs.com/mB8kxHPO6M1e79g1Z8XrIehLVGU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-974590-1327210749.jpeg.jpg
+426,426.0,1978.0,Cheap Trick at Budokan,Cheap Trick,Rock,"Power Pop, Pop Rock, Arena Rock, Hard Rock",https://upload.wikimedia.org/wikipedia/en/2/22/CheapTrick_Live_atBudokan.jpg
+427,427.0,2002.0,Sleepless,Peter Wolf,"Rock, Blues, Pop","Blues Rock, Pop Rock, Ballad",https://lh3.googleusercontent.com/proxy/XbGxHgjGheZIZiwYD3zGJQ_25WNlFa6kZT93I8WI6dFSzuxAuZ1byUwZ1Bo6PupTr3-x9tg4e8NRByIx9l03RpMq5Zv5G4KeYakJb_Xm0g
+428,428.0,1978.0,Outlandos d'Amour,The Police,Rock,"Alternative Rock, New Wave, Punk",https://images.squarespace-cdn.com/content/v1/59b42337b7411c6d02fdca0e/1505667520194-EFC0VJZPJ92URVWMT3JC/ke17ZwdGBToddI8pDm48kNDA1KKPnejvrc8aNB1h53BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI_O0QXaCfy1WSgXfW7kCtZfhqU1lZMakzDgTpPIGZH6sKMshLAGzx4R3EDFOm1kBS/album_outlandosdamour.jpg
+429,429.0,1975.0,Another Green World,Brian Eno,Electronic,"Experimental, Ambient",https://upload.wikimedia.org/wikipedia/en/9/92/Another_Green_World.jpg
+430,430.0,2007.0,Vampire Weekend,Vampire Weekend,Rock,Indie Rock,https://media.pitchfork.com/photos/5929b41e13d197565213aa5f/1:1/w_320/8212e6dc.jpeg
+431,431.0,2000.0,"Stories From the City, Stories From the Sea",PJ Harvey,Rock,Indie Rock,https://upload.wikimedia.org/wikipedia/en/a/a3/Stories_From_The_City%2C_Stories_From_The_Sea.jpg
+432,432.0,1973.0,Here Come the Warm Jets,Brian Eno,Rock,"Art Rock, Glam",https://m.media-amazon.com/images/I/51S2KFVAJDL._AC_UL436_.jpg
+433,433.0,1970.0,All Things Must Pass,George Harrison,Rock,Pop Rock,https://images-na.ssl-images-amazon.com/images/I/51ldXezFtfL._SY355_.jpg
+434,434.0,1972.0,#1 Record,Big Star,Rock,Power Pop,https://upload.wikimedia.org/wikipedia/en/5/57/Big_Star_-1_Record.jpg
+435,435.0,1993.0,In Utero,Nirvana,Rock,"Grunge, Alternative Rock",https://images-na.ssl-images-amazon.com/images/I/71LZwfyAMuL._SL1500_.jpg
+436,436.0,2002.0,Sea Change,Beck,Rock,"Alternative Rock, Post Rock",https://media.pitchfork.com/photos/5929a24d13d197565213883a/1:1/w_320/7815a71f.jpg
+437,437.0,2008.0,Tha Carter III,Lil Wayne,"Hip Hop, Funk / Soul","RnB/Swing, Screw, Pop Rap, Thug Rap","https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/oywkbowhis24zygpzwyy/carter-3"
+438,438.0,1979.0,Boys Don't Cry,The Cure,Rock,"New Wave, Post-Punk",https://static1.squarespace.com/static/5d49fb85c612420001eaf2ae/5dfae926ba3b441134a1b1fd/5e1fc662f8c3503a1722ded2/1586828064385/CURE-1385570-1215111225.jpeg.jpg?format=1500w
+439,439.0,1985.0,"Live at the Harlem Square Club, 1963",Sam Cooke,Funk / Soul,Soul,https://images-na.ssl-images-amazon.com/images/I/71IV7UHFhpL._SX355_.jpg
+440,440.0,1985.0,Rum Sodomy & the Lash,The Pogues,"Rock, Folk, World, & Country","Folk Rock, Celtic, Punk",https://media.musicarts.com/is/image/MMGS7/K57197000000000-00-600x600.jpg
+441,441.0,1977.0,Suicide,Suicide,"Electronic, Rock","New Wave, Experimental",https://upload.wikimedia.org/wikipedia/en/2/26/Suicide1977.jpg
+442,442.0,1978.0,Q: Are We Not Men? A: We Are Devo!,DEVO,Rock,New Wave,https://images-na.ssl-images-amazon.com/images/I/81G8GS7hOWL._SL1425_.jpg
+443,443.0,1977.0,In Color,Cheap Trick,Rock,"Power Pop, Pop Rock, Hard Rock",https://townsquare.media/site/295/files/2012/08/in-color.jpg?w=980&q=75
+444,444.0,1972.0,The World Is a Ghetto,War,Funk / Soul,Funk,https://img.discogs.com/5OcAxruqrCNas9Mepix75agRxzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428062-1536609897-7425.jpeg.jpg
+445,445.0,1976.0,Fly Like an Eagle,Steve Miller Band,Rock,Pop Rock,https://www.udiscovermusic.com/wp-content/uploads/2016/12/Steve-Miller-Band-Fly-Like-An-Eagle.jpg
+446,446.0,1970.0,Back in the USA,MC5,Rock,"Garage Rock, Rock & Roll",https://i.pinimg.com/736x/ff/cd/38/ffcd38a967377c33541f74ab1713ea49.jpg
+447,447.0,1964.0,Getz / Gilberto,Stan Getz,Jazz,Latin Jazz,https://images-na.ssl-images-amazon.com/images/I/81Ukv8Tn-JL._SX355_.jpg
+448,448.0,1983.0,Synchronicity,The Police,"Rock, Pop","New Wave, Pop Rock",https://images.squarespace-cdn.com/content/v1/59b42337b7411c6d02fdca0e/1505264720257-AK5BCQP8JTE119FVRYA3/ke17ZwdGBToddI8pDm48kNDA1KKPnejvrc8aNB1h53BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI_O0QXaCfy1WSgXfW7kCtZfhqU1lZMakzDgTpPIGZH6sKMshLAGzx4R3EDFOm1kBS/album_synchronicity.jpg
+449,449.0,1978.0,Third/Sister Lovers,Big Star,Rock,Indie Rock,https://images-na.ssl-images-amazon.com/images/I/61JDSVpTjXL._SY355_.jpg
+450,450.0,1973.0,For Everyman,Jackson Browne,Rock,"Pop Rock, Classic Rock",https://www.jacksonbrowne.com/uploads/discography/1973-for-everyman/cover.jpg
+451,451.0,2006.0,Back to Black,Amy Winehouse,"Funk / Soul, Pop",Soul,https://images-na.ssl-images-amazon.com/images/I/71caoKZoCsL._SL1400_.jpg
+452,452.0,1971.0,John Prine,John Prine,"Folk, World, & Country","Country, Folk",https://s3.amazonaws.com/busites_www/johnprine/user_data/4/uploads/johnprineselftitled_grande_82227c1f_23bd_4da6_b01a_52f79ead733f_large_1491415473.jpg
+453,453.0,1987.0,Strictly Business,EPMD,Hip Hop,None,https://www.udiscovermusic.com/wp-content/uploads/2019/06/EPMD-Strictly-Business-album-cover-820.jpg
+454,454.0,1971.0,Love It to Death,Alice Cooper,Rock,Classic Rock,https://images-na.ssl-images-amazon.com/images/I/81Hz8IpPulL._SL1425_.jpg
+455,455.0,1984.0,How Will the Wolf Survive?,Los Lobos,"Rock, Latin",Blues Rock,https://images-na.ssl-images-amazon.com/images/I/61O06RHxabL._SX425_.jpg
+456,456.0,1978.0,"Here, My Dear",Marvin Gaye,Funk / Soul,Soul,https://images-na.ssl-images-amazon.com/images/I/81yUPFFkoGL._SY355_.jpg
+457,457.0,2005.0,Z,My Morning Jacket,Rock,Alternative Rock,https://media.pitchfork.com/photos/5929beccea9e61561daa7960/1:1/w_320/44d27d18.jpg
+458,458.0,1970.0,Tumbleweed Connection,Elton John,"Rock, Folk, World, & Country","Soft Rock, Country Rock",https://images-na.ssl-images-amazon.com/images/I/51I1QW1hHWL._SY355_.jpg
+459,459.0,1968.0,The Drifters' Golden Hits,The Drifters,"Rock, Funk / Soul","Rhythm & Blues, Soul",https://images-na.ssl-images-amazon.com/images/I/61L2IRZOw6L._SX355_.jpg
+460,460.0,1994.0,Live Through This,Hole,Rock,Grunge,https://images-na.ssl-images-amazon.com/images/I/81hsQFQWJjL._SY355_.jpg
+461,461.0,1979.0,Metal Box,Public Image Ltd.,"Electronic, Rock","Post-Punk, Dub, Avantgarde, Experimental",https://img.discogs.com/SrTMXhHVxMCP-D9n3n_MmgHS9m8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2118164-1266775785.jpeg.jpg
+462,462.0,1987.0,Document,R.E.M.,Rock,None,https://store.acousticsounds.com/images/large/CEMI_99398__16819__01152009113816-2537.jpg
+463,463.0,1981.0,Heaven Up Here,Echo and The Bunnymen,Rock,"New Wave, Indie Rock",https://images-na.ssl-images-amazon.com/images/I/716Vb79GzWL._SL1402_.jpg
+464,464.0,1987.0,Hysteria,Def Leppard,Rock,"Hard Rock, Arena Rock",https://images-na.ssl-images-amazon.com/images/I/A1Y9W-eKG-L._SY355_.jpg
+465,465.0,1999.0,69 Love Songs,The Magnetic Fields,"Electronic, Rock","Synth-pop, Indie Rock",https://images-na.ssl-images-amazon.com/images/I/612Sq1wgkHL._SL1500_.jpg
+466,466.0,2002.0,A Rush of Blood to the Head,Coldplay,Rock,"Alternative Rock, Pop Rock",https://www.rollingstone.com/wp-content/uploads/2018/06/rs-145094-7bd2ecf923f4c21e495c431e2c2092c6cb87c432.jpg
+467,467.0,1987.0,Tunnel of Love,Bruce Springsteen,Rock,None,https://images-na.ssl-images-amazon.com/images/I/51xekRQMTYL._SX355_.jpg
+468,468.0,1965.0,The Paul Butterfield Blues Band,The Paul Butterfield Blues Band,"Rock, Blues","Blues Rock, Electric Blues, Chicago Blues, Modern Electric Blues, Harmonica Blues",https://images-na.ssl-images-amazon.com/images/I/81DCRuSH25L._SL1500_.jpg
+469,469.0,1996.0,The Score,Fugees,Hip Hop,"Pop Rap, Conscious",https://images-na.ssl-images-amazon.com/images/I/61JAYPUIDHL._SL1080_.jpg
+470,470.0,1985.0,Radio,L.L. Cool J,Hip Hop,None,https://www.udiscovermusic.com/wp-content/uploads/2019/11/LL-Cool-J-Radio-album-cover-820.jpg
+471,471.0,1974.0,I Want to See the Bright Lights Tonight,Richard & Linda Thompson,Rock,"Classic Rock, Folk Rock",https://e.snmc.io/i/600/w/0b3ccc03d12eac085cff8873349ecdd8/3012175
+472,472.0,1987.0,Faith,George Michael,"Electronic, Rock, Funk / Soul, Blues, Pop","Downtempo, Soft Rock, Pop Rock, Synth-pop",https://images-na.ssl-images-amazon.com/images/I/51BQwIBQM4L._SX466_.jpg
+473,473.0,1984.0,The Smiths,The Smiths,Rock,Indie Rock,https://img.discogs.com/mAfb2fpTaO0sHUblXyEkO92GjuA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4639827-1383996713-9945.jpeg.jpg
+474,474.0,2001.0,Proxima estacion: Esperanza,Manu Chao,"Rock, Reggae, Latin","Folk Rock, Reggae, Reggae-Pop",https://images-na.ssl-images-amazon.com/images/I/61StCk7Si8L._SY355_.jpg
+475,475.0,1979.0,Armed Forces,Elvis Costello & The Attractions,Rock,"New Wave, Pop Rock",https://upload.wikimedia.org/wikipedia/en/f/fa/Elvis_costello_armed_forces_1.jpg
+476,476.0,1997.0,Life After Death,The Notorious B.I.G.,Hip Hop,None,https://upload.wikimedia.org/wikipedia/en/1/1c/NotoriousB.I.G.LifeAfterDeath.jpg
+477,477.0,1996.0,Down Every Road,Merle Haggard,"Folk, World, & Country",Country,https://lastfm.freetls.fastly.net/i/u/500x500/f0003e9ab7534d1a9129f7fbd79ef99e.jpg
+478,478.0,2002.0,All Time Greatest Hits,Loretta Lynn,"Folk, World, & Country",Country,https://m.media-amazon.com/images/I/81bgS9JD0pL._SS500_.jpg
+479,479.0,1971.0,Maggot Brain,Funkadelic,"Rock, Funk / Soul","P.Funk, Psychedelic Rock",https://images-na.ssl-images-amazon.com/images/I/91XuGESJC%2BL._SY355_.jpg
+480,480.0,1995.0,Only Built 4 Cuban Linx,Raekwon,Hip Hop,None,https://images-na.ssl-images-amazon.com/images/I/81zg1DZagFL._SY355_.jpg
+481,481.0,2000.0,Voodoo,D'Angelo,"Hip Hop, Funk / Soul","Soul, Funk, Neo Soul",https://cdn.webshopapp.com/shops/252051/files/183415190/universal-dangelo-voodoo.jpg
+482,482.0,1986.0,Guitar Town,Steve Earle,"Rock, Folk, World, & Country","Country, Honky Tonk",https://images-na.ssl-images-amazon.com/images/I/91-LVcmL1IL._SL1200_.jpg
+483,483.0,1979.0,Entertainment!,Gang of Four,Rock,"Post-Punk, New Wave",https://img.discogs.com/_aesobK3wNl5qqYO1L8QT-CABKQ=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2379398-1362735819-9658.jpeg.jpg
+484,484.0,1972.0,All the Young Dudes,Mott the Hoople,Rock,"Classic Rock, Glam",https://img.discogs.com/yLD83HNoy-HUY7zUUBQ0o43SfQQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3822837-1474231492-5537.jpeg.jpg
+485,485.0,1994.0,Vitalogy,Pearl Jam,Rock,"Alternative Rock, Hard Rock",https://img.discogs.com/PR2dOEZOko3Sy0p4aZGJoQJJlKQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-464904-1498739748-6715.jpeg.jpg
+486,486.0,1975.0,That's the Way of the World,"Earth, Wind & Fire",Funk / Soul,"Soul, Funk, Disco",https://cdn.shopify.com/s/files/1/0963/1508/products/131438_large.jpg?v=1575932937
+487,487.0,1983.0,She's So Unusual,Cyndi Lauper,"Electronic, Rock","Pop Rock, Synth-pop",https://www.mofi.com/v/vspfiles/photos/MOFI1-027-2.jpg?v-cache=1529506499
+488,488.0,1985.0,New Day Rising,Husker Du,Rock,"Alternative Rock, Hardcore, Punk",https://m.media-amazon.com/images/I/91DAUBdTF1L._SS500_.jpg
+489,489.0,1976.0,Destroyer,KISS,Rock,Hard Rock,https://images-na.ssl-images-amazon.com/images/I/71qDEpdWZsL._SL1200_.jpg
+490,490.0,1973.0,Tres hombres,ZZ Top,Rock,"Blues Rock, Classic Rock",https://images-na.ssl-images-amazon.com/images/I/61-1qlDwu4L._SX355_.jpg
+491,491.0,1967.0,Born Under a Bad Sign,Albert King,"Funk / Soul, Blues","Electric Blues, Rhythm & Blues, Soul",https://images-na.ssl-images-amazon.com/images/I/412WRF031XL.jpg
+492,492.0,1983.0,Touch,Eurythmics,"Electronic, Pop","New Wave, Synth-pop",https://img.discogs.com/D-06Q4dRk5fg59mw3Xzr1dbTISo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11953303-1525376596-9851.jpeg.jpg
+493,493.0,2002.0,Yankee Hotel Foxtrot,Wilco,Rock,Alternative Rock,https://prodimage.images-bn.com/pimages/0075597966923_p0_v1_s550x406.jpg
+494,494.0,2007.0,Oracular Spectacular,MGMT,"Electronic, Rock, Pop","Synth-pop, Indie Rock",https://img.discogs.com/RKl7ZMhVR5I_28ilBSTbUdnoX10=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1242187-1299880552.jpeg.jpg
+495,495.0,1972.0,Give It Up,Bonnie Raitt,Rock,Blues Rock,https://m.media-amazon.com/images/I/81uhNuX+OgL._SS500_.jpg
+496,496.0,1969.0,Boz Scaggs,Boz Scaggs,Rock,Pop Rock,https://images-na.ssl-images-amazon.com/images/I/81LH7l9qmHL._SX355_.jpg
+497,497.0,2001.0,White Blood Cells,The White Stripes,Rock,"Indie Rock, Alternative Rock, Blues Rock, Garage Rock",https://media.pitchfork.com/photos/5929aa18c0084474cd0c1141/1:1/w_600/b39a21f4.jpeg
+498,498.0,1989.0,The Stone Roses,The Stone Roses,Rock,Indie Rock,https://img.discogs.com/jaLqEUt9amSpz6TdMQdzIx9G7Jk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-156092-1534078946-7723.jpeg.jpg
+499,499.0,1971.0,Live in Cook County Jail,B.B. King,Blues,Electric Blues,https://img.discogs.com/CYKk_onk18ddb_gUndwxhd4Cx9o=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7555656-1497349164-7442.jpeg.jpg
+500,500.0,1998.0,Aquemini,OutKast,Hip Hop,"Reggae, Gangsta, Soul, Conscious",https://images-na.ssl-images-amazon.com/images/I/815BM%2BmybsL._SL1417_.jpg
