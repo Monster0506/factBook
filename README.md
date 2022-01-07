@@ -2,9 +2,9 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/monster0506/factBook) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/monster0506/factBook) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/monster0506/factBook) [![GitHub license](https://img.shields.io/github/license/monster0506/factBook)](https://github.com/Monster0506/factBook/blob/master/LICENSE) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/monster0506/factbook)
 
-This is a FactBook/Knowledge Base by Monster0506. It contains a large amount of information in a convenently accessable index. This information includes the CIA World Factbook, information on past events, taken from the (code.org)[code.org]
+This is a FactBook/Knowledge Base by Monster0506. It contains a large amount of information in a convenently accessable index. This information includes the CIA World Factbook, information on past events, taken from the [code.org](code.org) free tables. The tables that are normally updated every day are included, however, they are not current.
 
-Created by Monster0506. 
+Created by Monster0506.
 
 ## 1.1. Main Notes
 
@@ -21,10 +21,11 @@ Main section information.
   - [1.2. Other Information](#12-other-information)
     - [1.2.1. To install/use](#121-to-installuse)
     - [1.2.2. Credits](#122-credits)
-    - [1.2.3. License](#123-license)
-    - [1.2.4. Modifications/Contributions](#124-modificationscontributions)
-    - [1.2.5. Code of Conduct](#125-code-of-conduct)
-    - [1.2.6. Contributors](#126-contributors)
+    - [1.2.3. TODO](#123-todo)
+    - [1.2.4. License](#124-license)
+    - [1.2.5. Modifications/Contributions](#125-modificationscontributions)
+    - [1.2.6. Code of Conduct](#126-code-of-conduct)
+    - [1.2.7. Contributors](#127-contributors)
 
 ### 1.1.2. Introduction
 
@@ -77,30 +78,30 @@ Other useful notes about the FactBook.
 - [Water.css](https://watercss.kognise.dev) [(github)](https://github.com/kognise/water.css)
 - [CIA Factbook](https://www.cia.gov/the-world-factbook)
 
-### TODO
+### 1.2.3. TODO
 
 A section of tasks to complete.
 
 - Add Header Numbers to each md file and update table of contents in each as well
 - Add dataset viewer
 - Update about in Github
-- ~~~Add README style to filename conventions~~~
+- ~~Add README style to filename conventions~~
 
-### 1.2.3. License
+### 1.2.4. License
 
 Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 See [LICENSE](LICENSE) for more information.
 
-### 1.2.4. Modifications/Contributions
+### 1.2.5. Modifications/Contributions
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information. Also, follow the [Code of Conduct](#125-code-of-conduct).
 
-### 1.2.5. Code of Conduct
+### 1.2.6. Code of Conduct
 
 Although this is a community effort, we take inclusiveness very seriously, and we ask that you follow the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
 
-### 1.2.6. Contributors
+### 1.2.7. Contributors
 
 [<img src="https://contrib.rocks/image?repo=monster0506/factBook" />](https://github.com/monster0506/factBook/graphs/contributors)
 
