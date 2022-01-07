@@ -1,125 +1,125 @@
-id,Country,Summer Paralympic Games Medal Wins,Winter Paralympic Games Medal Wins,Combined Total Paralympic Games Medal Wins
-1,Algeria (ALG),73.0,0.0,73.0
-2,Angola (ANG),8.0,0.0,8.0
-3,Argentina (ARG),156.0,0.0,156.0
-4,Australia (AUS),1125.0,34.0,1159.0
-5,Austria (AUT),345.0,332.0,677.0
-6,Azerbaijan (AZE),38.0,0.0,38.0
-7,Bahamas (BAH),5.0,0.0,5.0
-8,Bahrain (BRN),7.0,0.0,7.0
-9,Belarus (BLR),98.0,35.0,133.0
-10,Belgium (BEL),221.0,2.0,223.0
-11,Bosnia and Herzegovina (BIH),4.0,0.0,4.0
-12,Botswana (BOT),1.0,0.0,1.0
-13,Brazil (BRA),306.0,0.0,306.0
-14,Bulgaria (BUL),15.0,0.0,15.0
-15,Cape Verde (CPV),1.0,0.0,1.0
-16,Canada (CAN),1059.0,163.0,1222.0
-17,Chile (CHI),2.0,0.0,2.0
-18,China (CHN),1033.0,1.0,1034.0
-19,Chinese Taipei (TPE),22.0,0.0,22.0
-20,Colombia (COL),23.0,0.0,23.0
-21,Ivory Coast (CIV),4.0,0.0,4.0
-22,Croatia (CRO),19.0,2.0,21.0
-23,Cuba (CUB),86.0,0.0,86.0
-24,Cyprus (CYP),6.0,0.0,6.0
-25,Czech Republic (CZE)[3],129.0,15.0,144.0
-26,Czechoslovakia (TCH),17.0,10.0,27.0
-27,Denmark (DEN),277.0,6.0,283.0
-28,Dominican Republic (DOM),1.0,0.0,1.0
-29,Egypt (EGY),143.0,0.0,143.0
-30,Estonia (EST),19.0,1.0,20.0
-31,Ethiopia (ETH),2.0,0.0,2.0
-32,Faroe Islands (FRO),13.0,0.0,13.0
-33,Fiji (FIJ),1.0,0.0,1.0
-34,Finland (FIN),257.0,182.0,439.0
-35,France (FRA),949.0,171.0,1120.0
-36,Georgia (GEO),1.0,0.0,1.0
-37,Germany (GER),1443.0,364.0,1807.0
-38,East Germany (GDR),4.0,0.0,4.0
-39,Great Britain (GBR),1789.0,34.0,1823.0
-40,Greece (GRE),94.0,0.0,94.0
-41,Guatemala (GUA),2.0,0.0,2.0
-42,Hong Kong (HKG),104.0,0.0,104.0
-43,Hungary (HUN),139.0,0.0,139.0
-44,Iceland (ISL),61.0,0.0,61.0
-45,Independent Paralympic Participants (IPP),8.0,0.0,8.0
-46,India (IND),12.0,0.0,12.0
-47,Indonesia (INA),18.0,0.0,18.0
-48,Iran (IRI),137.0,0.0,137.0
-49,Iraq (IRQ),13.0,0.0,13.0
-50,Ireland (IRL),226.0,0.0,226.0
-51,Israel (ISR),380.0,0.0,380.0
-52,Italy (ITA),530.0,61.0,591.0
-53,Jamaica (JAM),54.0,0.0,54.0
-54,Japan (JPN),362.0,90.0,452.0
-55,Jordan (JOR),11.0,0.0,11.0
-56,Kazakhstan (KAZ),2.0,2.0,4.0
-57,Kenya (KEN),47.0,0.0,47.0
-58,Kuwait (KUW),43.0,0.0,43.0
-59,Laos (LAO),1.0,0.0,1.0
-60,Latvia (LAT),11.0,0.0,11.0
-61,Lebanon (LIB),2.0,0.0,2.0
-62,Libya (LBA),1.0,0.0,1.0
-63,Liechtenstein (LIE),0.0,1.0,1.0
-64,Lithuania (LTU),30.0,0.0,30.0
-65,Luxembourg (LUX),7.0,0.0,7.0
-66,Macedonia (MKD),2.0,0.0,2.0
-67,Malaysia (MAS),10.0,0.0,10.0
-68,Malta (MLT),9.0,0.0,9.0
-69,Mexico (MEX),288.0,0.0,288.0
-70,Moldova (MDA),2.0,0.0,2.0
-71,Mongolia (MGL),1.0,0.0,1.0
-72,Morocco (MAR),27.0,0.0,27.0
-73,Mozambique (MOZ),1.0,0.0,1.0
-74,Myanmar (MYA),7.0,0.0,7.0
-75,Namibia (NAM),8.0,0.0,8.0
-76,Netherlands (NED),714.0,17.0,731.0
-77,Neutral Paralympic Athletes (NPA) ,0.0,24.0,24.0
-78,New Zealand (NZL),169.0,30.0,199.0
-79,Nigeria (NGR),70.0,0.0,70.0
-80,Norway (NOR),277.0,327.0,604.0
-81,Pakistan (PAK),1.0,0.0,1.0
-82,Palestine (PLE),3.0,0.0,3.0
-83,Panama (PAN),8.0,0.0,8.0
-84,Papua New Guinea (PNG),1.0,0.0,1.0
-85,Peru (PER),8.0,0.0,8.0
-86,Philippines (PHI),2.0,0.0,2.0
-87,Poland (POL),626.0,45.0,671.0
-88,Portugal (POR),102.0,0.0,102.0
-89,Puerto Rico (PUR),7.0,0.0,7.0
-90,Qatar (QAT),2.0,0.0,2.0
-91,Rhodesia (RHO),54.0,0.0,54.0
-92,Romania (ROU),4.0,0.0,4.0
-93,Russia (RUS),268.0,233.0,501.0
-94,Rwanda (RWA),1.0,0.0,1.0
-95,Saudi Arabia (KSA),4.0,0.0,4.0
-96,Serbia (SRB),16.0,0.0,16.0
-97,Serbia and Montenegro (SCG),2.0,0.0,2.0
-98,Singapore (SIN),9.0,0.0,9.0
-99,Slovakia (SVK),59.0,54.0,113.0
-100,Slovenia (SLO),19.0,0.0,19.0
-101,South Africa (RSA),297.0,0.0,297.0
-102,South Korea (KOR),341.0,5.0,346.0
-103,Soviet Union (URS),55.0,2.0,57.0
-104,Spain (ESP),661.0,41.0,702.0
-105,Sri Lanka (SRI),2.0,0.0,2.0
-106,Sudan (SUD),1.0,0.0,1.0
-107,Sweden (SWE),637.0,100.0,737.0
-108,Switzerland (SUI),246.0,156.0,402.0
-109,Syria (SYR),1.0,0.0,1.0
-110,Thailand (THA),63.0,0.0,63.0
-111,Trinidad and Tobago (TRI),3.0,0.0,3.0
-112,Tunisia (TUN),83.0,0.0,83.0
-113,Turkey (TUR),23.0,0.0,23.0
-114,Uganda (UGA),1.0,0.0,1.0
-115,Ukraine (UKR),374.0,112.0,486.0
-116,Unified Team (EUN),51.0,21.0,72.0
-117,United Arab Emirates (UAE),16.0,0.0,16.0
-118,United States (USA),2175.0,313.0,2488.0
-119,Uruguay (URU),15.0,0.0,15.0
-120,Uzbekistan (UZB),32.0,0.0,32.0
-121,Venezuela (VEN),17.0,0.0,17.0
-122,Vietnam (VIE),4.0,0.0,4.0
-123,Yugoslavia (YUG),70.0,1.0,71.0
-124,Zimbabwe (ZIM),17.0,0.0,17.0
+id  ,Country                                   ,Summer Paralympic Games Medal Wins ,Winter Paralympic Games Medal Wins ,Combined Total Paralympic Games Medal Wins
+1   ,Algeria (ALG)                             ,73.0                               ,0.0                                ,73.0
+2   ,Angola (ANG)                              ,8.0                                ,0.0                                ,8.0
+3   ,Argentina (ARG)                           ,156.0                              ,0.0                                ,156.0
+4   ,Australia (AUS)                           ,1125.0                             ,34.0                               ,1159.0
+5   ,Austria (AUT)                             ,345.0                              ,332.0                              ,677.0
+6   ,Azerbaijan (AZE)                          ,38.0                               ,0.0                                ,38.0
+7   ,Bahamas (BAH)                             ,5.0                                ,0.0                                ,5.0
+8   ,Bahrain (BRN)                             ,7.0                                ,0.0                                ,7.0
+9   ,Belarus (BLR)                             ,98.0                               ,35.0                               ,133.0
+10  ,Belgium (BEL)                             ,221.0                              ,2.0                                ,223.0
+11  ,Bosnia and Herzegovina (BIH)              ,4.0                                ,0.0                                ,4.0
+12  ,Botswana (BOT)                            ,1.0                                ,0.0                                ,1.0
+13  ,Brazil (BRA)                              ,306.0                              ,0.0                                ,306.0
+14  ,Bulgaria (BUL)                            ,15.0                               ,0.0                                ,15.0
+15  ,Cape Verde (CPV)                          ,1.0                                ,0.0                                ,1.0
+16  ,Canada (CAN)                              ,1059.0                             ,163.0                              ,1222.0
+17  ,Chile (CHI)                               ,2.0                                ,0.0                                ,2.0
+18  ,China (CHN)                               ,1033.0                             ,1.0                                ,1034.0
+19  ,Chinese Taipei (TPE)                      ,22.0                               ,0.0                                ,22.0
+20  ,Colombia (COL)                            ,23.0                               ,0.0                                ,23.0
+21  ,Ivory Coast (CIV)                         ,4.0                                ,0.0                                ,4.0
+22  ,Croatia (CRO)                             ,19.0                               ,2.0                                ,21.0
+23  ,Cuba (CUB)                                ,86.0                               ,0.0                                ,86.0
+24  ,Cyprus (CYP)                              ,6.0                                ,0.0                                ,6.0
+25  ,Czech Republic (CZE)[3]                   ,129.0                              ,15.0                               ,144.0
+26  ,Czechoslovakia (TCH)                      ,17.0                               ,10.0                               ,27.0
+27  ,Denmark (DEN)                             ,277.0                              ,6.0                                ,283.0
+28  ,Dominican Republic (DOM)                  ,1.0                                ,0.0                                ,1.0
+29  ,Egypt (EGY)                               ,143.0                              ,0.0                                ,143.0
+30  ,Estonia (EST)                             ,19.0                               ,1.0                                ,20.0
+31  ,Ethiopia (ETH)                            ,2.0                                ,0.0                                ,2.0
+32  ,Faroe Islands (FRO)                       ,13.0                               ,0.0                                ,13.0
+33  ,Fiji (FIJ)                                ,1.0                                ,0.0                                ,1.0
+34  ,Finland (FIN)                             ,257.0                              ,182.0                              ,439.0
+35  ,France (FRA)                              ,949.0                              ,171.0                              ,1120.0
+36  ,Georgia (GEO)                             ,1.0                                ,0.0                                ,1.0
+37  ,Germany (GER)                             ,1443.0                             ,364.0                              ,1807.0
+38  ,East Germany (GDR)                        ,4.0                                ,0.0                                ,4.0
+39  ,Great Britain (GBR)                       ,1789.0                             ,34.0                               ,1823.0
+40  ,Greece (GRE)                              ,94.0                               ,0.0                                ,94.0
+41  ,Guatemala (GUA)                           ,2.0                                ,0.0                                ,2.0
+42  ,Hong Kong (HKG)                           ,104.0                              ,0.0                                ,104.0
+43  ,Hungary (HUN)                             ,139.0                              ,0.0                                ,139.0
+44  ,Iceland (ISL)                             ,61.0                               ,0.0                                ,61.0
+45  ,Independent Paralympic Participants (IPP) ,8.0                                ,0.0                                ,8.0
+46  ,India (IND)                               ,12.0                               ,0.0                                ,12.0
+47  ,Indonesia (INA)                           ,18.0                               ,0.0                                ,18.0
+48  ,Iran (IRI)                                ,137.0                              ,0.0                                ,137.0
+49  ,Iraq (IRQ)                                ,13.0                               ,0.0                                ,13.0
+50  ,Ireland (IRL)                             ,226.0                              ,0.0                                ,226.0
+51  ,Israel (ISR)                              ,380.0                              ,0.0                                ,380.0
+52  ,Italy (ITA)                               ,530.0                              ,61.0                               ,591.0
+53  ,Jamaica (JAM)                             ,54.0                               ,0.0                                ,54.0
+54  ,Japan (JPN)                               ,362.0                              ,90.0                               ,452.0
+55  ,Jordan (JOR)                              ,11.0                               ,0.0                                ,11.0
+56  ,Kazakhstan (KAZ)                          ,2.0                                ,2.0                                ,4.0
+57  ,Kenya (KEN)                               ,47.0                               ,0.0                                ,47.0
+58  ,Kuwait (KUW)                              ,43.0                               ,0.0                                ,43.0
+59  ,Laos (LAO)                                ,1.0                                ,0.0                                ,1.0
+60  ,Latvia (LAT)                              ,11.0                               ,0.0                                ,11.0
+61  ,Lebanon (LIB)                             ,2.0                                ,0.0                                ,2.0
+62  ,Libya (LBA)                               ,1.0                                ,0.0                                ,1.0
+63  ,Liechtenstein (LIE)                       ,0.0                                ,1.0                                ,1.0
+64  ,Lithuania (LTU)                           ,30.0                               ,0.0                                ,30.0
+65  ,Luxembourg (LUX)                          ,7.0                                ,0.0                                ,7.0
+66  ,Macedonia (MKD)                           ,2.0                                ,0.0                                ,2.0
+67  ,Malaysia (MAS)                            ,10.0                               ,0.0                                ,10.0
+68  ,Malta (MLT)                               ,9.0                                ,0.0                                ,9.0
+69  ,Mexico (MEX)                              ,288.0                              ,0.0                                ,288.0
+70  ,Moldova (MDA)                             ,2.0                                ,0.0                                ,2.0
+71  ,Mongolia (MGL)                            ,1.0                                ,0.0                                ,1.0
+72  ,Morocco (MAR)                             ,27.0                               ,0.0                                ,27.0
+73  ,Mozambique (MOZ)                          ,1.0                                ,0.0                                ,1.0
+74  ,Myanmar (MYA)                             ,7.0                                ,0.0                                ,7.0
+75  ,Namibia (NAM)                             ,8.0                                ,0.0                                ,8.0
+76  ,Netherlands (NED)                         ,714.0                              ,17.0                               ,731.0
+77  ,Neutral Paralympic Athletes (NPA)         ,0.0                                ,24.0                               ,24.0
+78  ,New Zealand (NZL)                         ,169.0                              ,30.0                               ,199.0
+79  ,Nigeria (NGR)                             ,70.0                               ,0.0                                ,70.0
+80  ,Norway (NOR)                              ,277.0                              ,327.0                              ,604.0
+81  ,Pakistan (PAK)                            ,1.0                                ,0.0                                ,1.0
+82  ,Palestine (PLE)                           ,3.0                                ,0.0                                ,3.0
+83  ,Panama (PAN)                              ,8.0                                ,0.0                                ,8.0
+84  ,Papua New Guinea (PNG)                    ,1.0                                ,0.0                                ,1.0
+85  ,Peru (PER)                                ,8.0                                ,0.0                                ,8.0
+86  ,Philippines (PHI)                         ,2.0                                ,0.0                                ,2.0
+87  ,Poland (POL)                              ,626.0                              ,45.0                               ,671.0
+88  ,Portugal (POR)                            ,102.0                              ,0.0                                ,102.0
+89  ,Puerto Rico (PUR)                         ,7.0                                ,0.0                                ,7.0
+90  ,Qatar (QAT)                               ,2.0                                ,0.0                                ,2.0
+91  ,Rhodesia (RHO)                            ,54.0                               ,0.0                                ,54.0
+92  ,Romania (ROU)                             ,4.0                                ,0.0                                ,4.0
+93  ,Russia (RUS)                              ,268.0                              ,233.0                              ,501.0
+94  ,Rwanda (RWA)                              ,1.0                                ,0.0                                ,1.0
+95  ,Saudi Arabia (KSA)                        ,4.0                                ,0.0                                ,4.0
+96  ,Serbia (SRB)                              ,16.0                               ,0.0                                ,16.0
+97  ,Serbia and Montenegro (SCG)               ,2.0                                ,0.0                                ,2.0
+98  ,Singapore (SIN)                           ,9.0                                ,0.0                                ,9.0
+99  ,Slovakia (SVK)                            ,59.0                               ,54.0                               ,113.0
+100 ,Slovenia (SLO)                            ,19.0                               ,0.0                                ,19.0
+101 ,South Africa (RSA)                        ,297.0                              ,0.0                                ,297.0
+102 ,South Korea (KOR)                         ,341.0                              ,5.0                                ,346.0
+103 ,Soviet Union (URS)                        ,55.0                               ,2.0                                ,57.0
+104 ,Spain (ESP)                               ,661.0                              ,41.0                               ,702.0
+105 ,Sri Lanka (SRI)                           ,2.0                                ,0.0                                ,2.0
+106 ,Sudan (SUD)                               ,1.0                                ,0.0                                ,1.0
+107 ,Sweden (SWE)                              ,637.0                              ,100.0                              ,737.0
+108 ,Switzerland (SUI)                         ,246.0                              ,156.0                              ,402.0
+109 ,Syria (SYR)                               ,1.0                                ,0.0                                ,1.0
+110 ,Thailand (THA)                            ,63.0                               ,0.0                                ,63.0
+111 ,Trinidad and Tobago (TRI)                 ,3.0                                ,0.0                                ,3.0
+112 ,Tunisia (TUN)                             ,83.0                               ,0.0                                ,83.0
+113 ,Turkey (TUR)                              ,23.0                               ,0.0                                ,23.0
+114 ,Uganda (UGA)                              ,1.0                                ,0.0                                ,1.0
+115 ,Ukraine (UKR)                             ,374.0                              ,112.0                              ,486.0
+116 ,Unified Team (EUN)                        ,51.0                               ,21.0                               ,72.0
+117 ,United Arab Emirates (UAE)                ,16.0                               ,0.0                                ,16.0
+118 ,United States (USA)                       ,2175.0                             ,313.0                              ,2488.0
+119 ,Uruguay (URU)                             ,15.0                               ,0.0                                ,15.0
+120 ,Uzbekistan (UZB)                          ,32.0                               ,0.0                                ,32.0
+121 ,Venezuela (VEN)                           ,17.0                               ,0.0                                ,17.0
+122 ,Vietnam (VIE)                             ,4.0                                ,0.0                                ,4.0
+123 ,Yugoslavia (YUG)                          ,70.0                               ,1.0                                ,71.0
+124 ,Zimbabwe (ZIM)                            ,17.0                               ,0.0                                ,17.0

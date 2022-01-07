@@ -1,632 +1,632 @@
-id,City,State,Low estimate,Best Guess,High estimate,Source1
-1,"Abilene, TX",TX,200.0,200.0,200.0,http://www.reporternews.com/story/news/local/2017/01/21/hundreds-march-abilene-city-hall-womens-rights/96858224/
-2,"Accident, MD",MD,54.0,54.0,54.0,http://www.riverfronttimes.com/newsblog/2017/01/23/stranded-far-from-washington-dc-these-st-louis-women-marched-in-rural-maryland
-3,"Adak, AK",AK,10.0,10.0,10.0,adn.com
-4,"Adrian, MI",MI,150.0,150.0,150.0,http://www.lenconnect.com/news/20170122/marches-in-adrian-across-country-express-distaste-for-new-leader
-5,"Ajo, AZ",AZ,250.0,250.0,250.0,https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwomenactnow%2Fposts%2F316622398732847&width=500
-6,"Alameda, CA",CA,8.0,8.0,8.0,FB
-7,"Alamosa, CO",CO,350.0,350.0,350.0,https://twitter.com/zepol/status/823234973935239172
-8,"Albany, CA",CA,500.0,500.0,500.0,https://twitter.com/ben_silverman/status/823032391841132545
-9,"Albany, NY",NY,7000.0,7900.0,9000.0,http://www.timesunion.com/local/article/Albany-activists-Inaugurate-Resistance-on-10873758.php
-10,"Alexandria, VA",VA,17.0,17.0,17.0,https://twitter.com/TinaPStacy/status/823226044643680257
-11,"Albuquerque, NM",NM,3000.0,8400.0,15000.0,http://www.koat.com/article/thousands-fill-civic-plaza-for-womens-rally/8626736
-12,"Alliance, NE",NE,100.0,125.0,150.0,eyewtiness onsite w/ headcount
-13,"Almanor West, CA",CA,4.0,4.0,4.0,eyewitness; picture
-14,"Alpine, TX",TX,96.0,96.0,96.0,https://twitter.com/sarahmvasquez/status/823189717659176960
-15,"Amarillo, TX",TX,600.0,645.0,700.0,https://www.texastribune.org/2017/01/21/thousands-expected-participate-texas-womens-marche/
-16,"Amelia Island, FL",FL,700.0,1000.0,1367.0,http://www.firstcoastnews.com/news/womens-march-makes-its-way-to-the-first-coast/389706372
-17,"Anacortes, WA",WA,1200.0,1200.0,1200.0,http://www.goskagit.com/skagit/hundreds-participate-in-anacortes-women-s-march/article_4117590e-285b-565e-acd0-1ea4e7826160.html
-18,"Anchorage, AK",AK,2000.0,2900.0,4000.0,https://www.adn.com/alaska-news/2017/01/21/large-crowd-attends-womens-march-on-anchorage-in-solidarity-with-national-events/
-19,"Angola, IN",IN,24.0,42.0,60.0,http://wane.com/2017/01/21/womens-marches-in-allen-and-steuben-county-protest-trump/
-20,"Ann Arbor, MI",MI,11000.0,11000.0,11000.0,http://www.mlive.com/news/ann-arbor/index.ssf/2017/01/more_than_6000_flood_streets_o.html
-21,"Annapolis, MD",MD,1600.0,1600.0,1600.0,http://www.capitalgazette.com/news/annapolis/ph-ac-cn-annapolis-womens-march-0122-20170121-story.html
-22,"Annville, PA",PA,30.0,30.0,30.0,http://www.ldnews.com/videos/news/2017/01/21/watch-voices-women's-march-annville/96901782/
-23,"Appleton, WI",WI,3.0,3.0,3.0,http://www.sheboyganpress.com/story/news/local/2017/01/21/appleton-woman-stands-womens-march/96894178/
-24,"Arden, DE",DE,40.0,45.0,50.0,onsite eyewitness via google form; did headcount
-25,"Asbury Park, NJ",NJ,6000.0,6000.0,6000.0,https://twitter.com/JuliaJHobbs/status/822955160116793344
-26,"Asheville, NC",NC,7000.0,8350.0,10000.0,http://wlos.com/news/local/photo-gallery-the-womens-march-on-asheville
-27,"Ashland, OR",OR,8000.0,11150.0,15000.0,http://www.oregonlive.com/trending/2017/01/womens_march_oregon_ashland_ph.html
-28,"Aspen, CO",CO,200.0,560.0,1000.0,http://www.aspendailynews.com/section/home/174009
-29,"Astoria, OR",OR,1300.0,1435.0,1600.0,http://www.dailyastorian.com/Local_News/20170121/hundreds-march-in-astoria-to-counter-trump
-30,"Athens, GA",GA,700.0,2635.0,5000.0,http://onlineathens.com/slideshow/2017-01-21/photos-athens-womens-march#slide-1
-31,"Athens, OH",OH,300.0,390.0,500.0,http://www.athensnews.com/news/local/hundreds-take-to-athens-streets-to-protest-trump-two-party/article_a05f8d96-a9cc-11e6-adc2-afe09ec722c0.html
-32,"Atlanta, GA",GA,60000.0,61350.0,63000.0,http://www.ajc.com/news/state--regional-govt--politics/new-police-estimate-000-atlanta-the-march-continues-the-capitol/PlaULPX2mykkjcHk799zLP/
-33,"Augusta, GA",GA,600.0,600.0,600.0,http://chronicle.augusta.com/news/2017-01-21/hundreds-participate-augusta-solidarity-march
-34,"Augusta, ME",ME,5000.0,7250.0,10000.0,http://www.pressherald.com/2017/01/21/thousands-converge-on-augusta-for-womens-march-on-maine-rally/
-35,"Austin, TX",TX,33000.0,50550.0,72000.0,organizer ran out of stickers after handing out 33k via google form
-36,"Avalon, CA",CA,44.0,44.0,44.0,https://twitter.com/lisakate111/status/823018370094071808
-37,"Bailey, CO",CO,5.0,5.0,5.0,FB
-38,"Bainbridge Island, WA",WA,200.0,268.0,350.0,http://www.bainbridgereview.com/news/march-through-winslow/
-39,"Bakersfield, CA",CA,88.0,119.0,150.0,http://bakersfieldnow.com/news/local/local-women-join-millions-more-across-the-nation-for-womens-equality
-40,"Baltimore, MD",MD,5000.0,5000.0,5000.0,http://www.baltimoresun.com/news/maryland/bs-md-baltimore-sister-march-20170121-story.html
-41,"Bar Harbor, ME",ME,50.0,53.0,55.0,Eyewitness on site
-42,"Bandon, OR",OR,70.0,70.0,70.0,FB
-43,"Bayfield, WI",WI,427.0,427.0,427.0,FB
-44,Beaufort,NC,11.0,11.0,11.0,onsite eyewitness; photograph
-45,"Beaumont, TX",TX,300.0,300.0,300.0,FB
-46,"Beaver, PA",PA,275.0,288.0,300.0,onsite eyewitness w/ headcount
-47,"Beaver Island, MI",MI,18.0,20.0,22.0,Onsite eyewitness; headcount
-48,"Bellingham, WA",WA,5000.0,5450.0,6000.0,https://t.co/iyjFHSXHEq
-49,"Bemidji, MN",MN,250.0,363.0,500.0,http://www.mprnews.org/story/2017/01/21/photos-around-minnesota-women-and-men-march-for-womens-rights
-50,"Bend, OR",OR,3000.0,3900.0,5000.0,http://www.bendbulletin.com/home/5002977-151/thousands-in-bend-join-international-womens-march
-51,"Bennington, VT",VT,75.0,100.0,125.0,Eyewitness on site
-52,"Bentonville, AR",AR,300.0,435.0,600.0,onsite eyewitness; headcount
-53,"Berkeley, CA",CA,200.0,560.0,1000.0,http://www.dailycal.org/2017/01/21/berkeley-community-joins-millions-around-world-participating-womens-marches/
-54,"Bethel, AK",AK,40.0,70.0,100.0,https://www.adn.com/slideshow/visual/2017/01/21/thousands-hit-the-streets-for-womens-march-events-in-alaska/
-55,"Bethlehem, CT",CT,2.0,2.0,2.0,https://twitter.com/Fontaine6Mary/status/823915255327838211
-56,"Bethlehem, PA",PA,500.0,518.0,540.0,http://www.mcall.com/news/breaking/mc-women--march-20170121-story.html
-57,"Bettendorf, IA",IA,300.0,525.0,800.0,http://qctimes.com/news/local/hall-overflows-with-women-s-rally-participants/article_03dc35fb-bb39-54b5-bce3-b2c275cafaff.html
-58,"Beverly Hills, CA",CA,250.0,275.0,300.0,onsite eyewitness; headcount w photos via google form
-59,"Binghamton, NY",NY,2000.0,2450.0,3000.0,FB
-60,"Birmingham, AL",AL,5000.0,7250.0,10000.0,http://www.al.com/news/birmingham/index.ssf/2017/01/thousands_parade_through_birmi.html#incart_river_mobileshort_home
-61,"Bishop, CA",CA,600.0,600.0,600.0,FB
-62,"Bismarck, ND",ND,500.0,500.0,500.0,http://www.grandforksherald.com/news/4203619-larger-expected-nd-capitol-womens-march-calls-solidarity
-63,"Black Mountain, NC",NC,250.0,318.0,400.0,onsite eyewitness / photographer
-64,"Block Island, RI",RI,60.0,70.0,80.0,onsite eyewitness took head count via google form
-65,"Bloomsburg, PA",PA,40.0,50.0,60.0,https://twitter.com/MzHokie/status/823054470728810496
-66,"Bluff, UT",UT,48.0,48.0,48.0,onsite eyewitness with headcount via google form
-67,"Boise, ID",ID,5000.0,5000.0,5000.0,http://www.idahostatesman.com/news/local/article127913309.html
-68,"Borrego Springs, CA",CA,140.0,145.0,150.0,onsite eyewitness who did headcount
-69,"Boston, MA",MA,175000.0,175000.0,175000.0,http://whdh.com/news/175000-rally-on-boston-common-for-womens-march/
-70,"Bozeman, MT",MT,13.0,13.0,13.0,https://twitter.com/MadamHerpadurp/status/823031787211235328
-71,"Breen, CO",CO,1.0,1.0,1.0,via email (JP)
-72,"Bridgewater, MA",MA,12.0,12.0,12.0,http://www.enterprisenews.com/news/20170121/bridgewater-residents-protest-trump---with-peace
-73,"Brighton, MI",MI,300.0,300.0,300.0,http://www.livingstondaily.com/story/news/local/2017/01/21/hundreds-rally-brighton-mill-pond/96884294/
-74,"Brattleboro, VT",VT,200.0,225.0,250.0,FB
-75,"Brookings, OR",OR,250.0,275.0,300.0,organizer headcount onsite
-76,"Broomfield, CO",CO,100.0,150.0,200.0,onsite eyewtiness took head count w photo via google form
-77,"Brownsville, TX",TX,300.0,341.0,390.0,http://www.brownsvilleherald.com/news/local/article_f670f8cc-e037-11e6-b9b5-9398a778b088.html
-78,"Brunswick, ME",ME,300.0,345.0,400.0,Press Herald
-79,"Buffalo, NY",NY,2500.0,2725.0,3000.0,http://www.wgrz.com/mb/news/local/hundreds-gather-in-buffalo-for-womens-march/389611887
-80,"Burbank, CA",CA,300.0,300.0,300.0,http://myburbank.com/01/news/womens-march-burbank-brings-families-kids-mothers/
-81,"Burns, OR",OR,20.0,20.0,20.0,FB
-82,"Burnsville, NC",NC,80.0,80.0,80.0,"onsite eyewitness w photo headcount, via google form"
-83,Cambridge,MN,22.0,22.0,22.0,FB
-84,"Canton, NY",NY,135.0,218.0,300.0,https://twitter.com/matt_carotenuto/status/823121233659174912
-85,"Cape Henlopen, DE",DE,250.0,250.0,250.0,http://www.capegazette.com/article/peaceful-march-along-lewes-beach-takes-stand-women’s-rights/124227
-86,"Carbondale, CO",CO,200.0,425.0,700.0,http://www.postindependent.com/priority/main-carousel/women-march-in-colorado-dc-around-world-to-resist-trump/
-87,"Carbondale, IL",IL,1000.0,1900.0,3000.0,http://thesouthern.com/news/local/communities/carbondale/hundreds-gather-in-carbondale-to-march-for-human-rights/article_616ca5a9-dd07-57da-9a8e-ee3a9317bd05.html
-88,"Carmel, CA",CA,15.0,20.0,25.0,onsite eyewitness headcount w photos via google form
-89,"Casper, WY",WY,700.0,835.0,1000.0,https://pitchengine.com/oilcity/2017/01/21/caspers-womens-march--from-above/002519172678172300726
-90,"Cathlamet, WA",WA,2.0,2.0,2.0,https://twitter.com/emily_kintigh/status/823942819832172544
-91,"Champaign, IL",IL,5000.0,5360.0,5800.0,http://www.news-gazette.com/news/local/2017-01-21/womens-march-champaign.html
-92,"Charleston, SC",SC,2000.0,2000.0,2000.0,http://www.postandcourier.com/news/unity-activism-and-empowerment-at-charleston-women-s-march-where/article_34b81c38-dffb-11e6-9c2e-f30b0dc420c4.html
-93,"Charleston, WV",WV,2000.0,2450.0,3000.0,http://counton2.com/2017/01/20/womens-march-on-washington-plans-sister-march-in-charleston/
-94,"Charlotte, NC",NC,20000.0,24500.0,30000.0,"city police estimate reported to organizers, reported via google form"
-95,"Charlottesville, VA",VA,2000.0,2225.0,2500.0,http://www.dailyprogress.com/gallery/charlottesville-women-s-march/collection_1a2a4a98-e006-11e6-9753-7fa6fdc922ca.html
-96,"Chattanooga, TN",TN,1000.0,1900.0,3000.0,http://www.timesfreepress.com/news/local/story/2017/jan/21/women-march-chattanooga-protest-trump-election/408743/
-97,"Chelan, WA",WA,400.0,432.0,470.0,local media reported via Google form
-98,"Chesapeake Bay, MD",MD,1.0,1.0,1.0,FB
-99,"Cheyenne, WY",WY,1200.0,1560.0,2000.0,http://www.wyomingnews.com/news/new-large-spirited-crowd-fills-women-s-march-in-cheyenne/article_193210e4-e029-11e6-b4f7-131f0601002f.html
-100,"Chicago, IL",IL,250000.0,250000.0,250000.0,http://www.chicagotribune.com/news/ct-womens-march-chicago-0122-20170121-story.html
-101,"Chico, CA",CA,1000.0,1900.0,3000.0,FB
-102,"Chillicothe, OH",OH,1000.0,1000.0,1000.0,https://twitter.com/JeffTClinton/status/822999960765530113
-103,"Christiansted, St. Croix",VI,350.0,440.0,550.0,"US Park Service, Fort Christianvaarn Historic Site, Christiansted"
-104,"Cincinnati, OH",OH,5000.0,8150.0,12000.0,http://www.wlwt.com/article/thousands-fill-washington-park-as-part-of-nationwide-equal-rights-movement/8625720
-105,"Clare, MI",MI,24.0,50.0,75.0,http://www.themorningsun.com/general-news/20170121/hope-strength-unity-topics-at-the-clare-peoples-rally
-106,"Clarion, PA",PA,65.0,83.0,100.0,http://www.theclarionnews.com/news/local/article_1731f243-d54b-5d9c-89e5-4b8fc3196cc5.html
-107,"Clemson, SC",SC,500.0,500.0,500.0,http://www.independentmail.com/story/news/local/south-carolina/2017/01/21/clemson-march-draws-500-support-womens-rights/96886286/
-108,"Cleveland, OH",OH,15000.0,15000.0,15000.0,http://www.cleveland.com/metro/index.ssf/2017/01/womens_march_on_cleveland_a_vo.html#incart_big-photo
-109,"Cobb, CA",CA,2.0,2.0,2.0,FB
-110,"Cobleskill, NY",NY,350.0,350.0,350.0,http://www.timesjournalonline.com/article.asp?id=101580
-111,"Cody, WY",WY,400.0,445.0,500.0,http://www.kcwy13.com/content/news/Four-Hundred-Joined-the-Cody-Womens-March-Over-the-Weekend--411538625.html
-112,"College Station, TX",TX,50.0,50.0,50.0,http://www.kbtx.com/content/news/College-Station-group-holds-womens-march--411430985.html
-113,"Colorado Springs, CO",CO,7000.0,7000.0,7000.0,http://gazette.com/thousands-march-in-colorado-springs-in-protest-a-day-after-president-trumps-inauguration/article/1594846
-114,"Columbia, MD",MD,100.0,113.0,125.0,FB
-115,"Columbia, MO",MO,2000.0,2722.0,3604.0,http://www.columbiatribune.com/news/local/local-solidarity-march-brings-out-hundreds-in-opposition-to-trump/article_600dbb1a-2273-58c3-9799-ac4a96578a24.html
-116,"Columbia, SC",SC,2000.0,2450.0,3000.0,http://www.heraldonline.com/latest-news/article127939199.html
-117,"Columbus, OH",OH,2000.0,2450.0,3000.0,http://wksu.org/post/womens-march-columbus-draws-thousands-people#stream/0
-118,"Columbus, OH",OH,200.0,200.0,200.0,http://thelantern.com/2017/01/students-stage-walkout-in-protest-against-president-trump/
-119,"Compton, CA",CA,35.0,40.0,45.0,estimated headcount from FB photos provided via google form
-120,"Concord, NH",NH,4000.0,4900.0,6000.0,https://twitter.com/LenStuart/status/822934229671673861
-121,"Conover, WI",WI,1.0,1.0,1.0,FB
-122,"Cooperstown, NY",NY,200.0,200.0,200.0,http://www.allotsego.com/women-allies-march-across-otsego-county/
-123,"Coos Bay, OR",OR,200.0,200.0,200.0,http://theworldlink.com/news/local/hundreds-rally-at-women-s-march-in-downtown-coos-bay/article_997db7f0-b921-5aef-8e37-5945831c8400.html
-124,"Copper Harbor, MI",MI,19.0,28.0,36.0,https://twitter.com/LlrCandy/status/823050874305921024
-125,"Cordova, AK",AK,108.0,111.0,114.0,onsite eyewitness who did headcount
-126,"Corpus Christi, TX",TX,24.0,24.0,24.0,http://www.kristv.com//story/34315427/corpus-christi-womens-march#.WIRF0H0kfZo.twitter
-127,"Cortez, CO",CO,400.0,447.0,504.0,http://www.cortezjournal.com/article/20170121/NEWS01/170129975/400-march-through-snow-in-Cortez-unity-demonstration
-128,"Corvallis, OR",OR,100.0,100.0,100.0,FB
-129,"Craftsbury, VT",VT,15.0,15.0,15.0,FB group photo w headcount
-130,"Crested Butte, CO",CO,350.0,418.0,500.0,https://twitter.com/jcgreenfield/status/823228054864596993
-131,"Crestone, CO",CO,1.0,1.0,1.0,FB
-132,"Cruz Bay, St. John",VI,200.0,200.0,200.0,http://stjohnsource.com/content/news/local-news/2017/01/22/st-john-women-s-march-draws-200
-133,"Crystal River, FL",FL,7.0,7.0,7.0,FB group photo w headcount
-134,"Dallas, TX",TX,5000.0,6350.0,8000.0,http://www.dallasnews.com/news/dallas/2017/01/21/watch-dallas-womens-march-kicks-downtown
-135,"Davis, WV",WV,12.0,12.0,12.0,onsite eyewitness who did headcount
-136,"Dayton, OH",OH,3000.0,3000.0,3000.0,http://www.mydaytondailynews.com/news/local/thousands-rally-dayton-part-women-march-events/ZlU3xaMQAph01LyLEZPs4H/
-137,"Daytona Beach, FL",FL,300.0,300.0,300.0,http://www.news-journalonline.com/news/20170121/signs-of-solidarity-women-take-part-locally-in-two-sister-marches
-138,"Decorah, IA",IA,800.0,890.0,1000.0,http://www.decorahnews.com/news-stories/2017/01/15551.html
-139,"Delaware, OH",OH,127.0,129.0,130.0,organizer headcount via sign-in / photos
-140,"Delhi, NY",NY,50.0,85.0,120.0,instagram #delhiny
-141,"Deming, NM",NM,45.0,48.0,50.0,http://www.demingradio.com/news/local-group-marches-in-solidarity-with-womens-march-on-washington
-142,"Denton, TX",TX,2500.0,2635.0,2800.0,http://www.dentonrc.com/local-news/local-news-headlines/20170121-divided-nation-united-denton.ece
-143,"Denver, CO",CO,100000.0,145000.0,200000.0,http://www.thedenverchannel.com/news/front-range/denver/thousands-gather-for-womens-march-on-denver
-144,"Des Moines, IA",IA,26000.0,26000.0,26000.0,http://whotv.com/2017/01/21/thousands-rally-at-iowa-state-capitol-for-womens-march-against-trump/
-145,"Detroit, MI",MI,4000.0,4000.0,4000.0,http://www.detroitnews.com/story/news/local/detroit-city/2017/01/21/thousands-march-detroit-opposing-trump-presidency/96880054/
-146,"Douglas-Saugatuck, MI",MI,1200.0,1785.0,2500.0,via email 
-147,"Doylestown, PA",PA,1000.0,1450.0,2000.0,https://twitter.com/JimAleski/status/823025384748974080
-148,"Driggs, ID",ID,1000.0,1000.0,1000.0,http://planetjh.com/2017/01/21/in-pictures-the-womens-march-on-jackson/
-149,"Dubuque, IA",IA,400.0,400.0,400.0,http://whotv.com/2017/01/21/smaller-march-in-dubuque-brings-strong-voices/
-150,"Duluth, MN",MN,1500.0,1590.0,1700.0,Duluth News Tribune
-151,"Durango, CO",CO,200.0,560.0,1000.0,https://durangoherald.com/articles/129940-hundreds-march-through-foot-of-snow-in-durango
-152,"Eagle Pass, TX",TX,30.0,30.0,30.0,FB video headcount
-153,"East Haddam, CT",CT,500.0,500.0,500.0,https://twitter.com/ColleenFree/status/823159668541366273
-154,"East Liberty, PA",PA,2000.0,2000.0,2000.0,https://www.facebook.com/PghPoliceZone5/posts/1731101453873096?pnref=story
-155,"East Millinocket, ME",ME,4.0,4.0,4.0,self-report w headcount via google form
-156,"Eastport, ME",ME,111.0,111.0,111.0,organizer headcount via sign-in 
-157,"Eastsound, WA",WA,250.0,250.0,250.0,http://orcasissues.com/orcas-step-worldwide-marches/
-158,"Eau Claire, WI",WI,250.0,250.0,250.0,http://www.weau.com/content/news/Hundreds-march-in-Eau-Claire-to-support-Womens-March-411425375.html
-159,"El Centro, CA",CA,100.0,100.0,100.0,http://www.ivpressonline.com/news/local/women-and-men-link-arms-in-valley-march-opposed-to/article_11668cd4-e068-11e6-9a19-275249e83b96.html
-160,"El Morro, NM",NM,30.0,30.0,30.0,https://twitter.com/kristi5Davis/status/823944076684828672
-161,"El Paso, TX",TX,1000.0,1450.0,2000.0,https://twitter.com/AdriaKFOX_CBS/status/822987688689078272
-162,"Elgin, IL",IL,200.0,560.0,1000.0,The Courier News
-163,"Ellensburg, WA",WA,200.0,238.0,275.0,activist self-report via google form
-164,"Ellsworth, ME",ME,60.0,60.0,60.0,https://twitter.com/UpFrontSoul/status/823162970633015300
-165,"Ely, MN",MN,50.0,50.0,50.0,http://elyecho.com/articles/2017/01/21/ely-area-women-hold-rally-saturday-whiteside-park
-166,"Encinitas, CA (Seacrest)",CA,50.0,50.0,50.0,http://www.nbcsandiego.com/news/local/This-is-a-Little-One-Seniors-Walk-in-Solidarity-With-the-Womens-March-411446085.html
-167,"Ephrata, WA",WA,250.0,250.0,250.0,http://www.ifiberone.com/news/about-people-join-women-s-march-saturday-in-ephrata/youtube_ff1af7b6-e1ae-11e6-b6ed-5b1e5511006e.html
-168,"Erie, PA",PA,2500.0,3175.0,4000.0,http://www.goerie.com/news/20170121/thousands-demonstrate-in-womens-march-on-erie
-169,"Esperanza, PR",PR,300.0,323.0,350.0,Eyewitness on site
-170,"Eugene, OR",OR,7000.0,8350.0,10000.0,http://registerguard.com/rg/news/local/35195183-75/more-than-7000-participate-in-womens-march-in-eugene-joining-hundreds-of-thousands-around-the-nation.html.csp
-171,"Eureka, CA",CA,5000.0,6350.0,8000.0,https://lostcoastoutpost.com/2017/jan/21/hundreds-flood-eurekas-streets-solidarity-womens-m/
-172,"Evanston, WY",WY,1.0,1.0,1.0,self-report via google form
-173,"Fairbanks, AK",AK,2000.0,2000.0,2000.0,http://www.newsminer.com/news/local_news/gather-in-subzero-fairbanks-weather-for-women-s-march/article_239e5470-e01f-11e6-a089-7f4103a02ed3.html
-174,"Fairfax, CA",CA,25.0,239.0,500.0,https://twitter.com/contraryAshley/status/823271784694747136
-175,"Fairfield, IA",IA,200.0,200.0,200.0,FB
-176,"Fairmont, WV",WV,95.0,95.0,95.0,FB photo of marchers
-177,"Falmouth, MA",MA,1000.0,1000.0,1000.0,https://twitter.com/DaveMcGlinchey/status/823023657266114564
-178,"Fargo, ND",ND,1000.0,1900.0,3000.0,http://www.valleynewslive.com/content/news/Womens-March-in-Fargo-brings--411419195.html
-179,"Fayetteville, AR",AR,1000.0,1000.0,1000.0,FB
-180,"Fernandina Beach, FL",FL,1000.0,1135.0,1300.0,http://www.fbnewsleader.com/news/womens-march-fernandina-beach
-181,"Flagstaff, AZ",AZ,1000.0,1450.0,2000.0,http://azdailysun.com/news/local/flagstaff-march-for-love-tops/article_91318de2-8ea4-505d-ac21-bc6709e2b8ca.html
-182,"Florence, OR",OR,300.0,300.0,300.0,https://twitter.com/texdakota/status/823256159989604353
-183,"Floyd, VA",VA,200.0,200.0,200.0,FB
-184,"Forks, WA",WA,45.0,45.0,45.0,FB
-185,"Fort Atkinson, WI",WI,200.0,200.0,200.0,http://www.dailyunion.com/multimedia/collection_ef47d9e2-e016-11e6-acfe-3fc05da771cb.html
-186,"Fort Bragg, CA",CA,2500.0,2635.0,2800.0,https://vimeo.com/200537363
-187,"Fort Collins, CO",CO,600.0,600.0,600.0,http://www.coloradoan.com/story/news/local/2017/01/22/hundreds-attend-rally-our-rights/96924538/
-188,"Fort Wayne, IN",IN,1000.0,1000.0,1000.0,http://www.journalgazette.net/news/local/Thousand-drawn-to-local-protest-17399065
-189,"Fort Worth, TX",TX,5000.0,5450.0,6000.0,https://twitter.com/JillianEMcClure/status/822928537627795457
-190,"Francestown, NH",NH,134.0,134.0,134.0,http://www.unionleader.com/Francestown-holds-peaceful-womens-march
-191,"Frederick, MD",MD,1000.0,1000.0,1000.0,http://www.fredericknewspost.com/news/politics_and_government/hundreds-descend-on-downtown-frederick-for-sister-march/article_2445f10a-8356-5787-ade1-95e208c97c9b.html
-192,"Fredonia, NY",NY,70.0,95.0,120.0,http://chautauquatoday.com/news/details.cfm?clientid=25&id=234985#.WIT2YbYrLVo
-193,"Fresno, CA",CA,2000.0,2000.0,2000.0,http://www.fresnobee.com/news/local/article128014199.html#storylink=cpy
-194,"Friday Harbor, WA",WA,1500.0,1500.0,1500.0,http://sanjuanislander.com/photos/event-photos/slideshow-jan-21-women-s-march-in-friday-harbor
-195,"Gainesville, FL",FL,1500.0,1500.0,1500.0,http://www.gainesville.com/news/20170121/about-1500-join-womens-march-in-gainesville
-196,"Gainesville, FL",FL,500.0,500.0,500.0,http://www.gainesville.com/news/20170121/about-1500-join-womens-march-in-gainesville
-197,"Galesburg, IL",IL,200.0,335.0,500.0,http://tspr.org/post/western-illinois-march-women
-198,"Gila, NM",NM,1.0,1.0,1.0,FB
-199,"Glens Falls, NY",NY,1000.0,1225.0,1500.0,FB
-200,"Glenwood Springs, CO",CO,100.0,100.0,100.0,https://twitter.com/SarahGoTrillIum/status/823018327316566016
-201,"Gloucester, NJ",NJ,200.0,225.0,250.0,Eyewitness on site
-202,"Gouldsboro, ME",ME,25.0,35.0,45.0,https://twitter.com/UpFrontSoul/status/823162970633015300
-203,"Grand Forks, ND",ND,304.0,304.0,304.0,http://www.grandforksherald.com/news/4203526-hundreds-attend-grand-forks-event-inspired-national-womens-march
-204,"Grand Junction, CO",CO,4500.0,4725.0,5000.0,FB (from on-site source)
-205,"Grand Marais, MN",MN,97.0,109.0,120.0,https://twitter.com/bryanhansel/status/823244421185630208
-206,"Grand Rapids, MI",MI,2500.0,2725.0,3000.0,http://www.fountainstreetchurch.com/single-post/2017/01/23/Loss-For-Words
-207,"Grants Pass, OR",OR,1.0,1.0,1.0,FB
-208,"Green Bay, WI",WI,200.0,200.0,200.0,http://www.greenbaypressgazette.com/story/news/2017/01/21/green-bay-womens-march/96782676/?hootPostID=6979db0a7bd407815831ee0e0e039277
-209,"Green Valley, AZ",AZ,350.0,451.0,575.0,Green Valley News
-210,"Greenfield, MA",MA,2000.0,2000.0,2000.0,"http://greenfieldrecorder.ma.newsmemory.com/ Monday January 23, 2017"
-211,"Greensboro, NC",NC,3000.0,4350.0,6000.0,http://myfox8.com/2017/01/21/2800-people-attend-womens-march-in-greensboro/
-212,"Greensburg, IN",IN,45.0,55.0,65.0,Eyewitness estimate
-213,"Greenville, SC",SC,2000.0,2000.0,2000.0,http://www.greenvilleonline.com/story/news/2017/01/21/womens-rally-fills-falls-park-amid-worldwide-protests/96889616/
-214,"Greenville, NC",NC,100.0,150.0,200.0,http://www.wcti12.com/news/womens-marches-held-in-eastern-north-carolina/284801734
-215,"Gross Pointe, MI",MI,1143.0,1214.0,1300.0,FB
-216,"Gualala, CA",CA,203.0,252.0,300.0,onsite source via google form
-217,"Guilford, CT",CT,32.0,32.0,32.0,FB photo w headcount per google form
-218,"Gulfport, MS",MS,300.0,484.0,709.0,http://www.sunherald.com/news/local/counties/harrison-county/article127994339.html
-219,"Gustavus, AK",AK,105.0,105.0,105.0,FB
-220,"Hagatna, Guam",GM,150.0,200.0,250.0,http://www.guampdn.com/picture-gallery/news/2017/01/20/fanohge-famalaoan-guahan-march/96822624/
-221,"Haines, AK",AK,150.0,160.0,170.0,onsite source via FB
-222,"Halfway, OR",OR,31.0,31.0,31.0,onsite sources via google form w photos showing headcount
-223,"Hana, HI",HI,30.0,30.0,30.0,FB
-224,"Haines, AK",,150.0,160.0,170.0,Info from onsite source
-225,"Harrisburg, PA",PA,900.0,994.0,1109.0,http://www.pennlive.com/news/2017/01/harrisburg_version_of_womens_m.html#incart_river_mobile_home_pop
-226,"Harrisville, MI",MI,5.0,5.0,5.0,https://twitter.com/nowosadwoman/status/823223865086267392
-227,"Hartford, CT",CT,10000.0,10000.0,10000.0,http://www.courant.com/news/connecticut/hc-hartford-inauguration-rally-20170121-story.html
-228,"Harwich, MA",MA,200.0,200.0,200.0,http://www.capecod.com/cape-wide-news/solidarity-stand-out-in-harwich-saturday/
-229,"Helena, AR",AR,2.0,2.0,2.0,FB
-230,"Helena, MT",MT,10000.0,10000.0,10000.0,http://helenair.com/news/local/montana-women-s-march-draws-an-estimated/article_d04ff8b8-4f77-5e8f-b683-2941b39d4276.html
-231,"Hemet, CA",CA,98.0,98.0,98.0,onsite headcount via sign-in sheets
-232,"Hilldale, UT",UT,1.0,1.0,1.0,FB
-233,"Hillsborough, NC",NC,200.0,1010.0,2000.0,http://www.heraldsun.com/news/sister-solidarity-hundreds-in-hillsborough-join-national-women-s-protest/article_441458b2-e02e-11e6-a09b-b303523aa1e6.html
-234,"Hilo, HI",HI,1500.0,1815.0,2200.0,http://www.hawaiitribune-herald.com/news/local-news/heeding-rallying-call-more-1000-attend-hilo-women-s-march
-235,"Holden Village, WA",WA,47.0,50.0,52.0,"Eyewitness on site, photographic evidence"
-236,"Homer, AK",AK,900.0,900.0,900.0,FB
-237,Honolulu (Oahu) HI,HI,3000.0,5250.0,8000.0,http://www.staradvertiser.com/2017/01/21/breaking-news/thousands-march-around-state-capitol-in-show-of-solidarity/
-238,"Hood River, OR",OR,200.0,200.0,200.0,http://m.hoodrivernews.com/news/2017/jan/25/womens-stand-brings-national-march-hr/
-239,Hospital Ward,CA,5.0,5.0,5.0,http://www.elle.com/culture/career-politics/news/a42373/the-cancer-patients-who-held-a-womens-march-in-a-hospital/
-240,"Houghton, MI",MI,500.0,500.0,500.0,http://www.uppermichiganssource.com/content/news/Houghton-marchers-for-womens-rights-411431685.html
-241,"Houlton, ME",ME,45.0,48.0,50.0,FB
-242,"Houston, TX",TX,20000.0,21434.0,23187.0,http://www.khou.com/mb/news/20k-attend-womens-march-in-downtown-houston/389702891
-243,"Howard County, MD",MD,100.0,113.0,125.0,"FB group marked as ""attended"""
-244,"Hudson, NY",NY,2000.0,2450.0,3000.0,http://m.registerstar.com/news/article_d498a278-e054-11e6-a01b-dfe6701814de.html?mode=jqm
-245,"Huntsville, AL",AL,80.0,95.0,110.0,onsite headcount per google form
-246,"Huron, SD",SD,11.0,12.0,13.0,Eyewitness on site
-247,"Idaho Falls, ID",ID,500.0,500.0,500.0,http://www.eastidahonews.com/2017/01/500-people-attend-womens-march-idaho-falls/
-248,"Indiana, PA",PA,100.0,150.0,200.0,http://wdadradio.com/downtown-indiana-site-of-march-connected-to-dc-march-for-women/
-249,"Indianapolis, IN",IN,4000.0,6700.0,10000.0,https://twitter.com/rafkhach/status/822930702643720193
-250,"Inverness, CA",CA,5.0,5.0,5.0,FB
-251,"Iowa City, IA",IA,1000.0,1000.0,1000.0,http://www.desmoinesregister.com/story/news/2017/01/21/nearly-1000-people-join-womens-march-iowa-city/96889784/
-252,"Isla Vista, CA",CA,500.0,500.0,500.0,https://www.edhat.com/site/tidbit.cfm?nid=180466
-253,"Issaquah, WA",WA,56.0,56.0,56.0,FB
-254,"Ithaca, NY",NY,8000.0,8900.0,10000.0,http://cornellsun.com/2017/01/21/womens-march-on-ithaca-draws-more-than-8000-shattering-expectations/
-255,"Jackson, NH",NH,300.0,300.0,300.0,https://twitter.com/ConwayDailySun/status/822886300013490180
-256,"Jackson, MS",MS,750.0,2663.0,5000.0,https://twitter.com/FBrownWilliams/status/823037789113565184
-257,"Jackson Hole, WY",WY,1000.0,1000.0,1000.0,http://planetjh.com/2017/01/21/in-pictures-the-womens-march-on-jackson/
-258,"Jacksonville, FL",FL,2000.0,2450.0,3000.0,http://jacksonville.com/metro/2017-01-09/local-marchers-show-solidarity-national-women-s-protest
-259,"Jefferson City, MO",MO,6.0,7.0,7.0,Eyewitness report
-260,"Jerome, AZ",AZ,85.0,93.0,100.0,onsite headcount via google form
-261,"Jonesborough, TN",TN,1000.0,1000.0,1000.0,http://www.johnsoncitypress.com/gallery/Women-s-March-in-Jonesborough-GALLERY
-262,"Joseph, OR",OR,310.0,310.0,310.0,FB
-263,"June Lake, CA",CA,21.0,21.0,21.0,FB photo headcount
-264,"Juneau, AK",AK,1000.0,1000.0,1000.0,http://juneauempire.com/slideshow/news/2017-01-21/slideshow-juneau-marches-force#slide-1
-265,"Kahului, Maui, HI",HI,1500.0,3075.0,5000.0,http://mauitime.com/news/politics/photos-of-todays-womens-march-on-maui/
-266,"Kalamazoo, MI",MI,1000.0,1450.0,2000.0,http://www.mlive.com/news/kalamazoo/index.ssf/2017/01/more_than_1000_people_march_in.html
-267,"Kanab, UT",UT,175.0,175.0,175.0,FB
-268,"Kansas City, MO",MO,5000.0,7250.0,10000.0,http://www.kansascity.com/news/local/article127922349.html
-269,Kaunakakai (Molokai),HI,200.0,200.0,200.0,eyewitness account
-270,"Kawaihae, HI",HI,50.0,50.0,50.0,http://bigislandnow.com/2017/01/21/na-wahine-for-womens-rights-march-on-the-water/
-271,"Keene, NH",NH,245.0,405.0,600.0,FB
-272,"Kennebunk, ME",ME,1000.0,1000.0,1000.0,https://twitter.com/Kennebunkpolice/status/823692338535034882
-273,"Kent, CT",CT,180.0,190.0,200.0,https://twitter.com/jahansell/status/823009339174780928
-274,"Kent, OH",OH,100.0,100.0,100.0,https://twitter.com/KabirBhatiaTime/status/822899486171234305
-275,"Ketchikan, AK",AK,150.0,175.0,200.0,https://twitter.com/polarscribe/status/822999640291184640
-276,"Ketchum, ID",ID,1000.0,1068.0,1150.0,http://magicvalley.com/news/local/attend-ketchum-women-s-march/article_ebe2d387-516e-5426-9e6f-93a45933ee16.html
-277,"Key West, FL",FL,3000.0,3225.0,3500.0,http://www.flkeysnews.com/news/local/article128061044.html
-278,"Killington, VT",VT,51.0,82.0,112.0,onsite eyewitness did headcount per google form
-279,"King's Beach, CA",CA,500.0,635.0,800.0,FB
-280,"Kingston, WA",WA,60.0,60.0,60.0,http://www.kitsapdailynews.com/news/group-engages-in-civil-informationing-in-support-of-womens-march/
-281,"Klamath Falls, Oregon",OR,200.0,250.0,300.0,http://www.heraldandnews.com/news/local_news/local-march-mirrors-national-event/article_4a28f34e-5f50-5ff8-88cf-1767025b992e.html
-282,"Knoxville, TN",TN,2000.0,3350.0,5000.0,FB
-283,"Kodiak, AK",AK,335.0,364.0,400.0,onsite eyewitness did signature count for 335 per google form; many did not sign in
-284,"Kona, HI",HI,3000.0,3225.0,3500.0,Big Island Video News
-285,"Kotzebue, AK",AK,35.0,36.0,36.0,FB photo w headcount per google form
-286,"La Crosse, WI",WI,76.0,113.0,150.0,FB group
-287,"La Grande, OR",OR,104.0,177.0,250.0,FB group
-288,"Lafayette, CO",CO,66.0,89.0,112.0,FB group
-289,"Lafayette, IN",IN,800.0,890.0,1000.0,http://www.jconline.com/story/news/2017/01/21/lafayette-womens-march-turns-out-800/96790444/
-290,"Laguna Beach, CA",CA,3500.0,3725.0,4000.0,FB
-291,"Lake Havasu City, AZ",AZ,30.0,35.0,40.0,http://www.havasunews.com/news/women-s-march-included-lake-havasu-city/article_03f76f44-e1be-11e6-a12a-63c8637e104a.html
-292,"Lakeside, OH",OH,300.0,300.0,300.0,http://www.sanduskyregister.com/story/201701210015
-293,"Lakeville, CT",CT,85.0,93.0,100.0,eyewitness
-294,"Lamoni, IA",IA,18.0,24.0,30.0,FB
-295,"Lancaster, NH",NH,400.0,400.0,400.0,http://www.nh1.com/news/larger-than-predicted-crowd-turns-up-for-lancaster-women-s-march/
-296,"Lancaster, PA",PA,200.0,1010.0,2000.0,http://lancasteronline.com/news/local/hundreds-rally-in-penn-square-for-women-s-rights/article_5dcec858-dfe5-11e6-b8fe-4368bfd596b1.html
-297,"Lander, WY",WY,350.0,418.0,500.0,https://twitter.com/thecarie/status/823042373030547456
-298,"Langley, WA",WA,1200.0,1245.0,1300.0,http://www.southwhidbeyrecord.com/news/over-1000-march-in-langley-protest-participation-exceeded-citys-population/
-299,"Lansdale, PA",PA,3.0,3.0,3.0,FB
-300,"Lansing, MI",MI,8000.0,17900.0,30000.0,http://www.freep.com/story/news/local/michigan/2017/01/21/women-march-washington-lansing-michigan/96898240/
-301,"Las Cruces, NM",NM,200.0,785.0,1500.0,http://www.kvia.com/news/top-stories/hundreds-gather-in-downtown-el-paso-for-womens-march/284730114
-302,"Las Vegas, NV",NV,4000.0,8950.0,15000.0,http://www.lasvegasnow.com/news/photos-huge-turnout-at-local-womens-march-on-washington/643795345
-303,"Las Vegas, NM",NM,50.0,50.0,50.0,FB
-304,"Leonia, NJ",NJ,100.0,190.0,280.0,http://www.northjersey.com/story/news/local/2017/01/21/local-womens-marches-draw-far-larger-crowds-than-expected/96778300/
-305,"Lexington, KY",KY,5000.0,7250.0,10000.0,https://twitter.com/lexkypolice/status/822907799084683264
-306,"Lewes, DE",DE,250.0,250.0,250.0,http://www.capegazette.com/article/peaceful-march-along-lewes-beach-takes-stand-women%E2%80%99s-rights/124227
-307,"Lewis, NY",NY,147.0,227.0,325.0,FB
-308,"Lewisburg, PA",PA,150.0,175.0,200.0,FB (people on site)
-309,Lihue (Kauai) HI,HI,1500.0,1500.0,1500.0,http://thegardenisland.com/news/local/attend-sign-waving-event-support-women-s-march-on-washington/article_d7188a0b-7d09-5afe-9c33-0f2e80244eda.html
-310,"Lilly, PA",PA,4.0,4.0,4.0,FB
-311,"Lincoln, NE",NE,2000.0,2900.0,4000.0,http://www.omaha.com/news/politics/at-least-people-fill-the-streets-in-women-s-march/article_5de6469e-58ff-5e39-b4de-290a99e01a26.html
-312,"Little Rock, AR",AR,7000.0,7000.0,7000.0,http://www.arkansasonline.com/news/2017/jan/21/hundreds-march-street-state-capitol-downtown-littl/?news-arkansas
-313,"Logan, UT",UT,50.0,75.0,100.0,http://news.hjnews.com/allaccess/a-human-statement-valley-women-join-d-c-march-small/article_76777608-33e0-5853-8fe7-a97309cfe441.html
-314,"Lompoc, CA",CA,100.0,100.0,100.0,http://www.ksby.com/story/34315680/womens-march-on-lompoc
-315,"Longview, WA",WA,200.0,200.0,200.0,http://tdn.com/news/local/longview-women-s-march-draws-around-people/article_824ee3c7-2905-5688-a146-148ce860874e.html
-316,"Longville, MN",MN,67.0,67.0,67.0,https://twitter.com/curatress/status/822996713979912192
-317,"Los Angeles, CA",CA,200000.0,447500.0,750000.0,http://www.latimes.com/local/lanow/la-me-womens-march-los-angeles-20170121-story.html
-318,"Louisville, KY",KY,5000.0,5000.0,5000.0,http://www.courier-journal.com/story/news/politics/2017/01/21/local-activists-call-social-justice/96676446/
-319,"Loup City, NE",NE,100.0,125.0,150.0,http://www.nbcneb.com/content/news/March-for-equality-takes-place-in-central-Nebraska-411432745.html
-320,"Lovell, ME",ME,2.0,2.0,2.0,Eyewitness on site
-321,Lovettsville,VA,5.0,5.0,5.0,eyewitness; photo
-322,"Loup City, NE",,150.0,150.0,150.0,Onsite source via FB
-323,"Lubbock, TX",TX,350.0,643.0,1000.0,http://lubbockonline.com/local/2017-01-21/hundreds-protest-lubbock-women-s-march
-324,"Lubec, ME",ME,95.0,95.0,95.0,FB
-325,"Lyons, CO",CO,25.0,28.0,30.0,Eyewitness on site
-326,"Mt. Shasta, CA",CA,400.0,400.0,400.0,http://www.mtshastanews.com/photogallery/CA/20170121/PHOTOGALLERY/121009998/PH/1
-327,"Mt. Laurel, NJ",NJ,20.0,20.0,20.0,https://twitter.com/KaraLogan21/status/823293332520632320
-328,"Madison, WI",WI,75000.0,86250.0,100000.0,http://www.channel3000.com/news/mpd/284567959
-329,"Manchester, VT",VT,50.0,50.0,50.0,"http://www.benningtonbanner.com/stories/rally-embraces-tolerance-as-trump-takes-office,495830?"
-330,"Mankato, MN",MN,50.0,95.0,140.0,http://www.mprnews.org/story/2017/01/21/photos-around-minnesota-women-and-men-march-for-womens-rights
-331,"Marfa, TX",TX,76.0,76.0,76.0,Twitter
-332,"Martha's Vineyard, MA",MA,100.0,100.0,100.0,http://www.mvtimes.com/2017/01/21/photos-womens-march-five-corners/
-333,"Marquette, MI",MI,200.0,470.0,800.0,http://www.miningjournal.net/uncategorized/2017/01/hundreds-rally-for-womens-march-in-marquette/
-334,"Marshall, MN",MN,2.0,2.0,2.0,Eyewitness on site
-335,"Maryville, IL",IL,40.0,45.0,50.0,https://twitter.com/Pretty_pittie/status/823328254014668800
-336,"McCall, ID",ID,75.0,113.0,150.0,FB
-337,"McConnelsville, OH",OH,5.0,17.0,29.0,https://www.facebook.com/events/762841653864304/
-338,"McMinnville, OR",OR,700.0,1015.0,1400.0,FB
-339,"Melbourne/Brevard County, FL",FL,500.0,500.0,500.0,FB
-340,"Memphis, TN",TN,3000.0,5700.0,9000.0,https://t.co/unaoHXpGUT
-341,"Menomonie, WI",WI,200.0,313.0,450.0,https://twitter.com/trayf/status/823044387668193280
-342,"Mentone, AL",AL,50.0,60.0,70.0,FB
-343,"Miami, FL",FL,10000.0,16750.0,25000.0,http://www.miamiherald.com/news/local/community/miami-dade/article127925999.html
-344,"Midland, MI",MI,400.0,400.0,400.0,http://www.mlive.com/news/saginaw/index.ssf/2017/01/midland_march.html
-345,"Midland, TX",TX,50.0,75.0,100.0,http://www.cbs7.com/content/news/Womans-March-comes-to-Midland--411432415.html
-346,Midway Atoll,--,6.0,6.0,6.0,Eyewitness on site
-347,"Miles City, MT",MT,500.0,500.0,500.0,Eyewitness estimate
-348,"Milford, CT",CT,120.0,120.0,120.0,http://www.nhregister.com/20170120/milford-protest-as-trump-inaugurated-draws-attention-to-environment-education-and-more
-349,"Milhelm, PA",PA,50.0,50.0,50.0,FB
-350,"Milwaukee, WI",WI,1000.0,1000.0,1000.0,http://www.cbs58.com/story/34314179/hundreds-hit-the-streets-of-milwaukee-for-womens-march-on-washington
-351,"Minocqua, WI",WI,300.0,300.0,300.0,FB
-352,"Minturn, CO",CO,6.0,6.0,6.0,FB
-353,"Missoula, MT",MT,80.0,100.0,120.0,http://www.kpax.com/story/34315123/womens-march-takes-to-montanas-capitol-with-huge-crowd
-354,"Mitchell, IN",IN,18.0,19.0,20.0,FB
-355,"Moab, UT",UT,200.0,200.0,200.0,https://twitter.com/mmrj_tweet/status/822963369577615360
-356,"Mobile, AL",AL,900.0,945.0,1000.0,FB (report from on site)
-357,"Modesto, CA",CA,900.0,945.0,1000.0,http://www.modbee.com/news/article128034159.html
-358,"Mooresville, NC",NC,70.0,70.0,70.0,http://www.mooresvilletribune.com/news/marching-to-make-a-point/article_f3388eee-e02e-11e6-a716-fb8d63c948f4.html
-359,Monhegan Island,ME,22.0,22.0,22.0,email
-360,"Montpelier, VT",VT,15000.0,17250.0,20000.0,http://www.burlingtonfreepress.com/story/news/2017/01/21/montpelier-womens-march-draws-7000/96888920/
-361,"Mora, NM",NM,1.0,1.0,1.0,FB
-362,"Morganton, NC",NC,500.0,545.0,600.0,http://www.morganton.com/townnews/politics/a-call-for-equality-demonstrators-converge-on-downtown-in-support/article_250317d0-e018-11e6-97d8-5fd6a7377b4b.html#utm_source=morganton.com&utm_campaign=%2Fnewsletter%2Fbreaking%2F&utm_medium=email&utm_content=image
-363,"Morris, MN",MN,250.0,250.0,250.0,http://www.morrissuntribune.com/news/local/4203507-250-participate-womens-march-morris-video
-364,"Moscow, ID",ID,2500.0,2500.0,2500.0,http://dnews.com/local/women-on-the-march/article_61739ce0-0c64-57cc-baa7-4e0492c47b98.html
-365,"Mount Vernon, OH",OH,20.0,25.0,30.0,via email 
-366,"Mount Vernon, WA",WA,200.0,920.0,1800.0,https://www.goskagit.com/news/young-and-old-take-on-downtown-mount-vernon-for-women/article_d216fe5e-24a5-5606-9e21-706c1db3ff2f.html/#utm_source=goskagit.com&utm_campaign=related-by-section&utm_medium=direct&utm_term=young%20and%20old%20take%20on%20downtown%20mount%20vernon%20for%20women%27s%20march
-367,"Murray, KY",KY,700.0,700.0,700.0,http://wkms.org/post/hundreds-join-march-equality-and-social-justice-murray
-368,"Nacogdoches, TX",TX,200.0,250.0,300.0,FB
-369,"Nantucket, MA",MA,400.0,400.0,400.0,http://www.ack.net/news/20170121/your-nantucket-womens-march-photos-wanted
-370,"Napa, CA",CA,3000.0,3000.0,3000.0,http://napavalleyregister.com/news/local/napa-women-s-march-spreads-message-of-love-hope-solidarity/article_53aae273-59e4-5b49-ab51-3e4a13a6e729.html
-371,"Naples, FL",FL,2500.0,3625.0,5000.0,http://www.nbc-2.com/story/34313013/womens-march-on-dc-echoed-in-naples
-372,"Nashville, TN",TN,15000.0,17250.0,20000.0,https://twitter.com/Killingcrawdads/status/822924062213210112
-373,"Nebraska City, NE",NE,3.0,3.0,3.0,Eyewitness on site
-374,"Nederland, CO",CO,20.0,28.0,35.0,Eyewitness on site
-375,"Nevada City, CA",CA,100.0,100.0,100.0,http://www.theunion.com/news/local-news/group-gathering-in-nevada-city-in-support-of-marchers-worldwide/
-376,"New Bern, NC",NC,300.0,480.0,700.0,https://twitter.com/UncleIllya/status/823023824253964288
-377,"New Haven, CT",CT,200.0,200.0,200.0,http://www.newhavenindependent.org/index.php/archives/entry/local_march/
-378,"New Orleans, LA",LA,7000.0,10600.0,15000.0,http://www.theadvocate.com/new_orleans/news/article_b6a63598-e002-11e6-9066-575bd82cb3da.html
-379,"New Smyrna Beach, FL",FL,1000.0,1000.0,1000.0,http://www.news-journalonline.com/news/20170121/signs-of-solidarity-women-take-part-locally-in-two-sister-marches
-380,"New York, NY",NY,400000.0,445000.0,500000.0,https://twitter.com/amNewYork/status/822978182315999233
-381,"Newark, DE",DE,1000.0,1090.0,1200.0,http://www.delawareonline.com/story/news/local/2017/01/21/trumps-first-day-people-march-newark/96836242/
-382,"Newark, NJ",NJ,1000.0,1000.0,1000.0,FB
-383,"Newport, OR",OR,1500.0,1500.0,1500.0,http://www.newportnewstimes.com/v2_news_articles.php?heading=0&story_id=54234&page=86
-384,"Nome, AK",AK,80.0,90.0,100.0,FB
-385,"Norfolk, VA",VA,2000.0,2360.0,2800.0,http://pilotonline.com/news/local/sister-marches-draw-thousands-to-downtown-norfolk-to-support-women/article_491f897c-2be6-5968-9f8a-2df7250a0184.html
-386,"Northampton, MA",MA,2500.0,2725.0,3000.0,https://www.facebook.com/NorthamptonMAPD/posts/774633669358519:0
-387,"Oak Ridge, TN",TN,450.0,495.0,550.0,onsite eyewitness (estimated based on # buttons/flyers distributed)
-388,"Oakhurst, CA",CA,200.0,201.0,201.0,http://www.fresnobee.com/news/local/article128014199.html
-389,"Oakland, CA",CA,100000.0,100000.0,100000.0,http://patch.com/california/alameda/100-000-peaceful-demonstrators-join-oakland-womens-march
-390,"Ocala, FL",FL,100.0,200.0,300.0,https://www.youtube.com/watch?v=Yu7OYoX1Xqs
-391,"Ocean City, MD",MD,200.0,380.0,600.0,http://www.wmdt.com/news/maryland/hundreds-show-their-support-in-ocs-womens-march/284828523
-392,"Ocean Shores, WA",WA,150.0,175.0,200.0,http://www.northcoastnews.com/news/womens-march-draws-diverse-crowd-in-ocean-shores/
-393,"Ocracoke, NC",NC,108.0,114.0,120.0,https://twitter.com/jcgreenfield/status/823321395904004096
-394,"Ogden, UT",UT,200.0,250.0,300.0,http://www.standard.net/Community/2017/01/21/Hundreds-brave-snow-for-Northern-Utah-Unity-Rally-in-Ogden.html
-395,"Oklahoma City, OK",OK,7000.0,9250.0,12000.0,https://newsok.com/thousands-gather-saturday-at-oklahoma-capitol-for-womens-march/article/5535205
-396,"Old Saybrook, CT",CT,800.0,890.0,1000.0,onsite eyewitness via google form
-397,"Olympia, WA",WA,10000.0,10000.0,10000.0,http://www.theolympian.com/news/local/article127924384.html
-398,"Omaha, NE",NE,12000.0,14700.0,18000.0,http://www.omaha.com/news/politics/women-s-march-fills-omaha-streets-to-send-a-message/article_5de6469e-58ff-5e39-b4de-290a99e01a26.html
-399,"Oneonta, NY",NY,500.0,500.0,500.0,http://www.allotsego.com/women-allies-march-across-otsego-county/
-400,"Onley, VA",VA,50.0,50.0,50.0,http://www.ask4direct.com/InfoRead.asp?id=WESR&InfoID=1028534
-401,"Ontario, CA",CA,200.0,200.0,200.0,http://www.pe.com/articles/san-823719-bernardino-participated.html
-402,"Orcas Island, WA",WA,200.0,200.0,200.0,Eyewitness on site
-403,"Orford, NH",NH,7.0,7.0,7.0,Eyewitness on site
-404,"Orlando, FL",FL,3000.0,5250.0,8000.0,http://www.orlandosentinel.com/news/os-lake-eola-womens-march-20170121-story.html
-405,"Owensboro, KY",KY,15.0,23.0,30.0,Eyewitness on site
-406,"Oxford, MS",MS,450.0,450.0,450.0,http://thedmonline.com/hundreds-gather-oxfords-womens-march/
-407,"Pacifica, CA",CA,1200.0,1200.0,1200.0,FB
-408,"Palm Desert, CA",CA,1000.0,1000.0,1000.0,FB
-409,"Palm Springs, CA",CA,200.0,250.0,300.0,onsite eyewitness via google form
-410,"Palmdale, CA",CA,24.0,24.0,24.0,http://www.twcnews.com/ca/antelope-valley/news/2017/01/21/protesters-gather-in-antelope-valley-in-support-of-women-s-march-on-washington.html
-411,"Palmer, AK",AK,377.0,657.0,1000.0,FB
-412,"Paradox, NY",NY,3.0,3.0,3.0,Eyewitness on site
-413,"Park City, UT",UT,5000.0,6350.0,8000.0,http://www.parkrecord.com/news/giant-sundance-crowd-marches-in-broad-rebuke-of-president-trump/?platform=hootsuite
-414,"Panama City, FL",FL,500.0,500.0,500.0,http://www.newsherald.com/news/20170121/hundreds-gather-protest-at-panama-city-womens-march
-415,"Paoli, IN",IN,67.0,67.0,67.0,verified through user photo
-416,"Paonia, CO",CO,40.0,40.0,40.0,Eyewitness on site
-417,"Pasadena, CA",CA,500.0,1040.0,1700.0,http://www.pasadenastarnews.com/general-news/20170121/womens-march-demonstrators-raise-their-voices-in-pasadena
-418,"Pence, WI",WI,1.0,1.0,1.0,FB
-419,"Pendelton, OR",OR,425.0,526.0,650.0,http://www.eastoregonian.com/eo/local-news/20170121/protestors-pack-pendleton-for-womens-march
-420,"Pensacola, FL",FL,2000.0,2000.0,2000.0,http://www.pnj.com/story/news/local/pensacola/downtown/2017/01/21/hundreds-brave-rain-join-pensacola-march-women/96795864/
-421,"Pentwater, MI",MI,2.0,2.0,2.0,Eyewitness on site
-422,"Peoria, IL",IL,1500.0,1725.0,2000.0,http://www.centralillinoisproud.com/news/local-news/peoria-rally-in-support-of-womens-march-on-washington/643865167
-423,"Pequannock Township, NJ",NJ,800.0,890.0,1000.0,http://www.northjersey.com/story/news/2017/01/21/crowds-gathering-womens-march-protests/96778388/
-424,"Peterborough, NH",NH,50.0,55.0,60.0,Eyewitness on site
-425,"Petersburg, AK",AK,50.0,65.0,80.0,Eyewitness on site
-426,"Philadelphia, PA",PA,50000.0,50000.0,50000.0,http://www.philly.com/philly/blogs/real-time/Womens-Marches-in-Washington-DC-and-Philadelphia-Live-updates-Jan-21-2017.html
-427,"Phoenix, AZ",AZ,20000.0,22250.0,25000.0,http://www.azcentral.com/story/news/local/phoenix/2017/01/21/phoenix-womens-march-sister-washington-capitol/96849890/
-428,"Pierre, SD",SD,130.0,133.0,135.0,onsite eyewitness did a headcount via google form
-429,"Pikeville, KY",KY,100.0,100.0,100.0,https://twitter.com/sheila_isaac/status/823375791601963008
-430,"Pinedale, WY",WY,100.0,100.0,100.0,FB
-431,"Pittsburgh, PA",PA,25000.0,25000.0,25000.0,http://www.post-gazette.com/local/city/2017/01/21/Pittsburgh-groups-protest-against-Trump/stories/201701210111
-432,"Pittsfield, MA",MA,1500.0,1500.0,1500.0,http://theberkshireedge.com/sister-march-at-colonial-theatre-draws-throngs-from-across-the-berkshires/
-433,"Plattsburgh, NY",NY,182.0,415.0,700.0,https://twitter.com/elodiemet/status/823227264645132288
-434,"Plymouth, WI",WI,200.0,200.0,200.0,http://www.sheboyganpress.com/videos/news/local/2017/01/21/hundreds-attend-million-person-unity-marches-sheboygan-county/96905712/
-435,"Pocatello, ID",ID,1200.0,1200.0,1200.0,http://idahostatejournal.com/members/marchers-show-up-in-droves-for-women-s-march-on/article_fe93fb5e-f29b-5784-bda9-6f66cc342649.html
-436,"Point Reyes Station, CA",CA,35.0,60.0,85.0,Eyewitness on site
-437,"Port Angeles, WA",WA,100.0,150.0,200.0,FB
-438,"Port Jefferson, NY",NY,2000.0,2000.0,2000.0,http://www.newsday.com/long-island/women-s-values-rallies-in-huntington-port-jefferson-station-1.12993518
-439,"Port Jervis, NY",NY,350.0,418.0,500.0,onsite eyewitness via google form
-440,"Port Orford, OR",OR,280.0,290.0,300.0,onsite eyewitness via google form; did headcount
-441,"Port Townsend, WA",WA,300.0,615.0,1000.0,http://www.peninsuladailynews.com/news/some-300-protesters-march-in-port-townsend/
-442,"Portales, NM",NM,50.0,50.0,50.0,http://www.easternnewmexiconews.com/story/2017/01/22/news/we-will-be-heard/150454.html
-443,"Portland, ME",ME,10000.0,10000.0,10000.0,http://www.pressherald.com/2017/01/21/signs-sentiments-crowd-eastern-prom-for-womens-march/
-444,"Portland, OR",OR,70000.0,83500.0,100000.0,https://twitter.com/scaackler/status/822995313703075840
-445,"Portland, OR area",OR,55.0,58.0,60.0,Eyewitness on site
-446,"Portsmouth, NH",NH,3000.0,3900.0,5000.0,http://www.seacoastonline.com/news/20170121/portsmouth-womens-march-draws-thousands
-447,"Potsdam, NY",NY,18.0,20.0,22.0,Eyewitness on site
-448,"Poughkeepsie, NY",NY,4000.0,5672.0,7716.0,https://www.facebook.com/rivera.sun.3?fref=nf&pnref=story.unseen-section
-449,"Prescott, AZ",AZ,1200.0,1200.0,1200.0,http://www.dcourier.com/photos/galleries/2017/jan/21/womens-march-in-prescott/
-450,"Providence, RI",RI,5000.0,5900.0,7000.0,http://www.providencejournal.com/news/20170121/from-providence-to-washington-rhode-islanders-turn-out-to-send-trump-message
-451,"Provincetown, MA",MA,300.0,300.0,300.0,http://capecodwave.com/provincetown-womens-march-going-speak/
-452,"Quincy, CA",CA,50.0,78.0,105.0,Eyewitness on site
-453,"Raleigh, NC",NC,17000.0,18350.0,20000.0,http://www.wral.com/organizers-estimate-17-000-gather-in-raleigh-for-women-s-march/16456580/
-454,"Rapid City, SD",SD,1000.0,1450.0,2000.0,https://twitter.com/ThatBrandyn/status/822891625676275712
-455,"Reading, PA",PA,100.0,258.0,450.0,http://www.readingeagle.com/news/article/crowds-gather-in-city-park-in-reading-for-sister-march
-456,"Red Bank, NJ",NJ,200.0,290.0,400.0,newjersey.news12.com/multimedia/hundreds-march-in-solidarity-in-red-bank-1.12994794
-457,"Redding, CA",CA,300.0,300.0,300.0,http://www.redding.com/story/news/local/2017/01/21/live-tweets-womens-march-redding-city-hall/96882162/
-458,"Redondo Beach, CA",CA,2000.0,2000.0,2000.0,http://www.easyreadernews.com/144169/redondo-beach-womens-march-draws-1800-participants/
-459,"Redwood City, CA",CA,2500.0,2500.0,2500.0,https://twitter.com/AlexHorovitz/status/822997333151387649
-460,"Reno, NV",NV,10000.0,10000.0,10000.0,http://www.rgj.com/story/news/2017/01/21/s-change-reno-womens-march-washington/96888834/
-461,"Richland, WA",WA,1000.0,1675.0,2500.0,http://www.tri-cityherald.com/news/local/article128022844.html
-462,"Richmond, VA",VA,2000.0,2000.0,2000.0,http://richmondfreepress.com/news/2017/jan/20/thousands-join-march-monument-message-equality-uni/
-463,"Ridgecrest, CA",CA,180.0,190.0,200.0,onsite eyewitness; headcount at start with others joining along route
-464,"Ridgway, CO",CO,50.0,100.0,150.0,FB
-465,"Riegelsville, PA",PA,170.0,185.0,200.0,Bucks County Courier Times
-466,"Riverside, CA",CA,4000.0,4000.0,4000.0,http://www.pasadenastarnews.com/general-news/20170121/thousands-of-women-others-rally-in-riverside-to-protest-trumps-policies
-467,"Roanoke, VA",VA,3000.0,3675.0,4500.0,http://www.wdbj7.com/content/news/Thousands-marched-for-women-in-Roanoke-411421475.html
-468,"Rochester, MN",MN,600.0,780.0,1000.0,https://twitter.com/water_violin/status/822997922757349376
-469,"Rochester, NY",NY,1500.0,1725.0,2000.0,http://www.democratandchronicle.com/story/news/2017/01/21/women-upset-trumps-presidency-hold-rallies-locally/96715496/
-470,"Rock Springs, WY",WY,90.0,105.0,120.0,Eyewitness on site
-471,"Rockford, IL",IL,1000.0,1000.0,1000.0,http://www.rrstar.com/news/20170121/crowds-pack-downtown-rockford-for-womens-march-protest
-472,"Romney, WV",WV,30.0,40.0,50.0,Onsite eyewitness; headcount
-473,"Roswell, NM",NM,2.0,2.0,2.0,via email 
-474,"Roxbury, CT",CT,15.0,58.0,100.0,FB
-475,"St. Augustine, FL",FL,1000.0,1450.0,2000.0,http://www.firstcoastnews.com/news/womens-march-makes-its-way-to-the-first-coast/389706372
-476,"St. Cloud, MN",MN,40.0,40.0,40.0,http://www.sctimes.com/story/news/local/2017/01/20/st-cloud-mixed-reaction-president-trump/96837370/
-477,"St. Croix, VI",VI,250.0,250.0,250.0,http://viconsortium.com/virgin-islands-2/watch-usvi-joins-u-s-world-womens-march-protesting-trump-inauguration/
-478,"St. George, UT",UT,1200.0,1324.0,1475.0,organizer head count
-479,"St. John, VI",VI,60.0,60.0,60.0,Eyewitness onsite; photographic evidence
-480,"St. Johnsbury, VT",VT,50.0,60.0,70.0,http://www.caledonianrecord.com/news/local/large-crowd-turns-out-for-march-in-st-johnsbury/article_79fb1b0b-82c7-5f2a-91f4-c8a7be03f7b9.html
-481,"St. Joseph, MI",MI,60.0,60.0,60.0,http://www.wirx.com/2017/01/23/womens-march-held-in-st-joseph/
-482,"St. Louis, MO",MO,10000.0,14500.0,20000.0,http://www.stltoday.com/news/local/govt-and-politics/thousands-take-part-in-st-louis-women-s-march-protesting/article_0866b5f9-d4ce-507d-9be1-792e599713d7.html
-483,"St. Mary's City, MD",MD,10.0,10.0,10.0,FB
-484,"St. Mary of the Woods, IN",IN,180.0,190.0,200.0,http://www.tribstar.com/news/local_news/wabash-valley-residents-gather-in-solidarity-with-marchers-in-washington/article_49969ab3-c25d-52a1-b185-aa99dd701846.html
-485,"St. Paul/Minneapolis, MN",MN,90000.0,94500.0,100000.0,https://twitter.com/sppdPIO/status/822974502434930688
-486,"St. Petersburg, FL",FL,20000.0,20000.0,20000.0,http://www.tampabay.com/news/politics/elections/womens-march-surpassed-20000-protesters-making-it-largest-in-st-petersburg/2310416
-487,"Sacramento, CA",CA,20000.0,28100.0,38000.0,http://www.sacbee.com/news/local/article127914504.html
-488,"Sag Harbor, NY",NY,250.0,250.0,250.0,http://easthamptonstar.com/News/7/East-Enders-Marched-Washington-NYC-and-Sag-Harbor
-489,"Salem, OR",OR,1000.0,2440.0,4200.0,http://www.statesmanjournal.com/story/news/2017/01/21/womens-march-salem-unites-thousands-people/96850428/
-490,"Salem, WI",WI,2.0,2.0,2.0,eyewitness onsite
-491,"Salida, CO",CO,40.0,45.0,50.0,http://www.themountainmail.com/free_content/article_16fc9b52-e185-11e6-a2aa-2b737598eb38.html
-492,"Salinas, CA",CA,80.0,80.0,80.0,http://www.montereyherald.com/government-and-politics/20170120/trump-inauguration-unites-participants-in-protests-on-monterey-peninsula-salinas
-493,"Salisbury, CT",CT,200.0,305.0,434.0,https://twitter.com/jahansell/status/823009339174780928
-494,"Salt Lake City, UT (1/20)",UT,1000.0,1000.0,1000.0,http://www.sltrib.com/home/4843395-155/about-1000-utahns-rally-against-president
-495,"Salt Lake City, UT (1/23)",UT,6000.0,7800.0,10000.0,http://kutv.com/news/local/thousands-gather-for-utah-women-unite-march-at-utah-capitol-rotunda
-496,"San Anselmo, CA",CA,4.0,4.0,4.0,Eyewitness on site
-497,"San Antonio, TX",TX,1500.0,2175.0,3000.0,http://www.mysanantonio.com/news/local/article/Women-in-San-Antonio-take-to-the-streets-to-10873833.php
-498,"San Bernardino, CA",CA,80.0,80.0,80.0,http://www.pe.com/articles/san-823719-bernardino-participated.html
-499,"San Clemente, CA",CA,100.0,150.0,200.0,http://www.sanclementetimes.com/hundreds-participate-san-clemente-womens-march-washington/
-500,"San Diego, CA",CA,30000.0,34500.0,40000.0,http://www.kpbs.org/news/2017/jan/20/thousands-san-diegans-march-womens-rights/
-501,"San Francisco, CA",CA,100000.0,154000.0,220000.0,http://sanfrancisco.cbslocal.com/2017/01/21/huge-crowd-san-francisco-rally-womens-march/
-502,"San Jose, CA",CA,25000.0,31750.0,40000.0,http://www.sfchronicle.com/bayarea/article/Crowds-gather-to-demonstrate-against-Trump-10873932.php
-503,"San Juan, PR",PR,200.0,290.0,400.0,onsite eyewtiness w photo
-504,"San Luis Obispo, CA",CA,7000.0,8350.0,10000.0,http://www.sanluisobispo.com/news/local/article128024209.html
-505,"San Marcos, CA",CA,3000.0,6150.0,10000.0,http://www.sandiegouniontribune.com/communities/north-county/sd-no-san-marcos-march-20170119-story.html
-506,"San Rafael, CA",CA,500.0,500.0,500.0,FB
-507,"Sanford, ME",ME,100.0,115.0,130.0,http://www.journaltribune.com/news/2017-01-23/Front_Page/Were_all_one.html
-508,"Sandpoint, ID",ID,800.0,890.0,1000.0,http://www.bonnercountydailybee.com/local_news/20170121/marching_together_north_idaho_style
-509,"Santa Ana, CA",CA,20000.0,22250.0,25000.0,http://www.ocregister.com/articles/march-741832-women-people.html
-510,"Santa Barbara, CA",CA,5000.0,6350.0,8000.0,http://www.edhat.com/site/tidbit.cfm?nid=180540
-511,"Santa Cruz, CA",CA,8000.0,11150.0,15000.0,http://www.santacruzsentinel.com/government-and-politics/20170121/thousands-of-protesters-swarm-downtown-santa-cruz
-512,"Santa Fe, NM",NM,10000.0,13150.0,17000.0,http://www.santafenewmexican.com/news/local_news/santa-feans-flood-downtown-streets-in-display-of-anger-hope/article_8bf2bb24-b83f-51e3-8434-8a18223dac5d.html
-513,"Santa Rosa, CA",CA,5000.0,5000.0,5000.0,https://www.facebook.com/SantaRosaPoliceDepartment/
-514,"Sarasota, FL",FL,7500.0,8625.0,10000.0,https://twitter.com/sarasotapd/status/822888985689292800
-515,"Saugatuck, MI",MI,200.0,1010.0,2000.0,http://wincountry.com/news/articles/2017/jan/22/women-march-in-washington-and-in-michigan/
-516,"Sault Ste Marie, MI",MI,40.0,40.0,40.0,https://www.sootoday.com/local-news/women-resist-on-queen-street-516643
-517,"Sausalito, CA",CA,3.0,3.0,3.0,Eyewitness onsite
-518,"Savannah, GA",GA,1000.0,1000.0,1000.0,http://savannahnow.com/news/2017-01-21/hundreds-march-downtown-savannah-promote-women-s-rights-oppose-trump
-519,"Saxaphaw, NC",NC,80.0,80.0,80.0,https://twitter.com/HandyVillage/status/823178636790468609
-520,"Seaside, CA",CA,1000.0,1450.0,2000.0,http://www.ksbw.com/article/women-s-march-brings-hundreds-to-csumb-campus/8626551
-521,"Seattle, WA",WA,100000.0,133750.0,175000.0,http://www.seattletimes.com/seattle-news/politics/live-updates-womens-marches-seattle-dc-day-after-trump-inauguration/
-522,"Sedona, AZ",AZ,1000.0,1000.0,1000.0,FB
-523,"Seldovia, AK",AK,41.0,41.0,41.0,via email 
-524,"Selingsgrove, PA",PA,119.0,119.0,119.0,FB
-525,"Seneca Falls, NY",NY,10000.0,10000.0,10000.0,http://fingerlakes1.com/2017/01/21/full-coverage-women-march-in-seneca-falls-2017/
-526,"Sequim, WA",WA,300.0,390.0,500.0,https://twitter.com/davidacody/status/823226017674248196
-527,"Seward, AK",AK,54.0,62.0,70.0,onsite count via Twitter (w/ photo)
-528,"Sharon, PA",PA,700.0,700.0,700.0,http://www.sharonherald.com/news/local_news/many-feet-one-voice/article_bba9716e-cc03-597c-8be8-ade51955213d.html
-529,"Sheboygan, WI",WI,300.0,390.0,500.0,http://www.sheboyganpress.com/videos/news/local/2017/01/21/hundreds-attend-million-person-unity-marches-sheboygan-county/96905712/
-530,"Show Low, AZ",AZ,1.0,1.0,1.0,https://twitter.com/LynnMRichards/status/823171903464407040
-531,"Shreveport/Bossier, LA",LA,200.0,560.0,1000.0,http://www.ksla.com/story/34314150/large-crowd-marches-in-downtown-shreveport-in-solidarity-with-womens-march-in-dc
-532,"Sicklerville, NJ",NJ,200.0,225.0,250.0,http://www.burlingtoncountytimes.com/news/local/video-nj-residents-gather-in-gloucester-township-to-protest-president/html_a1be7ea8-3eee-5d9f-8a37-6ad1afa50a57.html
-533,"Silver City, NM",NM,500.0,500.0,500.0,FB
-534,"Silverton, CO",CO,50.0,50.0,50.0,FB
-535,"Sioux Falls, SD",SD,3300.0,3300.0,3300.0,http://www.argusleader.com/story/news/2017/01/21/thousands-join-womens-march-downtown-sioux-falls/96883868/
-536,"Sitka, AK",AK,700.0,700.0,700.0,https://twitter.com/sarahebourne/status/823019012426780672
-537,"Skagway, AK",AK,122.0,122.0,122.0,FB
-538,"Skykomish, WA",WA,8.0,8.0,8.0,FB
-539,"Soldotna, AK",AK,200.0,261.0,322.0,http://peninsulaclarion.com/news/local/2017-01-21/solidarity-women-s-march-community-gathering-bring-hundreds-out-soldotna
-540,"Sonoma, CA",CA,3000.0,3000.0,3000.0,http://www.sonomanews.com/news/6572152-181/thousands-turn-up-for-sonoma?artslide=0
-541,"South Bend, IN",IN,1000.0,1450.0,2000.0,http://www.southbendtribune.com/news/local/more-than-march-for-women-in-south-bend/article_d51bf83d-b32a-50ca-9db2-e11b34f5a855.html
-542,"South Lake Tahoe, CA / Stateline, NV",CA/NV,500.0,590.0,700.0,http://www.nevadaappeal.com/news/local/more-than-1-million-join-womens-marches-worldwide/
-543,"South Orange, NJ",NJ,2000.0,2000.0,2000.0,FB
-544,"Southborough, MA",MA,50.0,50.0,50.0,http://www.metrowestdailynews.com/photogallery/WL/20170121/NEWS/121009991/PH/1?start=2
-545,"Spokane, WA",WA,4000.0,7600.0,12000.0,http://www.khq.com/story/34314162/womens-march-on-spokane-draws-thousands
-546,"Springfield, IL",IL,1000.0,1000.0,1000.0,State Journal Register
-547,"Springfield, MA",MA,40.0,40.0,40.0,http://www.masslive.com/news/index.ssf/2017/01/springfield_protesters_reject.html
-548,"Springfield, MO",MO,2000.0,2000.0,2000.0,http://www.ky3.com/content/news/411423915.html
-549,"Springfield, OH",OH,5.0,5.0,5.0,https://www.insurancenewsnet.com/oarticle/springfield-residents-react-protest-trumps-inauguration
-550,"Stamford, CT",CT,5000.0,5000.0,5000.0,http://www.stamfordadvocate.com/local/article/Thousands-attend-Women-s-March-in-Stamford-10873898.php
-551,"Stanley, ID",ID,30.0,30.0,30.0,https://twitter.com/Margot_Garnick/status/823006371444588544
-552,"State College, PA",PA,200.0,335.0,500.0,http://www.centredaily.com/news/local/community/state-college/article127994959.html
-553,"Statesboro, GA",GA,200.0,200.0,200.0,https://twitter.com/jonathanhtweets/status/823054896165486593
-554,"Staunton, VA",VA,100.0,125.0,150.0,http://www.newsleader.com/story/news/local/2017/01/21/96880364/
-555,"Steamboat Springs, CO",CO,1000.0,1000.0,1000.0,http://www.steamboattoday.com/news/2017/jan/21/womens-march-steamboat-springs-surpasses-expectati/
-556,"Syracuse, NY",NY,2000.0,2450.0,3000.0,FB
-557,"Talkeetna, AK",AK,25.0,30.0,35.0,FB
-558,"Tallahassee, FL",FL,14000.0,15800.0,18000.0,http://www.tallahassee.com/story/news/2017/01/21/more-than-14000-join-womens-march-on-tallahassee/96880778/
-559,"Taos, NM",NM,100.0,100.0,100.0,FB
-560,"Tecumseh, MI",MI,35.0,35.0,35.0,https://twitter.com/Anthony_Alaniz/status/823176969202319360
-561,"Telluride, CO",CO,200.0,560.0,1000.0,FB
-562,"Tenants Harbor, ME",ME,50.0,58.0,65.0,http://knox.villagesoup.com/p/midcoast-lens-strength-in-numbers-at-womens-marches/1616859
-563,"The Dalles, OR",OR,50.0,100.0,150.0,FB
-564,"Tillamook, OR",OR,300.0,300.0,300.0,http://www.tillamookheadlightherald.com/news/womens-march-rally-draws-hundreds-in-tillamook/article_9ae75ab2-e02f-11e6-89fc-3f59da891fab.html
-565,"Tisbury, MA",MA,100.0,130.0,160.0,http://www.mvtimes.com/2017/01/21/photos-womens-march-five-corners/
-566,"Toledo, OH",OH,200.0,200.0,200.0,http://www.toledoblade.com/Politics/2017/01/21/Toledo-marchers-deliver-message-of-unity-after-inauguration.html
-567,"Topeka, KS",KS,3000.0,3450.0,4000.0,http://cjonline.com/news/local/2017-01-21/women-s-march-topeka-draws-thousands-thumps-trump
-568,"Traverse City, MI",MI,3000.0,3000.0,3000.0,http://www.record-eagle.com/news/thousands-gather-for-traverse-city-women-s-march/article_547cdcb0-e029-11e6-be94-83e0491aa877.html
-569,"Trenton, NJ",NJ,6000.0,6900.0,8000.0,http://www.nj.com/politics/index.ssf/2017/01/crowd_of_6k_converges_on_womens_march_in_trenton.html
-570,"Troy, OH",OH,150.0,175.0,200.0,http://tdn-net.com/top-stories/18578/promoting-unity
-571,"Troy, PA",PA,6.0,6.0,6.0,Eyewitness on site
-572,"Truckee, CA",CA,100.0,150.0,200.0,Eyewitnesses on site; FB
-573,"Truth or Consequences, NM",NM,150.0,154.0,158.0,FB
-574,"Tucson, AZ",AZ,15000.0,15000.0,15000.0,http://tucson.com/news/local/join-women-s-march-in-tucson/article_a3326d7b-dc9c-5b3f-a443-e6667b3f4a6b.html
-575,"Tulsa, OK",OK,1000.0,1000.0,1000.0,http://www.tulsaworld.com/homepagelatest/tulsa-rally-promotes-cause-of-women-s-rights-indigenous-group/article_688e80bc-a873-5087-bf2f-057e22435172.html#.WIRHr5jrEik.twitter
-576,"Tupper Lake, NY",NY,5.0,5.0,5.0,Eyewitness on site
-577,"Tuscarora, NV",NV,7.0,7.0,7.0,Eyewitness on site
-578,"Twisp, WA",WA,600.0,690.0,800.0,http://methowtv.com/womens-march-january-21-2017/
-579,"Ukiah, CA",CA,1500.0,1725.0,2000.0,Eyewitness on site
-580,"Unalakleet, AK",AK,38.0,39.0,40.0,adn.com
-581,Unalaska (Dutch Harbor),AK,80.0,83.0,86.0,http://kucb.org/post/womens-march-draws-80-unalaskans
-582,"Union, WA",WA,55.0,58.0,60.0,signature collection by organizer via google form
-583,"University Park, MD",MD,80.0,80.0,80.0,Eyewitness on site
-584,"Utica, NY",NY,200.0,250.0,300.0,http://www.wktv.com/story/34315510/peaceful-human-rights-march-at-mvcc
-585,"Utqiagvik (Barrow), AK",AK,22.0,29.0,35.0,https://twitter.com/trulyfrancesca/status/823000866718420993
-586,"Valdez, AK",AK,100.0,115.0,130.0,https://jackpineradicals.com/boards/topic/womens-march-in-gustavus-alaska/
-587,"Vallejo, CA",CA,100.0,150.0,200.0,http://www.dailyrepublic.com/news/mare-island-walk-takes-stand-with-womens-march/
-588,"Valparaiso, IN",IN,260.0,368.0,500.0,http://www.nwitimes.com/news/local/women-march-for-rights-in-valparaiso/article_a8aeff74-665f-52ec-a5ee-19cdbe93cf4e.html
-589,"Vancouver, WA",WA,150.0,175.0,200.0,http://www.columbian.com/news/2017/jan/21/rally-vancouver-waterfront-solidarity-womens-marches/
-590,"Vashon, WA",WA,253.0,262.0,270.0,onsite eyewitness headcount
-591,"Ventura, CA",CA,1700.0,2285.0,3000.0,https://www.facebook.com/events/664366620399146/
-592,"Vermillion, SD",SD,500.0,500.0,500.0,http://siouxcityjournal.com/news/photos-vermillion-women-s-march/collection_383f9a7a-0427-5ff3-bfb6-03d3a83ea4ad.html#1
-593,"Vienna, VA",VA,28.0,32.0,35.0,Eyewitness on site
-594,"Vieques, PR",PR,150.0,200.0,250.0,onsite eyewitness / signature collection via google form
-595,"Vinalhaven, ME",ME,76.0,76.0,76.0,http://www.penbaypilot.com/article/vinalhaven-musters-sister-march-jan-21/81253
-596,"Visalia, CA",CA,500.0,500.0,500.0,http://www.visaliatimesdelta.com/picture-gallery/news/2017/01/21/gallery-visalia-womens-march/96891282/
-597,"Walla Walla, WA",WA,2000.0,2180.0,2400.0,union-bulletin.com
-598,"Walnut Creek, CA",CA,3000.0,6150.0,10000.0,http://www.sfchronicle.com/bayarea/article/Crowds-gather-to-demonstrate-against-Trump-10873932.php
-599,Washington DC,DC,500000.0,725000.0,1000000.0,https://www.nytimes.com/interactive/2017/01/22/us/politics/womens-march-trump-crowd-estimates.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0
-600,"Watertown, NY",NY,250.0,250.0,250.0,http://www.watertowndailytimes.com/news03/watertown-sister-rally-invokes-hope-battles-injustice-20170121
-601,"Watsonville, CA",CA,300.0,390.0,500.0,eyewitness
-602,"Wausau, WI",WI,150.0,175.0,200.0,http://www.wausaudailyherald.com/story/news/2017/01/20/group-gathers-support-womens-march-wausau/96778196/
-603,"Wellfleet, MA",MA,113.0,113.0,113.0,via email (JP)
-604,"Wenatchee, WA",WA,2000.0,2000.0,2000.0,http://www.wenatcheeworld.com/news/2017/jan/21/huge-turnout-for-womens-march/
-605,"West Chester, PA",PA,150.0,175.0,200.0,https://wcborodems.org/2017/01/21/in-solidarity-with-the-womens-march/
-606,"West Jefferson, NC",NC,295.0,298.0,300.0,https://twitter.com/wineymomof2/status/822928844558663681
-607,"West Lima, WI",WI,1.0,1.0,1.0,Twitter
-608,"West Palm Beach, FL",FL,5000.0,5900.0,7000.0,http://www.palmbeachpost.com/news/local/thousands-turn-out-west-palm-for-women-rally-against-trump/GURHjHOiaBFtDfODkqg0fM/
-609,"Westfield, NJ",NJ,1000.0,1450.0,2000.0,https://www.tapinto.net/towns/westfield/articles/womens-march-in-westfield-attracts-thousands
-610,"Westwood, CA",CA,7.0,7.0,7.0,https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/16143287_1327469003942570_8616922278418296058_n.jpg?oh=eb912bd6e7949caa7ef1ec1a7a691dda&oe=590F4747
-611,"Wichita, KS",KS,3000.0,3000.0,3000.0,http://www.kansas.com/news/local/article127951994.html
-612,"Wichita Falls, TX",TX,150.0,150.0,150.0,http://www.timesrecordnews.com/story/news/local/2017/01/21/group-peacefully-marches-voice-their-concerns/96891804/
-613,"Williamsburg, VA",VA,700.0,835.0,1000.0,http://wydaily.com/2017/01/21/womens-march-in-williamsburg-a-family-affair/
-614,"Willits, CA",CA,50.0,50.0,50.0,FB
-615,"Wilmington, NC",NC,1000.0,1900.0,3000.0,http://www.starnewsonline.com/news/20170121/wilmington-womens-march-exceeds-crowd-goal-inspires-hope
-616,"Wilmington, OH",OH,70.0,70.0,70.0,http://wnewsj.com/news/34216/locals-join-womens-march
-617,"Wilton, NH",NH,100.0,113.0,125.0,onsite eyewitness who did headcount (via google form)
-618,"Winchester, VA",VA,1200.0,1245.0,1300.0,onsite eyewitness & local news (via google form)
-619,"Winters, CA",CA,200.0,200.0,200.0,FB
-620,Women's March Online,--,415.0,415.0,415.0,FB
-621,"Woods Hole, MA",MA,1.0,1.0,1.0,marcher self-report with photo on FB
-622,"Woodstock, NY",NY,1000.0,1000.0,1000.0,http://media.dailyfreeman.com/2017/01/21/photos-from-the-womens-march-in-woodstock/
-623,"Woodstock, VA",VA,400.0,400.0,400.0,http://www.nvdaily.com/uncategorized/2017/01/women-hold-sister-march-in-woodstock/
-624,"Wooster, OH",OH,500.0,725.0,1000.0,http://www.the-daily-record.com/local%20news/2017/01/22/rally-at-wooster-gazebo-draws-500
-625,"Wyckoff, NJ",NJ,300.0,390.0,500.0,http://www.northjersey.com/story/news/local/2017/01/21/local-womens-marches-draw-far-larger-crowds-than-expected/96778300/
-626,"Yakima, WA",WA,800.0,890.0,1000.0,http://www.yakimaherald.com/news/local/hundreds-are-marching-through-yakima/article_1a192d50-e009-11e6-87ed-17b155bb6c9c.html
-627,"Yellow Springs, OH",OH,250.0,250.0,250.0,http://ysnews.com/news/2017/01/yellow-springs-sister-march-draws-at-least-250
-628,"Ypsilanti, MI",MI,1200.0,1200.0,1200.0,https://www.facebook.com/events/1520855921262573/
-629,"Yucca Valley, CA",CA,76.0,138.0,200.0,indivisiblemb.org
-630,"Yuma, AZ",AZ,10.0,10.0,10.0,FB
-631,"Zebulon, GA",GA,35.0,35.0,35.0,SPLCenter on twitter 
+id  ,City                                   ,State ,Low estimate ,Best Guess ,High estimate ,Source1
+1   ,"Abilene, TX"                          ,TX    ,200.0        ,200.0      ,200.0         ,http://www.reporternews.com/story/news/local/2017/01/21/hundreds-march-abilene-city-hall-womens-rights/96858224/
+2   ,"Accident, MD"                         ,MD    ,54.0         ,54.0       ,54.0          ,http://www.riverfronttimes.com/newsblog/2017/01/23/stranded-far-from-washington-dc-these-st-louis-women-marched-in-rural-maryland
+3   ,"Adak, AK"                             ,AK    ,10.0         ,10.0       ,10.0          ,adn.com
+4   ,"Adrian, MI"                           ,MI    ,150.0        ,150.0      ,150.0         ,http://www.lenconnect.com/news/20170122/marches-in-adrian-across-country-express-distaste-for-new-leader
+5   ,"Ajo, AZ"                              ,AZ    ,250.0        ,250.0      ,250.0         ,https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwomenactnow%2Fposts%2F316622398732847&width=500
+6   ,"Alameda, CA"                          ,CA    ,8.0          ,8.0        ,8.0           ,FB
+7   ,"Alamosa, CO"                          ,CO    ,350.0        ,350.0      ,350.0         ,https://twitter.com/zepol/status/823234973935239172
+8   ,"Albany, CA"                           ,CA    ,500.0        ,500.0      ,500.0         ,https://twitter.com/ben_silverman/status/823032391841132545
+9   ,"Albany, NY"                           ,NY    ,7000.0       ,7900.0     ,9000.0        ,http://www.timesunion.com/local/article/Albany-activists-Inaugurate-Resistance-on-10873758.php
+10  ,"Alexandria, VA"                       ,VA    ,17.0         ,17.0       ,17.0          ,https://twitter.com/TinaPStacy/status/823226044643680257
+11  ,"Albuquerque, NM"                      ,NM    ,3000.0       ,8400.0     ,15000.0       ,http://www.koat.com/article/thousands-fill-civic-plaza-for-womens-rally/8626736
+12  ,"Alliance, NE"                         ,NE    ,100.0        ,125.0      ,150.0         ,eyewtiness onsite w/ headcount
+13  ,"Almanor West, CA"                     ,CA    ,4.0          ,4.0        ,4.0           ,eyewitness; picture
+14  ,"Alpine, TX"                           ,TX    ,96.0         ,96.0       ,96.0          ,https://twitter.com/sarahmvasquez/status/823189717659176960
+15  ,"Amarillo, TX"                         ,TX    ,600.0        ,645.0      ,700.0         ,https://www.texastribune.org/2017/01/21/thousands-expected-participate-texas-womens-marche/
+16  ,"Amelia Island, FL"                    ,FL    ,700.0        ,1000.0     ,1367.0        ,http://www.firstcoastnews.com/news/womens-march-makes-its-way-to-the-first-coast/389706372
+17  ,"Anacortes, WA"                        ,WA    ,1200.0       ,1200.0     ,1200.0        ,http://www.goskagit.com/skagit/hundreds-participate-in-anacortes-women-s-march/article_4117590e-285b-565e-acd0-1ea4e7826160.html
+18  ,"Anchorage, AK"                        ,AK    ,2000.0       ,2900.0     ,4000.0        ,https://www.adn.com/alaska-news/2017/01/21/large-crowd-attends-womens-march-on-anchorage-in-solidarity-with-national-events/
+19  ,"Angola, IN"                           ,IN    ,24.0         ,42.0       ,60.0          ,http://wane.com/2017/01/21/womens-marches-in-allen-and-steuben-county-protest-trump/
+20  ,"Ann Arbor, MI"                        ,MI    ,11000.0      ,11000.0    ,11000.0       ,http://www.mlive.com/news/ann-arbor/index.ssf/2017/01/more_than_6000_flood_streets_o.html
+21  ,"Annapolis, MD"                        ,MD    ,1600.0       ,1600.0     ,1600.0        ,http://www.capitalgazette.com/news/annapolis/ph-ac-cn-annapolis-womens-march-0122-20170121-story.html
+22  ,"Annville, PA"                         ,PA    ,30.0         ,30.0       ,30.0          ,http://www.ldnews.com/videos/news/2017/01/21/watch-voices-women's-march-annville/96901782/
+23  ,"Appleton, WI"                         ,WI    ,3.0          ,3.0        ,3.0           ,http://www.sheboyganpress.com/story/news/local/2017/01/21/appleton-woman-stands-womens-march/96894178/
+24  ,"Arden, DE"                            ,DE    ,40.0         ,45.0       ,50.0          ,onsite eyewitness via google form; did headcount
+25  ,"Asbury Park, NJ"                      ,NJ    ,6000.0       ,6000.0     ,6000.0        ,https://twitter.com/JuliaJHobbs/status/822955160116793344
+26  ,"Asheville, NC"                        ,NC    ,7000.0       ,8350.0     ,10000.0       ,http://wlos.com/news/local/photo-gallery-the-womens-march-on-asheville
+27  ,"Ashland, OR"                          ,OR    ,8000.0       ,11150.0    ,15000.0       ,http://www.oregonlive.com/trending/2017/01/womens_march_oregon_ashland_ph.html
+28  ,"Aspen, CO"                            ,CO    ,200.0        ,560.0      ,1000.0        ,http://www.aspendailynews.com/section/home/174009
+29  ,"Astoria, OR"                          ,OR    ,1300.0       ,1435.0     ,1600.0        ,http://www.dailyastorian.com/Local_News/20170121/hundreds-march-in-astoria-to-counter-trump
+30  ,"Athens, GA"                           ,GA    ,700.0        ,2635.0     ,5000.0        ,http://onlineathens.com/slideshow/2017-01-21/photos-athens-womens-march#slide-1
+31  ,"Athens, OH"                           ,OH    ,300.0        ,390.0      ,500.0         ,http://www.athensnews.com/news/local/hundreds-take-to-athens-streets-to-protest-trump-two-party/article_a05f8d96-a9cc-11e6-adc2-afe09ec722c0.html
+32  ,"Atlanta, GA"                          ,GA    ,60000.0      ,61350.0    ,63000.0       ,http://www.ajc.com/news/state--regional-govt--politics/new-police-estimate-000-atlanta-the-march-continues-the-capitol/PlaULPX2mykkjcHk799zLP/
+33  ,"Augusta, GA"                          ,GA    ,600.0        ,600.0      ,600.0         ,http://chronicle.augusta.com/news/2017-01-21/hundreds-participate-augusta-solidarity-march
+34  ,"Augusta, ME"                          ,ME    ,5000.0       ,7250.0     ,10000.0       ,http://www.pressherald.com/2017/01/21/thousands-converge-on-augusta-for-womens-march-on-maine-rally/
+35  ,"Austin, TX"                           ,TX    ,33000.0      ,50550.0    ,72000.0       ,organizer ran out of stickers after handing out 33k via google form
+36  ,"Avalon, CA"                           ,CA    ,44.0         ,44.0       ,44.0          ,https://twitter.com/lisakate111/status/823018370094071808
+37  ,"Bailey, CO"                           ,CO    ,5.0          ,5.0        ,5.0           ,FB
+38  ,"Bainbridge Island, WA"                ,WA    ,200.0        ,268.0      ,350.0         ,http://www.bainbridgereview.com/news/march-through-winslow/
+39  ,"Bakersfield, CA"                      ,CA    ,88.0         ,119.0      ,150.0         ,http://bakersfieldnow.com/news/local/local-women-join-millions-more-across-the-nation-for-womens-equality
+40  ,"Baltimore, MD"                        ,MD    ,5000.0       ,5000.0     ,5000.0        ,http://www.baltimoresun.com/news/maryland/bs-md-baltimore-sister-march-20170121-story.html
+41  ,"Bar Harbor, ME"                       ,ME    ,50.0         ,53.0       ,55.0          ,Eyewitness on site
+42  ,"Bandon, OR"                           ,OR    ,70.0         ,70.0       ,70.0          ,FB
+43  ,"Bayfield, WI"                         ,WI    ,427.0        ,427.0      ,427.0         ,FB
+44  ,Beaufort                               ,NC    ,11.0         ,11.0       ,11.0          ,onsite eyewitness; photograph
+45  ,"Beaumont, TX"                         ,TX    ,300.0        ,300.0      ,300.0         ,FB
+46  ,"Beaver, PA"                           ,PA    ,275.0        ,288.0      ,300.0         ,onsite eyewitness w/ headcount
+47  ,"Beaver Island, MI"                    ,MI    ,18.0         ,20.0       ,22.0          ,Onsite eyewitness; headcount
+48  ,"Bellingham, WA"                       ,WA    ,5000.0       ,5450.0     ,6000.0        ,https://t.co/iyjFHSXHEq
+49  ,"Bemidji, MN"                          ,MN    ,250.0        ,363.0      ,500.0         ,http://www.mprnews.org/story/2017/01/21/photos-around-minnesota-women-and-men-march-for-womens-rights
+50  ,"Bend, OR"                             ,OR    ,3000.0       ,3900.0     ,5000.0        ,http://www.bendbulletin.com/home/5002977-151/thousands-in-bend-join-international-womens-march
+51  ,"Bennington, VT"                       ,VT    ,75.0         ,100.0      ,125.0         ,Eyewitness on site
+52  ,"Bentonville, AR"                      ,AR    ,300.0        ,435.0      ,600.0         ,onsite eyewitness; headcount
+53  ,"Berkeley, CA"                         ,CA    ,200.0        ,560.0      ,1000.0        ,http://www.dailycal.org/2017/01/21/berkeley-community-joins-millions-around-world-participating-womens-marches/
+54  ,"Bethel, AK"                           ,AK    ,40.0         ,70.0       ,100.0         ,https://www.adn.com/slideshow/visual/2017/01/21/thousands-hit-the-streets-for-womens-march-events-in-alaska/
+55  ,"Bethlehem, CT"                        ,CT    ,2.0          ,2.0        ,2.0           ,https://twitter.com/Fontaine6Mary/status/823915255327838211
+56  ,"Bethlehem, PA"                        ,PA    ,500.0        ,518.0      ,540.0         ,http://www.mcall.com/news/breaking/mc-women--march-20170121-story.html
+57  ,"Bettendorf, IA"                       ,IA    ,300.0        ,525.0      ,800.0         ,http://qctimes.com/news/local/hall-overflows-with-women-s-rally-participants/article_03dc35fb-bb39-54b5-bce3-b2c275cafaff.html
+58  ,"Beverly Hills, CA"                    ,CA    ,250.0        ,275.0      ,300.0         ,onsite eyewitness; headcount w photos via google form
+59  ,"Binghamton, NY"                       ,NY    ,2000.0       ,2450.0     ,3000.0        ,FB
+60  ,"Birmingham, AL"                       ,AL    ,5000.0       ,7250.0     ,10000.0       ,http://www.al.com/news/birmingham/index.ssf/2017/01/thousands_parade_through_birmi.html#incart_river_mobileshort_home
+61  ,"Bishop, CA"                           ,CA    ,600.0        ,600.0      ,600.0         ,FB
+62  ,"Bismarck, ND"                         ,ND    ,500.0        ,500.0      ,500.0         ,http://www.grandforksherald.com/news/4203619-larger-expected-nd-capitol-womens-march-calls-solidarity
+63  ,"Black Mountain, NC"                   ,NC    ,250.0        ,318.0      ,400.0         ,onsite eyewitness / photographer
+64  ,"Block Island, RI"                     ,RI    ,60.0         ,70.0       ,80.0          ,onsite eyewitness took head count via google form
+65  ,"Bloomsburg, PA"                       ,PA    ,40.0         ,50.0       ,60.0          ,https://twitter.com/MzHokie/status/823054470728810496
+66  ,"Bluff, UT"                            ,UT    ,48.0         ,48.0       ,48.0          ,onsite eyewitness with headcount via google form
+67  ,"Boise, ID"                            ,ID    ,5000.0       ,5000.0     ,5000.0        ,http://www.idahostatesman.com/news/local/article127913309.html
+68  ,"Borrego Springs, CA"                  ,CA    ,140.0        ,145.0      ,150.0         ,onsite eyewitness who did headcount
+69  ,"Boston, MA"                           ,MA    ,175000.0     ,175000.0   ,175000.0      ,http://whdh.com/news/175000-rally-on-boston-common-for-womens-march/
+70  ,"Bozeman, MT"                          ,MT    ,13.0         ,13.0       ,13.0          ,https://twitter.com/MadamHerpadurp/status/823031787211235328
+71  ,"Breen, CO"                            ,CO    ,1.0          ,1.0        ,1.0           ,via email (JP)
+72  ,"Bridgewater, MA"                      ,MA    ,12.0         ,12.0       ,12.0          ,http://www.enterprisenews.com/news/20170121/bridgewater-residents-protest-trump---with-peace
+73  ,"Brighton, MI"                         ,MI    ,300.0        ,300.0      ,300.0         ,http://www.livingstondaily.com/story/news/local/2017/01/21/hundreds-rally-brighton-mill-pond/96884294/
+74  ,"Brattleboro, VT"                      ,VT    ,200.0        ,225.0      ,250.0         ,FB
+75  ,"Brookings, OR"                        ,OR    ,250.0        ,275.0      ,300.0         ,organizer headcount onsite
+76  ,"Broomfield, CO"                       ,CO    ,100.0        ,150.0      ,200.0         ,onsite eyewtiness took head count w photo via google form
+77  ,"Brownsville, TX"                      ,TX    ,300.0        ,341.0      ,390.0         ,http://www.brownsvilleherald.com/news/local/article_f670f8cc-e037-11e6-b9b5-9398a778b088.html
+78  ,"Brunswick, ME"                        ,ME    ,300.0        ,345.0      ,400.0         ,Press Herald
+79  ,"Buffalo, NY"                          ,NY    ,2500.0       ,2725.0     ,3000.0        ,http://www.wgrz.com/mb/news/local/hundreds-gather-in-buffalo-for-womens-march/389611887
+80  ,"Burbank, CA"                          ,CA    ,300.0        ,300.0      ,300.0         ,http://myburbank.com/01/news/womens-march-burbank-brings-families-kids-mothers/
+81  ,"Burns, OR"                            ,OR    ,20.0         ,20.0       ,20.0          ,FB
+82  ,"Burnsville, NC"                       ,NC    ,80.0         ,80.0       ,80.0          ,"onsite eyewitness w photo headcount, via google form"
+83  ,Cambridge                              ,MN    ,22.0         ,22.0       ,22.0          ,FB
+84  ,"Canton, NY"                           ,NY    ,135.0        ,218.0      ,300.0         ,https://twitter.com/matt_carotenuto/status/823121233659174912
+85  ,"Cape Henlopen, DE"                    ,DE    ,250.0        ,250.0      ,250.0         ,http://www.capegazette.com/article/peaceful-march-along-lewes-beach-takes-stand-women’s-rights/124227
+86  ,"Carbondale, CO"                       ,CO    ,200.0        ,425.0      ,700.0         ,http://www.postindependent.com/priority/main-carousel/women-march-in-colorado-dc-around-world-to-resist-trump/
+87  ,"Carbondale, IL"                       ,IL    ,1000.0       ,1900.0     ,3000.0        ,http://thesouthern.com/news/local/communities/carbondale/hundreds-gather-in-carbondale-to-march-for-human-rights/article_616ca5a9-dd07-57da-9a8e-ee3a9317bd05.html
+88  ,"Carmel, CA"                           ,CA    ,15.0         ,20.0       ,25.0          ,onsite eyewitness headcount w photos via google form
+89  ,"Casper, WY"                           ,WY    ,700.0        ,835.0      ,1000.0        ,https://pitchengine.com/oilcity/2017/01/21/caspers-womens-march--from-above/002519172678172300726
+90  ,"Cathlamet, WA"                        ,WA    ,2.0          ,2.0        ,2.0           ,https://twitter.com/emily_kintigh/status/823942819832172544
+91  ,"Champaign, IL"                        ,IL    ,5000.0       ,5360.0     ,5800.0        ,http://www.news-gazette.com/news/local/2017-01-21/womens-march-champaign.html
+92  ,"Charleston, SC"                       ,SC    ,2000.0       ,2000.0     ,2000.0        ,http://www.postandcourier.com/news/unity-activism-and-empowerment-at-charleston-women-s-march-where/article_34b81c38-dffb-11e6-9c2e-f30b0dc420c4.html
+93  ,"Charleston, WV"                       ,WV    ,2000.0       ,2450.0     ,3000.0        ,http://counton2.com/2017/01/20/womens-march-on-washington-plans-sister-march-in-charleston/
+94  ,"Charlotte, NC"                        ,NC    ,20000.0      ,24500.0    ,30000.0       ,"city police estimate reported to organizers, reported via google form"
+95  ,"Charlottesville, VA"                  ,VA    ,2000.0       ,2225.0     ,2500.0        ,http://www.dailyprogress.com/gallery/charlottesville-women-s-march/collection_1a2a4a98-e006-11e6-9753-7fa6fdc922ca.html
+96  ,"Chattanooga, TN"                      ,TN    ,1000.0       ,1900.0     ,3000.0        ,http://www.timesfreepress.com/news/local/story/2017/jan/21/women-march-chattanooga-protest-trump-election/408743/
+97  ,"Chelan, WA"                           ,WA    ,400.0        ,432.0      ,470.0         ,local media reported via Google form
+98  ,"Chesapeake Bay, MD"                   ,MD    ,1.0          ,1.0        ,1.0           ,FB
+99  ,"Cheyenne, WY"                         ,WY    ,1200.0       ,1560.0     ,2000.0        ,http://www.wyomingnews.com/news/new-large-spirited-crowd-fills-women-s-march-in-cheyenne/article_193210e4-e029-11e6-b4f7-131f0601002f.html
+100 ,"Chicago, IL"                          ,IL    ,250000.0     ,250000.0   ,250000.0      ,http://www.chicagotribune.com/news/ct-womens-march-chicago-0122-20170121-story.html
+101 ,"Chico, CA"                            ,CA    ,1000.0       ,1900.0     ,3000.0        ,FB
+102 ,"Chillicothe, OH"                      ,OH    ,1000.0       ,1000.0     ,1000.0        ,https://twitter.com/JeffTClinton/status/822999960765530113
+103 ,"Christiansted, St. Croix"             ,VI    ,350.0        ,440.0      ,550.0         ,"US Park Service, Fort Christianvaarn Historic Site, Christiansted"
+104 ,"Cincinnati, OH"                       ,OH    ,5000.0       ,8150.0     ,12000.0       ,http://www.wlwt.com/article/thousands-fill-washington-park-as-part-of-nationwide-equal-rights-movement/8625720
+105 ,"Clare, MI"                            ,MI    ,24.0         ,50.0       ,75.0          ,http://www.themorningsun.com/general-news/20170121/hope-strength-unity-topics-at-the-clare-peoples-rally
+106 ,"Clarion, PA"                          ,PA    ,65.0         ,83.0       ,100.0         ,http://www.theclarionnews.com/news/local/article_1731f243-d54b-5d9c-89e5-4b8fc3196cc5.html
+107 ,"Clemson, SC"                          ,SC    ,500.0        ,500.0      ,500.0         ,http://www.independentmail.com/story/news/local/south-carolina/2017/01/21/clemson-march-draws-500-support-womens-rights/96886286/
+108 ,"Cleveland, OH"                        ,OH    ,15000.0      ,15000.0    ,15000.0       ,http://www.cleveland.com/metro/index.ssf/2017/01/womens_march_on_cleveland_a_vo.html#incart_big-photo
+109 ,"Cobb, CA"                             ,CA    ,2.0          ,2.0        ,2.0           ,FB
+110 ,"Cobleskill, NY"                       ,NY    ,350.0        ,350.0      ,350.0         ,http://www.timesjournalonline.com/article.asp?id=101580
+111 ,"Cody, WY"                             ,WY    ,400.0        ,445.0      ,500.0         ,http://www.kcwy13.com/content/news/Four-Hundred-Joined-the-Cody-Womens-March-Over-the-Weekend--411538625.html
+112 ,"College Station, TX"                  ,TX    ,50.0         ,50.0       ,50.0          ,http://www.kbtx.com/content/news/College-Station-group-holds-womens-march--411430985.html
+113 ,"Colorado Springs, CO"                 ,CO    ,7000.0       ,7000.0     ,7000.0        ,http://gazette.com/thousands-march-in-colorado-springs-in-protest-a-day-after-president-trumps-inauguration/article/1594846
+114 ,"Columbia, MD"                         ,MD    ,100.0        ,113.0      ,125.0         ,FB
+115 ,"Columbia, MO"                         ,MO    ,2000.0       ,2722.0     ,3604.0        ,http://www.columbiatribune.com/news/local/local-solidarity-march-brings-out-hundreds-in-opposition-to-trump/article_600dbb1a-2273-58c3-9799-ac4a96578a24.html
+116 ,"Columbia, SC"                         ,SC    ,2000.0       ,2450.0     ,3000.0        ,http://www.heraldonline.com/latest-news/article127939199.html
+117 ,"Columbus, OH"                         ,OH    ,2000.0       ,2450.0     ,3000.0        ,http://wksu.org/post/womens-march-columbus-draws-thousands-people#stream/0
+118 ,"Columbus, OH"                         ,OH    ,200.0        ,200.0      ,200.0         ,http://thelantern.com/2017/01/students-stage-walkout-in-protest-against-president-trump/
+119 ,"Compton, CA"                          ,CA    ,35.0         ,40.0       ,45.0          ,estimated headcount from FB photos provided via google form
+120 ,"Concord, NH"                          ,NH    ,4000.0       ,4900.0     ,6000.0        ,https://twitter.com/LenStuart/status/822934229671673861
+121 ,"Conover, WI"                          ,WI    ,1.0          ,1.0        ,1.0           ,FB
+122 ,"Cooperstown, NY"                      ,NY    ,200.0        ,200.0      ,200.0         ,http://www.allotsego.com/women-allies-march-across-otsego-county/
+123 ,"Coos Bay, OR"                         ,OR    ,200.0        ,200.0      ,200.0         ,http://theworldlink.com/news/local/hundreds-rally-at-women-s-march-in-downtown-coos-bay/article_997db7f0-b921-5aef-8e37-5945831c8400.html
+124 ,"Copper Harbor, MI"                    ,MI    ,19.0         ,28.0       ,36.0          ,https://twitter.com/LlrCandy/status/823050874305921024
+125 ,"Cordova, AK"                          ,AK    ,108.0        ,111.0      ,114.0         ,onsite eyewitness who did headcount
+126 ,"Corpus Christi, TX"                   ,TX    ,24.0         ,24.0       ,24.0          ,http://www.kristv.com//story/34315427/corpus-christi-womens-march#.WIRF0H0kfZo.twitter
+127 ,"Cortez, CO"                           ,CO    ,400.0        ,447.0      ,504.0         ,http://www.cortezjournal.com/article/20170121/NEWS01/170129975/400-march-through-snow-in-Cortez-unity-demonstration
+128 ,"Corvallis, OR"                        ,OR    ,100.0        ,100.0      ,100.0         ,FB
+129 ,"Craftsbury, VT"                       ,VT    ,15.0         ,15.0       ,15.0          ,FB group photo w headcount
+130 ,"Crested Butte, CO"                    ,CO    ,350.0        ,418.0      ,500.0         ,https://twitter.com/jcgreenfield/status/823228054864596993
+131 ,"Crestone, CO"                         ,CO    ,1.0          ,1.0        ,1.0           ,FB
+132 ,"Cruz Bay, St. John"                   ,VI    ,200.0        ,200.0      ,200.0         ,http://stjohnsource.com/content/news/local-news/2017/01/22/st-john-women-s-march-draws-200
+133 ,"Crystal River, FL"                    ,FL    ,7.0          ,7.0        ,7.0           ,FB group photo w headcount
+134 ,"Dallas, TX"                           ,TX    ,5000.0       ,6350.0     ,8000.0        ,http://www.dallasnews.com/news/dallas/2017/01/21/watch-dallas-womens-march-kicks-downtown
+135 ,"Davis, WV"                            ,WV    ,12.0         ,12.0       ,12.0          ,onsite eyewitness who did headcount
+136 ,"Dayton, OH"                           ,OH    ,3000.0       ,3000.0     ,3000.0        ,http://www.mydaytondailynews.com/news/local/thousands-rally-dayton-part-women-march-events/ZlU3xaMQAph01LyLEZPs4H/
+137 ,"Daytona Beach, FL"                    ,FL    ,300.0        ,300.0      ,300.0         ,http://www.news-journalonline.com/news/20170121/signs-of-solidarity-women-take-part-locally-in-two-sister-marches
+138 ,"Decorah, IA"                          ,IA    ,800.0        ,890.0      ,1000.0        ,http://www.decorahnews.com/news-stories/2017/01/15551.html
+139 ,"Delaware, OH"                         ,OH    ,127.0        ,129.0      ,130.0         ,organizer headcount via sign-in / photos
+140 ,"Delhi, NY"                            ,NY    ,50.0         ,85.0       ,120.0         ,instagram #delhiny
+141 ,"Deming, NM"                           ,NM    ,45.0         ,48.0       ,50.0          ,http://www.demingradio.com/news/local-group-marches-in-solidarity-with-womens-march-on-washington
+142 ,"Denton, TX"                           ,TX    ,2500.0       ,2635.0     ,2800.0        ,http://www.dentonrc.com/local-news/local-news-headlines/20170121-divided-nation-united-denton.ece
+143 ,"Denver, CO"                           ,CO    ,100000.0     ,145000.0   ,200000.0      ,http://www.thedenverchannel.com/news/front-range/denver/thousands-gather-for-womens-march-on-denver
+144 ,"Des Moines, IA"                       ,IA    ,26000.0      ,26000.0    ,26000.0       ,http://whotv.com/2017/01/21/thousands-rally-at-iowa-state-capitol-for-womens-march-against-trump/
+145 ,"Detroit, MI"                          ,MI    ,4000.0       ,4000.0     ,4000.0        ,http://www.detroitnews.com/story/news/local/detroit-city/2017/01/21/thousands-march-detroit-opposing-trump-presidency/96880054/
+146 ,"Douglas-Saugatuck, MI"                ,MI    ,1200.0       ,1785.0     ,2500.0        ,via email 
+147 ,"Doylestown, PA"                       ,PA    ,1000.0       ,1450.0     ,2000.0        ,https://twitter.com/JimAleski/status/823025384748974080
+148 ,"Driggs, ID"                           ,ID    ,1000.0       ,1000.0     ,1000.0        ,http://planetjh.com/2017/01/21/in-pictures-the-womens-march-on-jackson/
+149 ,"Dubuque, IA"                          ,IA    ,400.0        ,400.0      ,400.0         ,http://whotv.com/2017/01/21/smaller-march-in-dubuque-brings-strong-voices/
+150 ,"Duluth, MN"                           ,MN    ,1500.0       ,1590.0     ,1700.0        ,Duluth News Tribune
+151 ,"Durango, CO"                          ,CO    ,200.0        ,560.0      ,1000.0        ,https://durangoherald.com/articles/129940-hundreds-march-through-foot-of-snow-in-durango
+152 ,"Eagle Pass, TX"                       ,TX    ,30.0         ,30.0       ,30.0          ,FB video headcount
+153 ,"East Haddam, CT"                      ,CT    ,500.0        ,500.0      ,500.0         ,https://twitter.com/ColleenFree/status/823159668541366273
+154 ,"East Liberty, PA"                     ,PA    ,2000.0       ,2000.0     ,2000.0        ,https://www.facebook.com/PghPoliceZone5/posts/1731101453873096?pnref=story
+155 ,"East Millinocket, ME"                 ,ME    ,4.0          ,4.0        ,4.0           ,self-report w headcount via google form
+156 ,"Eastport, ME"                         ,ME    ,111.0        ,111.0      ,111.0         ,organizer headcount via sign-in 
+157 ,"Eastsound, WA"                        ,WA    ,250.0        ,250.0      ,250.0         ,http://orcasissues.com/orcas-step-worldwide-marches/
+158 ,"Eau Claire, WI"                       ,WI    ,250.0        ,250.0      ,250.0         ,http://www.weau.com/content/news/Hundreds-march-in-Eau-Claire-to-support-Womens-March-411425375.html
+159 ,"El Centro, CA"                        ,CA    ,100.0        ,100.0      ,100.0         ,http://www.ivpressonline.com/news/local/women-and-men-link-arms-in-valley-march-opposed-to/article_11668cd4-e068-11e6-9a19-275249e83b96.html
+160 ,"El Morro, NM"                         ,NM    ,30.0         ,30.0       ,30.0          ,https://twitter.com/kristi5Davis/status/823944076684828672
+161 ,"El Paso, TX"                          ,TX    ,1000.0       ,1450.0     ,2000.0        ,https://twitter.com/AdriaKFOX_CBS/status/822987688689078272
+162 ,"Elgin, IL"                            ,IL    ,200.0        ,560.0      ,1000.0        ,The Courier News
+163 ,"Ellensburg, WA"                       ,WA    ,200.0        ,238.0      ,275.0         ,activist self-report via google form
+164 ,"Ellsworth, ME"                        ,ME    ,60.0         ,60.0       ,60.0          ,https://twitter.com/UpFrontSoul/status/823162970633015300
+165 ,"Ely, MN"                              ,MN    ,50.0         ,50.0       ,50.0          ,http://elyecho.com/articles/2017/01/21/ely-area-women-hold-rally-saturday-whiteside-park
+166 ,"Encinitas, CA (Seacrest)"             ,CA    ,50.0         ,50.0       ,50.0          ,http://www.nbcsandiego.com/news/local/This-is-a-Little-One-Seniors-Walk-in-Solidarity-With-the-Womens-March-411446085.html
+167 ,"Ephrata, WA"                          ,WA    ,250.0        ,250.0      ,250.0         ,http://www.ifiberone.com/news/about-people-join-women-s-march-saturday-in-ephrata/youtube_ff1af7b6-e1ae-11e6-b6ed-5b1e5511006e.html
+168 ,"Erie, PA"                             ,PA    ,2500.0       ,3175.0     ,4000.0        ,http://www.goerie.com/news/20170121/thousands-demonstrate-in-womens-march-on-erie
+169 ,"Esperanza, PR"                        ,PR    ,300.0        ,323.0      ,350.0         ,Eyewitness on site
+170 ,"Eugene, OR"                           ,OR    ,7000.0       ,8350.0     ,10000.0       ,http://registerguard.com/rg/news/local/35195183-75/more-than-7000-participate-in-womens-march-in-eugene-joining-hundreds-of-thousands-around-the-nation.html.csp
+171 ,"Eureka, CA"                           ,CA    ,5000.0       ,6350.0     ,8000.0        ,https://lostcoastoutpost.com/2017/jan/21/hundreds-flood-eurekas-streets-solidarity-womens-m/
+172 ,"Evanston, WY"                         ,WY    ,1.0          ,1.0        ,1.0           ,self-report via google form
+173 ,"Fairbanks, AK"                        ,AK    ,2000.0       ,2000.0     ,2000.0        ,http://www.newsminer.com/news/local_news/gather-in-subzero-fairbanks-weather-for-women-s-march/article_239e5470-e01f-11e6-a089-7f4103a02ed3.html
+174 ,"Fairfax, CA"                          ,CA    ,25.0         ,239.0      ,500.0         ,https://twitter.com/contraryAshley/status/823271784694747136
+175 ,"Fairfield, IA"                        ,IA    ,200.0        ,200.0      ,200.0         ,FB
+176 ,"Fairmont, WV"                         ,WV    ,95.0         ,95.0       ,95.0          ,FB photo of marchers
+177 ,"Falmouth, MA"                         ,MA    ,1000.0       ,1000.0     ,1000.0        ,https://twitter.com/DaveMcGlinchey/status/823023657266114564
+178 ,"Fargo, ND"                            ,ND    ,1000.0       ,1900.0     ,3000.0        ,http://www.valleynewslive.com/content/news/Womens-March-in-Fargo-brings--411419195.html
+179 ,"Fayetteville, AR"                     ,AR    ,1000.0       ,1000.0     ,1000.0        ,FB
+180 ,"Fernandina Beach, FL"                 ,FL    ,1000.0       ,1135.0     ,1300.0        ,http://www.fbnewsleader.com/news/womens-march-fernandina-beach
+181 ,"Flagstaff, AZ"                        ,AZ    ,1000.0       ,1450.0     ,2000.0        ,http://azdailysun.com/news/local/flagstaff-march-for-love-tops/article_91318de2-8ea4-505d-ac21-bc6709e2b8ca.html
+182 ,"Florence, OR"                         ,OR    ,300.0        ,300.0      ,300.0         ,https://twitter.com/texdakota/status/823256159989604353
+183 ,"Floyd, VA"                            ,VA    ,200.0        ,200.0      ,200.0         ,FB
+184 ,"Forks, WA"                            ,WA    ,45.0         ,45.0       ,45.0          ,FB
+185 ,"Fort Atkinson, WI"                    ,WI    ,200.0        ,200.0      ,200.0         ,http://www.dailyunion.com/multimedia/collection_ef47d9e2-e016-11e6-acfe-3fc05da771cb.html
+186 ,"Fort Bragg, CA"                       ,CA    ,2500.0       ,2635.0     ,2800.0        ,https://vimeo.com/200537363
+187 ,"Fort Collins, CO"                     ,CO    ,600.0        ,600.0      ,600.0         ,http://www.coloradoan.com/story/news/local/2017/01/22/hundreds-attend-rally-our-rights/96924538/
+188 ,"Fort Wayne, IN"                       ,IN    ,1000.0       ,1000.0     ,1000.0        ,http://www.journalgazette.net/news/local/Thousand-drawn-to-local-protest-17399065
+189 ,"Fort Worth, TX"                       ,TX    ,5000.0       ,5450.0     ,6000.0        ,https://twitter.com/JillianEMcClure/status/822928537627795457
+190 ,"Francestown, NH"                      ,NH    ,134.0        ,134.0      ,134.0         ,http://www.unionleader.com/Francestown-holds-peaceful-womens-march
+191 ,"Frederick, MD"                        ,MD    ,1000.0       ,1000.0     ,1000.0        ,http://www.fredericknewspost.com/news/politics_and_government/hundreds-descend-on-downtown-frederick-for-sister-march/article_2445f10a-8356-5787-ade1-95e208c97c9b.html
+192 ,"Fredonia, NY"                         ,NY    ,70.0         ,95.0       ,120.0         ,http://chautauquatoday.com/news/details.cfm?clientid=25&id=234985#.WIT2YbYrLVo
+193 ,"Fresno, CA"                           ,CA    ,2000.0       ,2000.0     ,2000.0        ,http://www.fresnobee.com/news/local/article128014199.html#storylink=cpy
+194 ,"Friday Harbor, WA"                    ,WA    ,1500.0       ,1500.0     ,1500.0        ,http://sanjuanislander.com/photos/event-photos/slideshow-jan-21-women-s-march-in-friday-harbor
+195 ,"Gainesville, FL"                      ,FL    ,1500.0       ,1500.0     ,1500.0        ,http://www.gainesville.com/news/20170121/about-1500-join-womens-march-in-gainesville
+196 ,"Gainesville, FL"                      ,FL    ,500.0        ,500.0      ,500.0         ,http://www.gainesville.com/news/20170121/about-1500-join-womens-march-in-gainesville
+197 ,"Galesburg, IL"                        ,IL    ,200.0        ,335.0      ,500.0         ,http://tspr.org/post/western-illinois-march-women
+198 ,"Gila, NM"                             ,NM    ,1.0          ,1.0        ,1.0           ,FB
+199 ,"Glens Falls, NY"                      ,NY    ,1000.0       ,1225.0     ,1500.0        ,FB
+200 ,"Glenwood Springs, CO"                 ,CO    ,100.0        ,100.0      ,100.0         ,https://twitter.com/SarahGoTrillIum/status/823018327316566016
+201 ,"Gloucester, NJ"                       ,NJ    ,200.0        ,225.0      ,250.0         ,Eyewitness on site
+202 ,"Gouldsboro, ME"                       ,ME    ,25.0         ,35.0       ,45.0          ,https://twitter.com/UpFrontSoul/status/823162970633015300
+203 ,"Grand Forks, ND"                      ,ND    ,304.0        ,304.0      ,304.0         ,http://www.grandforksherald.com/news/4203526-hundreds-attend-grand-forks-event-inspired-national-womens-march
+204 ,"Grand Junction, CO"                   ,CO    ,4500.0       ,4725.0     ,5000.0        ,FB (from on-site source)
+205 ,"Grand Marais, MN"                     ,MN    ,97.0         ,109.0      ,120.0         ,https://twitter.com/bryanhansel/status/823244421185630208
+206 ,"Grand Rapids, MI"                     ,MI    ,2500.0       ,2725.0     ,3000.0        ,http://www.fountainstreetchurch.com/single-post/2017/01/23/Loss-For-Words
+207 ,"Grants Pass, OR"                      ,OR    ,1.0          ,1.0        ,1.0           ,FB
+208 ,"Green Bay, WI"                        ,WI    ,200.0        ,200.0      ,200.0         ,http://www.greenbaypressgazette.com/story/news/2017/01/21/green-bay-womens-march/96782676/?hootPostID=6979db0a7bd407815831ee0e0e039277
+209 ,"Green Valley, AZ"                     ,AZ    ,350.0        ,451.0      ,575.0         ,Green Valley News
+210 ,"Greenfield, MA"                       ,MA    ,2000.0       ,2000.0     ,2000.0        ,"http://greenfieldrecorder.ma.newsmemory.com/ Monday January 23, 2017"
+211 ,"Greensboro, NC"                       ,NC    ,3000.0       ,4350.0     ,6000.0        ,http://myfox8.com/2017/01/21/2800-people-attend-womens-march-in-greensboro/
+212 ,"Greensburg, IN"                       ,IN    ,45.0         ,55.0       ,65.0          ,Eyewitness estimate
+213 ,"Greenville, SC"                       ,SC    ,2000.0       ,2000.0     ,2000.0        ,http://www.greenvilleonline.com/story/news/2017/01/21/womens-rally-fills-falls-park-amid-worldwide-protests/96889616/
+214 ,"Greenville, NC"                       ,NC    ,100.0        ,150.0      ,200.0         ,http://www.wcti12.com/news/womens-marches-held-in-eastern-north-carolina/284801734
+215 ,"Gross Pointe, MI"                     ,MI    ,1143.0       ,1214.0     ,1300.0        ,FB
+216 ,"Gualala, CA"                          ,CA    ,203.0        ,252.0      ,300.0         ,onsite source via google form
+217 ,"Guilford, CT"                         ,CT    ,32.0         ,32.0       ,32.0          ,FB photo w headcount per google form
+218 ,"Gulfport, MS"                         ,MS    ,300.0        ,484.0      ,709.0         ,http://www.sunherald.com/news/local/counties/harrison-county/article127994339.html
+219 ,"Gustavus, AK"                         ,AK    ,105.0        ,105.0      ,105.0         ,FB
+220 ,"Hagatna, Guam"                        ,GM    ,150.0        ,200.0      ,250.0         ,http://www.guampdn.com/picture-gallery/news/2017/01/20/fanohge-famalaoan-guahan-march/96822624/
+221 ,"Haines, AK"                           ,AK    ,150.0        ,160.0      ,170.0         ,onsite source via FB
+222 ,"Halfway, OR"                          ,OR    ,31.0         ,31.0       ,31.0          ,onsite sources via google form w photos showing headcount
+223 ,"Hana, HI"                             ,HI    ,30.0         ,30.0       ,30.0          ,FB
+224 ,"Haines, AK"                           ,      ,150.0        ,160.0      ,170.0         ,Info from onsite source
+225 ,"Harrisburg, PA"                       ,PA    ,900.0        ,994.0      ,1109.0        ,http://www.pennlive.com/news/2017/01/harrisburg_version_of_womens_m.html#incart_river_mobile_home_pop
+226 ,"Harrisville, MI"                      ,MI    ,5.0          ,5.0        ,5.0           ,https://twitter.com/nowosadwoman/status/823223865086267392
+227 ,"Hartford, CT"                         ,CT    ,10000.0      ,10000.0    ,10000.0       ,http://www.courant.com/news/connecticut/hc-hartford-inauguration-rally-20170121-story.html
+228 ,"Harwich, MA"                          ,MA    ,200.0        ,200.0      ,200.0         ,http://www.capecod.com/cape-wide-news/solidarity-stand-out-in-harwich-saturday/
+229 ,"Helena, AR"                           ,AR    ,2.0          ,2.0        ,2.0           ,FB
+230 ,"Helena, MT"                           ,MT    ,10000.0      ,10000.0    ,10000.0       ,http://helenair.com/news/local/montana-women-s-march-draws-an-estimated/article_d04ff8b8-4f77-5e8f-b683-2941b39d4276.html
+231 ,"Hemet, CA"                            ,CA    ,98.0         ,98.0       ,98.0          ,onsite headcount via sign-in sheets
+232 ,"Hilldale, UT"                         ,UT    ,1.0          ,1.0        ,1.0           ,FB
+233 ,"Hillsborough, NC"                     ,NC    ,200.0        ,1010.0     ,2000.0        ,http://www.heraldsun.com/news/sister-solidarity-hundreds-in-hillsborough-join-national-women-s-protest/article_441458b2-e02e-11e6-a09b-b303523aa1e6.html
+234 ,"Hilo, HI"                             ,HI    ,1500.0       ,1815.0     ,2200.0        ,http://www.hawaiitribune-herald.com/news/local-news/heeding-rallying-call-more-1000-attend-hilo-women-s-march
+235 ,"Holden Village, WA"                   ,WA    ,47.0         ,50.0       ,52.0          ,"Eyewitness on site, photographic evidence"
+236 ,"Homer, AK"                            ,AK    ,900.0        ,900.0      ,900.0         ,FB
+237 ,Honolulu (Oahu) HI                     ,HI    ,3000.0       ,5250.0     ,8000.0        ,http://www.staradvertiser.com/2017/01/21/breaking-news/thousands-march-around-state-capitol-in-show-of-solidarity/
+238 ,"Hood River, OR"                       ,OR    ,200.0        ,200.0      ,200.0         ,http://m.hoodrivernews.com/news/2017/jan/25/womens-stand-brings-national-march-hr/
+239 ,Hospital Ward                          ,CA    ,5.0          ,5.0        ,5.0           ,http://www.elle.com/culture/career-politics/news/a42373/the-cancer-patients-who-held-a-womens-march-in-a-hospital/
+240 ,"Houghton, MI"                         ,MI    ,500.0        ,500.0      ,500.0         ,http://www.uppermichiganssource.com/content/news/Houghton-marchers-for-womens-rights-411431685.html
+241 ,"Houlton, ME"                          ,ME    ,45.0         ,48.0       ,50.0          ,FB
+242 ,"Houston, TX"                          ,TX    ,20000.0      ,21434.0    ,23187.0       ,http://www.khou.com/mb/news/20k-attend-womens-march-in-downtown-houston/389702891
+243 ,"Howard County, MD"                    ,MD    ,100.0        ,113.0      ,125.0         ,"FB group marked as ""attended"""
+244 ,"Hudson, NY"                           ,NY    ,2000.0       ,2450.0     ,3000.0        ,http://m.registerstar.com/news/article_d498a278-e054-11e6-a01b-dfe6701814de.html?mode=jqm
+245 ,"Huntsville, AL"                       ,AL    ,80.0         ,95.0       ,110.0         ,onsite headcount per google form
+246 ,"Huron, SD"                            ,SD    ,11.0         ,12.0       ,13.0          ,Eyewitness on site
+247 ,"Idaho Falls, ID"                      ,ID    ,500.0        ,500.0      ,500.0         ,http://www.eastidahonews.com/2017/01/500-people-attend-womens-march-idaho-falls/
+248 ,"Indiana, PA"                          ,PA    ,100.0        ,150.0      ,200.0         ,http://wdadradio.com/downtown-indiana-site-of-march-connected-to-dc-march-for-women/
+249 ,"Indianapolis, IN"                     ,IN    ,4000.0       ,6700.0     ,10000.0       ,https://twitter.com/rafkhach/status/822930702643720193
+250 ,"Inverness, CA"                        ,CA    ,5.0          ,5.0        ,5.0           ,FB
+251 ,"Iowa City, IA"                        ,IA    ,1000.0       ,1000.0     ,1000.0        ,http://www.desmoinesregister.com/story/news/2017/01/21/nearly-1000-people-join-womens-march-iowa-city/96889784/
+252 ,"Isla Vista, CA"                       ,CA    ,500.0        ,500.0      ,500.0         ,https://www.edhat.com/site/tidbit.cfm?nid=180466
+253 ,"Issaquah, WA"                         ,WA    ,56.0         ,56.0       ,56.0          ,FB
+254 ,"Ithaca, NY"                           ,NY    ,8000.0       ,8900.0     ,10000.0       ,http://cornellsun.com/2017/01/21/womens-march-on-ithaca-draws-more-than-8000-shattering-expectations/
+255 ,"Jackson, NH"                          ,NH    ,300.0        ,300.0      ,300.0         ,https://twitter.com/ConwayDailySun/status/822886300013490180
+256 ,"Jackson, MS"                          ,MS    ,750.0        ,2663.0     ,5000.0        ,https://twitter.com/FBrownWilliams/status/823037789113565184
+257 ,"Jackson Hole, WY"                     ,WY    ,1000.0       ,1000.0     ,1000.0        ,http://planetjh.com/2017/01/21/in-pictures-the-womens-march-on-jackson/
+258 ,"Jacksonville, FL"                     ,FL    ,2000.0       ,2450.0     ,3000.0        ,http://jacksonville.com/metro/2017-01-09/local-marchers-show-solidarity-national-women-s-protest
+259 ,"Jefferson City, MO"                   ,MO    ,6.0          ,7.0        ,7.0           ,Eyewitness report
+260 ,"Jerome, AZ"                           ,AZ    ,85.0         ,93.0       ,100.0         ,onsite headcount via google form
+261 ,"Jonesborough, TN"                     ,TN    ,1000.0       ,1000.0     ,1000.0        ,http://www.johnsoncitypress.com/gallery/Women-s-March-in-Jonesborough-GALLERY
+262 ,"Joseph, OR"                           ,OR    ,310.0        ,310.0      ,310.0         ,FB
+263 ,"June Lake, CA"                        ,CA    ,21.0         ,21.0       ,21.0          ,FB photo headcount
+264 ,"Juneau, AK"                           ,AK    ,1000.0       ,1000.0     ,1000.0        ,http://juneauempire.com/slideshow/news/2017-01-21/slideshow-juneau-marches-force#slide-1
+265 ,"Kahului, Maui, HI"                    ,HI    ,1500.0       ,3075.0     ,5000.0        ,http://mauitime.com/news/politics/photos-of-todays-womens-march-on-maui/
+266 ,"Kalamazoo, MI"                        ,MI    ,1000.0       ,1450.0     ,2000.0        ,http://www.mlive.com/news/kalamazoo/index.ssf/2017/01/more_than_1000_people_march_in.html
+267 ,"Kanab, UT"                            ,UT    ,175.0        ,175.0      ,175.0         ,FB
+268 ,"Kansas City, MO"                      ,MO    ,5000.0       ,7250.0     ,10000.0       ,http://www.kansascity.com/news/local/article127922349.html
+269 ,Kaunakakai (Molokai)                   ,HI    ,200.0        ,200.0      ,200.0         ,eyewitness account
+270 ,"Kawaihae, HI"                         ,HI    ,50.0         ,50.0       ,50.0          ,http://bigislandnow.com/2017/01/21/na-wahine-for-womens-rights-march-on-the-water/
+271 ,"Keene, NH"                            ,NH    ,245.0        ,405.0      ,600.0         ,FB
+272 ,"Kennebunk, ME"                        ,ME    ,1000.0       ,1000.0     ,1000.0        ,https://twitter.com/Kennebunkpolice/status/823692338535034882
+273 ,"Kent, CT"                             ,CT    ,180.0        ,190.0      ,200.0         ,https://twitter.com/jahansell/status/823009339174780928
+274 ,"Kent, OH"                             ,OH    ,100.0        ,100.0      ,100.0         ,https://twitter.com/KabirBhatiaTime/status/822899486171234305
+275 ,"Ketchikan, AK"                        ,AK    ,150.0        ,175.0      ,200.0         ,https://twitter.com/polarscribe/status/822999640291184640
+276 ,"Ketchum, ID"                          ,ID    ,1000.0       ,1068.0     ,1150.0        ,http://magicvalley.com/news/local/attend-ketchum-women-s-march/article_ebe2d387-516e-5426-9e6f-93a45933ee16.html
+277 ,"Key West, FL"                         ,FL    ,3000.0       ,3225.0     ,3500.0        ,http://www.flkeysnews.com/news/local/article128061044.html
+278 ,"Killington, VT"                       ,VT    ,51.0         ,82.0       ,112.0         ,onsite eyewitness did headcount per google form
+279 ,"King's Beach, CA"                     ,CA    ,500.0        ,635.0      ,800.0         ,FB
+280 ,"Kingston, WA"                         ,WA    ,60.0         ,60.0       ,60.0          ,http://www.kitsapdailynews.com/news/group-engages-in-civil-informationing-in-support-of-womens-march/
+281 ,"Klamath Falls, Oregon"                ,OR    ,200.0        ,250.0      ,300.0         ,http://www.heraldandnews.com/news/local_news/local-march-mirrors-national-event/article_4a28f34e-5f50-5ff8-88cf-1767025b992e.html
+282 ,"Knoxville, TN"                        ,TN    ,2000.0       ,3350.0     ,5000.0        ,FB
+283 ,"Kodiak, AK"                           ,AK    ,335.0        ,364.0      ,400.0         ,onsite eyewitness did signature count for 335 per google form; many did not sign in
+284 ,"Kona, HI"                             ,HI    ,3000.0       ,3225.0     ,3500.0        ,Big Island Video News
+285 ,"Kotzebue, AK"                         ,AK    ,35.0         ,36.0       ,36.0          ,FB photo w headcount per google form
+286 ,"La Crosse, WI"                        ,WI    ,76.0         ,113.0      ,150.0         ,FB group
+287 ,"La Grande, OR"                        ,OR    ,104.0        ,177.0      ,250.0         ,FB group
+288 ,"Lafayette, CO"                        ,CO    ,66.0         ,89.0       ,112.0         ,FB group
+289 ,"Lafayette, IN"                        ,IN    ,800.0        ,890.0      ,1000.0        ,http://www.jconline.com/story/news/2017/01/21/lafayette-womens-march-turns-out-800/96790444/
+290 ,"Laguna Beach, CA"                     ,CA    ,3500.0       ,3725.0     ,4000.0        ,FB
+291 ,"Lake Havasu City, AZ"                 ,AZ    ,30.0         ,35.0       ,40.0          ,http://www.havasunews.com/news/women-s-march-included-lake-havasu-city/article_03f76f44-e1be-11e6-a12a-63c8637e104a.html
+292 ,"Lakeside, OH"                         ,OH    ,300.0        ,300.0      ,300.0         ,http://www.sanduskyregister.com/story/201701210015
+293 ,"Lakeville, CT"                        ,CT    ,85.0         ,93.0       ,100.0         ,eyewitness
+294 ,"Lamoni, IA"                           ,IA    ,18.0         ,24.0       ,30.0          ,FB
+295 ,"Lancaster, NH"                        ,NH    ,400.0        ,400.0      ,400.0         ,http://www.nh1.com/news/larger-than-predicted-crowd-turns-up-for-lancaster-women-s-march/
+296 ,"Lancaster, PA"                        ,PA    ,200.0        ,1010.0     ,2000.0        ,http://lancasteronline.com/news/local/hundreds-rally-in-penn-square-for-women-s-rights/article_5dcec858-dfe5-11e6-b8fe-4368bfd596b1.html
+297 ,"Lander, WY"                           ,WY    ,350.0        ,418.0      ,500.0         ,https://twitter.com/thecarie/status/823042373030547456
+298 ,"Langley, WA"                          ,WA    ,1200.0       ,1245.0     ,1300.0        ,http://www.southwhidbeyrecord.com/news/over-1000-march-in-langley-protest-participation-exceeded-citys-population/
+299 ,"Lansdale, PA"                         ,PA    ,3.0          ,3.0        ,3.0           ,FB
+300 ,"Lansing, MI"                          ,MI    ,8000.0       ,17900.0    ,30000.0       ,http://www.freep.com/story/news/local/michigan/2017/01/21/women-march-washington-lansing-michigan/96898240/
+301 ,"Las Cruces, NM"                       ,NM    ,200.0        ,785.0      ,1500.0        ,http://www.kvia.com/news/top-stories/hundreds-gather-in-downtown-el-paso-for-womens-march/284730114
+302 ,"Las Vegas, NV"                        ,NV    ,4000.0       ,8950.0     ,15000.0       ,http://www.lasvegasnow.com/news/photos-huge-turnout-at-local-womens-march-on-washington/643795345
+303 ,"Las Vegas, NM"                        ,NM    ,50.0         ,50.0       ,50.0          ,FB
+304 ,"Leonia, NJ"                           ,NJ    ,100.0        ,190.0      ,280.0         ,http://www.northjersey.com/story/news/local/2017/01/21/local-womens-marches-draw-far-larger-crowds-than-expected/96778300/
+305 ,"Lexington, KY"                        ,KY    ,5000.0       ,7250.0     ,10000.0       ,https://twitter.com/lexkypolice/status/822907799084683264
+306 ,"Lewes, DE"                            ,DE    ,250.0        ,250.0      ,250.0         ,http://www.capegazette.com/article/peaceful-march-along-lewes-beach-takes-stand-women%E2%80%99s-rights/124227
+307 ,"Lewis, NY"                            ,NY    ,147.0        ,227.0      ,325.0         ,FB
+308 ,"Lewisburg, PA"                        ,PA    ,150.0        ,175.0      ,200.0         ,FB (people on site)
+309 ,Lihue (Kauai) HI                       ,HI    ,1500.0       ,1500.0     ,1500.0        ,http://thegardenisland.com/news/local/attend-sign-waving-event-support-women-s-march-on-washington/article_d7188a0b-7d09-5afe-9c33-0f2e80244eda.html
+310 ,"Lilly, PA"                            ,PA    ,4.0          ,4.0        ,4.0           ,FB
+311 ,"Lincoln, NE"                          ,NE    ,2000.0       ,2900.0     ,4000.0        ,http://www.omaha.com/news/politics/at-least-people-fill-the-streets-in-women-s-march/article_5de6469e-58ff-5e39-b4de-290a99e01a26.html
+312 ,"Little Rock, AR"                      ,AR    ,7000.0       ,7000.0     ,7000.0        ,http://www.arkansasonline.com/news/2017/jan/21/hundreds-march-street-state-capitol-downtown-littl/?news-arkansas
+313 ,"Logan, UT"                            ,UT    ,50.0         ,75.0       ,100.0         ,http://news.hjnews.com/allaccess/a-human-statement-valley-women-join-d-c-march-small/article_76777608-33e0-5853-8fe7-a97309cfe441.html
+314 ,"Lompoc, CA"                           ,CA    ,100.0        ,100.0      ,100.0         ,http://www.ksby.com/story/34315680/womens-march-on-lompoc
+315 ,"Longview, WA"                         ,WA    ,200.0        ,200.0      ,200.0         ,http://tdn.com/news/local/longview-women-s-march-draws-around-people/article_824ee3c7-2905-5688-a146-148ce860874e.html
+316 ,"Longville, MN"                        ,MN    ,67.0         ,67.0       ,67.0          ,https://twitter.com/curatress/status/822996713979912192
+317 ,"Los Angeles, CA"                      ,CA    ,200000.0     ,447500.0   ,750000.0      ,http://www.latimes.com/local/lanow/la-me-womens-march-los-angeles-20170121-story.html
+318 ,"Louisville, KY"                       ,KY    ,5000.0       ,5000.0     ,5000.0        ,http://www.courier-journal.com/story/news/politics/2017/01/21/local-activists-call-social-justice/96676446/
+319 ,"Loup City, NE"                        ,NE    ,100.0        ,125.0      ,150.0         ,http://www.nbcneb.com/content/news/March-for-equality-takes-place-in-central-Nebraska-411432745.html
+320 ,"Lovell, ME"                           ,ME    ,2.0          ,2.0        ,2.0           ,Eyewitness on site
+321 ,Lovettsville                           ,VA    ,5.0          ,5.0        ,5.0           ,eyewitness; photo
+322 ,"Loup City, NE"                        ,      ,150.0        ,150.0      ,150.0         ,Onsite source via FB
+323 ,"Lubbock, TX"                          ,TX    ,350.0        ,643.0      ,1000.0        ,http://lubbockonline.com/local/2017-01-21/hundreds-protest-lubbock-women-s-march
+324 ,"Lubec, ME"                            ,ME    ,95.0         ,95.0       ,95.0          ,FB
+325 ,"Lyons, CO"                            ,CO    ,25.0         ,28.0       ,30.0          ,Eyewitness on site
+326 ,"Mt. Shasta, CA"                       ,CA    ,400.0        ,400.0      ,400.0         ,http://www.mtshastanews.com/photogallery/CA/20170121/PHOTOGALLERY/121009998/PH/1
+327 ,"Mt. Laurel, NJ"                       ,NJ    ,20.0         ,20.0       ,20.0          ,https://twitter.com/KaraLogan21/status/823293332520632320
+328 ,"Madison, WI"                          ,WI    ,75000.0      ,86250.0    ,100000.0      ,http://www.channel3000.com/news/mpd/284567959
+329 ,"Manchester, VT"                       ,VT    ,50.0         ,50.0       ,50.0          ,"http://www.benningtonbanner.com/stories/rally-embraces-tolerance-as-trump-takes-office,495830?"
+330 ,"Mankato, MN"                          ,MN    ,50.0         ,95.0       ,140.0         ,http://www.mprnews.org/story/2017/01/21/photos-around-minnesota-women-and-men-march-for-womens-rights
+331 ,"Marfa, TX"                            ,TX    ,76.0         ,76.0       ,76.0          ,Twitter
+332 ,"Martha's Vineyard, MA"                ,MA    ,100.0        ,100.0      ,100.0         ,http://www.mvtimes.com/2017/01/21/photos-womens-march-five-corners/
+333 ,"Marquette, MI"                        ,MI    ,200.0        ,470.0      ,800.0         ,http://www.miningjournal.net/uncategorized/2017/01/hundreds-rally-for-womens-march-in-marquette/
+334 ,"Marshall, MN"                         ,MN    ,2.0          ,2.0        ,2.0           ,Eyewitness on site
+335 ,"Maryville, IL"                        ,IL    ,40.0         ,45.0       ,50.0          ,https://twitter.com/Pretty_pittie/status/823328254014668800
+336 ,"McCall, ID"                           ,ID    ,75.0         ,113.0      ,150.0         ,FB
+337 ,"McConnelsville, OH"                   ,OH    ,5.0          ,17.0       ,29.0          ,https://www.facebook.com/events/762841653864304/
+338 ,"McMinnville, OR"                      ,OR    ,700.0        ,1015.0     ,1400.0        ,FB
+339 ,"Melbourne/Brevard County, FL"         ,FL    ,500.0        ,500.0      ,500.0         ,FB
+340 ,"Memphis, TN"                          ,TN    ,3000.0       ,5700.0     ,9000.0        ,https://t.co/unaoHXpGUT
+341 ,"Menomonie, WI"                        ,WI    ,200.0        ,313.0      ,450.0         ,https://twitter.com/trayf/status/823044387668193280
+342 ,"Mentone, AL"                          ,AL    ,50.0         ,60.0       ,70.0          ,FB
+343 ,"Miami, FL"                            ,FL    ,10000.0      ,16750.0    ,25000.0       ,http://www.miamiherald.com/news/local/community/miami-dade/article127925999.html
+344 ,"Midland, MI"                          ,MI    ,400.0        ,400.0      ,400.0         ,http://www.mlive.com/news/saginaw/index.ssf/2017/01/midland_march.html
+345 ,"Midland, TX"                          ,TX    ,50.0         ,75.0       ,100.0         ,http://www.cbs7.com/content/news/Womans-March-comes-to-Midland--411432415.html
+346 ,Midway Atoll                           ,--    ,6.0          ,6.0        ,6.0           ,Eyewitness on site
+347 ,"Miles City, MT"                       ,MT    ,500.0        ,500.0      ,500.0         ,Eyewitness estimate
+348 ,"Milford, CT"                          ,CT    ,120.0        ,120.0      ,120.0         ,http://www.nhregister.com/20170120/milford-protest-as-trump-inaugurated-draws-attention-to-environment-education-and-more
+349 ,"Milhelm, PA"                          ,PA    ,50.0         ,50.0       ,50.0          ,FB
+350 ,"Milwaukee, WI"                        ,WI    ,1000.0       ,1000.0     ,1000.0        ,http://www.cbs58.com/story/34314179/hundreds-hit-the-streets-of-milwaukee-for-womens-march-on-washington
+351 ,"Minocqua, WI"                         ,WI    ,300.0        ,300.0      ,300.0         ,FB
+352 ,"Minturn, CO"                          ,CO    ,6.0          ,6.0        ,6.0           ,FB
+353 ,"Missoula, MT"                         ,MT    ,80.0         ,100.0      ,120.0         ,http://www.kpax.com/story/34315123/womens-march-takes-to-montanas-capitol-with-huge-crowd
+354 ,"Mitchell, IN"                         ,IN    ,18.0         ,19.0       ,20.0          ,FB
+355 ,"Moab, UT"                             ,UT    ,200.0        ,200.0      ,200.0         ,https://twitter.com/mmrj_tweet/status/822963369577615360
+356 ,"Mobile, AL"                           ,AL    ,900.0        ,945.0      ,1000.0        ,FB (report from on site)
+357 ,"Modesto, CA"                          ,CA    ,900.0        ,945.0      ,1000.0        ,http://www.modbee.com/news/article128034159.html
+358 ,"Mooresville, NC"                      ,NC    ,70.0         ,70.0       ,70.0          ,http://www.mooresvilletribune.com/news/marching-to-make-a-point/article_f3388eee-e02e-11e6-a716-fb8d63c948f4.html
+359 ,Monhegan Island                        ,ME    ,22.0         ,22.0       ,22.0          ,email
+360 ,"Montpelier, VT"                       ,VT    ,15000.0      ,17250.0    ,20000.0       ,http://www.burlingtonfreepress.com/story/news/2017/01/21/montpelier-womens-march-draws-7000/96888920/
+361 ,"Mora, NM"                             ,NM    ,1.0          ,1.0        ,1.0           ,FB
+362 ,"Morganton, NC"                        ,NC    ,500.0        ,545.0      ,600.0         ,http://www.morganton.com/townnews/politics/a-call-for-equality-demonstrators-converge-on-downtown-in-support/article_250317d0-e018-11e6-97d8-5fd6a7377b4b.html#utm_source=morganton.com&utm_campaign=%2Fnewsletter%2Fbreaking%2F&utm_medium=email&utm_content=image
+363 ,"Morris, MN"                           ,MN    ,250.0        ,250.0      ,250.0         ,http://www.morrissuntribune.com/news/local/4203507-250-participate-womens-march-morris-video
+364 ,"Moscow, ID"                           ,ID    ,2500.0       ,2500.0     ,2500.0        ,http://dnews.com/local/women-on-the-march/article_61739ce0-0c64-57cc-baa7-4e0492c47b98.html
+365 ,"Mount Vernon, OH"                     ,OH    ,20.0         ,25.0       ,30.0          ,via email 
+366 ,"Mount Vernon, WA"                     ,WA    ,200.0        ,920.0      ,1800.0        ,https://www.goskagit.com/news/young-and-old-take-on-downtown-mount-vernon-for-women/article_d216fe5e-24a5-5606-9e21-706c1db3ff2f.html/#utm_source=goskagit.com&utm_campaign=related-by-section&utm_medium=direct&utm_term=young%20and%20old%20take%20on%20downtown%20mount%20vernon%20for%20women%27s%20march
+367 ,"Murray, KY"                           ,KY    ,700.0        ,700.0      ,700.0         ,http://wkms.org/post/hundreds-join-march-equality-and-social-justice-murray
+368 ,"Nacogdoches, TX"                      ,TX    ,200.0        ,250.0      ,300.0         ,FB
+369 ,"Nantucket, MA"                        ,MA    ,400.0        ,400.0      ,400.0         ,http://www.ack.net/news/20170121/your-nantucket-womens-march-photos-wanted
+370 ,"Napa, CA"                             ,CA    ,3000.0       ,3000.0     ,3000.0        ,http://napavalleyregister.com/news/local/napa-women-s-march-spreads-message-of-love-hope-solidarity/article_53aae273-59e4-5b49-ab51-3e4a13a6e729.html
+371 ,"Naples, FL"                           ,FL    ,2500.0       ,3625.0     ,5000.0        ,http://www.nbc-2.com/story/34313013/womens-march-on-dc-echoed-in-naples
+372 ,"Nashville, TN"                        ,TN    ,15000.0      ,17250.0    ,20000.0       ,https://twitter.com/Killingcrawdads/status/822924062213210112
+373 ,"Nebraska City, NE"                    ,NE    ,3.0          ,3.0        ,3.0           ,Eyewitness on site
+374 ,"Nederland, CO"                        ,CO    ,20.0         ,28.0       ,35.0          ,Eyewitness on site
+375 ,"Nevada City, CA"                      ,CA    ,100.0        ,100.0      ,100.0         ,http://www.theunion.com/news/local-news/group-gathering-in-nevada-city-in-support-of-marchers-worldwide/
+376 ,"New Bern, NC"                         ,NC    ,300.0        ,480.0      ,700.0         ,https://twitter.com/UncleIllya/status/823023824253964288
+377 ,"New Haven, CT"                        ,CT    ,200.0        ,200.0      ,200.0         ,http://www.newhavenindependent.org/index.php/archives/entry/local_march/
+378 ,"New Orleans, LA"                      ,LA    ,7000.0       ,10600.0    ,15000.0       ,http://www.theadvocate.com/new_orleans/news/article_b6a63598-e002-11e6-9066-575bd82cb3da.html
+379 ,"New Smyrna Beach, FL"                 ,FL    ,1000.0       ,1000.0     ,1000.0        ,http://www.news-journalonline.com/news/20170121/signs-of-solidarity-women-take-part-locally-in-two-sister-marches
+380 ,"New York, NY"                         ,NY    ,400000.0     ,445000.0   ,500000.0      ,https://twitter.com/amNewYork/status/822978182315999233
+381 ,"Newark, DE"                           ,DE    ,1000.0       ,1090.0     ,1200.0        ,http://www.delawareonline.com/story/news/local/2017/01/21/trumps-first-day-people-march-newark/96836242/
+382 ,"Newark, NJ"                           ,NJ    ,1000.0       ,1000.0     ,1000.0        ,FB
+383 ,"Newport, OR"                          ,OR    ,1500.0       ,1500.0     ,1500.0        ,http://www.newportnewstimes.com/v2_news_articles.php?heading=0&story_id=54234&page=86
+384 ,"Nome, AK"                             ,AK    ,80.0         ,90.0       ,100.0         ,FB
+385 ,"Norfolk, VA"                          ,VA    ,2000.0       ,2360.0     ,2800.0        ,http://pilotonline.com/news/local/sister-marches-draw-thousands-to-downtown-norfolk-to-support-women/article_491f897c-2be6-5968-9f8a-2df7250a0184.html
+386 ,"Northampton, MA"                      ,MA    ,2500.0       ,2725.0     ,3000.0        ,https://www.facebook.com/NorthamptonMAPD/posts/774633669358519:0
+387 ,"Oak Ridge, TN"                        ,TN    ,450.0        ,495.0      ,550.0         ,onsite eyewitness (estimated based on # buttons/flyers distributed)
+388 ,"Oakhurst, CA"                         ,CA    ,200.0        ,201.0      ,201.0         ,http://www.fresnobee.com/news/local/article128014199.html
+389 ,"Oakland, CA"                          ,CA    ,100000.0     ,100000.0   ,100000.0      ,http://patch.com/california/alameda/100-000-peaceful-demonstrators-join-oakland-womens-march
+390 ,"Ocala, FL"                            ,FL    ,100.0        ,200.0      ,300.0         ,https://www.youtube.com/watch?v=Yu7OYoX1Xqs
+391 ,"Ocean City, MD"                       ,MD    ,200.0        ,380.0      ,600.0         ,http://www.wmdt.com/news/maryland/hundreds-show-their-support-in-ocs-womens-march/284828523
+392 ,"Ocean Shores, WA"                     ,WA    ,150.0        ,175.0      ,200.0         ,http://www.northcoastnews.com/news/womens-march-draws-diverse-crowd-in-ocean-shores/
+393 ,"Ocracoke, NC"                         ,NC    ,108.0        ,114.0      ,120.0         ,https://twitter.com/jcgreenfield/status/823321395904004096
+394 ,"Ogden, UT"                            ,UT    ,200.0        ,250.0      ,300.0         ,http://www.standard.net/Community/2017/01/21/Hundreds-brave-snow-for-Northern-Utah-Unity-Rally-in-Ogden.html
+395 ,"Oklahoma City, OK"                    ,OK    ,7000.0       ,9250.0     ,12000.0       ,https://newsok.com/thousands-gather-saturday-at-oklahoma-capitol-for-womens-march/article/5535205
+396 ,"Old Saybrook, CT"                     ,CT    ,800.0        ,890.0      ,1000.0        ,onsite eyewitness via google form
+397 ,"Olympia, WA"                          ,WA    ,10000.0      ,10000.0    ,10000.0       ,http://www.theolympian.com/news/local/article127924384.html
+398 ,"Omaha, NE"                            ,NE    ,12000.0      ,14700.0    ,18000.0       ,http://www.omaha.com/news/politics/women-s-march-fills-omaha-streets-to-send-a-message/article_5de6469e-58ff-5e39-b4de-290a99e01a26.html
+399 ,"Oneonta, NY"                          ,NY    ,500.0        ,500.0      ,500.0         ,http://www.allotsego.com/women-allies-march-across-otsego-county/
+400 ,"Onley, VA"                            ,VA    ,50.0         ,50.0       ,50.0          ,http://www.ask4direct.com/InfoRead.asp?id=WESR&InfoID=1028534
+401 ,"Ontario, CA"                          ,CA    ,200.0        ,200.0      ,200.0         ,http://www.pe.com/articles/san-823719-bernardino-participated.html
+402 ,"Orcas Island, WA"                     ,WA    ,200.0        ,200.0      ,200.0         ,Eyewitness on site
+403 ,"Orford, NH"                           ,NH    ,7.0          ,7.0        ,7.0           ,Eyewitness on site
+404 ,"Orlando, FL"                          ,FL    ,3000.0       ,5250.0     ,8000.0        ,http://www.orlandosentinel.com/news/os-lake-eola-womens-march-20170121-story.html
+405 ,"Owensboro, KY"                        ,KY    ,15.0         ,23.0       ,30.0          ,Eyewitness on site
+406 ,"Oxford, MS"                           ,MS    ,450.0        ,450.0      ,450.0         ,http://thedmonline.com/hundreds-gather-oxfords-womens-march/
+407 ,"Pacifica, CA"                         ,CA    ,1200.0       ,1200.0     ,1200.0        ,FB
+408 ,"Palm Desert, CA"                      ,CA    ,1000.0       ,1000.0     ,1000.0        ,FB
+409 ,"Palm Springs, CA"                     ,CA    ,200.0        ,250.0      ,300.0         ,onsite eyewitness via google form
+410 ,"Palmdale, CA"                         ,CA    ,24.0         ,24.0       ,24.0          ,http://www.twcnews.com/ca/antelope-valley/news/2017/01/21/protesters-gather-in-antelope-valley-in-support-of-women-s-march-on-washington.html
+411 ,"Palmer, AK"                           ,AK    ,377.0        ,657.0      ,1000.0        ,FB
+412 ,"Paradox, NY"                          ,NY    ,3.0          ,3.0        ,3.0           ,Eyewitness on site
+413 ,"Park City, UT"                        ,UT    ,5000.0       ,6350.0     ,8000.0        ,http://www.parkrecord.com/news/giant-sundance-crowd-marches-in-broad-rebuke-of-president-trump/?platform=hootsuite
+414 ,"Panama City, FL"                      ,FL    ,500.0        ,500.0      ,500.0         ,http://www.newsherald.com/news/20170121/hundreds-gather-protest-at-panama-city-womens-march
+415 ,"Paoli, IN"                            ,IN    ,67.0         ,67.0       ,67.0          ,verified through user photo
+416 ,"Paonia, CO"                           ,CO    ,40.0         ,40.0       ,40.0          ,Eyewitness on site
+417 ,"Pasadena, CA"                         ,CA    ,500.0        ,1040.0     ,1700.0        ,http://www.pasadenastarnews.com/general-news/20170121/womens-march-demonstrators-raise-their-voices-in-pasadena
+418 ,"Pence, WI"                            ,WI    ,1.0          ,1.0        ,1.0           ,FB
+419 ,"Pendelton, OR"                        ,OR    ,425.0        ,526.0      ,650.0         ,http://www.eastoregonian.com/eo/local-news/20170121/protestors-pack-pendleton-for-womens-march
+420 ,"Pensacola, FL"                        ,FL    ,2000.0       ,2000.0     ,2000.0        ,http://www.pnj.com/story/news/local/pensacola/downtown/2017/01/21/hundreds-brave-rain-join-pensacola-march-women/96795864/
+421 ,"Pentwater, MI"                        ,MI    ,2.0          ,2.0        ,2.0           ,Eyewitness on site
+422 ,"Peoria, IL"                           ,IL    ,1500.0       ,1725.0     ,2000.0        ,http://www.centralillinoisproud.com/news/local-news/peoria-rally-in-support-of-womens-march-on-washington/643865167
+423 ,"Pequannock Township, NJ"              ,NJ    ,800.0        ,890.0      ,1000.0        ,http://www.northjersey.com/story/news/2017/01/21/crowds-gathering-womens-march-protests/96778388/
+424 ,"Peterborough, NH"                     ,NH    ,50.0         ,55.0       ,60.0          ,Eyewitness on site
+425 ,"Petersburg, AK"                       ,AK    ,50.0         ,65.0       ,80.0          ,Eyewitness on site
+426 ,"Philadelphia, PA"                     ,PA    ,50000.0      ,50000.0    ,50000.0       ,http://www.philly.com/philly/blogs/real-time/Womens-Marches-in-Washington-DC-and-Philadelphia-Live-updates-Jan-21-2017.html
+427 ,"Phoenix, AZ"                          ,AZ    ,20000.0      ,22250.0    ,25000.0       ,http://www.azcentral.com/story/news/local/phoenix/2017/01/21/phoenix-womens-march-sister-washington-capitol/96849890/
+428 ,"Pierre, SD"                           ,SD    ,130.0        ,133.0      ,135.0         ,onsite eyewitness did a headcount via google form
+429 ,"Pikeville, KY"                        ,KY    ,100.0        ,100.0      ,100.0         ,https://twitter.com/sheila_isaac/status/823375791601963008
+430 ,"Pinedale, WY"                         ,WY    ,100.0        ,100.0      ,100.0         ,FB
+431 ,"Pittsburgh, PA"                       ,PA    ,25000.0      ,25000.0    ,25000.0       ,http://www.post-gazette.com/local/city/2017/01/21/Pittsburgh-groups-protest-against-Trump/stories/201701210111
+432 ,"Pittsfield, MA"                       ,MA    ,1500.0       ,1500.0     ,1500.0        ,http://theberkshireedge.com/sister-march-at-colonial-theatre-draws-throngs-from-across-the-berkshires/
+433 ,"Plattsburgh, NY"                      ,NY    ,182.0        ,415.0      ,700.0         ,https://twitter.com/elodiemet/status/823227264645132288
+434 ,"Plymouth, WI"                         ,WI    ,200.0        ,200.0      ,200.0         ,http://www.sheboyganpress.com/videos/news/local/2017/01/21/hundreds-attend-million-person-unity-marches-sheboygan-county/96905712/
+435 ,"Pocatello, ID"                        ,ID    ,1200.0       ,1200.0     ,1200.0        ,http://idahostatejournal.com/members/marchers-show-up-in-droves-for-women-s-march-on/article_fe93fb5e-f29b-5784-bda9-6f66cc342649.html
+436 ,"Point Reyes Station, CA"              ,CA    ,35.0         ,60.0       ,85.0          ,Eyewitness on site
+437 ,"Port Angeles, WA"                     ,WA    ,100.0        ,150.0      ,200.0         ,FB
+438 ,"Port Jefferson, NY"                   ,NY    ,2000.0       ,2000.0     ,2000.0        ,http://www.newsday.com/long-island/women-s-values-rallies-in-huntington-port-jefferson-station-1.12993518
+439 ,"Port Jervis, NY"                      ,NY    ,350.0        ,418.0      ,500.0         ,onsite eyewitness via google form
+440 ,"Port Orford, OR"                      ,OR    ,280.0        ,290.0      ,300.0         ,onsite eyewitness via google form; did headcount
+441 ,"Port Townsend, WA"                    ,WA    ,300.0        ,615.0      ,1000.0        ,http://www.peninsuladailynews.com/news/some-300-protesters-march-in-port-townsend/
+442 ,"Portales, NM"                         ,NM    ,50.0         ,50.0       ,50.0          ,http://www.easternnewmexiconews.com/story/2017/01/22/news/we-will-be-heard/150454.html
+443 ,"Portland, ME"                         ,ME    ,10000.0      ,10000.0    ,10000.0       ,http://www.pressherald.com/2017/01/21/signs-sentiments-crowd-eastern-prom-for-womens-march/
+444 ,"Portland, OR"                         ,OR    ,70000.0      ,83500.0    ,100000.0      ,https://twitter.com/scaackler/status/822995313703075840
+445 ,"Portland, OR area"                    ,OR    ,55.0         ,58.0       ,60.0          ,Eyewitness on site
+446 ,"Portsmouth, NH"                       ,NH    ,3000.0       ,3900.0     ,5000.0        ,http://www.seacoastonline.com/news/20170121/portsmouth-womens-march-draws-thousands
+447 ,"Potsdam, NY"                          ,NY    ,18.0         ,20.0       ,22.0          ,Eyewitness on site
+448 ,"Poughkeepsie, NY"                     ,NY    ,4000.0       ,5672.0     ,7716.0        ,https://www.facebook.com/rivera.sun.3?fref=nf&pnref=story.unseen-section
+449 ,"Prescott, AZ"                         ,AZ    ,1200.0       ,1200.0     ,1200.0        ,http://www.dcourier.com/photos/galleries/2017/jan/21/womens-march-in-prescott/
+450 ,"Providence, RI"                       ,RI    ,5000.0       ,5900.0     ,7000.0        ,http://www.providencejournal.com/news/20170121/from-providence-to-washington-rhode-islanders-turn-out-to-send-trump-message
+451 ,"Provincetown, MA"                     ,MA    ,300.0        ,300.0      ,300.0         ,http://capecodwave.com/provincetown-womens-march-going-speak/
+452 ,"Quincy, CA"                           ,CA    ,50.0         ,78.0       ,105.0         ,Eyewitness on site
+453 ,"Raleigh, NC"                          ,NC    ,17000.0      ,18350.0    ,20000.0       ,http://www.wral.com/organizers-estimate-17-000-gather-in-raleigh-for-women-s-march/16456580/
+454 ,"Rapid City, SD"                       ,SD    ,1000.0       ,1450.0     ,2000.0        ,https://twitter.com/ThatBrandyn/status/822891625676275712
+455 ,"Reading, PA"                          ,PA    ,100.0        ,258.0      ,450.0         ,http://www.readingeagle.com/news/article/crowds-gather-in-city-park-in-reading-for-sister-march
+456 ,"Red Bank, NJ"                         ,NJ    ,200.0        ,290.0      ,400.0         ,newjersey.news12.com/multimedia/hundreds-march-in-solidarity-in-red-bank-1.12994794
+457 ,"Redding, CA"                          ,CA    ,300.0        ,300.0      ,300.0         ,http://www.redding.com/story/news/local/2017/01/21/live-tweets-womens-march-redding-city-hall/96882162/
+458 ,"Redondo Beach, CA"                    ,CA    ,2000.0       ,2000.0     ,2000.0        ,http://www.easyreadernews.com/144169/redondo-beach-womens-march-draws-1800-participants/
+459 ,"Redwood City, CA"                     ,CA    ,2500.0       ,2500.0     ,2500.0        ,https://twitter.com/AlexHorovitz/status/822997333151387649
+460 ,"Reno, NV"                             ,NV    ,10000.0      ,10000.0    ,10000.0       ,http://www.rgj.com/story/news/2017/01/21/s-change-reno-womens-march-washington/96888834/
+461 ,"Richland, WA"                         ,WA    ,1000.0       ,1675.0     ,2500.0        ,http://www.tri-cityherald.com/news/local/article128022844.html
+462 ,"Richmond, VA"                         ,VA    ,2000.0       ,2000.0     ,2000.0        ,http://richmondfreepress.com/news/2017/jan/20/thousands-join-march-monument-message-equality-uni/
+463 ,"Ridgecrest, CA"                       ,CA    ,180.0        ,190.0      ,200.0         ,onsite eyewitness; headcount at start with others joining along route
+464 ,"Ridgway, CO"                          ,CO    ,50.0         ,100.0      ,150.0         ,FB
+465 ,"Riegelsville, PA"                     ,PA    ,170.0        ,185.0      ,200.0         ,Bucks County Courier Times
+466 ,"Riverside, CA"                        ,CA    ,4000.0       ,4000.0     ,4000.0        ,http://www.pasadenastarnews.com/general-news/20170121/thousands-of-women-others-rally-in-riverside-to-protest-trumps-policies
+467 ,"Roanoke, VA"                          ,VA    ,3000.0       ,3675.0     ,4500.0        ,http://www.wdbj7.com/content/news/Thousands-marched-for-women-in-Roanoke-411421475.html
+468 ,"Rochester, MN"                        ,MN    ,600.0        ,780.0      ,1000.0        ,https://twitter.com/water_violin/status/822997922757349376
+469 ,"Rochester, NY"                        ,NY    ,1500.0       ,1725.0     ,2000.0        ,http://www.democratandchronicle.com/story/news/2017/01/21/women-upset-trumps-presidency-hold-rallies-locally/96715496/
+470 ,"Rock Springs, WY"                     ,WY    ,90.0         ,105.0      ,120.0         ,Eyewitness on site
+471 ,"Rockford, IL"                         ,IL    ,1000.0       ,1000.0     ,1000.0        ,http://www.rrstar.com/news/20170121/crowds-pack-downtown-rockford-for-womens-march-protest
+472 ,"Romney, WV"                           ,WV    ,30.0         ,40.0       ,50.0          ,Onsite eyewitness; headcount
+473 ,"Roswell, NM"                          ,NM    ,2.0          ,2.0        ,2.0           ,via email 
+474 ,"Roxbury, CT"                          ,CT    ,15.0         ,58.0       ,100.0         ,FB
+475 ,"St. Augustine, FL"                    ,FL    ,1000.0       ,1450.0     ,2000.0        ,http://www.firstcoastnews.com/news/womens-march-makes-its-way-to-the-first-coast/389706372
+476 ,"St. Cloud, MN"                        ,MN    ,40.0         ,40.0       ,40.0          ,http://www.sctimes.com/story/news/local/2017/01/20/st-cloud-mixed-reaction-president-trump/96837370/
+477 ,"St. Croix, VI"                        ,VI    ,250.0        ,250.0      ,250.0         ,http://viconsortium.com/virgin-islands-2/watch-usvi-joins-u-s-world-womens-march-protesting-trump-inauguration/
+478 ,"St. George, UT"                       ,UT    ,1200.0       ,1324.0     ,1475.0        ,organizer head count
+479 ,"St. John, VI"                         ,VI    ,60.0         ,60.0       ,60.0          ,Eyewitness onsite; photographic evidence
+480 ,"St. Johnsbury, VT"                    ,VT    ,50.0         ,60.0       ,70.0          ,http://www.caledonianrecord.com/news/local/large-crowd-turns-out-for-march-in-st-johnsbury/article_79fb1b0b-82c7-5f2a-91f4-c8a7be03f7b9.html
+481 ,"St. Joseph, MI"                       ,MI    ,60.0         ,60.0       ,60.0          ,http://www.wirx.com/2017/01/23/womens-march-held-in-st-joseph/
+482 ,"St. Louis, MO"                        ,MO    ,10000.0      ,14500.0    ,20000.0       ,http://www.stltoday.com/news/local/govt-and-politics/thousands-take-part-in-st-louis-women-s-march-protesting/article_0866b5f9-d4ce-507d-9be1-792e599713d7.html
+483 ,"St. Mary's City, MD"                  ,MD    ,10.0         ,10.0       ,10.0          ,FB
+484 ,"St. Mary of the Woods, IN"            ,IN    ,180.0        ,190.0      ,200.0         ,http://www.tribstar.com/news/local_news/wabash-valley-residents-gather-in-solidarity-with-marchers-in-washington/article_49969ab3-c25d-52a1-b185-aa99dd701846.html
+485 ,"St. Paul/Minneapolis, MN"             ,MN    ,90000.0      ,94500.0    ,100000.0      ,https://twitter.com/sppdPIO/status/822974502434930688
+486 ,"St. Petersburg, FL"                   ,FL    ,20000.0      ,20000.0    ,20000.0       ,http://www.tampabay.com/news/politics/elections/womens-march-surpassed-20000-protesters-making-it-largest-in-st-petersburg/2310416
+487 ,"Sacramento, CA"                       ,CA    ,20000.0      ,28100.0    ,38000.0       ,http://www.sacbee.com/news/local/article127914504.html
+488 ,"Sag Harbor, NY"                       ,NY    ,250.0        ,250.0      ,250.0         ,http://easthamptonstar.com/News/7/East-Enders-Marched-Washington-NYC-and-Sag-Harbor
+489 ,"Salem, OR"                            ,OR    ,1000.0       ,2440.0     ,4200.0        ,http://www.statesmanjournal.com/story/news/2017/01/21/womens-march-salem-unites-thousands-people/96850428/
+490 ,"Salem, WI"                            ,WI    ,2.0          ,2.0        ,2.0           ,eyewitness onsite
+491 ,"Salida, CO"                           ,CO    ,40.0         ,45.0       ,50.0          ,http://www.themountainmail.com/free_content/article_16fc9b52-e185-11e6-a2aa-2b737598eb38.html
+492 ,"Salinas, CA"                          ,CA    ,80.0         ,80.0       ,80.0          ,http://www.montereyherald.com/government-and-politics/20170120/trump-inauguration-unites-participants-in-protests-on-monterey-peninsula-salinas
+493 ,"Salisbury, CT"                        ,CT    ,200.0        ,305.0      ,434.0         ,https://twitter.com/jahansell/status/823009339174780928
+494 ,"Salt Lake City, UT (1/20)"            ,UT    ,1000.0       ,1000.0     ,1000.0        ,http://www.sltrib.com/home/4843395-155/about-1000-utahns-rally-against-president
+495 ,"Salt Lake City, UT (1/23)"            ,UT    ,6000.0       ,7800.0     ,10000.0       ,http://kutv.com/news/local/thousands-gather-for-utah-women-unite-march-at-utah-capitol-rotunda
+496 ,"San Anselmo, CA"                      ,CA    ,4.0          ,4.0        ,4.0           ,Eyewitness on site
+497 ,"San Antonio, TX"                      ,TX    ,1500.0       ,2175.0     ,3000.0        ,http://www.mysanantonio.com/news/local/article/Women-in-San-Antonio-take-to-the-streets-to-10873833.php
+498 ,"San Bernardino, CA"                   ,CA    ,80.0         ,80.0       ,80.0          ,http://www.pe.com/articles/san-823719-bernardino-participated.html
+499 ,"San Clemente, CA"                     ,CA    ,100.0        ,150.0      ,200.0         ,http://www.sanclementetimes.com/hundreds-participate-san-clemente-womens-march-washington/
+500 ,"San Diego, CA"                        ,CA    ,30000.0      ,34500.0    ,40000.0       ,http://www.kpbs.org/news/2017/jan/20/thousands-san-diegans-march-womens-rights/
+501 ,"San Francisco, CA"                    ,CA    ,100000.0     ,154000.0   ,220000.0      ,http://sanfrancisco.cbslocal.com/2017/01/21/huge-crowd-san-francisco-rally-womens-march/
+502 ,"San Jose, CA"                         ,CA    ,25000.0      ,31750.0    ,40000.0       ,http://www.sfchronicle.com/bayarea/article/Crowds-gather-to-demonstrate-against-Trump-10873932.php
+503 ,"San Juan, PR"                         ,PR    ,200.0        ,290.0      ,400.0         ,onsite eyewtiness w photo
+504 ,"San Luis Obispo, CA"                  ,CA    ,7000.0       ,8350.0     ,10000.0       ,http://www.sanluisobispo.com/news/local/article128024209.html
+505 ,"San Marcos, CA"                       ,CA    ,3000.0       ,6150.0     ,10000.0       ,http://www.sandiegouniontribune.com/communities/north-county/sd-no-san-marcos-march-20170119-story.html
+506 ,"San Rafael, CA"                       ,CA    ,500.0        ,500.0      ,500.0         ,FB
+507 ,"Sanford, ME"                          ,ME    ,100.0        ,115.0      ,130.0         ,http://www.journaltribune.com/news/2017-01-23/Front_Page/Were_all_one.html
+508 ,"Sandpoint, ID"                        ,ID    ,800.0        ,890.0      ,1000.0        ,http://www.bonnercountydailybee.com/local_news/20170121/marching_together_north_idaho_style
+509 ,"Santa Ana, CA"                        ,CA    ,20000.0      ,22250.0    ,25000.0       ,http://www.ocregister.com/articles/march-741832-women-people.html
+510 ,"Santa Barbara, CA"                    ,CA    ,5000.0       ,6350.0     ,8000.0        ,http://www.edhat.com/site/tidbit.cfm?nid=180540
+511 ,"Santa Cruz, CA"                       ,CA    ,8000.0       ,11150.0    ,15000.0       ,http://www.santacruzsentinel.com/government-and-politics/20170121/thousands-of-protesters-swarm-downtown-santa-cruz
+512 ,"Santa Fe, NM"                         ,NM    ,10000.0      ,13150.0    ,17000.0       ,http://www.santafenewmexican.com/news/local_news/santa-feans-flood-downtown-streets-in-display-of-anger-hope/article_8bf2bb24-b83f-51e3-8434-8a18223dac5d.html
+513 ,"Santa Rosa, CA"                       ,CA    ,5000.0       ,5000.0     ,5000.0        ,https://www.facebook.com/SantaRosaPoliceDepartment/
+514 ,"Sarasota, FL"                         ,FL    ,7500.0       ,8625.0     ,10000.0       ,https://twitter.com/sarasotapd/status/822888985689292800
+515 ,"Saugatuck, MI"                        ,MI    ,200.0        ,1010.0     ,2000.0        ,http://wincountry.com/news/articles/2017/jan/22/women-march-in-washington-and-in-michigan/
+516 ,"Sault Ste Marie, MI"                  ,MI    ,40.0         ,40.0       ,40.0          ,https://www.sootoday.com/local-news/women-resist-on-queen-street-516643
+517 ,"Sausalito, CA"                        ,CA    ,3.0          ,3.0        ,3.0           ,Eyewitness onsite
+518 ,"Savannah, GA"                         ,GA    ,1000.0       ,1000.0     ,1000.0        ,http://savannahnow.com/news/2017-01-21/hundreds-march-downtown-savannah-promote-women-s-rights-oppose-trump
+519 ,"Saxaphaw, NC"                         ,NC    ,80.0         ,80.0       ,80.0          ,https://twitter.com/HandyVillage/status/823178636790468609
+520 ,"Seaside, CA"                          ,CA    ,1000.0       ,1450.0     ,2000.0        ,http://www.ksbw.com/article/women-s-march-brings-hundreds-to-csumb-campus/8626551
+521 ,"Seattle, WA"                          ,WA    ,100000.0     ,133750.0   ,175000.0      ,http://www.seattletimes.com/seattle-news/politics/live-updates-womens-marches-seattle-dc-day-after-trump-inauguration/
+522 ,"Sedona, AZ"                           ,AZ    ,1000.0       ,1000.0     ,1000.0        ,FB
+523 ,"Seldovia, AK"                         ,AK    ,41.0         ,41.0       ,41.0          ,via email 
+524 ,"Selingsgrove, PA"                     ,PA    ,119.0        ,119.0      ,119.0         ,FB
+525 ,"Seneca Falls, NY"                     ,NY    ,10000.0      ,10000.0    ,10000.0       ,http://fingerlakes1.com/2017/01/21/full-coverage-women-march-in-seneca-falls-2017/
+526 ,"Sequim, WA"                           ,WA    ,300.0        ,390.0      ,500.0         ,https://twitter.com/davidacody/status/823226017674248196
+527 ,"Seward, AK"                           ,AK    ,54.0         ,62.0       ,70.0          ,onsite count via Twitter (w/ photo)
+528 ,"Sharon, PA"                           ,PA    ,700.0        ,700.0      ,700.0         ,http://www.sharonherald.com/news/local_news/many-feet-one-voice/article_bba9716e-cc03-597c-8be8-ade51955213d.html
+529 ,"Sheboygan, WI"                        ,WI    ,300.0        ,390.0      ,500.0         ,http://www.sheboyganpress.com/videos/news/local/2017/01/21/hundreds-attend-million-person-unity-marches-sheboygan-county/96905712/
+530 ,"Show Low, AZ"                         ,AZ    ,1.0          ,1.0        ,1.0           ,https://twitter.com/LynnMRichards/status/823171903464407040
+531 ,"Shreveport/Bossier, LA"               ,LA    ,200.0        ,560.0      ,1000.0        ,http://www.ksla.com/story/34314150/large-crowd-marches-in-downtown-shreveport-in-solidarity-with-womens-march-in-dc
+532 ,"Sicklerville, NJ"                     ,NJ    ,200.0        ,225.0      ,250.0         ,http://www.burlingtoncountytimes.com/news/local/video-nj-residents-gather-in-gloucester-township-to-protest-president/html_a1be7ea8-3eee-5d9f-8a37-6ad1afa50a57.html
+533 ,"Silver City, NM"                      ,NM    ,500.0        ,500.0      ,500.0         ,FB
+534 ,"Silverton, CO"                        ,CO    ,50.0         ,50.0       ,50.0          ,FB
+535 ,"Sioux Falls, SD"                      ,SD    ,3300.0       ,3300.0     ,3300.0        ,http://www.argusleader.com/story/news/2017/01/21/thousands-join-womens-march-downtown-sioux-falls/96883868/
+536 ,"Sitka, AK"                            ,AK    ,700.0        ,700.0      ,700.0         ,https://twitter.com/sarahebourne/status/823019012426780672
+537 ,"Skagway, AK"                          ,AK    ,122.0        ,122.0      ,122.0         ,FB
+538 ,"Skykomish, WA"                        ,WA    ,8.0          ,8.0        ,8.0           ,FB
+539 ,"Soldotna, AK"                         ,AK    ,200.0        ,261.0      ,322.0         ,http://peninsulaclarion.com/news/local/2017-01-21/solidarity-women-s-march-community-gathering-bring-hundreds-out-soldotna
+540 ,"Sonoma, CA"                           ,CA    ,3000.0       ,3000.0     ,3000.0        ,http://www.sonomanews.com/news/6572152-181/thousands-turn-up-for-sonoma?artslide=0
+541 ,"South Bend, IN"                       ,IN    ,1000.0       ,1450.0     ,2000.0        ,http://www.southbendtribune.com/news/local/more-than-march-for-women-in-south-bend/article_d51bf83d-b32a-50ca-9db2-e11b34f5a855.html
+542 ,"South Lake Tahoe, CA / Stateline, NV" ,CA/NV ,500.0        ,590.0      ,700.0         ,http://www.nevadaappeal.com/news/local/more-than-1-million-join-womens-marches-worldwide/
+543 ,"South Orange, NJ"                     ,NJ    ,2000.0       ,2000.0     ,2000.0        ,FB
+544 ,"Southborough, MA"                     ,MA    ,50.0         ,50.0       ,50.0          ,http://www.metrowestdailynews.com/photogallery/WL/20170121/NEWS/121009991/PH/1?start=2
+545 ,"Spokane, WA"                          ,WA    ,4000.0       ,7600.0     ,12000.0       ,http://www.khq.com/story/34314162/womens-march-on-spokane-draws-thousands
+546 ,"Springfield, IL"                      ,IL    ,1000.0       ,1000.0     ,1000.0        ,State Journal Register
+547 ,"Springfield, MA"                      ,MA    ,40.0         ,40.0       ,40.0          ,http://www.masslive.com/news/index.ssf/2017/01/springfield_protesters_reject.html
+548 ,"Springfield, MO"                      ,MO    ,2000.0       ,2000.0     ,2000.0        ,http://www.ky3.com/content/news/411423915.html
+549 ,"Springfield, OH"                      ,OH    ,5.0          ,5.0        ,5.0           ,https://www.insurancenewsnet.com/oarticle/springfield-residents-react-protest-trumps-inauguration
+550 ,"Stamford, CT"                         ,CT    ,5000.0       ,5000.0     ,5000.0        ,http://www.stamfordadvocate.com/local/article/Thousands-attend-Women-s-March-in-Stamford-10873898.php
+551 ,"Stanley, ID"                          ,ID    ,30.0         ,30.0       ,30.0          ,https://twitter.com/Margot_Garnick/status/823006371444588544
+552 ,"State College, PA"                    ,PA    ,200.0        ,335.0      ,500.0         ,http://www.centredaily.com/news/local/community/state-college/article127994959.html
+553 ,"Statesboro, GA"                       ,GA    ,200.0        ,200.0      ,200.0         ,https://twitter.com/jonathanhtweets/status/823054896165486593
+554 ,"Staunton, VA"                         ,VA    ,100.0        ,125.0      ,150.0         ,http://www.newsleader.com/story/news/local/2017/01/21/96880364/
+555 ,"Steamboat Springs, CO"                ,CO    ,1000.0       ,1000.0     ,1000.0        ,http://www.steamboattoday.com/news/2017/jan/21/womens-march-steamboat-springs-surpasses-expectati/
+556 ,"Syracuse, NY"                         ,NY    ,2000.0       ,2450.0     ,3000.0        ,FB
+557 ,"Talkeetna, AK"                        ,AK    ,25.0         ,30.0       ,35.0          ,FB
+558 ,"Tallahassee, FL"                      ,FL    ,14000.0      ,15800.0    ,18000.0       ,http://www.tallahassee.com/story/news/2017/01/21/more-than-14000-join-womens-march-on-tallahassee/96880778/
+559 ,"Taos, NM"                             ,NM    ,100.0        ,100.0      ,100.0         ,FB
+560 ,"Tecumseh, MI"                         ,MI    ,35.0         ,35.0       ,35.0          ,https://twitter.com/Anthony_Alaniz/status/823176969202319360
+561 ,"Telluride, CO"                        ,CO    ,200.0        ,560.0      ,1000.0        ,FB
+562 ,"Tenants Harbor, ME"                   ,ME    ,50.0         ,58.0       ,65.0          ,http://knox.villagesoup.com/p/midcoast-lens-strength-in-numbers-at-womens-marches/1616859
+563 ,"The Dalles, OR"                       ,OR    ,50.0         ,100.0      ,150.0         ,FB
+564 ,"Tillamook, OR"                        ,OR    ,300.0        ,300.0      ,300.0         ,http://www.tillamookheadlightherald.com/news/womens-march-rally-draws-hundreds-in-tillamook/article_9ae75ab2-e02f-11e6-89fc-3f59da891fab.html
+565 ,"Tisbury, MA"                          ,MA    ,100.0        ,130.0      ,160.0         ,http://www.mvtimes.com/2017/01/21/photos-womens-march-five-corners/
+566 ,"Toledo, OH"                           ,OH    ,200.0        ,200.0      ,200.0         ,http://www.toledoblade.com/Politics/2017/01/21/Toledo-marchers-deliver-message-of-unity-after-inauguration.html
+567 ,"Topeka, KS"                           ,KS    ,3000.0       ,3450.0     ,4000.0        ,http://cjonline.com/news/local/2017-01-21/women-s-march-topeka-draws-thousands-thumps-trump
+568 ,"Traverse City, MI"                    ,MI    ,3000.0       ,3000.0     ,3000.0        ,http://www.record-eagle.com/news/thousands-gather-for-traverse-city-women-s-march/article_547cdcb0-e029-11e6-be94-83e0491aa877.html
+569 ,"Trenton, NJ"                          ,NJ    ,6000.0       ,6900.0     ,8000.0        ,http://www.nj.com/politics/index.ssf/2017/01/crowd_of_6k_converges_on_womens_march_in_trenton.html
+570 ,"Troy, OH"                             ,OH    ,150.0        ,175.0      ,200.0         ,http://tdn-net.com/top-stories/18578/promoting-unity
+571 ,"Troy, PA"                             ,PA    ,6.0          ,6.0        ,6.0           ,Eyewitness on site
+572 ,"Truckee, CA"                          ,CA    ,100.0        ,150.0      ,200.0         ,Eyewitnesses on site; FB
+573 ,"Truth or Consequences, NM"            ,NM    ,150.0        ,154.0      ,158.0         ,FB
+574 ,"Tucson, AZ"                           ,AZ    ,15000.0      ,15000.0    ,15000.0       ,http://tucson.com/news/local/join-women-s-march-in-tucson/article_a3326d7b-dc9c-5b3f-a443-e6667b3f4a6b.html
+575 ,"Tulsa, OK"                            ,OK    ,1000.0       ,1000.0     ,1000.0        ,http://www.tulsaworld.com/homepagelatest/tulsa-rally-promotes-cause-of-women-s-rights-indigenous-group/article_688e80bc-a873-5087-bf2f-057e22435172.html#.WIRHr5jrEik.twitter
+576 ,"Tupper Lake, NY"                      ,NY    ,5.0          ,5.0        ,5.0           ,Eyewitness on site
+577 ,"Tuscarora, NV"                        ,NV    ,7.0          ,7.0        ,7.0           ,Eyewitness on site
+578 ,"Twisp, WA"                            ,WA    ,600.0        ,690.0      ,800.0         ,http://methowtv.com/womens-march-january-21-2017/
+579 ,"Ukiah, CA"                            ,CA    ,1500.0       ,1725.0     ,2000.0        ,Eyewitness on site
+580 ,"Unalakleet, AK"                       ,AK    ,38.0         ,39.0       ,40.0          ,adn.com
+581 ,Unalaska (Dutch Harbor)                ,AK    ,80.0         ,83.0       ,86.0          ,http://kucb.org/post/womens-march-draws-80-unalaskans
+582 ,"Union, WA"                            ,WA    ,55.0         ,58.0       ,60.0          ,signature collection by organizer via google form
+583 ,"University Park, MD"                  ,MD    ,80.0         ,80.0       ,80.0          ,Eyewitness on site
+584 ,"Utica, NY"                            ,NY    ,200.0        ,250.0      ,300.0         ,http://www.wktv.com/story/34315510/peaceful-human-rights-march-at-mvcc
+585 ,"Utqiagvik (Barrow), AK"               ,AK    ,22.0         ,29.0       ,35.0          ,https://twitter.com/trulyfrancesca/status/823000866718420993
+586 ,"Valdez, AK"                           ,AK    ,100.0        ,115.0      ,130.0         ,https://jackpineradicals.com/boards/topic/womens-march-in-gustavus-alaska/
+587 ,"Vallejo, CA"                          ,CA    ,100.0        ,150.0      ,200.0         ,http://www.dailyrepublic.com/news/mare-island-walk-takes-stand-with-womens-march/
+588 ,"Valparaiso, IN"                       ,IN    ,260.0        ,368.0      ,500.0         ,http://www.nwitimes.com/news/local/women-march-for-rights-in-valparaiso/article_a8aeff74-665f-52ec-a5ee-19cdbe93cf4e.html
+589 ,"Vancouver, WA"                        ,WA    ,150.0        ,175.0      ,200.0         ,http://www.columbian.com/news/2017/jan/21/rally-vancouver-waterfront-solidarity-womens-marches/
+590 ,"Vashon, WA"                           ,WA    ,253.0        ,262.0      ,270.0         ,onsite eyewitness headcount
+591 ,"Ventura, CA"                          ,CA    ,1700.0       ,2285.0     ,3000.0        ,https://www.facebook.com/events/664366620399146/
+592 ,"Vermillion, SD"                       ,SD    ,500.0        ,500.0      ,500.0         ,http://siouxcityjournal.com/news/photos-vermillion-women-s-march/collection_383f9a7a-0427-5ff3-bfb6-03d3a83ea4ad.html#1
+593 ,"Vienna, VA"                           ,VA    ,28.0         ,32.0       ,35.0          ,Eyewitness on site
+594 ,"Vieques, PR"                          ,PR    ,150.0        ,200.0      ,250.0         ,onsite eyewitness / signature collection via google form
+595 ,"Vinalhaven, ME"                       ,ME    ,76.0         ,76.0       ,76.0          ,http://www.penbaypilot.com/article/vinalhaven-musters-sister-march-jan-21/81253
+596 ,"Visalia, CA"                          ,CA    ,500.0        ,500.0      ,500.0         ,http://www.visaliatimesdelta.com/picture-gallery/news/2017/01/21/gallery-visalia-womens-march/96891282/
+597 ,"Walla Walla, WA"                      ,WA    ,2000.0       ,2180.0     ,2400.0        ,union-bulletin.com
+598 ,"Walnut Creek, CA"                     ,CA    ,3000.0       ,6150.0     ,10000.0       ,http://www.sfchronicle.com/bayarea/article/Crowds-gather-to-demonstrate-against-Trump-10873932.php
+599 ,Washington DC                          ,DC    ,500000.0     ,725000.0   ,1000000.0     ,https://www.nytimes.com/interactive/2017/01/22/us/politics/womens-march-trump-crowd-estimates.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0
+600 ,"Watertown, NY"                        ,NY    ,250.0        ,250.0      ,250.0         ,http://www.watertowndailytimes.com/news03/watertown-sister-rally-invokes-hope-battles-injustice-20170121
+601 ,"Watsonville, CA"                      ,CA    ,300.0        ,390.0      ,500.0         ,eyewitness
+602 ,"Wausau, WI"                           ,WI    ,150.0        ,175.0      ,200.0         ,http://www.wausaudailyherald.com/story/news/2017/01/20/group-gathers-support-womens-march-wausau/96778196/
+603 ,"Wellfleet, MA"                        ,MA    ,113.0        ,113.0      ,113.0         ,via email (JP)
+604 ,"Wenatchee, WA"                        ,WA    ,2000.0       ,2000.0     ,2000.0        ,http://www.wenatcheeworld.com/news/2017/jan/21/huge-turnout-for-womens-march/
+605 ,"West Chester, PA"                     ,PA    ,150.0        ,175.0      ,200.0         ,https://wcborodems.org/2017/01/21/in-solidarity-with-the-womens-march/
+606 ,"West Jefferson, NC"                   ,NC    ,295.0        ,298.0      ,300.0         ,https://twitter.com/wineymomof2/status/822928844558663681
+607 ,"West Lima, WI"                        ,WI    ,1.0          ,1.0        ,1.0           ,Twitter
+608 ,"West Palm Beach, FL"                  ,FL    ,5000.0       ,5900.0     ,7000.0        ,http://www.palmbeachpost.com/news/local/thousands-turn-out-west-palm-for-women-rally-against-trump/GURHjHOiaBFtDfODkqg0fM/
+609 ,"Westfield, NJ"                        ,NJ    ,1000.0       ,1450.0     ,2000.0        ,https://www.tapinto.net/towns/westfield/articles/womens-march-in-westfield-attracts-thousands
+610 ,"Westwood, CA"                         ,CA    ,7.0          ,7.0        ,7.0           ,https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/16143287_1327469003942570_8616922278418296058_n.jpg?oh=eb912bd6e7949caa7ef1ec1a7a691dda&oe=590F4747
+611 ,"Wichita, KS"                          ,KS    ,3000.0       ,3000.0     ,3000.0        ,http://www.kansas.com/news/local/article127951994.html
+612 ,"Wichita Falls, TX"                    ,TX    ,150.0        ,150.0      ,150.0         ,http://www.timesrecordnews.com/story/news/local/2017/01/21/group-peacefully-marches-voice-their-concerns/96891804/
+613 ,"Williamsburg, VA"                     ,VA    ,700.0        ,835.0      ,1000.0        ,http://wydaily.com/2017/01/21/womens-march-in-williamsburg-a-family-affair/
+614 ,"Willits, CA"                          ,CA    ,50.0         ,50.0       ,50.0          ,FB
+615 ,"Wilmington, NC"                       ,NC    ,1000.0       ,1900.0     ,3000.0        ,http://www.starnewsonline.com/news/20170121/wilmington-womens-march-exceeds-crowd-goal-inspires-hope
+616 ,"Wilmington, OH"                       ,OH    ,70.0         ,70.0       ,70.0          ,http://wnewsj.com/news/34216/locals-join-womens-march
+617 ,"Wilton, NH"                           ,NH    ,100.0        ,113.0      ,125.0         ,onsite eyewitness who did headcount (via google form)
+618 ,"Winchester, VA"                       ,VA    ,1200.0       ,1245.0     ,1300.0        ,onsite eyewitness & local news (via google form)
+619 ,"Winters, CA"                          ,CA    ,200.0        ,200.0      ,200.0         ,FB
+620 ,Women's March Online                   ,--    ,415.0        ,415.0      ,415.0         ,FB
+621 ,"Woods Hole, MA"                       ,MA    ,1.0          ,1.0        ,1.0           ,marcher self-report with photo on FB
+622 ,"Woodstock, NY"                        ,NY    ,1000.0       ,1000.0     ,1000.0        ,http://media.dailyfreeman.com/2017/01/21/photos-from-the-womens-march-in-woodstock/
+623 ,"Woodstock, VA"                        ,VA    ,400.0        ,400.0      ,400.0         ,http://www.nvdaily.com/uncategorized/2017/01/women-hold-sister-march-in-woodstock/
+624 ,"Wooster, OH"                          ,OH    ,500.0        ,725.0      ,1000.0        ,http://www.the-daily-record.com/local%20news/2017/01/22/rally-at-wooster-gazebo-draws-500
+625 ,"Wyckoff, NJ"                          ,NJ    ,300.0        ,390.0      ,500.0         ,http://www.northjersey.com/story/news/local/2017/01/21/local-womens-marches-draw-far-larger-crowds-than-expected/96778300/
+626 ,"Yakima, WA"                           ,WA    ,800.0        ,890.0      ,1000.0        ,http://www.yakimaherald.com/news/local/hundreds-are-marching-through-yakima/article_1a192d50-e009-11e6-87ed-17b155bb6c9c.html
+627 ,"Yellow Springs, OH"                   ,OH    ,250.0        ,250.0      ,250.0         ,http://ysnews.com/news/2017/01/yellow-springs-sister-march-draws-at-least-250
+628 ,"Ypsilanti, MI"                        ,MI    ,1200.0       ,1200.0     ,1200.0        ,https://www.facebook.com/events/1520855921262573/
+629 ,"Yucca Valley, CA"                     ,CA    ,76.0         ,138.0      ,200.0         ,indivisiblemb.org
+630 ,"Yuma, AZ"                             ,AZ    ,10.0         ,10.0       ,10.0          ,FB
+631 ,"Zebulon, GA"                          ,GA    ,35.0         ,35.0       ,35.0          ,SPLCenter on twitter 
