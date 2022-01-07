@@ -1,101 +1,101 @@
-id,Rank,Name,Profession,Sector,Age,Influence,Reach,Twitter Followers,Picture
-1,1.0,Stacey Abrams,Politician,Politics,45.0,250.5,15.31,548861.0,https://i.kinja-img.com/theroot100/2019/stacey.abrams.jpg
-2,2.0,Nipsey Hussle,"Rapper, Entrepreneur",Entertainment,33.0,247.6,16.56,929681.0,https://i.kinja-img.com/theroot100/2019/Nipsey.Hussle.jpg
-3,3.0,Lizzo,"Singer, Flutist",Entertainment,31.0,243.6,13.12,1080757.0,https://i.kinja-img.com/theroot100/2019/lizzo.jpg
-4,4.0,Steven Canals,"Co-creator, Executive producer of Pose",Entertainment,38.0,234.8,10.08,22921.0,https://i.kinja-img.com/theroot100/2019/steven.canals_retouch_kigdmv.jpg
-5,5.0,Oronike Odeleye,Activist,Community,39.0,231.4,9.79,3697.0,https://i.kinja-img.com/theroot100/2019/Oronike.Odeleye.jpg
-6,6.0,Colin Kaepernick,Activist,Community,31.0,224.8,16.85,2169649.0,https://i.kinja-img.com/theroot100/2019/colin.kaepernick.jpg
-7,7.0,Ilhan Omar,US Representative,Politics,37.0,219.4,16.05,473422.0,https://i.kinja-img.com/theroot100/2019/ilhan.omar.jpg
-8,8.0,Rodney Robinson,Educator,Community,40.0,218.5,8.33,5815.0,https://i.kinja-img.com/theroot100/2019/rodney.robinson.jpg
-9,9.0,Janet Mock,"Writer, Producer, Director",Entertainment,36.0,218.4,13.56,189795.0,https://i.kinja-img.com/theroot100/2019/janet.mock_retouch_lyzt69.jpg
-10,10.0,Karen Attiah,Journalist,Media,33.0,213.3,11.68,143419.0,https://i.kinja-img.com/theroot100/2019/karen.attiah.jpg
-11,11.0,Alysia Montaño,Track Champion,Sports,33.0,207.3,11.61,17408.0,https://i.kinja-img.com/theroot100/2019/Alysia_Montano.jpg
-12,12.0,Crystal Dunn,Soccer Star,Sports,27.0,204.4,13.93,128430.0,https://i.kinja-img.com/theroot100/2019/crystal.dunn2.jpg
-13,13.0,Jeremy O Harris,Playwright,Arts,30.0,203.7,10.65,10187.0,https://i.kinja-img.com/theroot100/2019/jeremy.harris.jpg
-14,14.0,LeBron James,"NBA Player, Entrepreneur, Philanthropist",Sports,34.0,203.4,19.34,43695389.0,https://i.kinja-img.com/theroot100/2019/lebron.james.jpg
-15,15.0,Ibram X Kendi,"Author, Professor",Community,37.0,203.1,12.36,66489.0,https://i.kinja-img.com/theroot100/2019/ibram.kendiV2.jpg
-16,16.0,Serena Williams,"Tennis Athlete, Entrepreneur",Sports,38.0,202.5,18.09,10943793.0,https://i.kinja-img.com/theroot100/2019/serena.williams.jpg
-17,17.0,Tomi Adeymei,Author,Arts,26.0,202.3,12.27,62181.0,https://i.kinja-img.com/theroot100/2019/tomi.adeyemi.jpg
-18,18.0,Beyoncé,"Entertainer, Entrepreneur",Entertainment,38.0,200.0,18.72,15360340.0,https://i.kinja-img.com/theroot100/2019/beyonce_retouch_fjej6c.jpg
-19,19.0,Jackie Aina,"Beauty Expert, Advocate",Community,32.0,199.8,14.06,0.0,https://i.kinja-img.com/theroot100/2019/jackie.aina.jpg
-20,20.0,Janelle Monáe,"Singer, Actor, Activist",Entertainment,33.0,199.0,16.5,1192873.0,https://i.kinja-img.com/theroot100/2019/janelle.monae.jpg
-21,21.0,Nikole Hannah-Jones,Journalist,Media,43.0,196.2,9.4,177442.0,https://i.kinja-img.com/theroot100/2019/nikole.hannah.jones.jpg
-22,22.0,Stephen Curry,"NBA Player, Entrepreneur",Sports,31.0,193.4,18.56,13716022.0,https://i.kinja-img.com/theroot100/2019/steph.curry.jpg
-23,23.0,Blair Imani,Activist,Community,25.0,191.4,11.57,72614.0,https://i.kinja-img.com/theroot100/2019/blair.imani.jpg
-24,24.0,Donald Glover,"Actor, Musician",Entertainment,35.0,190.4,16.95,2430070.0,https://i.kinja-img.com/theroot100/2019/donald.glover.jpg
-25,25.0,Kristen Clarke,President of National Lawyers' Committee for Civil Rights Under Law,Community,44.0,188.3,9.58,51375.0,https://i.kinja-img.com/theroot100/2019/kristen.clarke.jpg
-26,26.0,Allyson Felix,Track Champion,Sports,33.0,188.3,14.77,745781.0,https://i.kinja-img.com/theroot100/2019/allyson.felix.jpg
-27,27.0,Lena Waithe,"Writer, Producer, Director, Actor",Entertainment,35.0,186.2,14.44,189690.0,https://i.kinja-img.com/theroot100/2019/Lena.Waithe.jpg
-28,28.0,Ayanna Pressley,US Representative,Politics,45.0,185.5,14.33,476465.0,https://i.kinja-img.com/theroot100/2019/Ayanna.Pressley.jpg
-29,29.0,Virgil Abloh,"Artistic Director, Louis Vuitton's menswear collection, CEO of Off-White",Business,38.0,184.6,15.94,397324.0,https://i.kinja-img.com/theroot100/2019/virgil.abloh.jpg
-30,30.0,Crissle West,Co-host of The Reader podcast,Entertainment,37.0,182.6,10.54,182946.0,https://i.kinja-img.com/theroot100/2019/crissle.west.jpg
-31,31.0,Glory Edim,Founder of Well-Read Black Girl,Arts,36.0,182.1,10.48,53274.0,https://i.kinja-img.com/theroot100/2019/glory.edim.jpg
-32,32.0,Ritchie Torres,"Councilman, Congressional Candidate",Politics,31.0,181.9,10.45,17034.0,https://i.kinja-img.com/theroot100/2019/ritchie.torres.jpg
-33,33.0,Jaime Harrison,Senatorial Candidate,Politics,43.0,181.5,11.6,168417.0,https://i.kinja-img.com/theroot100/2019/jaime.harrison2_ct1zls.jpg
-34,34.0,Kid Fury,Co-host of The Reader podcast,Entertainment,31.0,179.7,12.01,203050.0,https://i.kinja-img.com/theroot100/2019/kid.fury.jpg
-35,35.0,Rich Paul,Sports Agent,Sports,37.0,179.1,13.36,51950.0,https://i.kinja-img.com/theroot100/2019/Rich.Paul_lzz0xu.jpg
-36,36.0,Karine Jean-Pierre,Chief Public Affairs Officer of Moveon.org,Politics,42.0,178.9,12.59,172248.0,https://i.kinja-img.com/theroot100/2019/karine.jean.pierre.jpg
-37,37.0,Jason Reynolds,"Author, Poet",Arts,35.0,178.0,13.19,62407.0,https://i.kinja-img.com/theroot100/2019/jason.reynolds2.jpg
-38,38.0,Elaine Welteroth,Author,Media,32.0,176.7,13.0,53783.0,https://i.kinja-img.com/theroot100/2019/elaine.welteroth.jpg
-39,39.0,Brandon Bryant,Venture Partner at Harlem Capital,Business,28.0,174.2,10.68,2034.0,https://i.kinja-img.com/theroot100/2019/brandon.bryant.jpg
-40,40.0,Zach Stafford,Editor-in-Chief at the Advocate,Media,29.0,173.3,9.49,15420.0,https://i.kinja-img.com/theroot100/2019/Zach_Stafford_retouch_baxxvk.jpg
-41,41.0,Kerby Jean-Raymond,"Founder of Pyer Moss, Artistic Director",Business,32.0,173.2,11.16,8386.0,https://i.kinja-img.com/theroot100/2019/kerby.jean-raymond.jpg
-42,42.0,John Henry,Venture Partner at Harlem Capital,Business,26.0,178.2,10.51,11640.0,https://i.kinja-img.com/theroot100/2019/john.henry.jpg
-43,43.0,Law Roach,Stylist,Entertainment,40.0,172.7,12.42,13028.0,https://i.kinja-img.com/theroot100/2019/law.roach.jpg
-44,44.0,Angelica Ross,"Actor, Writer, Producer",Entertainment,31.0,171.1,12.19,55775.0,https://i.kinja-img.com/theroot100/2019/angelica.ross_retouch_tysjo6.jpg
-45,45.0,Cardi B,Rapper,Entertainment,26.0,170.6,18.48,7357481.0,https://i.kinja-img.com/theroot100/2019/cardi.b_retouch_cylswc.jpg
-46,46.0,Lauren Underwood,US Representative,Politics,32.0,170.5,12.11,76802.0,https://i.kinja-img.com/theroot100/2019/Lauren.Underwood2_rr4cq4.jpg
-47,47.0,Latoya Shauntay Snell,"Marathon Runner, Chef",Community,34.0,169.0,9.03,1686.0,https://i.kinja-img.com/theroot100/2019/Latoya.Shauntay.Snell.jpg
-48,48.0,Mahershala Ali,Actor,Entertainment,45.0,168.9,11.88,0.0,https://i.kinja-img.com/theroot100/2019/mahershala.ali.jpg
-49,49.0,Melina Matsoukas,Director,Entertainment,38.0,168.9,11.88,22262.0,https://i.kinja-img.com/theroot100/2019/melina.matsoukas2_izvzbg.jpg
-50,50.0,Mashama Bailey,Executive Chef,Business,45.0,168.7,9.49,0.0,https://i.kinja-img.com/theroot100/2019/Mashama.Bailey.jpg
-51,51.0,Matthew Cherry,"Writer, Director",Entertainment,37.0,167.7,11.71,142534.0,https://i.kinja-img.com/theroot100/2019/matthew.cherry.jpg
-52,52.0,Kawhi Leonard,NBA Player,Sports,28.0,167.0,12.61,404181.0,https://i.kinja-img.com/theroot100/2019/kawhi.leonard2.jpg
-53,53.0,Tanisha C Ford,"Writer, Cultural Critic, Historian",Arts,40.0,166.4,8.76,11380.0,https://i.kinja-img.com/theroot100/2019/tanisha.ford.jpg
-54,54.0,Arlan Hamilton,Founder of Backstage Capital,STEM,38.0,166.4,11.54,64017.0,https://i.kinja-img.com/theroot100/2019/arlan.hamilton.jpg
-55,55.0,Jordan Peele,Entertainer,Entertainment,40.0,165.3,16.28,1603520.0,https://i.kinja-img.com/theroot100/2019/jordan.peele.jpg
-56,56.0,Adam Serwer,Journalist,Media,40.0,162.3,10.97,0.0,https://i.kinja-img.com/theroot100/2019/adam_serwer.jpg
-57,57.0,Rhiana Gunn-Wright,Policy Director at New Consensus,Politics,30.0,162.2,9.26,21819.0,https://i.kinja-img.com/theroot100/2019/Rhiana.Gunn-Wright.jpg
-58,58.0,Kwame Onwuachi,Executive Chef,Business,29.0,161.9,10.92,6365.0,https://i.kinja-img.com/theroot100/2019/kwame.onwuachi2_guuky4.jpg
-59,59.0,Kiese Laymon,"Author, Professor",Arts,45.0,159.2,10.55,28642.0,https://i.kinja-img.com/theroot100/2019/kiese.laymon.jpg
-60,60.0,Jeffreen Hayes,Executive Director at Threewalls,Arts,44.0,159.1,7.59,0.0,https://i.kinja-img.com/theroot100/2019/jeffreen.hayes.jpg
-61,61.0,Amanda Williams,Artist,Arts,45.0,158.4,7.93,0.0,https://i.kinja-img.com/theroot100/2019/amanda.williams.jpg
-62,62.0,Tiffany Cross,Co-founder of The Beat DC,Media,41.0,158.4,11.07,63160.0,https://i.kinja-img.com/theroot100/2019/tiffany.cross.jpg
-63,63.0,Kezia Williams,CEO at Black upStart,Business,37.0,157.2,9.2,4625.0,https://i.kinja-img.com/theroot100/2019/kezia.williams.jpg
-64,64.0,Latham Thomas,"Doula, Founder of Mama Glow",Community,39.0,155.6,10.09,4360.0,https://i.kinja-img.com/theroot100/2019/latham.thomas.jpg
-65,65.0,Manu Platt,Professor,STEM,40.0,155.6,5.91,1066.0,https://i.kinja-img.com/theroot100/2019/manu.platt.jpg
-66,66.0,John Edmonds,"Photographer, Artist",Arts,31.0,153.7,8.32,0.0,https://i.kinja-img.com/theroot100/2019/john.edmonds.jpg
-67,67.0,Micah McDonald,Stylist,Entertainment,33.0,153.5,7.45,0.0,https://i.kinja-img.com/theroot100/2019/micah.mcdonald_retouch_iwulia.jpg
-68,68.0,Joy Buolamwini,Computer Scientist,STEM,29.0,153.4,10.39,19374.0,https://i.kinja-img.com/theroot100/2019/Joy.Buolamwini.jpg
-69,69.0,Bassey Ikpi,"Writer, Author",Arts,43.0,150.7,9.45,28462.0,https://i.kinja-img.com/theroot100/2019/bassey.ikpi.jpg
-70,70.0,Candice Elder,Founder at East Oakland Collective,Community,35.0,150.2,6.1,717.0,https://i.kinja-img.com/theroot100/2019/candice.elder.jpg
-71,71.0,Elie Mystal,Executive Editor of Above the Law,Media,41.0,150.0,9.38,77809.0,https://i.kinja-img.com/theroot100/2019/elie.mystal.jpg
-72,72.0,Henri Pierre-Jacque,Managing Partner at Harlem Capital,Business,26.0,148.2,7.74,2106.0,https://i.kinja-img.com/theroot100/2019/henri.pierre.jacques.jpg
-73,73.0,Candice Payne,"Entrepreneur, Philanthropist",Community,34.0,146.5,5.24,0.0,https://i.kinja-img.com/theroot100/2019/candice.payne2_ytcj0a.jpg
-74,74.0,Jemele Hill,"Journalist, Podcast Host",Media,43.0,146.6,12.03,1181178.0,https://i.kinja-img.com/theroot100/2019/jemele.hill.jpg
-75,75.0,Ta-Nehisi Coates,"Writer, Author",Arts,43.0,143.8,9.68,20375.0,https://i.kinja-img.com/theroot100/2019/ta-nehisi.coates.jpg
-76,76.0,Wayman Banner,Stylist,Entertainment,36.0,143.6,6.52,0.0,https://i.kinja-img.com/theroot100/2019/wayman.bannerman.jpg
-77,77.0,Lorin Crawford,STEM,STEM,28.0,143.6,6.51,539.0,https://i.kinja-img.com/theroot100/2019/lorin.crawford.jpg
-78,78.0,Akbar Cook,Principal of a High School,Community,43.0,141.4,8.33,3670.0,https://i.kinja-img.com/theroot100/2019/Akbar_Cook2_dly93p.jpg
-79,79.0,MiAngel Cody,"Lawyer, Founder of Decarceration Collective",Community,39.0,141.1,8.29,687.0,https://i.kinja-img.com/theroot100/2019/MiAngel.Cody.jpg
-80,80.0,Brittany K Barnett,"Lawyer, Co-Founder of Buried Alive Project",Community,35.0,141.0,8.29,5717.0,https://i.kinja-img.com/theroot100/2019/brittany.barnett.jpg
-81,81.0,Lauren Wesley Wilson,"CEO of ColorComm, Inc.",Business,33.0,140.1,8.17,1916.0,https://i.kinja-img.com/theroot100/2019/lauren.wesley.wilson.jpg
-82,82.0,Maya Rupert,Campaign Manager for Julian Castro,Politics,38.0,140.1,8.17,16422.0,https://i.kinja-img.com/theroot100/2019/maya.rupert.jpg
-83,83.0,Brandi Collins-Dexter,Senior Campaign Director of Color of Change,Community,38.0,139.0,6.11,1350.0,https://i.kinja-img.com/theroot100/2019/brandi.collins-dexter2_fhflle.jpg
-84,84.0,Dantley Davis,Vice President of Design and Research at Twitter,STEM,42.0,138.8,8.02,7451.0,https://i.kinja-img.com/theroot100/2019/dantley.davis.jpg
-85,85.0,Meghan Markle,Duchess of Sussex,Community,38.0,138.7,8.01,0.0,https://i.kinja-img.com/theroot100/2019/meghan.markle.jpg
-86,86.0,Kamilah Forbes,Executive Producer of the Apollo Theatre,Arts,43.0,138.4,7.97,1596.0,https://i.kinja-img.com/theroot100/2019/kamilah.forbes.jpg
-87,87.0,Chaédria LaBouvier,"Journalist, Curator",Arts,34.0,137.4,7.87,7006.0,https://i.kinja-img.com/theroot100/2019/chaedria.labouvier.jpg
-88,88.0,Diamond Stingily,"Artist, Poet",Arts,29.0,135.4,7.64,565.0,https://i.kinja-img.com/theroot100/2019/diamond.stingily.jpg
-89,89.0,Alexandra Bell,Multimedia Artist,Arts,36.0,135.1,8.53,1862.0,https://i.kinja-img.com/theroot100/2019/Alexandra-Bell-2_qvopge.jpg
-90,90.0,Denise Woodard,Founder of Partake Foods,Business,36.0,135.0,7.59,523.0,https://i.kinja-img.com/theroot100/2019/denise.woodard.jpg
-91,91.0,Jarrid Tingle,"Venture Capitalist, Entrepreneur",Business,27.0,129.7,5.93,0.0,https://i.kinja-img.com/theroot100/2019/jarrid.tingle.jpg
-92,92.0,Naomi Washington-Leapheart,Faith Work Director at the National LGBTQ Task Force,Community,37.0,128.7,5.83,1140.0,https://i.kinja-img.com/theroot100/2019/naomi.washington-leapheart.jpg
-93,93.0,Marcus Bullock,"App Developer, Entrepreneur",Community,39.0,122.8,7.05,790.0,https://i.kinja-img.com/theroot100/2019/marcus.bullock.jpg
-94,94.0,Kiki Ayers,Publicist,Business,29.0,122.2,7.41,21111.0,https://i.kinja-img.com/theroot100/2019/kiki.ayers.jpg
-95,95.0,Raniyah Coperland,CEO of Black AIDS Institute,Community,34.0,120.5,6.05,106.0,https://i.kinja-img.com/theroot100/2019/Raniyah.Copeland.jpg
-96,96.0,Delano Dunn,Visual Artist,Arts,41.0,119.3,5.93,135.0,https://i.kinja-img.com/theroot100/2019/delano.dunn.jpg
-97,97.0,Dorian Burton,Assistant Executive Director at William R Kenan Jr. Charitable Trust,Community,37.0,117.8,5.76,1962.0,https://i.kinja-img.com/theroot100/2019/dorian.burton.jpg
-98,98.0,William Tarpeh,Professor,STEM,28.0,111.5,3.43,1019.0,https://i.kinja-img.com/theroot100/2019/william.tarpeh.jpg
-99,99.0,Brooke Obie,Managing Editor at Shadow & Act,Media,33.0,114.9,6.18,6388.0,https://i.kinja-img.com/theroot100/2019/brooke.obie.jpg
-100,100.0,Elizabeth Lindsey,"Executive Director, ByteBack",STEM,39.0,107.4,7.8,1449.0,https://i.kinja-img.com/theroot100/2019/elizabeth.lindsey.jpg
+id  ,Rank  ,Name                       ,Profession                                                                 ,Sector        ,Age  ,Influence ,Reach ,Twitter Followers ,Picture
+1   ,1.0   ,Stacey Abrams              ,Politician                                                                 ,Politics      ,45.0 ,250.5     ,15.31 ,548861.0          ,https://i.kinja-img.com/theroot100/2019/stacey.abrams.jpg
+2   ,2.0   ,Nipsey Hussle              ,"Rapper, Entrepreneur"                                                     ,Entertainment ,33.0 ,247.6     ,16.56 ,929681.0          ,https://i.kinja-img.com/theroot100/2019/Nipsey.Hussle.jpg
+3   ,3.0   ,Lizzo                      ,"Singer, Flutist"                                                          ,Entertainment ,31.0 ,243.6     ,13.12 ,1080757.0         ,https://i.kinja-img.com/theroot100/2019/lizzo.jpg
+4   ,4.0   ,Steven Canals              ,"Co-creator, Executive producer of Pose"                                   ,Entertainment ,38.0 ,234.8     ,10.08 ,22921.0           ,https://i.kinja-img.com/theroot100/2019/steven.canals_retouch_kigdmv.jpg
+5   ,5.0   ,Oronike Odeleye            ,Activist                                                                   ,Community     ,39.0 ,231.4     ,9.79  ,3697.0            ,https://i.kinja-img.com/theroot100/2019/Oronike.Odeleye.jpg
+6   ,6.0   ,Colin Kaepernick           ,Activist                                                                   ,Community     ,31.0 ,224.8     ,16.85 ,2169649.0         ,https://i.kinja-img.com/theroot100/2019/colin.kaepernick.jpg
+7   ,7.0   ,Ilhan Omar                 ,US Representative                                                          ,Politics      ,37.0 ,219.4     ,16.05 ,473422.0          ,https://i.kinja-img.com/theroot100/2019/ilhan.omar.jpg
+8   ,8.0   ,Rodney Robinson            ,Educator                                                                   ,Community     ,40.0 ,218.5     ,8.33  ,5815.0            ,https://i.kinja-img.com/theroot100/2019/rodney.robinson.jpg
+9   ,9.0   ,Janet Mock                 ,"Writer, Producer, Director"                                               ,Entertainment ,36.0 ,218.4     ,13.56 ,189795.0          ,https://i.kinja-img.com/theroot100/2019/janet.mock_retouch_lyzt69.jpg
+10  ,10.0  ,Karen Attiah               ,Journalist                                                                 ,Media         ,33.0 ,213.3     ,11.68 ,143419.0          ,https://i.kinja-img.com/theroot100/2019/karen.attiah.jpg
+11  ,11.0  ,Alysia Montaño             ,Track Champion                                                             ,Sports        ,33.0 ,207.3     ,11.61 ,17408.0           ,https://i.kinja-img.com/theroot100/2019/Alysia_Montano.jpg
+12  ,12.0  ,Crystal Dunn               ,Soccer Star                                                                ,Sports        ,27.0 ,204.4     ,13.93 ,128430.0          ,https://i.kinja-img.com/theroot100/2019/crystal.dunn2.jpg
+13  ,13.0  ,Jeremy O Harris            ,Playwright                                                                 ,Arts          ,30.0 ,203.7     ,10.65 ,10187.0           ,https://i.kinja-img.com/theroot100/2019/jeremy.harris.jpg
+14  ,14.0  ,LeBron James               ,"NBA Player, Entrepreneur, Philanthropist"                                 ,Sports        ,34.0 ,203.4     ,19.34 ,43695389.0        ,https://i.kinja-img.com/theroot100/2019/lebron.james.jpg
+15  ,15.0  ,Ibram X Kendi              ,"Author, Professor"                                                        ,Community     ,37.0 ,203.1     ,12.36 ,66489.0           ,https://i.kinja-img.com/theroot100/2019/ibram.kendiV2.jpg
+16  ,16.0  ,Serena Williams            ,"Tennis Athlete, Entrepreneur"                                             ,Sports        ,38.0 ,202.5     ,18.09 ,10943793.0        ,https://i.kinja-img.com/theroot100/2019/serena.williams.jpg
+17  ,17.0  ,Tomi Adeymei               ,Author                                                                     ,Arts          ,26.0 ,202.3     ,12.27 ,62181.0           ,https://i.kinja-img.com/theroot100/2019/tomi.adeyemi.jpg
+18  ,18.0  ,Beyoncé                    ,"Entertainer, Entrepreneur"                                                ,Entertainment ,38.0 ,200.0     ,18.72 ,15360340.0        ,https://i.kinja-img.com/theroot100/2019/beyonce_retouch_fjej6c.jpg
+19  ,19.0  ,Jackie Aina                ,"Beauty Expert, Advocate"                                                  ,Community     ,32.0 ,199.8     ,14.06 ,0.0               ,https://i.kinja-img.com/theroot100/2019/jackie.aina.jpg
+20  ,20.0  ,Janelle Monáe              ,"Singer, Actor, Activist"                                                  ,Entertainment ,33.0 ,199.0     ,16.5  ,1192873.0         ,https://i.kinja-img.com/theroot100/2019/janelle.monae.jpg
+21  ,21.0  ,Nikole Hannah-Jones        ,Journalist                                                                 ,Media         ,43.0 ,196.2     ,9.4   ,177442.0          ,https://i.kinja-img.com/theroot100/2019/nikole.hannah.jones.jpg
+22  ,22.0  ,Stephen Curry              ,"NBA Player, Entrepreneur"                                                 ,Sports        ,31.0 ,193.4     ,18.56 ,13716022.0        ,https://i.kinja-img.com/theroot100/2019/steph.curry.jpg
+23  ,23.0  ,Blair Imani                ,Activist                                                                   ,Community     ,25.0 ,191.4     ,11.57 ,72614.0           ,https://i.kinja-img.com/theroot100/2019/blair.imani.jpg
+24  ,24.0  ,Donald Glover              ,"Actor, Musician"                                                          ,Entertainment ,35.0 ,190.4     ,16.95 ,2430070.0         ,https://i.kinja-img.com/theroot100/2019/donald.glover.jpg
+25  ,25.0  ,Kristen Clarke             ,President of National Lawyers' Committee for Civil Rights Under Law        ,Community     ,44.0 ,188.3     ,9.58  ,51375.0           ,https://i.kinja-img.com/theroot100/2019/kristen.clarke.jpg
+26  ,26.0  ,Allyson Felix              ,Track Champion                                                             ,Sports        ,33.0 ,188.3     ,14.77 ,745781.0          ,https://i.kinja-img.com/theroot100/2019/allyson.felix.jpg
+27  ,27.0  ,Lena Waithe                ,"Writer, Producer, Director, Actor"                                        ,Entertainment ,35.0 ,186.2     ,14.44 ,189690.0          ,https://i.kinja-img.com/theroot100/2019/Lena.Waithe.jpg
+28  ,28.0  ,Ayanna Pressley            ,US Representative                                                          ,Politics      ,45.0 ,185.5     ,14.33 ,476465.0          ,https://i.kinja-img.com/theroot100/2019/Ayanna.Pressley.jpg
+29  ,29.0  ,Virgil Abloh               ,"Artistic Director, Louis Vuitton's menswear collection, CEO of Off-White" ,Business      ,38.0 ,184.6     ,15.94 ,397324.0          ,https://i.kinja-img.com/theroot100/2019/virgil.abloh.jpg
+30  ,30.0  ,Crissle West               ,Co-host of The Reader podcast                                              ,Entertainment ,37.0 ,182.6     ,10.54 ,182946.0          ,https://i.kinja-img.com/theroot100/2019/crissle.west.jpg
+31  ,31.0  ,Glory Edim                 ,Founder of Well-Read Black Girl                                            ,Arts          ,36.0 ,182.1     ,10.48 ,53274.0           ,https://i.kinja-img.com/theroot100/2019/glory.edim.jpg
+32  ,32.0  ,Ritchie Torres             ,"Councilman, Congressional Candidate"                                      ,Politics      ,31.0 ,181.9     ,10.45 ,17034.0           ,https://i.kinja-img.com/theroot100/2019/ritchie.torres.jpg
+33  ,33.0  ,Jaime Harrison             ,Senatorial Candidate                                                       ,Politics      ,43.0 ,181.5     ,11.6  ,168417.0          ,https://i.kinja-img.com/theroot100/2019/jaime.harrison2_ct1zls.jpg
+34  ,34.0  ,Kid Fury                   ,Co-host of The Reader podcast                                              ,Entertainment ,31.0 ,179.7     ,12.01 ,203050.0          ,https://i.kinja-img.com/theroot100/2019/kid.fury.jpg
+35  ,35.0  ,Rich Paul                  ,Sports Agent                                                               ,Sports        ,37.0 ,179.1     ,13.36 ,51950.0           ,https://i.kinja-img.com/theroot100/2019/Rich.Paul_lzz0xu.jpg
+36  ,36.0  ,Karine Jean-Pierre         ,Chief Public Affairs Officer of Moveon.org                                 ,Politics      ,42.0 ,178.9     ,12.59 ,172248.0          ,https://i.kinja-img.com/theroot100/2019/karine.jean.pierre.jpg
+37  ,37.0  ,Jason Reynolds             ,"Author, Poet"                                                             ,Arts          ,35.0 ,178.0     ,13.19 ,62407.0           ,https://i.kinja-img.com/theroot100/2019/jason.reynolds2.jpg
+38  ,38.0  ,Elaine Welteroth           ,Author                                                                     ,Media         ,32.0 ,176.7     ,13.0  ,53783.0           ,https://i.kinja-img.com/theroot100/2019/elaine.welteroth.jpg
+39  ,39.0  ,Brandon Bryant             ,Venture Partner at Harlem Capital                                          ,Business      ,28.0 ,174.2     ,10.68 ,2034.0            ,https://i.kinja-img.com/theroot100/2019/brandon.bryant.jpg
+40  ,40.0  ,Zach Stafford              ,Editor-in-Chief at the Advocate                                            ,Media         ,29.0 ,173.3     ,9.49  ,15420.0           ,https://i.kinja-img.com/theroot100/2019/Zach_Stafford_retouch_baxxvk.jpg
+41  ,41.0  ,Kerby Jean-Raymond         ,"Founder of Pyer Moss, Artistic Director"                                  ,Business      ,32.0 ,173.2     ,11.16 ,8386.0            ,https://i.kinja-img.com/theroot100/2019/kerby.jean-raymond.jpg
+42  ,42.0  ,John Henry                 ,Venture Partner at Harlem Capital                                          ,Business      ,26.0 ,178.2     ,10.51 ,11640.0           ,https://i.kinja-img.com/theroot100/2019/john.henry.jpg
+43  ,43.0  ,Law Roach                  ,Stylist                                                                    ,Entertainment ,40.0 ,172.7     ,12.42 ,13028.0           ,https://i.kinja-img.com/theroot100/2019/law.roach.jpg
+44  ,44.0  ,Angelica Ross              ,"Actor, Writer, Producer"                                                  ,Entertainment ,31.0 ,171.1     ,12.19 ,55775.0           ,https://i.kinja-img.com/theroot100/2019/angelica.ross_retouch_tysjo6.jpg
+45  ,45.0  ,Cardi B                    ,Rapper                                                                     ,Entertainment ,26.0 ,170.6     ,18.48 ,7357481.0         ,https://i.kinja-img.com/theroot100/2019/cardi.b_retouch_cylswc.jpg
+46  ,46.0  ,Lauren Underwood           ,US Representative                                                          ,Politics      ,32.0 ,170.5     ,12.11 ,76802.0           ,https://i.kinja-img.com/theroot100/2019/Lauren.Underwood2_rr4cq4.jpg
+47  ,47.0  ,Latoya Shauntay Snell      ,"Marathon Runner, Chef"                                                    ,Community     ,34.0 ,169.0     ,9.03  ,1686.0            ,https://i.kinja-img.com/theroot100/2019/Latoya.Shauntay.Snell.jpg
+48  ,48.0  ,Mahershala Ali             ,Actor                                                                      ,Entertainment ,45.0 ,168.9     ,11.88 ,0.0               ,https://i.kinja-img.com/theroot100/2019/mahershala.ali.jpg
+49  ,49.0  ,Melina Matsoukas           ,Director                                                                   ,Entertainment ,38.0 ,168.9     ,11.88 ,22262.0           ,https://i.kinja-img.com/theroot100/2019/melina.matsoukas2_izvzbg.jpg
+50  ,50.0  ,Mashama Bailey             ,Executive Chef                                                             ,Business      ,45.0 ,168.7     ,9.49  ,0.0               ,https://i.kinja-img.com/theroot100/2019/Mashama.Bailey.jpg
+51  ,51.0  ,Matthew Cherry             ,"Writer, Director"                                                         ,Entertainment ,37.0 ,167.7     ,11.71 ,142534.0          ,https://i.kinja-img.com/theroot100/2019/matthew.cherry.jpg
+52  ,52.0  ,Kawhi Leonard              ,NBA Player                                                                 ,Sports        ,28.0 ,167.0     ,12.61 ,404181.0          ,https://i.kinja-img.com/theroot100/2019/kawhi.leonard2.jpg
+53  ,53.0  ,Tanisha C Ford             ,"Writer, Cultural Critic, Historian"                                       ,Arts          ,40.0 ,166.4     ,8.76  ,11380.0           ,https://i.kinja-img.com/theroot100/2019/tanisha.ford.jpg
+54  ,54.0  ,Arlan Hamilton             ,Founder of Backstage Capital                                               ,STEM          ,38.0 ,166.4     ,11.54 ,64017.0           ,https://i.kinja-img.com/theroot100/2019/arlan.hamilton.jpg
+55  ,55.0  ,Jordan Peele               ,Entertainer                                                                ,Entertainment ,40.0 ,165.3     ,16.28 ,1603520.0         ,https://i.kinja-img.com/theroot100/2019/jordan.peele.jpg
+56  ,56.0  ,Adam Serwer                ,Journalist                                                                 ,Media         ,40.0 ,162.3     ,10.97 ,0.0               ,https://i.kinja-img.com/theroot100/2019/adam_serwer.jpg
+57  ,57.0  ,Rhiana Gunn-Wright         ,Policy Director at New Consensus                                           ,Politics      ,30.0 ,162.2     ,9.26  ,21819.0           ,https://i.kinja-img.com/theroot100/2019/Rhiana.Gunn-Wright.jpg
+58  ,58.0  ,Kwame Onwuachi             ,Executive Chef                                                             ,Business      ,29.0 ,161.9     ,10.92 ,6365.0            ,https://i.kinja-img.com/theroot100/2019/kwame.onwuachi2_guuky4.jpg
+59  ,59.0  ,Kiese Laymon               ,"Author, Professor"                                                        ,Arts          ,45.0 ,159.2     ,10.55 ,28642.0           ,https://i.kinja-img.com/theroot100/2019/kiese.laymon.jpg
+60  ,60.0  ,Jeffreen Hayes             ,Executive Director at Threewalls                                           ,Arts          ,44.0 ,159.1     ,7.59  ,0.0               ,https://i.kinja-img.com/theroot100/2019/jeffreen.hayes.jpg
+61  ,61.0  ,Amanda Williams            ,Artist                                                                     ,Arts          ,45.0 ,158.4     ,7.93  ,0.0               ,https://i.kinja-img.com/theroot100/2019/amanda.williams.jpg
+62  ,62.0  ,Tiffany Cross              ,Co-founder of The Beat DC                                                  ,Media         ,41.0 ,158.4     ,11.07 ,63160.0           ,https://i.kinja-img.com/theroot100/2019/tiffany.cross.jpg
+63  ,63.0  ,Kezia Williams             ,CEO at Black upStart                                                       ,Business      ,37.0 ,157.2     ,9.2   ,4625.0            ,https://i.kinja-img.com/theroot100/2019/kezia.williams.jpg
+64  ,64.0  ,Latham Thomas              ,"Doula, Founder of Mama Glow"                                              ,Community     ,39.0 ,155.6     ,10.09 ,4360.0            ,https://i.kinja-img.com/theroot100/2019/latham.thomas.jpg
+65  ,65.0  ,Manu Platt                 ,Professor                                                                  ,STEM          ,40.0 ,155.6     ,5.91  ,1066.0            ,https://i.kinja-img.com/theroot100/2019/manu.platt.jpg
+66  ,66.0  ,John Edmonds               ,"Photographer, Artist"                                                     ,Arts          ,31.0 ,153.7     ,8.32  ,0.0               ,https://i.kinja-img.com/theroot100/2019/john.edmonds.jpg
+67  ,67.0  ,Micah McDonald             ,Stylist                                                                    ,Entertainment ,33.0 ,153.5     ,7.45  ,0.0               ,https://i.kinja-img.com/theroot100/2019/micah.mcdonald_retouch_iwulia.jpg
+68  ,68.0  ,Joy Buolamwini             ,Computer Scientist                                                         ,STEM          ,29.0 ,153.4     ,10.39 ,19374.0           ,https://i.kinja-img.com/theroot100/2019/Joy.Buolamwini.jpg
+69  ,69.0  ,Bassey Ikpi                ,"Writer, Author"                                                           ,Arts          ,43.0 ,150.7     ,9.45  ,28462.0           ,https://i.kinja-img.com/theroot100/2019/bassey.ikpi.jpg
+70  ,70.0  ,Candice Elder              ,Founder at East Oakland Collective                                         ,Community     ,35.0 ,150.2     ,6.1   ,717.0             ,https://i.kinja-img.com/theroot100/2019/candice.elder.jpg
+71  ,71.0  ,Elie Mystal                ,Executive Editor of Above the Law                                          ,Media         ,41.0 ,150.0     ,9.38  ,77809.0           ,https://i.kinja-img.com/theroot100/2019/elie.mystal.jpg
+72  ,72.0  ,Henri Pierre-Jacque        ,Managing Partner at Harlem Capital                                         ,Business      ,26.0 ,148.2     ,7.74  ,2106.0            ,https://i.kinja-img.com/theroot100/2019/henri.pierre.jacques.jpg
+73  ,73.0  ,Candice Payne              ,"Entrepreneur, Philanthropist"                                             ,Community     ,34.0 ,146.5     ,5.24  ,0.0               ,https://i.kinja-img.com/theroot100/2019/candice.payne2_ytcj0a.jpg
+74  ,74.0  ,Jemele Hill                ,"Journalist, Podcast Host"                                                 ,Media         ,43.0 ,146.6     ,12.03 ,1181178.0         ,https://i.kinja-img.com/theroot100/2019/jemele.hill.jpg
+75  ,75.0  ,Ta-Nehisi Coates           ,"Writer, Author"                                                           ,Arts          ,43.0 ,143.8     ,9.68  ,20375.0           ,https://i.kinja-img.com/theroot100/2019/ta-nehisi.coates.jpg
+76  ,76.0  ,Wayman Banner              ,Stylist                                                                    ,Entertainment ,36.0 ,143.6     ,6.52  ,0.0               ,https://i.kinja-img.com/theroot100/2019/wayman.bannerman.jpg
+77  ,77.0  ,Lorin Crawford             ,STEM                                                                       ,STEM          ,28.0 ,143.6     ,6.51  ,539.0             ,https://i.kinja-img.com/theroot100/2019/lorin.crawford.jpg
+78  ,78.0  ,Akbar Cook                 ,Principal of a High School                                                 ,Community     ,43.0 ,141.4     ,8.33  ,3670.0            ,https://i.kinja-img.com/theroot100/2019/Akbar_Cook2_dly93p.jpg
+79  ,79.0  ,MiAngel Cody               ,"Lawyer, Founder of Decarceration Collective"                              ,Community     ,39.0 ,141.1     ,8.29  ,687.0             ,https://i.kinja-img.com/theroot100/2019/MiAngel.Cody.jpg
+80  ,80.0  ,Brittany K Barnett         ,"Lawyer, Co-Founder of Buried Alive Project"                               ,Community     ,35.0 ,141.0     ,8.29  ,5717.0            ,https://i.kinja-img.com/theroot100/2019/brittany.barnett.jpg
+81  ,81.0  ,Lauren Wesley Wilson       ,"CEO of ColorComm, Inc."                                                   ,Business      ,33.0 ,140.1     ,8.17  ,1916.0            ,https://i.kinja-img.com/theroot100/2019/lauren.wesley.wilson.jpg
+82  ,82.0  ,Maya Rupert                ,Campaign Manager for Julian Castro                                         ,Politics      ,38.0 ,140.1     ,8.17  ,16422.0           ,https://i.kinja-img.com/theroot100/2019/maya.rupert.jpg
+83  ,83.0  ,Brandi Collins-Dexter      ,Senior Campaign Director of Color of Change                                ,Community     ,38.0 ,139.0     ,6.11  ,1350.0            ,https://i.kinja-img.com/theroot100/2019/brandi.collins-dexter2_fhflle.jpg
+84  ,84.0  ,Dantley Davis              ,Vice President of Design and Research at Twitter                           ,STEM          ,42.0 ,138.8     ,8.02  ,7451.0            ,https://i.kinja-img.com/theroot100/2019/dantley.davis.jpg
+85  ,85.0  ,Meghan Markle              ,Duchess of Sussex                                                          ,Community     ,38.0 ,138.7     ,8.01  ,0.0               ,https://i.kinja-img.com/theroot100/2019/meghan.markle.jpg
+86  ,86.0  ,Kamilah Forbes             ,Executive Producer of the Apollo Theatre                                   ,Arts          ,43.0 ,138.4     ,7.97  ,1596.0            ,https://i.kinja-img.com/theroot100/2019/kamilah.forbes.jpg
+87  ,87.0  ,Chaédria LaBouvier         ,"Journalist, Curator"                                                      ,Arts          ,34.0 ,137.4     ,7.87  ,7006.0            ,https://i.kinja-img.com/theroot100/2019/chaedria.labouvier.jpg
+88  ,88.0  ,Diamond Stingily           ,"Artist, Poet"                                                             ,Arts          ,29.0 ,135.4     ,7.64  ,565.0             ,https://i.kinja-img.com/theroot100/2019/diamond.stingily.jpg
+89  ,89.0  ,Alexandra Bell             ,Multimedia Artist                                                          ,Arts          ,36.0 ,135.1     ,8.53  ,1862.0            ,https://i.kinja-img.com/theroot100/2019/Alexandra-Bell-2_qvopge.jpg
+90  ,90.0  ,Denise Woodard             ,Founder of Partake Foods                                                   ,Business      ,36.0 ,135.0     ,7.59  ,523.0             ,https://i.kinja-img.com/theroot100/2019/denise.woodard.jpg
+91  ,91.0  ,Jarrid Tingle              ,"Venture Capitalist, Entrepreneur"                                         ,Business      ,27.0 ,129.7     ,5.93  ,0.0               ,https://i.kinja-img.com/theroot100/2019/jarrid.tingle.jpg
+92  ,92.0  ,Naomi Washington-Leapheart ,Faith Work Director at the National LGBTQ Task Force                       ,Community     ,37.0 ,128.7     ,5.83  ,1140.0            ,https://i.kinja-img.com/theroot100/2019/naomi.washington-leapheart.jpg
+93  ,93.0  ,Marcus Bullock             ,"App Developer, Entrepreneur"                                              ,Community     ,39.0 ,122.8     ,7.05  ,790.0             ,https://i.kinja-img.com/theroot100/2019/marcus.bullock.jpg
+94  ,94.0  ,Kiki Ayers                 ,Publicist                                                                  ,Business      ,29.0 ,122.2     ,7.41  ,21111.0           ,https://i.kinja-img.com/theroot100/2019/kiki.ayers.jpg
+95  ,95.0  ,Raniyah Coperland          ,CEO of Black AIDS Institute                                                ,Community     ,34.0 ,120.5     ,6.05  ,106.0             ,https://i.kinja-img.com/theroot100/2019/Raniyah.Copeland.jpg
+96  ,96.0  ,Delano Dunn                ,Visual Artist                                                              ,Arts          ,41.0 ,119.3     ,5.93  ,135.0             ,https://i.kinja-img.com/theroot100/2019/delano.dunn.jpg
+97  ,97.0  ,Dorian Burton              ,Assistant Executive Director at William R Kenan Jr. Charitable Trust       ,Community     ,37.0 ,117.8     ,5.76  ,1962.0            ,https://i.kinja-img.com/theroot100/2019/dorian.burton.jpg
+98  ,98.0  ,William Tarpeh             ,Professor                                                                  ,STEM          ,28.0 ,111.5     ,3.43  ,1019.0            ,https://i.kinja-img.com/theroot100/2019/william.tarpeh.jpg
+99  ,99.0  ,Brooke Obie                ,Managing Editor at Shadow & Act                                            ,Media         ,33.0 ,114.9     ,6.18  ,6388.0            ,https://i.kinja-img.com/theroot100/2019/brooke.obie.jpg
+100 ,100.0 ,Elizabeth Lindsey          ,"Executive Director, ByteBack"                                             ,STEM          ,39.0 ,107.4     ,7.8   ,1449.0            ,https://i.kinja-img.com/theroot100/2019/elizabeth.lindsey.jpg

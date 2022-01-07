@@ -1,258 +1,258 @@
-id,Rollercoaster Name,Amusement Park,City,Country,Region,Construction Material,Height,Speed,Length,Inversion,Number of Inversions,Year Opened
-1,Montana Rusa Infantil,Parque de la Ciudad,"Buenos Aires, BA",Argentina,Latin America,Steel,3.0,30.0,190.0,No,0.0,1983.0
-2,Percy's Railway,Six Flags Magic Mountain,Valencia,USA,North America,Steel,3.048,16.2,107.0,No,0.0,1971.0
-3,Marienkafer Hochbahn,Churpfalzpark,"Loifling, Bavaria",Germany,Europe,Steel,3.3,26.0,60.0,No,0.0,1983.0
-4,Froschbahn,Bayern Park,"Reisbach, Bavaria",Germany,Europe,Steel,3.3,26.0,60.0,No,0.0,1995.0
-5,Ronde des Rondins,Parc Asterix,"Plailly, Picardie",France,Europe,Steel,3.3,26.0,60.0,No,0.0,1991.0
-6,Catarrinos,Parque Plaza Sesamo,Monterrey,Mexico,Latin America,Steel,3.3,26.0,60.0,No,0.0,2006.0
-7,Wilde Mini Maus,Lollihop,"Munich, Bavaria",Germany,Europe,Steel,3.5,25.0,60.0,No,0.0,2007.0
-8,Montana Ratan,Graje Villa,Lima,Peru,Latin America,Steel,3.6,22.7,60.0,No,0.0,2002.0
-9,Shamu Express,SeaWorld San Antonio,San Antonio,USA,North America,Steel,3.9624,22.68,70.0,No,0.0,2004.0
-10,Grazy Worm,Schwaben Park,"Kaisersbach, Baden Wuerttemberg",Germany,Europe,Steel,4.0,24.0,70.0,No,0.0,2003.0
-11,Familien-Achterbahn,Eifelpark,"Gondorf, Rhineland-Palatinate",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,1995.0
-12,Indy-Blitz,Heide-Park Soltau,"Soltau, Lower Saxony",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,2008.0
-13,Familien-Achterbahn,Tolk Schau,"Tolk, Schleswig-Holstein",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,2000.0
-14,Familienachterbahn,Erse-Park,"Uetze, Lower Saxony",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,1992.0
-15,Eichh rnchenbahn,Freizeitpark Lochmuhle,"Wehrheim, Hesse",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,1992.0
-16,Die! Wilde Maus,Serengeti Park,"Hodenhagen, Lower Saxony",Germany,Europe,Steel,4.9,22.5,165.0,No,0.0,2007.0
-17,Alpen Blitz,Parque de la Ciudad,"Buenos Aires, BA",Argentina,Latin America,Steel,5.0,72.0,210.0,No,0.0,1984.0
-18,Coastersaurus,Legoland California,Carlsbad,USA,North America,Steel,5.4864,32.4,150.0,No,0.0,2004.0
-19,Drachenjagd,Legoland Deutschland,"Gunzburg, Bavaria",Germany,Europe,Steel,5.5,33.0,150.0,No,0.0,2003.0
-20,Jr. Gemini,Cedar Point,Sandusky,USA,North America,Steel,5.7912,9.72,135.0,No,0.0,1979.0
-21,Kombo,Indianapolis Zoo,Indianapolis,USA,North America,Steel,5.7912,30.78,77.0,No,0.0,2001.0
-22,Familienachterbahn,Schloss Beck Freizeitpark,"Bottrop, North Rhine-Westphalia",Germany,Europe,Steel,6.0,32.0,199.0,No,0.0,1987.0
-23,Holzwurmachterbahn,Jaderpark,"Jaderberg, Lower Saxony",Germany,Europe,Steel,6.0,32.0,199.0,No,0.0,1996.0
-24,Speedy Gonzales,Parc du Bocasse,"Bocasse, Normandy",France,Europe,Steel,6.0,34.0,135.0,No,0.0,2006.0
-25,Alpenexpress,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,6.0,45.0,264.0,No,0.0,1984.0
-26,Grottenblitz,Heide-Park Soltau,"Soltau, Lower Saxony",Germany,Europe,Steel,6.0,45.0,370.0,No,0.0,1985.0
-27,Cobra,Six Flags Discovery Kingdom,Vallejo,USA,North America,Steel,7.9248,35.64,360.0,No,0.0,2000.0
-28,Twisted Coaster,HotZone,Rio de Janeiro,Brazil,Latin America,Steel,8.0,28.0,175.0,Yes,0.0,2012.0
-29,Vigia,Parque de la Costa,"Buenos Aires, BA",Argentina,Latin America,Steel,8.0,36.0,360.0,No,0.0,1998.0
-30,Rasender Tausendfüßer,Erlebnispark Tripsdrill,"Cleebronn, Baden Wuerttemberg",Germany,Europe,Steel,8.0,36.0,360.0,No,0.0,1986.0
-31,Froschflitzer,Serengeti Park,"Hodenhagen, Lower Saxony",Germany,Europe,Steel,8.0,36.0,360.0,No,0.0,1999.0
-32,Marienkaferbahn,Zoo Safari- und Hollywoodpark Stukenbrock,"Stukenbrock, North Rhine-Westphalia",Germany,Europe,Steel,8.0,36.0,360.0,No,0.0,1979.0
-33,Familienachterbahn,Magic Park Verden,"Verden, Lower Saxony",Germany,Europe,Steel,8.0,36.0,360.0,No,0.0,2003.0
-34,Marienkaferbahn,Fort Fun Abenteuerland,"Wasserfall, North Rhine-Westphalia",Germany,Europe,Steel,8.0,36.0,360.0,No,0.0,1986.0
-35,Serpent Hopi,OK Corral,"Cuges-les-Pins, Provence-Alpes-Cote d'Azur",France,Europe,Steel,8.0,36.0,360.0,No,0.0,2002.0
-36,Coccinelle des Andes,Walibi Rhone-Alpes,"Les Avenieres, Rhône-Alpes",France,Europe,Steel,8.0,36.0,360.0,No,0.0,1992.0
-37,Coccinelle,Walibi Aquitaine,"Roquefort, Aquitaine",France,Europe,Steel,8.0,36.0,360.0,No,0.0,1992.0
-38,Roller Coaster,Papea Parc,"Yvré -l'Évêque, Pays de la Loire",France,Europe,Steel,8.0,36.0,360.0,No,0.0,2009.0
-39,Choconoy,Xetulul,"Retalhuleu, Guatemala",Guatemala,Latin America,Steel,8.0,36.0,360.0,No,0.0,2002.0
-40,Catarina,Selva Magica,Guadalajara,Mexico,Latin America,Steel,8.0,36.0,360.0,No,0.0,2001.0
-41,Tsunaumi,Six Flags Mexico,Mexico City,Mexico,Latin America,Steel,8.0,36.0,360.0,No,0.0,1981.0
-42,Gadget's Go Coaster,Disneyland,Anaheim,USA,North America,Steel,8.2296,34.02,207.0,No,0.0,1993.0
-43,Spacely's Sprocket Rockets,Six Flags Great America,Gurnee,USA,North America,Steel,8.2296,34.02,207.0,No,0.0,1998.0
-44,Merlin's Revenge,Castle Amusement Park,Riverside,USA,North America,Steel,8.2296,34.02,207.0,No,0.0,2001.0
-45,Roller Skater,Six Flags Mexico,Mexico City,Mexico,Latin America,Steel,8.5,34.9,207.0,No,0.0,1993.0
-46,Backyardigans: Mission to Mars,Movie Park Germany,"Bottrop, North Rhine-Westphalia",Germany,Europe,Steel,8.5,35.0,207.0,No,0.0,1996.0
-47,Achterbahn,Rasti-Land,"Salzhemmendorf, Lower Saxony",Germany,Europe,Steel,8.5,35.0,207.0,No,0.0,1989.0
-48,Le Déval' Train,Parc Touristique des Combes,"Creusot, Burgundy",France,Europe,Steel,8.5,35.0,207.0,No,0.0,2003.0
-49,Drachen-Achterbahn,Tier- und Freizeitpark Thule,"Friesoythe-The, Lower Saxony",Germany,Europe,Steel,9.0,39.0,222.0,No,0.0,1998.0
-50,Familienachterbahn-Drachenbahn,Schloss Thurn,"Heroldsbach, Bavaria",Germany,Europe,Steel,9.0,39.0,222.0,No,0.0,1998.0
-51,Potts Blitz,Potts Park,"Minden, North Rhine-Westphalia",Germany,Europe,Steel,9.0,39.0,222.0,No,0.0,1993.0
-52,O Mundo de Xuxa,O Mundo de Xuxa Theme park,Sao Paulo,Brazil,Latin America,Steel,9.5,40.0,320.0,No,0.0,1997.0
-53,Train de la Mine,La Coccinelle,"Gujan-Mestras, Aquitaine",France,Europe,Steel,10.0,40.0,300.0,No,0.0,2009.0
-54,Corsaire,Cobac Parc,"Lanhelin, Brittany",France,Europe,Steel,10.0,40.0,300.0,No,0.0,2007.0
-55,Oachkatzl,Maerchenwald im Isartal,"Wolfratshausen, Bavaria",Germany,Europe,Steel,10.5,46.0,290.0,No,0.0,1999.0
-56,Lost Coaster of Superstition Mountain,Indiana Beach,Monticello,USA,North America,Wood,10.668,32.4,427.0,No,0.0,2002.0
-57,Vol D'Icare,Parc Asterix,"Plailly, Picardie",France,Europe,Steel,10.7,42.0,410.0,No,0.0,1994.0
-58,Roller Coaster,Nocolandia Center Park,Brasilia,Brazil,Latin America,Steel,11.0,45.0,325.0,No,0.0,2006.0
-59,Roller Coaster,Nicolandia Center Park,"Brasilia, BFD",Brazil,Latin America,Steel,11.0,45.0,325.0,No,0.0,2002.0
-60,Speedy,CentrO.Park,"Oberhausen, North Rhine-Westphalia",Germany,Europe,Steel,11.1,36.0,300.0,No,0.0,2001.0
-61,Quicksilver Express,Gilroy Gardens Family Theme Park,Gilroy,USA,North America,Steel,11.5824,51.84,652.0,No,0.0,2001.0
-62,Wild Chipmunk,Lakeside Amusement Park,Denver,USA,North America,Steel,12.4968,34.02,351.0,No,0.0,1955.0
-63,Woodstock Express,Cedar Point,Sandusky,USA,North America,Steel,12.8016,45.36,335.0,No,0.0,1999.0
-64,Ragin' Cajun,Six Flags Great America,Gurnee,USA,North America,Steel,12.8016,46.98,420.0,No,0.0,2004.0
-65,Tigre de Siberie,Le Pal,"Dompierre Sur Besbre, Centre",France,Europe,Steel,13.0,40.0,360.0,No,0.0,1990.0
-66,Wild Mouse,Fantasilandia,"Santiago, Santiago",Chile,Latin America,Steel,13.0,46.8,420.0,No,0.0,2006.0
-67,Raton Loco,La Feria Chapultpec,Mexico City,Mexico,Latin America,Steel,13.0,46.8,420.0,No,0.0,1999.0
-68,Ragondingue,Bagatelle,"Merlimont, Nord-Pas de Calais",France,Europe,Steel,13.0,47.0,420.0,No,0.0,2006.0
-69,Une Souris Verte,Parc Saint Paul,"Saint Paul, Picardie",France,Europe,Steel,13.0,47.0,420.0,No,0.0,2007.0
-70,Moto Bala,Mundo Petapa,"Guatemala City,",Guatemala,Latin America,Steel,13.0,65.0,364.0,No,0.0,2010.0
-71,Tig'rr Coaster,Indiana Beach,Monticello,USA,North America,Steel,13.4112,50.22,538.0,No,0.0,1984.0
-72,Pony Express,Knott's Berry Farm,Buena Park,USA,North America,Steel,13.4112,61.56,396.0,No,0.0,2008.0
-73,JetStar,Parque de la Ciudad,"Buenos Aires, BA",Argentina,Latin America,Steel,13.5,50.0,538.0,No,0.0,1982.0
-74,Alpine Bobs,Holly Park,"Chemin, Pays de la Loire",France,Europe,Steel,13.5,50.0,538.0,No,0.0,2003.0
-75,Jet Star,Aventura Park,Lima,Peru,Latin America,Steel,13.5,50.0,538.0,No,0.0,2009.0
-76,Backlot Stunt Coaster,Kings Island,Kings Mills,USA,North America,Steel,13.716,64.8,597.0,No,0.0,2005.0
-77,Ghost Chasers,Movie Park Germany,"Bottrop, North Rhine-Westphalia",Germany,Europe,Steel,14.0,45.0,370.0,No,0.0,2000.0
-78,Taunusblitz,Taunus Wunderland,"Schlangenbad, Hesse",Germany,Europe,Steel,14.0,45.0,370.0,No,0.0,1999.0
-79,Schlitt'Express,Nigloland,"Dolancourt, Champagne-Ardenne",France,Europe,Steel,14.0,45.0,370.0,No,0.0,2007.0
-80,Rugrats Runaway Reptar,Kings Island,Kings Mills,USA,North America,Steel,14.6304,42.12,342.0,No,0.0,2001.0
-81,Tony Hawk's Big Spin,Six Flags Fiesta Texas,San Antonio,USA,North America,Steel,14.6304,50.22,412.0,No,0.0,2007.0
-82,Cedar Creek Mine Ride,Cedar Point,Sandusky,USA,North America,Steel,14.6304,68.04,774.0,No,0.0,1969.0
-83,Crazy Mine,Hansa Park,"Sierksdorf, Schleswig-Holstein",Germany,Europe,Steel,15.0,45.0,370.0,No,0.0,1997.0
-84,Wilde Maus,Europark,"Vias, Languedoc-Roussillon",France,Europe,Steel,15.0,45.0,370.0,No,0.0,2007.0
-85,Pegasus,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,15.0,65.0,400.0,No,0.0,2006.0
-86,Wildcat,Cedar Point,Sandusky,USA,North America,Steel,15.24,64.8,560.0,No,0.0,1979.0
-87,Technic Coaster,Legoland California,Carlsbad,USA,North America,Steel,15.5448,56.7,400.0,No,0.0,2001.0
-88,Project X - Test Strecke,Legoland Deutschland,"Gunzburg, Bavaria",Germany,Europe,Steel,15.8,56.0,400.0,No,0.0,2002.0
-89,Rasender Roland,Hansa Park,"Sierksdorf, Schleswig-Holstein",Germany,Europe,Steel,16.0,50.0,522.0,No,0.0,1993.0
-90,Matterhorn Blitz,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,16.0,56.3,383.0,No,0.0,1999.0
-91,Feuerdrache,Legoland Deutschland,"Gunzburg, Bavaria",Germany,Europe,Steel,16.0,60.0,860.0,No,0.0,2002.0
-92,Tony Hawk's Big Spin,Six Flags Over Texas,Arlington,USA,North America,Steel,16.1544,50.22,412.0,No,0.0,2008.0
-93,Tony Hawk's Big Spin,Six Flags Discovery Kingdom,Vallejo,USA,North America,Steel,16.1544,50.22,412.0,No,0.0,2008.0
-94,Cornball Express,Indiana Beach,Monticello,USA,North America,Wood,16.764,72.9,640.0,No,0.0,2001.0
-95,Coaster Thrill Ride,Puyallup Fair,Puyallup,USA,North America,Wood,16.764,81.0,808.0,No,0.0,1935.0
-96,Azteka,Le Pal,"Dompierre Sur Besbre, Centre",France,Europe,Steel,17.0,55.0,500.0,No,0.0,2003.0
-97,Sidewinder,Elitch Gardens,Denver,USA,North America,Steel,17.0688,72.9,194.0,Yes,1.0,1995.0
-98,Broco,Parque Nacional del Cafe,Montenegro,Colombia,Latin America,Steel,17.3,66.2,787.0,No,0.0,1999.0
-99,Winjas,Phantasialand,"Bruhl, North Rhine-Westphalia",Germany,Europe,Steel,17.4,66.0,465.0,No,0.0,2002.0
-100,Heibe Fahrt,Wild- und Freizeitpark Klotten/Cochem,"Klotten, Rhineland-Palatinate",Germany,Europe,Steel,17.5,55.0,532.0,No,0.0,2004.0
-101,Bambo Coaster,Salitre Magico,Bogota,Colombia,Latin America,Steel,18.0,90.1,860.0,Yes,2.0,2004.0
-102,La Vibora,Six Flags Over Texas,Arlington,USA,North America,Steel,18.288,51.84,454.0,No,0.0,1987.0
-103,Ninja,Six Flags Magic Mountain,Valencia,USA,North America,Steel,18.288,89.1,823.0,No,0.0,1988.0
-104,Sierra Sidewinder,Knott's Berry Farm,Buena Park,USA,North America,Steel,18.8976,59.94,430.0,No,0.0,2007.0
-105,Schweizer Bobbahn,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,19.0,50.0,487.0,No,0.0,1985.0
-106,Desert Race,Heide-Park Soltau,"Soltau, Lower Saxony",Germany,Europe,Steel,19.0,100.0,650.0,No,0.0,2007.0
-107,Adventure Express,Kings Island,Kings Mills,USA,North America,Steel,19.2024,56.7,903.0,No,0.0,1991.0
-108,Disaster Transport,Cedar Point,Sandusky,USA,North America,Steel,19.2024,64.8,589.0,No,0.0,1985.0
-109,Super Tornado,Mirobillandia,"Olinda, PB",Brazil,Latin America,Steel,19.5,60.0,350.0,Yes,2.0,2008.0
-110,Bocaraca,Parque de Diversiones Dr Roberto Ortiz Brenes,"San Jose, CR",Costa Rica,Latin America,Steel,19.5,60.0,350.0,Yes,2.0,2005.0
-111,Super Tornado,Zoo Safari- und Hollywoodpark Stukenbrock,"Stukenbrock, North Rhine-Westphalia",Germany,Europe,Steel,19.5,60.0,350.0,Yes,2.0,1981.0
-112,Wirbelwind,Fort Fun Abenteuerland,"Wasserfall, North Rhine-Westphalia",Germany,Europe,Steel,19.5,60.0,350.0,Yes,2.0,1982.0
-113,Tornado,Bosque Magico,Guadalupe,Mexico,Latin America,Steel,19.5,60.0,350.0,Yes,2.0,2001.0
-114,Jaguar!,Knott's Berry Farm,Buena Park,USA,North America,Steel,19.812,56.7,793.0,No,0.0,1995.0
-115,Runaway Mountain,Six Flags Over Texas,Arlington,USA,North America,Steel,19.812,64.8,457.0,No,0.0,1996.0
-116,Spatiale Experience,Nigloland,"Dolancourt, Champagne-Ardenne",France,Europe,Steel,20.0,60.0,800.0,No,0.0,2000.0
-117,Gold Rusher,Six Flags Magic Mountain,Valencia,USA,North America,Steel,21.336,56.7,789.0,No,0.0,1971.0
-118,Whizzer,Six Flags Great America,Gurnee,USA,North America,Steel,21.336,68.04,945.0,No,0.0,1976.0
-119,Giant Dipper,Santa Cruz Beach Boardwalk,Santa Cruz,USA,North America,Wood,21.336,89.1,805.0,No,0.0,1924.0
-120,Judge Roy Scream,Six Flags Over Texas,Arlington,USA,North America,Wood,21.6408,85.86,814.0,No,0.0,1980.0
-121,Big Thunder Mountain,Disneyland Resort Paris - Disneyland Park,"Marne la Vallee, Ile-de-France",France,Europe,Steel,22.0,65.0,1500.0,No,0.0,1992.0
-122,Giant Dipper,Belmont Park,San Diego,USA,North America,Wood,22.2504,89.1,792.0,No,0.0,1925.0
-123,Flight of Fear,Kings Island,Kings Mills,USA,North America,Steel,22.5552,87.48,824.0,Yes,4.0,1996.0
-124,Timberhawk: Ride of Prey,Wild Waves Theme Park,Federal Way,USA,North America,Wood,22.86,81.0,792.0,No,0.0,2003.0
-125,Star World Mountain,Beto Carrero World,"Penha, SC",Brazil,Latin America,Steel,22.9,64.4,732.0,Yes,2.0,1993.0
-126,Super Wirbel,Holiday Park,"Hassloch, Rhineland-Palatinate",Germany,Europe,Steel,22.9,64.4,732.0,Yes,2.0,1979.0
-127,Titan Cascabel,Selva Magica,Guadalajara,Mexico,Latin America,Steel,22.9,88.5,762.0,No,0.0,1994.0
-128,Poseidon,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,23.0,70.0,836.0,No,0.0,2000.0
-129,Iron Dragon,Cedar Point,Sandusky,USA,North America,Steel,23.1648,64.8,853.0,No,0.0,1987.0
-130,Hoosier Hurricane,Indiana Beach,Monticello,USA,North America,Wood,23.4696,82.62,881.0,No,0.0,1994.0
-131,Blue Streak,Cedar Point,Sandusky,USA,North America,Wood,23.7744,64.8,780.0,No,0.0,1964.0
-132,Flight Deck,Kings Island,Kings Mills,USA,North America,Steel,23.7744,82.62,717.0,No,0.0,1993.0
-133,Poltergeist,Six Flags Fiesta Texas,San Antonio,USA,North America,Steel,23.7744,97.2,824.0,Yes,4.0,1999.0
-134,Raven,Holiday World,Santa Claus,USA,North America,Wood,24.384,77.76,853.0,No,0.0,1995.0
-135,Rock 'n' Roller Coaster,Disneyland Resort Paris - Walt Disney Studios Park,"Marne la Vallee, Ile-de-France",France,Europe,Steel,24.4,92.0,1037.0,Yes,3.0,2002.0
-136,El Toro,Freizeitpark Plohn,"Lengenfeld, Saxony",Germany,Europe,Wood,24.5,73.4,725.0,No,0.0,2009.0
-137,Eurosat,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,25.5,60.0,900.0,No,0.0,1989.0
-138,Corkscrew,Cedar Point,Sandusky,USA,North America,Steel,25.908,77.76,625.0,Yes,3.0,1976.0
-139,Colorado Adventure,Phantasialand,"Bruhl, North Rhine-Westphalia",Germany,Europe,Steel,26.0,50.0,1280.0,No,0.0,1996.0
-140,Nessie Superrollercoaster,Hansa Park,"Sierksdorf, Schleswig-Holstein",Germany,Europe,Steel,26.0,79.0,741.0,Yes,1.0,1979.0
-141,Wicked Twister,Cedar Point,Sandusky,USA,North America,Steel,65.532,116.64,206.0,No,0.0,2002.0
-142,Schweizer Bobbahn,Heide-Park Soltau,"Soltau, Lower Saxony",Germany,Europe,Steel,27.0,53.0,990.0,No,0.0,1994.0
-143,Screamer,Scandia Amusement Park,Ontario,USA,North America,Steel,27.432,81.0,792.0,No,0.0,1995.0
-144,Vortex,California's Great America,Santa Clara,USA,North America,Steel,27.7368,64.8,585.0,Yes,2.0,1991.0
-145,Grizzly,California's Great America,Santa Clara,USA,North America,Wood,27.7368,89.1,991.0,No,0.0,1986.0
-146,Bandit,Movie Park Germany,"Bottrop, North Rhine-Westphalia",Germany,Europe,Wood,27.8,80.0,1099.0,No,0.0,1999.0
-147,Euro Mir,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,28.0,80.0,980.0,No,0.0,1997.0
-148,Roar,Six Flags Discovery Kingdom,Vallejo,USA,North America,Wood,28.6512,81.0,1003.0,No,0.0,1999.0
-149,Terminator Salvation: The Coaster,Six Flags Magic Mountain,Valencia,USA,North America,Wood,28.956,81.0,877.0,No,0.0,2009.0
-150,Fluch von Novgorod,Hansa Park,"Sierksdorf, Schleswig-Holstein",Germany,Europe,Steel,40.0,100.0,700.0,Yes,1.0,2009.0
-151,Boardwalk Bullet,Kemah Boardwalk,Kemah,USA,North America,Wood,29.2608,82.62,986.0,No,0.0,2007.0
-152,Half Pipe,Elitch Gardens,Denver,USA,North America,Steel,29.8704,69.66,70.0,No,0.0,2004.0
-153,Big Loop,Heide-Park Soltau,"Soltau, Lower Saxony",Germany,Europe,Steel,30.0,63.0,706.0,Yes,4.0,1983.0
-154,EuroLoop,Europark,"Vias, Languedoc-Roussillon",France,Europe,Steel,30.0,65.0,750.0,Yes,4.0,2004.0
-155,Atlantica SuperSplash,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,30.0,80.0,390.0,No,0.0,2005.0
-156,Tonnerre de Zeus,Parc Asterix,"Plailly, Picardie",France,Europe,Wood,30.0,84.0,1233.0,No,0.0,1997.0
-157,Mammut,Erlebnispark Tripsdrill,"Cleebronn, Baden Wuerttemberg",Germany,Europe,Wood,30.0,90.0,860.0,No,0.0,2008.0
-158,Legend,Holiday World,Santa Claus,USA,North America,Wood,30.1752,95.58,1232.0,No,0.0,2000.0
-159,Batman The Ride,Six Flags Great America,Gurnee,USA,North America,Steel,30.48,81.0,823.0,Yes,5.0,1992.0
-160,Viper,Six Flags Great America,Gurnee,USA,North America,Wood,30.48,81.0,1054.0,No,0.0,1995.0
-161,Twister II,Elitch Gardens,Denver,USA,North America,Wood,30.48,89.1,1414.0,No,0.0,1995.0
-162,Iron Wolf,Six Flags Great America,Gurnee,USA,North America,Steel,30.48,89.1,884.0,Yes,2.0,1990.0
-163,Demon,Six Flags Great America,Gurnee,USA,North America,Steel,31.0896,81.0,649.0,Yes,4.0,1976.0
-164,Demon,California's Great America,Santa Clara,USA,North America,Steel,31.0896,81.0,649.0,Yes,4.0,1976.0
-165,Flight Deck,California's Great America,Santa Clara,USA,North America,Steel,31.0896,81.0,689.0,Yes,3.0,1993.0
-166,Space Mountain: Mission 2,Disneyland Resort Paris - Disneyland Park,"Marne la Vallee, Ile-de-France",France,Europe,Steel,32.0,71.0,1000.0,Yes,3.0,1995.0
-167,Medusa,Six Flags Mexico,Mexico City,Mexico,Latin America,Wood,32.0,88.5,956.0,No,0.0,2000.0
-168,Batman The Ride,Six Flags Over Texas,Arlington,USA,North America,Steel,32.004,81.0,823.0,Yes,5.0,1999.0
-169,Goliath,Six Flags Fiesta Texas,San Antonio,USA,North America,Steel,32.004,81.0,821.0,Yes,5.0,2008.0
-170,Batman The Ride,Six Flags Magic Mountain,Valencia,USA,North America,Steel,32.004,81.0,823.0,Yes,5.0,1994.0
-171,Maverick,Cedar Point,Sandusky,USA,North America,Steel,32.004,113.4,1356.0,Yes,2.0,2007.0
-172,Superman - Ultimate Flight,Six Flags Great America,Gurnee,USA,North America,Steel,32.3088,82.62,853.0,Yes,2.0,2003.0
-173,Great White,SeaWorld San Antonio,San Antonio,USA,North America,Steel,32.9184,81.0,781.0,Yes,5.0,1997.0
-174,Unknown,Hopi Hari,Sao Paulo,Brazil,Latin America,Steel,33.0,85.0,875.0,Yes,10.0,2013.0
-175,Mind Eraser,Elitch Gardens,Denver,USA,North America,Steel,33.2232,79.38,689.0,Yes,5.0,1997.0
-176,Kong,Six Flags Discovery Kingdom,Vallejo,USA,North America,Steel,33.2232,79.38,689.0,Yes,5.0,1998.0
-177,Desafio,Parque de la Costa,"Buenos Aires, BA",Argentina,Latin America,Steel,33.3,80.0,689.0,Yes,5.0,1999.0
-178,Firewhip,Beto Carrero World,"Penha, SC",Brazil,Latin America,Steel,33.3,80.0,689.0,Yes,5.0,2008.0
-179,Raptor,Fantasilandia,"Santiago, Santiago",Chile,Latin America,Steel,33.3,80.0,689.0,Yes,5.0,2008.0
-180,MP-Xpress,Movie Park Germany,"Bottrop, North Rhine-Westphalia",Germany,Europe,Steel,33.3,80.0,689.0,Yes,5.0,2001.0
-181,Limit,Heide-Park Soltau,"Soltau, Lower Saxony",Germany,Europe,Steel,33.3,80.0,689.0,Yes,5.0,1999.0
-182,Batman the Ride,Six Flags Mexico,Mexico City,Mexico,Latin America,Steel,33.3,80.0,689.0,Yes,5.0,2000.0
-183,Beast,Kings Island,Kings Mills,USA,North America,Wood,33.528,103.68,2243.0,No,0.0,1979.0
-184,Montana Infinitum,La Feria Chapultpec,Mexico City,Mexico,Latin America,Steel,33.8,85.3,1050.0,Yes,3.0,2007.0
-185,Revolution,Six Flags Magic Mountain,Valencia,USA,North America,Steel,34.4424,89.1,1054.0,Yes,1.0,1976.0
-186,Firehawk,Kings Island,Kings Mills,USA,North America,Steel,35.052,81.0,1018.0,Yes,5.0,2007.0
-187,Tsunaumi,Isla San Marcos Parque Tematico,Aguascalientes,Mexico,Latin America,Steel,35.1,86.9,1120.0,Yes,4.0,2008.0
-188,Flashback,Six Flags Over Texas,Arlington,USA,North America,Steel,35.3568,76.14,285.0,Yes,3.0,1989.0
-189,Boomerang,Elitch Gardens,Denver,USA,North America,Steel,35.3568,76.14,285.0,Yes,3.0,1999.0
-190,Boomerang,Six Flags Fiesta Texas,San Antonio,USA,North America,Steel,35.3568,76.14,285.0,Yes,3.0,1999.0
-191,Shockwave,Six Flags Over Texas,Arlington,USA,North America,Steel,35.3568,97.2,1097.0,Yes,2.0,1978.0
-192,Tigre,Parque de la Costa,"Buenos Aires, BA",Argentina,Latin America,Steel,35.5,75.6,285.0,Yes,3.0,1998.0
-193,Boomerang,Playcenter Sao Paulo,Sao Paulo,Brazil,Latin America,Steel,35.5,75.6,285.0,Yes,3.0,1997.0
-194,Boomerang,Fantasilandia,"Santiago, Santiago",Chile,Latin America,Steel,35.5,75.6,285.0,Yes,3.0,1998.0
-195,Bumeran,Parque Diversiones,"San Jose, CR",Costa Rica,Latin America,Steel,35.5,75.6,285.0,Yes,3.0,2012.0
-196,Boomerang,Freizeit-Land Geiselwind,"Geiselwind, Bavaria",Germany,Europe,Steel,35.5,75.6,285.0,Yes,3.0,2000.0
-197,Boomerang,Walibi Aquitaine,"Roquefort, Aquitaine",France,Europe,Steel,35.5,75.6,285.0,Yes,3.0,1992.0
-198,Boomerang,Six Flags Mexico,Mexico City,Mexico,Latin America,Steel,35.5,75.6,285.0,Yes,3.0,1982.0
-199,Boomerang,Walibi Rhone-Alpes,"Les Avenieres, Rhône-Alpes",France,Europe,Steel,35.5,76.0,285.0,Yes,3.0,1992.0
-200,Boomerang,Knott's Berry Farm,Buena Park,USA,North America,Steel,35.5092,76.14,285.0,Yes,3.0,1990.0
-201,Boomerang Coast to Coaster,Six Flags Discovery Kingdom,Vallejo,USA,North America,Steel,35.5092,76.14,285.0,Yes,3.0,1998.0
-202,GhostRider,Knott's Berry Farm,Buena Park,USA,North America,Wood,35.9664,90.72,1382.0,No,0.0,1998.0
-203,Goudurix,Parc Asterix,"Plailly, Picardie",France,Europe,Steel,36.0,90.0,950.0,Yes,7.0,1989.0
-204,Aconcagua,Parque de la Ciudad,"Buenos Aires, BA",Argentina,Latin America,Steel,36.2,93.2,751.0,No,0.0,1982.0
-205,Vertigorama,Parque de la Ciudad,"Buenos Aires, BA",Argentina,Latin America,Steel,38.0,91.0,1816.0,No,0.0,1983.0
-206,blue fire Megacoaster,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,38.0,100.0,1056.0,Yes,4.0,2009.0
-207,Gemini,Cedar Point,Sandusky,USA,North America,Steel,38.1,97.2,1199.0,No,0.0,1978.0
-208,Colossus,Six Flags Magic Mountain,Valencia,USA,North America,Wood,38.1,100.44,1318.0,No,0.0,1978.0
-209,American Eagle,Six Flags Great America,Gurnee,USA,North America,Wood,38.7096,106.92,1417.0,No,0.0,1981.0
-210,Invertigo,Kings Island,Kings Mills,USA,North America,Steel,39.9288,81.0,309.0,Yes,3.0,1999.0
-211,Invertigo,California's Great America,Santa Clara,USA,North America,Steel,39.9288,81.0,309.0,Yes,3.0,1998.0
-212,Black Mamba,Phantasialand,"Bruhl, North Rhine-Westphalia",Germany,Europe,Steel,26.0,80.0,768.0,Yes,4.0,2006.0
-213,Raptor,Cedar Point,Sandusky,USA,North America,Steel,41.7576,92.34,1155.0,Yes,6.0,1994.0
-214,Katapul,Hopi Hari,Sao Paulo,Brazil,Latin America,Steel,42.0,85.3,220.0,Yes,1.0,1999.0
-215,Montezum,Hopi hari,Sao Paulo,Brazil,Latin America,Wood,42.4,103.0,1030.0,No,0.0,1999.0
-216,Texas Giant,Six Flags Over Texas,Arlington,USA,North America,Wood,43.5864,100.44,1500.0,No,0.0,1990.0
-217,Mantis,Cedar Point,Sandusky,USA,North America,Steel,44.196,97.2,1189.0,Yes,4.0,1996.0
-218,Silver Bullet,Knott's Berry Farm,Buena Park,USA,North America,Steel,44.5008,89.1,953.0,Yes,6.0,2004.0
-219,Montezooma's Revenge,Knott's Berry Farm,Buena Park,USA,North America,Steel,45.1104,89.1,244.0,Yes,1.0,1978.0
-220,Vortex,Kings Island,Kings Mills,USA,North America,Steel,45.1104,89.1,1158.0,Yes,6.0,1987.0
-221,Scream!,Six Flags Magic Mountain,Valencia,USA,North America,Steel,45.72,102.06,1215.0,Yes,7.0,2003.0
-222,Steel Eel,SeaWorld San Antonio,San Antonio,USA,North America,Steel,45.72,105.3,1128.0,No,0.0,1999.0
-223,Medusa,Six Flags Discovery Kingdom,Vallejo,USA,North America,Steel,45.72,105.3,1200.0,Yes,7.0,2000.0
-224,V2: Vertical Velocity,Six Flags Discovery Kingdom,Vallejo,USA,North America,Steel,45.72,105.3,192.0,No,0.0,2001.0
-225,Sky Wheel,Skyline Park,"Bad Worishofen, Bavaria",Germany,Europe,Steel,46.0,105.0,150.0,Yes,2.0,2004.0
-226,Riddler's Revenge,Six Flags Magic Mountain,Valencia,USA,North America,Steel,47.5488,105.3,1332.0,Yes,6.0,1998.0
-227,Mean Streak,Cedar Point,Sandusky,USA,North America,Wood,49.0728,105.3,1654.0,No,0.0,1991.0
-228,Voyage,Holiday World,Santa Claus,USA,North America,Wood,49.6824,108.54,1964.0,No,0.0,2006.0
-229,Superman Krypton Coaster,Six Flags Fiesta Texas,San Antonio,USA,North America,Steel,51.2064,113.4,1227.0,Yes,6.0,2000.0
-230,Tatsu,Six Flags Magic Mountain,Valencia,USA,North America,Steel,51.816,100.44,1098.0,Yes,4.0,2006.0
-231,Expedition GeForce,Holiday Park,"Hassloch, Rhineland-Palatinate",Germany,Europe,Steel,53.0,120.0,1220.0,No,0.0,2001.0
-232,X2,Six Flags Magic Mountain,Valencia,USA,North America,Steel,53.34,123.12,1100.0,Yes,2.0,2002.0
-233,Rattler,Six Flags Fiesta Texas,San Antonio,USA,North America,Wood,54.5592,105.3,1548.0,No,0.0,1992.0
-234,Vertical Velocity,Six Flags Great America,Gurnee,USA,North America,Steel,56.388,113.4,192.0,No,0.0,2001.0
-235,Viper,Six Flags Magic Mountain,Valencia,USA,North America,Steel,57.3024,113.4,1167.0,Yes,7.0,1990.0
-236,Deja Vu,Six Flags Magic Mountain,Valencia,USA,North America,Steel,58.2168,105.3,367.0,Yes,3.0,2001.0
-237,Colossos,Heide-Park Soltau,"Soltau, Lower Saxony",Germany,Europe,Wood,60.0,120.0,1344.0,No,0.0,2001.0
-238,Batman,Beto Carrero World,"Penha, SC",Brazil,Latin America,Steel,61.0,104.6,347.0,Yes,1.0,2013.0
-239,Robin,Beto Carrero World,"Penha, SC",Brazil,Latin America,Steel,61.0,104.6,375.0,Yes,2.0,2014.0
-240,Raging Bull,Six Flags Great America,Gurnee,USA,North America,Steel,61.5696,118.26,1541.0,No,0.0,1999.0
-241,Magnum XL-200,Cedar Point,Sandusky,USA,North America,Steel,62.484,116.64,1556.0,No,0.0,1989.0
-242,Xcelerator,Knott's Berry Farm,Buena Park,USA,North America,Steel,62.484,132.84,671.0,No,0.0,2002.0
-243,Steel Hawg,Indiana Beach,Monticello,USA,North America,Steel,29.2608,66.42,823.0,Yes,2.0,2008.0
-244,Mr. Freeze,Six Flags Over Texas,Arlington,USA,North America,Steel,66.4464,113.4,396.0,Yes,1.0,1998.0
-245,Son Of Beast,Kings Island,Kings Mills,USA,North America,Wood,66.4464,126.36,2143.0,Yes,1.0,2000.0
-246,Supermanel el ultimo Escape,Six Flags Mexico,Mexico City,Mexico,Latin America,Steel,67.0,120.0,1700.0,No,0.0,2004.0
-247,Diamondback,Kings Island,Kings Mills,USA,North America,Steel,70.104,129.6,1610.0,No,0.0,2009.0
-248,Goliath,Six Flags Magic Mountain,Valencia,USA,North America,Steel,71.628,137.7,1372.0,No,0.0,2000.0
-249,Silver Star,Europa Park,"Rust, Baden Wuerttemberg",Germany,Europe,Steel,73.0,127.0,1620.0,No,0.0,2002.0
-250,Titan,Six Flags Over Texas,Arlington,USA,North America,Steel,74.676,137.7,1619.0,No,0.0,2001.0
-251,Millennium Force,Cedar Point,Sandusky,USA,North America,Steel,94.488,150.66,2010.0,No,0.0,2000.0
-252,Superman The Escape,Six Flags Magic Mountain,Valencia,USA,North America,Steel,126.492,162.0,376.0,No,0.0,1997.0
-253,Top Thrill Dragster,Cedar Point,Sandusky,USA,North America,Steel,128.016,194.4,853.0,No,0.0,2003.0
-254,Mulholland Madness,Disney's California Adventure,Anaheim,USA,North America,Steel,17.0,43.74,370.0,No,0.0,2001.0
-255,Avalancha,Xetulul,"Retalhuleu, Guatemala",Guatemala,Latin America,Steel,31.0,88.0,823.0,Yes,8.0,2002.0
-256,California Screamin',Disney's California Adventure,Anaheim,USA,North America,Steel,36.576,89.1,1851.0,Yes,1.0,2001.0
-257,Racer,Kings Island,Kings Mills,USA,North America,Wood,26.8,98.82,1041.0,No,0.0,1972.0
+id  ,Rollercoaster Name                    ,Amusement Park                                     ,City                                         ,Country    ,Region        ,Construction Material ,Height  ,Speed  ,Length ,Inversion ,Number of Inversions ,Year Opened
+1   ,Montana Rusa Infantil                 ,Parque de la Ciudad                                ,"Buenos Aires, BA"                           ,Argentina  ,Latin America ,Steel                 ,3.0     ,30.0   ,190.0  ,No        ,0.0                  ,1983.0
+2   ,Percy's Railway                       ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,3.048   ,16.2   ,107.0  ,No        ,0.0                  ,1971.0
+3   ,Marienkafer Hochbahn                  ,Churpfalzpark                                      ,"Loifling, Bavaria"                          ,Germany    ,Europe        ,Steel                 ,3.3     ,26.0   ,60.0   ,No        ,0.0                  ,1983.0
+4   ,Froschbahn                            ,Bayern Park                                        ,"Reisbach, Bavaria"                          ,Germany    ,Europe        ,Steel                 ,3.3     ,26.0   ,60.0   ,No        ,0.0                  ,1995.0
+5   ,Ronde des Rondins                     ,Parc Asterix                                       ,"Plailly, Picardie"                          ,France     ,Europe        ,Steel                 ,3.3     ,26.0   ,60.0   ,No        ,0.0                  ,1991.0
+6   ,Catarrinos                            ,Parque Plaza Sesamo                                ,Monterrey                                    ,Mexico     ,Latin America ,Steel                 ,3.3     ,26.0   ,60.0   ,No        ,0.0                  ,2006.0
+7   ,Wilde Mini Maus                       ,Lollihop                                           ,"Munich, Bavaria"                            ,Germany    ,Europe        ,Steel                 ,3.5     ,25.0   ,60.0   ,No        ,0.0                  ,2007.0
+8   ,Montana Ratan                         ,Graje Villa                                        ,Lima                                         ,Peru       ,Latin America ,Steel                 ,3.6     ,22.7   ,60.0   ,No        ,0.0                  ,2002.0
+9   ,Shamu Express                         ,SeaWorld San Antonio                               ,San Antonio                                  ,USA        ,North America ,Steel                 ,3.9624  ,22.68  ,70.0   ,No        ,0.0                  ,2004.0
+10  ,Grazy Worm                            ,Schwaben Park                                      ,"Kaisersbach, Baden Wuerttemberg"            ,Germany    ,Europe        ,Steel                 ,4.0     ,24.0   ,70.0   ,No        ,0.0                  ,2003.0
+11  ,Familien-Achterbahn                   ,Eifelpark                                          ,"Gondorf, Rhineland-Palatinate"              ,Germany    ,Europe        ,Steel                 ,4.5     ,30.0   ,128.0  ,No        ,0.0                  ,1995.0
+12  ,Indy-Blitz                            ,Heide-Park Soltau                                  ,"Soltau, Lower Saxony"                       ,Germany    ,Europe        ,Steel                 ,4.5     ,30.0   ,128.0  ,No        ,0.0                  ,2008.0
+13  ,Familien-Achterbahn                   ,Tolk Schau                                         ,"Tolk, Schleswig-Holstein"                   ,Germany    ,Europe        ,Steel                 ,4.5     ,30.0   ,128.0  ,No        ,0.0                  ,2000.0
+14  ,Familienachterbahn                    ,Erse-Park                                          ,"Uetze, Lower Saxony"                        ,Germany    ,Europe        ,Steel                 ,4.5     ,30.0   ,128.0  ,No        ,0.0                  ,1992.0
+15  ,Eichh rnchenbahn                      ,Freizeitpark Lochmuhle                             ,"Wehrheim, Hesse"                            ,Germany    ,Europe        ,Steel                 ,4.5     ,30.0   ,128.0  ,No        ,0.0                  ,1992.0
+16  ,Die! Wilde Maus                       ,Serengeti Park                                     ,"Hodenhagen, Lower Saxony"                   ,Germany    ,Europe        ,Steel                 ,4.9     ,22.5   ,165.0  ,No        ,0.0                  ,2007.0
+17  ,Alpen Blitz                           ,Parque de la Ciudad                                ,"Buenos Aires, BA"                           ,Argentina  ,Latin America ,Steel                 ,5.0     ,72.0   ,210.0  ,No        ,0.0                  ,1984.0
+18  ,Coastersaurus                         ,Legoland California                                ,Carlsbad                                     ,USA        ,North America ,Steel                 ,5.4864  ,32.4   ,150.0  ,No        ,0.0                  ,2004.0
+19  ,Drachenjagd                           ,Legoland Deutschland                               ,"Gunzburg, Bavaria"                          ,Germany    ,Europe        ,Steel                 ,5.5     ,33.0   ,150.0  ,No        ,0.0                  ,2003.0
+20  ,Jr. Gemini                            ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,5.7912  ,9.72   ,135.0  ,No        ,0.0                  ,1979.0
+21  ,Kombo                                 ,Indianapolis Zoo                                   ,Indianapolis                                 ,USA        ,North America ,Steel                 ,5.7912  ,30.78  ,77.0   ,No        ,0.0                  ,2001.0
+22  ,Familienachterbahn                    ,Schloss Beck Freizeitpark                          ,"Bottrop, North Rhine-Westphalia"            ,Germany    ,Europe        ,Steel                 ,6.0     ,32.0   ,199.0  ,No        ,0.0                  ,1987.0
+23  ,Holzwurmachterbahn                    ,Jaderpark                                          ,"Jaderberg, Lower Saxony"                    ,Germany    ,Europe        ,Steel                 ,6.0     ,32.0   ,199.0  ,No        ,0.0                  ,1996.0
+24  ,Speedy Gonzales                       ,Parc du Bocasse                                    ,"Bocasse, Normandy"                          ,France     ,Europe        ,Steel                 ,6.0     ,34.0   ,135.0  ,No        ,0.0                  ,2006.0
+25  ,Alpenexpress                          ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,6.0     ,45.0   ,264.0  ,No        ,0.0                  ,1984.0
+26  ,Grottenblitz                          ,Heide-Park Soltau                                  ,"Soltau, Lower Saxony"                       ,Germany    ,Europe        ,Steel                 ,6.0     ,45.0   ,370.0  ,No        ,0.0                  ,1985.0
+27  ,Cobra                                 ,Six Flags Discovery Kingdom                        ,Vallejo                                      ,USA        ,North America ,Steel                 ,7.9248  ,35.64  ,360.0  ,No        ,0.0                  ,2000.0
+28  ,Twisted Coaster                       ,HotZone                                            ,Rio de Janeiro                               ,Brazil     ,Latin America ,Steel                 ,8.0     ,28.0   ,175.0  ,Yes       ,0.0                  ,2012.0
+29  ,Vigia                                 ,Parque de la Costa                                 ,"Buenos Aires, BA"                           ,Argentina  ,Latin America ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,1998.0
+30  ,Rasender Tausendfüßer                 ,Erlebnispark Tripsdrill                            ,"Cleebronn, Baden Wuerttemberg"              ,Germany    ,Europe        ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,1986.0
+31  ,Froschflitzer                         ,Serengeti Park                                     ,"Hodenhagen, Lower Saxony"                   ,Germany    ,Europe        ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,1999.0
+32  ,Marienkaferbahn                       ,Zoo Safari- und Hollywoodpark Stukenbrock          ,"Stukenbrock, North Rhine-Westphalia"        ,Germany    ,Europe        ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,1979.0
+33  ,Familienachterbahn                    ,Magic Park Verden                                  ,"Verden, Lower Saxony"                       ,Germany    ,Europe        ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,2003.0
+34  ,Marienkaferbahn                       ,Fort Fun Abenteuerland                             ,"Wasserfall, North Rhine-Westphalia"         ,Germany    ,Europe        ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,1986.0
+35  ,Serpent Hopi                          ,OK Corral                                          ,"Cuges-les-Pins, Provence-Alpes-Cote d'Azur" ,France     ,Europe        ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,2002.0
+36  ,Coccinelle des Andes                  ,Walibi Rhone-Alpes                                 ,"Les Avenieres, Rhône-Alpes"                 ,France     ,Europe        ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,1992.0
+37  ,Coccinelle                            ,Walibi Aquitaine                                   ,"Roquefort, Aquitaine"                       ,France     ,Europe        ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,1992.0
+38  ,Roller Coaster                        ,Papea Parc                                         ,"Yvré -l'Évêque, Pays de la Loire"           ,France     ,Europe        ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,2009.0
+39  ,Choconoy                              ,Xetulul                                            ,"Retalhuleu, Guatemala"                      ,Guatemala  ,Latin America ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,2002.0
+40  ,Catarina                              ,Selva Magica                                       ,Guadalajara                                  ,Mexico     ,Latin America ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,2001.0
+41  ,Tsunaumi                              ,Six Flags Mexico                                   ,Mexico City                                  ,Mexico     ,Latin America ,Steel                 ,8.0     ,36.0   ,360.0  ,No        ,0.0                  ,1981.0
+42  ,Gadget's Go Coaster                   ,Disneyland                                         ,Anaheim                                      ,USA        ,North America ,Steel                 ,8.2296  ,34.02  ,207.0  ,No        ,0.0                  ,1993.0
+43  ,Spacely's Sprocket Rockets            ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Steel                 ,8.2296  ,34.02  ,207.0  ,No        ,0.0                  ,1998.0
+44  ,Merlin's Revenge                      ,Castle Amusement Park                              ,Riverside                                    ,USA        ,North America ,Steel                 ,8.2296  ,34.02  ,207.0  ,No        ,0.0                  ,2001.0
+45  ,Roller Skater                         ,Six Flags Mexico                                   ,Mexico City                                  ,Mexico     ,Latin America ,Steel                 ,8.5     ,34.9   ,207.0  ,No        ,0.0                  ,1993.0
+46  ,Backyardigans: Mission to Mars        ,Movie Park Germany                                 ,"Bottrop, North Rhine-Westphalia"            ,Germany    ,Europe        ,Steel                 ,8.5     ,35.0   ,207.0  ,No        ,0.0                  ,1996.0
+47  ,Achterbahn                            ,Rasti-Land                                         ,"Salzhemmendorf, Lower Saxony"               ,Germany    ,Europe        ,Steel                 ,8.5     ,35.0   ,207.0  ,No        ,0.0                  ,1989.0
+48  ,Le Déval' Train                       ,Parc Touristique des Combes                        ,"Creusot, Burgundy"                          ,France     ,Europe        ,Steel                 ,8.5     ,35.0   ,207.0  ,No        ,0.0                  ,2003.0
+49  ,Drachen-Achterbahn                    ,Tier- und Freizeitpark Thule                       ,"Friesoythe-The, Lower Saxony"               ,Germany    ,Europe        ,Steel                 ,9.0     ,39.0   ,222.0  ,No        ,0.0                  ,1998.0
+50  ,Familienachterbahn-Drachenbahn        ,Schloss Thurn                                      ,"Heroldsbach, Bavaria"                       ,Germany    ,Europe        ,Steel                 ,9.0     ,39.0   ,222.0  ,No        ,0.0                  ,1998.0
+51  ,Potts Blitz                           ,Potts Park                                         ,"Minden, North Rhine-Westphalia"             ,Germany    ,Europe        ,Steel                 ,9.0     ,39.0   ,222.0  ,No        ,0.0                  ,1993.0
+52  ,O Mundo de Xuxa                       ,O Mundo de Xuxa Theme park                         ,Sao Paulo                                    ,Brazil     ,Latin America ,Steel                 ,9.5     ,40.0   ,320.0  ,No        ,0.0                  ,1997.0
+53  ,Train de la Mine                      ,La Coccinelle                                      ,"Gujan-Mestras, Aquitaine"                   ,France     ,Europe        ,Steel                 ,10.0    ,40.0   ,300.0  ,No        ,0.0                  ,2009.0
+54  ,Corsaire                              ,Cobac Parc                                         ,"Lanhelin, Brittany"                         ,France     ,Europe        ,Steel                 ,10.0    ,40.0   ,300.0  ,No        ,0.0                  ,2007.0
+55  ,Oachkatzl                             ,Maerchenwald im Isartal                            ,"Wolfratshausen, Bavaria"                    ,Germany    ,Europe        ,Steel                 ,10.5    ,46.0   ,290.0  ,No        ,0.0                  ,1999.0
+56  ,Lost Coaster of Superstition Mountain ,Indiana Beach                                      ,Monticello                                   ,USA        ,North America ,Wood                  ,10.668  ,32.4   ,427.0  ,No        ,0.0                  ,2002.0
+57  ,Vol D'Icare                           ,Parc Asterix                                       ,"Plailly, Picardie"                          ,France     ,Europe        ,Steel                 ,10.7    ,42.0   ,410.0  ,No        ,0.0                  ,1994.0
+58  ,Roller Coaster                        ,Nocolandia Center Park                             ,Brasilia                                     ,Brazil     ,Latin America ,Steel                 ,11.0    ,45.0   ,325.0  ,No        ,0.0                  ,2006.0
+59  ,Roller Coaster                        ,Nicolandia Center Park                             ,"Brasilia, BFD"                              ,Brazil     ,Latin America ,Steel                 ,11.0    ,45.0   ,325.0  ,No        ,0.0                  ,2002.0
+60  ,Speedy                                ,CentrO.Park                                        ,"Oberhausen, North Rhine-Westphalia"         ,Germany    ,Europe        ,Steel                 ,11.1    ,36.0   ,300.0  ,No        ,0.0                  ,2001.0
+61  ,Quicksilver Express                   ,Gilroy Gardens Family Theme Park                   ,Gilroy                                       ,USA        ,North America ,Steel                 ,11.5824 ,51.84  ,652.0  ,No        ,0.0                  ,2001.0
+62  ,Wild Chipmunk                         ,Lakeside Amusement Park                            ,Denver                                       ,USA        ,North America ,Steel                 ,12.4968 ,34.02  ,351.0  ,No        ,0.0                  ,1955.0
+63  ,Woodstock Express                     ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,12.8016 ,45.36  ,335.0  ,No        ,0.0                  ,1999.0
+64  ,Ragin' Cajun                          ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Steel                 ,12.8016 ,46.98  ,420.0  ,No        ,0.0                  ,2004.0
+65  ,Tigre de Siberie                      ,Le Pal                                             ,"Dompierre Sur Besbre, Centre"               ,France     ,Europe        ,Steel                 ,13.0    ,40.0   ,360.0  ,No        ,0.0                  ,1990.0
+66  ,Wild Mouse                            ,Fantasilandia                                      ,"Santiago, Santiago"                         ,Chile      ,Latin America ,Steel                 ,13.0    ,46.8   ,420.0  ,No        ,0.0                  ,2006.0
+67  ,Raton Loco                            ,La Feria Chapultpec                                ,Mexico City                                  ,Mexico     ,Latin America ,Steel                 ,13.0    ,46.8   ,420.0  ,No        ,0.0                  ,1999.0
+68  ,Ragondingue                           ,Bagatelle                                          ,"Merlimont, Nord-Pas de Calais"              ,France     ,Europe        ,Steel                 ,13.0    ,47.0   ,420.0  ,No        ,0.0                  ,2006.0
+69  ,Une Souris Verte                      ,Parc Saint Paul                                    ,"Saint Paul, Picardie"                       ,France     ,Europe        ,Steel                 ,13.0    ,47.0   ,420.0  ,No        ,0.0                  ,2007.0
+70  ,Moto Bala                             ,Mundo Petapa                                       ,"Guatemala City,"                            ,Guatemala  ,Latin America ,Steel                 ,13.0    ,65.0   ,364.0  ,No        ,0.0                  ,2010.0
+71  ,Tig'rr Coaster                        ,Indiana Beach                                      ,Monticello                                   ,USA        ,North America ,Steel                 ,13.4112 ,50.22  ,538.0  ,No        ,0.0                  ,1984.0
+72  ,Pony Express                          ,Knott's Berry Farm                                 ,Buena Park                                   ,USA        ,North America ,Steel                 ,13.4112 ,61.56  ,396.0  ,No        ,0.0                  ,2008.0
+73  ,JetStar                               ,Parque de la Ciudad                                ,"Buenos Aires, BA"                           ,Argentina  ,Latin America ,Steel                 ,13.5    ,50.0   ,538.0  ,No        ,0.0                  ,1982.0
+74  ,Alpine Bobs                           ,Holly Park                                         ,"Chemin, Pays de la Loire"                   ,France     ,Europe        ,Steel                 ,13.5    ,50.0   ,538.0  ,No        ,0.0                  ,2003.0
+75  ,Jet Star                              ,Aventura Park                                      ,Lima                                         ,Peru       ,Latin America ,Steel                 ,13.5    ,50.0   ,538.0  ,No        ,0.0                  ,2009.0
+76  ,Backlot Stunt Coaster                 ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Steel                 ,13.716  ,64.8   ,597.0  ,No        ,0.0                  ,2005.0
+77  ,Ghost Chasers                         ,Movie Park Germany                                 ,"Bottrop, North Rhine-Westphalia"            ,Germany    ,Europe        ,Steel                 ,14.0    ,45.0   ,370.0  ,No        ,0.0                  ,2000.0
+78  ,Taunusblitz                           ,Taunus Wunderland                                  ,"Schlangenbad, Hesse"                        ,Germany    ,Europe        ,Steel                 ,14.0    ,45.0   ,370.0  ,No        ,0.0                  ,1999.0
+79  ,Schlitt'Express                       ,Nigloland                                          ,"Dolancourt, Champagne-Ardenne"              ,France     ,Europe        ,Steel                 ,14.0    ,45.0   ,370.0  ,No        ,0.0                  ,2007.0
+80  ,Rugrats Runaway Reptar                ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Steel                 ,14.6304 ,42.12  ,342.0  ,No        ,0.0                  ,2001.0
+81  ,Tony Hawk's Big Spin                  ,Six Flags Fiesta Texas                             ,San Antonio                                  ,USA        ,North America ,Steel                 ,14.6304 ,50.22  ,412.0  ,No        ,0.0                  ,2007.0
+82  ,Cedar Creek Mine Ride                 ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,14.6304 ,68.04  ,774.0  ,No        ,0.0                  ,1969.0
+83  ,Crazy Mine                            ,Hansa Park                                         ,"Sierksdorf, Schleswig-Holstein"             ,Germany    ,Europe        ,Steel                 ,15.0    ,45.0   ,370.0  ,No        ,0.0                  ,1997.0
+84  ,Wilde Maus                            ,Europark                                           ,"Vias, Languedoc-Roussillon"                 ,France     ,Europe        ,Steel                 ,15.0    ,45.0   ,370.0  ,No        ,0.0                  ,2007.0
+85  ,Pegasus                               ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,15.0    ,65.0   ,400.0  ,No        ,0.0                  ,2006.0
+86  ,Wildcat                               ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,15.24   ,64.8   ,560.0  ,No        ,0.0                  ,1979.0
+87  ,Technic Coaster                       ,Legoland California                                ,Carlsbad                                     ,USA        ,North America ,Steel                 ,15.5448 ,56.7   ,400.0  ,No        ,0.0                  ,2001.0
+88  ,Project X - Test Strecke              ,Legoland Deutschland                               ,"Gunzburg, Bavaria"                          ,Germany    ,Europe        ,Steel                 ,15.8    ,56.0   ,400.0  ,No        ,0.0                  ,2002.0
+89  ,Rasender Roland                       ,Hansa Park                                         ,"Sierksdorf, Schleswig-Holstein"             ,Germany    ,Europe        ,Steel                 ,16.0    ,50.0   ,522.0  ,No        ,0.0                  ,1993.0
+90  ,Matterhorn Blitz                      ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,16.0    ,56.3   ,383.0  ,No        ,0.0                  ,1999.0
+91  ,Feuerdrache                           ,Legoland Deutschland                               ,"Gunzburg, Bavaria"                          ,Germany    ,Europe        ,Steel                 ,16.0    ,60.0   ,860.0  ,No        ,0.0                  ,2002.0
+92  ,Tony Hawk's Big Spin                  ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Steel                 ,16.1544 ,50.22  ,412.0  ,No        ,0.0                  ,2008.0
+93  ,Tony Hawk's Big Spin                  ,Six Flags Discovery Kingdom                        ,Vallejo                                      ,USA        ,North America ,Steel                 ,16.1544 ,50.22  ,412.0  ,No        ,0.0                  ,2008.0
+94  ,Cornball Express                      ,Indiana Beach                                      ,Monticello                                   ,USA        ,North America ,Wood                  ,16.764  ,72.9   ,640.0  ,No        ,0.0                  ,2001.0
+95  ,Coaster Thrill Ride                   ,Puyallup Fair                                      ,Puyallup                                     ,USA        ,North America ,Wood                  ,16.764  ,81.0   ,808.0  ,No        ,0.0                  ,1935.0
+96  ,Azteka                                ,Le Pal                                             ,"Dompierre Sur Besbre, Centre"               ,France     ,Europe        ,Steel                 ,17.0    ,55.0   ,500.0  ,No        ,0.0                  ,2003.0
+97  ,Sidewinder                            ,Elitch Gardens                                     ,Denver                                       ,USA        ,North America ,Steel                 ,17.0688 ,72.9   ,194.0  ,Yes       ,1.0                  ,1995.0
+98  ,Broco                                 ,Parque Nacional del Cafe                           ,Montenegro                                   ,Colombia   ,Latin America ,Steel                 ,17.3    ,66.2   ,787.0  ,No        ,0.0                  ,1999.0
+99  ,Winjas                                ,Phantasialand                                      ,"Bruhl, North Rhine-Westphalia"              ,Germany    ,Europe        ,Steel                 ,17.4    ,66.0   ,465.0  ,No        ,0.0                  ,2002.0
+100 ,Heibe Fahrt                           ,Wild- und Freizeitpark Klotten/Cochem              ,"Klotten, Rhineland-Palatinate"              ,Germany    ,Europe        ,Steel                 ,17.5    ,55.0   ,532.0  ,No        ,0.0                  ,2004.0
+101 ,Bambo Coaster                         ,Salitre Magico                                     ,Bogota                                       ,Colombia   ,Latin America ,Steel                 ,18.0    ,90.1   ,860.0  ,Yes       ,2.0                  ,2004.0
+102 ,La Vibora                             ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Steel                 ,18.288  ,51.84  ,454.0  ,No        ,0.0                  ,1987.0
+103 ,Ninja                                 ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,18.288  ,89.1   ,823.0  ,No        ,0.0                  ,1988.0
+104 ,Sierra Sidewinder                     ,Knott's Berry Farm                                 ,Buena Park                                   ,USA        ,North America ,Steel                 ,18.8976 ,59.94  ,430.0  ,No        ,0.0                  ,2007.0
+105 ,Schweizer Bobbahn                     ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,19.0    ,50.0   ,487.0  ,No        ,0.0                  ,1985.0
+106 ,Desert Race                           ,Heide-Park Soltau                                  ,"Soltau, Lower Saxony"                       ,Germany    ,Europe        ,Steel                 ,19.0    ,100.0  ,650.0  ,No        ,0.0                  ,2007.0
+107 ,Adventure Express                     ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Steel                 ,19.2024 ,56.7   ,903.0  ,No        ,0.0                  ,1991.0
+108 ,Disaster Transport                    ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,19.2024 ,64.8   ,589.0  ,No        ,0.0                  ,1985.0
+109 ,Super Tornado                         ,Mirobillandia                                      ,"Olinda, PB"                                 ,Brazil     ,Latin America ,Steel                 ,19.5    ,60.0   ,350.0  ,Yes       ,2.0                  ,2008.0
+110 ,Bocaraca                              ,Parque de Diversiones Dr Roberto Ortiz Brenes      ,"San Jose, CR"                               ,Costa Rica ,Latin America ,Steel                 ,19.5    ,60.0   ,350.0  ,Yes       ,2.0                  ,2005.0
+111 ,Super Tornado                         ,Zoo Safari- und Hollywoodpark Stukenbrock          ,"Stukenbrock, North Rhine-Westphalia"        ,Germany    ,Europe        ,Steel                 ,19.5    ,60.0   ,350.0  ,Yes       ,2.0                  ,1981.0
+112 ,Wirbelwind                            ,Fort Fun Abenteuerland                             ,"Wasserfall, North Rhine-Westphalia"         ,Germany    ,Europe        ,Steel                 ,19.5    ,60.0   ,350.0  ,Yes       ,2.0                  ,1982.0
+113 ,Tornado                               ,Bosque Magico                                      ,Guadalupe                                    ,Mexico     ,Latin America ,Steel                 ,19.5    ,60.0   ,350.0  ,Yes       ,2.0                  ,2001.0
+114 ,Jaguar!                               ,Knott's Berry Farm                                 ,Buena Park                                   ,USA        ,North America ,Steel                 ,19.812  ,56.7   ,793.0  ,No        ,0.0                  ,1995.0
+115 ,Runaway Mountain                      ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Steel                 ,19.812  ,64.8   ,457.0  ,No        ,0.0                  ,1996.0
+116 ,Spatiale Experience                   ,Nigloland                                          ,"Dolancourt, Champagne-Ardenne"              ,France     ,Europe        ,Steel                 ,20.0    ,60.0   ,800.0  ,No        ,0.0                  ,2000.0
+117 ,Gold Rusher                           ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,21.336  ,56.7   ,789.0  ,No        ,0.0                  ,1971.0
+118 ,Whizzer                               ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Steel                 ,21.336  ,68.04  ,945.0  ,No        ,0.0                  ,1976.0
+119 ,Giant Dipper                          ,Santa Cruz Beach Boardwalk                         ,Santa Cruz                                   ,USA        ,North America ,Wood                  ,21.336  ,89.1   ,805.0  ,No        ,0.0                  ,1924.0
+120 ,Judge Roy Scream                      ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Wood                  ,21.6408 ,85.86  ,814.0  ,No        ,0.0                  ,1980.0
+121 ,Big Thunder Mountain                  ,Disneyland Resort Paris - Disneyland Park          ,"Marne la Vallee, Ile-de-France"             ,France     ,Europe        ,Steel                 ,22.0    ,65.0   ,1500.0 ,No        ,0.0                  ,1992.0
+122 ,Giant Dipper                          ,Belmont Park                                       ,San Diego                                    ,USA        ,North America ,Wood                  ,22.2504 ,89.1   ,792.0  ,No        ,0.0                  ,1925.0
+123 ,Flight of Fear                        ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Steel                 ,22.5552 ,87.48  ,824.0  ,Yes       ,4.0                  ,1996.0
+124 ,Timberhawk: Ride of Prey              ,Wild Waves Theme Park                              ,Federal Way                                  ,USA        ,North America ,Wood                  ,22.86   ,81.0   ,792.0  ,No        ,0.0                  ,2003.0
+125 ,Star World Mountain                   ,Beto Carrero World                                 ,"Penha, SC"                                  ,Brazil     ,Latin America ,Steel                 ,22.9    ,64.4   ,732.0  ,Yes       ,2.0                  ,1993.0
+126 ,Super Wirbel                          ,Holiday Park                                       ,"Hassloch, Rhineland-Palatinate"             ,Germany    ,Europe        ,Steel                 ,22.9    ,64.4   ,732.0  ,Yes       ,2.0                  ,1979.0
+127 ,Titan Cascabel                        ,Selva Magica                                       ,Guadalajara                                  ,Mexico     ,Latin America ,Steel                 ,22.9    ,88.5   ,762.0  ,No        ,0.0                  ,1994.0
+128 ,Poseidon                              ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,23.0    ,70.0   ,836.0  ,No        ,0.0                  ,2000.0
+129 ,Iron Dragon                           ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,23.1648 ,64.8   ,853.0  ,No        ,0.0                  ,1987.0
+130 ,Hoosier Hurricane                     ,Indiana Beach                                      ,Monticello                                   ,USA        ,North America ,Wood                  ,23.4696 ,82.62  ,881.0  ,No        ,0.0                  ,1994.0
+131 ,Blue Streak                           ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Wood                  ,23.7744 ,64.8   ,780.0  ,No        ,0.0                  ,1964.0
+132 ,Flight Deck                           ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Steel                 ,23.7744 ,82.62  ,717.0  ,No        ,0.0                  ,1993.0
+133 ,Poltergeist                           ,Six Flags Fiesta Texas                             ,San Antonio                                  ,USA        ,North America ,Steel                 ,23.7744 ,97.2   ,824.0  ,Yes       ,4.0                  ,1999.0
+134 ,Raven                                 ,Holiday World                                      ,Santa Claus                                  ,USA        ,North America ,Wood                  ,24.384  ,77.76  ,853.0  ,No        ,0.0                  ,1995.0
+135 ,Rock 'n' Roller Coaster               ,Disneyland Resort Paris - Walt Disney Studios Park ,"Marne la Vallee, Ile-de-France"             ,France     ,Europe        ,Steel                 ,24.4    ,92.0   ,1037.0 ,Yes       ,3.0                  ,2002.0
+136 ,El Toro                               ,Freizeitpark Plohn                                 ,"Lengenfeld, Saxony"                         ,Germany    ,Europe        ,Wood                  ,24.5    ,73.4   ,725.0  ,No        ,0.0                  ,2009.0
+137 ,Eurosat                               ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,25.5    ,60.0   ,900.0  ,No        ,0.0                  ,1989.0
+138 ,Corkscrew                             ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,25.908  ,77.76  ,625.0  ,Yes       ,3.0                  ,1976.0
+139 ,Colorado Adventure                    ,Phantasialand                                      ,"Bruhl, North Rhine-Westphalia"              ,Germany    ,Europe        ,Steel                 ,26.0    ,50.0   ,1280.0 ,No        ,0.0                  ,1996.0
+140 ,Nessie Superrollercoaster             ,Hansa Park                                         ,"Sierksdorf, Schleswig-Holstein"             ,Germany    ,Europe        ,Steel                 ,26.0    ,79.0   ,741.0  ,Yes       ,1.0                  ,1979.0
+141 ,Wicked Twister                        ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,65.532  ,116.64 ,206.0  ,No        ,0.0                  ,2002.0
+142 ,Schweizer Bobbahn                     ,Heide-Park Soltau                                  ,"Soltau, Lower Saxony"                       ,Germany    ,Europe        ,Steel                 ,27.0    ,53.0   ,990.0  ,No        ,0.0                  ,1994.0
+143 ,Screamer                              ,Scandia Amusement Park                             ,Ontario                                      ,USA        ,North America ,Steel                 ,27.432  ,81.0   ,792.0  ,No        ,0.0                  ,1995.0
+144 ,Vortex                                ,California's Great America                         ,Santa Clara                                  ,USA        ,North America ,Steel                 ,27.7368 ,64.8   ,585.0  ,Yes       ,2.0                  ,1991.0
+145 ,Grizzly                               ,California's Great America                         ,Santa Clara                                  ,USA        ,North America ,Wood                  ,27.7368 ,89.1   ,991.0  ,No        ,0.0                  ,1986.0
+146 ,Bandit                                ,Movie Park Germany                                 ,"Bottrop, North Rhine-Westphalia"            ,Germany    ,Europe        ,Wood                  ,27.8    ,80.0   ,1099.0 ,No        ,0.0                  ,1999.0
+147 ,Euro Mir                              ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,28.0    ,80.0   ,980.0  ,No        ,0.0                  ,1997.0
+148 ,Roar                                  ,Six Flags Discovery Kingdom                        ,Vallejo                                      ,USA        ,North America ,Wood                  ,28.6512 ,81.0   ,1003.0 ,No        ,0.0                  ,1999.0
+149 ,Terminator Salvation: The Coaster     ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Wood                  ,28.956  ,81.0   ,877.0  ,No        ,0.0                  ,2009.0
+150 ,Fluch von Novgorod                    ,Hansa Park                                         ,"Sierksdorf, Schleswig-Holstein"             ,Germany    ,Europe        ,Steel                 ,40.0    ,100.0  ,700.0  ,Yes       ,1.0                  ,2009.0
+151 ,Boardwalk Bullet                      ,Kemah Boardwalk                                    ,Kemah                                        ,USA        ,North America ,Wood                  ,29.2608 ,82.62  ,986.0  ,No        ,0.0                  ,2007.0
+152 ,Half Pipe                             ,Elitch Gardens                                     ,Denver                                       ,USA        ,North America ,Steel                 ,29.8704 ,69.66  ,70.0   ,No        ,0.0                  ,2004.0
+153 ,Big Loop                              ,Heide-Park Soltau                                  ,"Soltau, Lower Saxony"                       ,Germany    ,Europe        ,Steel                 ,30.0    ,63.0   ,706.0  ,Yes       ,4.0                  ,1983.0
+154 ,EuroLoop                              ,Europark                                           ,"Vias, Languedoc-Roussillon"                 ,France     ,Europe        ,Steel                 ,30.0    ,65.0   ,750.0  ,Yes       ,4.0                  ,2004.0
+155 ,Atlantica SuperSplash                 ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,30.0    ,80.0   ,390.0  ,No        ,0.0                  ,2005.0
+156 ,Tonnerre de Zeus                      ,Parc Asterix                                       ,"Plailly, Picardie"                          ,France     ,Europe        ,Wood                  ,30.0    ,84.0   ,1233.0 ,No        ,0.0                  ,1997.0
+157 ,Mammut                                ,Erlebnispark Tripsdrill                            ,"Cleebronn, Baden Wuerttemberg"              ,Germany    ,Europe        ,Wood                  ,30.0    ,90.0   ,860.0  ,No        ,0.0                  ,2008.0
+158 ,Legend                                ,Holiday World                                      ,Santa Claus                                  ,USA        ,North America ,Wood                  ,30.1752 ,95.58  ,1232.0 ,No        ,0.0                  ,2000.0
+159 ,Batman The Ride                       ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Steel                 ,30.48   ,81.0   ,823.0  ,Yes       ,5.0                  ,1992.0
+160 ,Viper                                 ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Wood                  ,30.48   ,81.0   ,1054.0 ,No        ,0.0                  ,1995.0
+161 ,Twister II                            ,Elitch Gardens                                     ,Denver                                       ,USA        ,North America ,Wood                  ,30.48   ,89.1   ,1414.0 ,No        ,0.0                  ,1995.0
+162 ,Iron Wolf                             ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Steel                 ,30.48   ,89.1   ,884.0  ,Yes       ,2.0                  ,1990.0
+163 ,Demon                                 ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Steel                 ,31.0896 ,81.0   ,649.0  ,Yes       ,4.0                  ,1976.0
+164 ,Demon                                 ,California's Great America                         ,Santa Clara                                  ,USA        ,North America ,Steel                 ,31.0896 ,81.0   ,649.0  ,Yes       ,4.0                  ,1976.0
+165 ,Flight Deck                           ,California's Great America                         ,Santa Clara                                  ,USA        ,North America ,Steel                 ,31.0896 ,81.0   ,689.0  ,Yes       ,3.0                  ,1993.0
+166 ,Space Mountain: Mission 2             ,Disneyland Resort Paris - Disneyland Park          ,"Marne la Vallee, Ile-de-France"             ,France     ,Europe        ,Steel                 ,32.0    ,71.0   ,1000.0 ,Yes       ,3.0                  ,1995.0
+167 ,Medusa                                ,Six Flags Mexico                                   ,Mexico City                                  ,Mexico     ,Latin America ,Wood                  ,32.0    ,88.5   ,956.0  ,No        ,0.0                  ,2000.0
+168 ,Batman The Ride                       ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Steel                 ,32.004  ,81.0   ,823.0  ,Yes       ,5.0                  ,1999.0
+169 ,Goliath                               ,Six Flags Fiesta Texas                             ,San Antonio                                  ,USA        ,North America ,Steel                 ,32.004  ,81.0   ,821.0  ,Yes       ,5.0                  ,2008.0
+170 ,Batman The Ride                       ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,32.004  ,81.0   ,823.0  ,Yes       ,5.0                  ,1994.0
+171 ,Maverick                              ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,32.004  ,113.4  ,1356.0 ,Yes       ,2.0                  ,2007.0
+172 ,Superman - Ultimate Flight            ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Steel                 ,32.3088 ,82.62  ,853.0  ,Yes       ,2.0                  ,2003.0
+173 ,Great White                           ,SeaWorld San Antonio                               ,San Antonio                                  ,USA        ,North America ,Steel                 ,32.9184 ,81.0   ,781.0  ,Yes       ,5.0                  ,1997.0
+174 ,Unknown                               ,Hopi Hari                                          ,Sao Paulo                                    ,Brazil     ,Latin America ,Steel                 ,33.0    ,85.0   ,875.0  ,Yes       ,10.0                 ,2013.0
+175 ,Mind Eraser                           ,Elitch Gardens                                     ,Denver                                       ,USA        ,North America ,Steel                 ,33.2232 ,79.38  ,689.0  ,Yes       ,5.0                  ,1997.0
+176 ,Kong                                  ,Six Flags Discovery Kingdom                        ,Vallejo                                      ,USA        ,North America ,Steel                 ,33.2232 ,79.38  ,689.0  ,Yes       ,5.0                  ,1998.0
+177 ,Desafio                               ,Parque de la Costa                                 ,"Buenos Aires, BA"                           ,Argentina  ,Latin America ,Steel                 ,33.3    ,80.0   ,689.0  ,Yes       ,5.0                  ,1999.0
+178 ,Firewhip                              ,Beto Carrero World                                 ,"Penha, SC"                                  ,Brazil     ,Latin America ,Steel                 ,33.3    ,80.0   ,689.0  ,Yes       ,5.0                  ,2008.0
+179 ,Raptor                                ,Fantasilandia                                      ,"Santiago, Santiago"                         ,Chile      ,Latin America ,Steel                 ,33.3    ,80.0   ,689.0  ,Yes       ,5.0                  ,2008.0
+180 ,MP-Xpress                             ,Movie Park Germany                                 ,"Bottrop, North Rhine-Westphalia"            ,Germany    ,Europe        ,Steel                 ,33.3    ,80.0   ,689.0  ,Yes       ,5.0                  ,2001.0
+181 ,Limit                                 ,Heide-Park Soltau                                  ,"Soltau, Lower Saxony"                       ,Germany    ,Europe        ,Steel                 ,33.3    ,80.0   ,689.0  ,Yes       ,5.0                  ,1999.0
+182 ,Batman the Ride                       ,Six Flags Mexico                                   ,Mexico City                                  ,Mexico     ,Latin America ,Steel                 ,33.3    ,80.0   ,689.0  ,Yes       ,5.0                  ,2000.0
+183 ,Beast                                 ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Wood                  ,33.528  ,103.68 ,2243.0 ,No        ,0.0                  ,1979.0
+184 ,Montana Infinitum                     ,La Feria Chapultpec                                ,Mexico City                                  ,Mexico     ,Latin America ,Steel                 ,33.8    ,85.3   ,1050.0 ,Yes       ,3.0                  ,2007.0
+185 ,Revolution                            ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,34.4424 ,89.1   ,1054.0 ,Yes       ,1.0                  ,1976.0
+186 ,Firehawk                              ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Steel                 ,35.052  ,81.0   ,1018.0 ,Yes       ,5.0                  ,2007.0
+187 ,Tsunaumi                              ,Isla San Marcos Parque Tematico                    ,Aguascalientes                               ,Mexico     ,Latin America ,Steel                 ,35.1    ,86.9   ,1120.0 ,Yes       ,4.0                  ,2008.0
+188 ,Flashback                             ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Steel                 ,35.3568 ,76.14  ,285.0  ,Yes       ,3.0                  ,1989.0
+189 ,Boomerang                             ,Elitch Gardens                                     ,Denver                                       ,USA        ,North America ,Steel                 ,35.3568 ,76.14  ,285.0  ,Yes       ,3.0                  ,1999.0
+190 ,Boomerang                             ,Six Flags Fiesta Texas                             ,San Antonio                                  ,USA        ,North America ,Steel                 ,35.3568 ,76.14  ,285.0  ,Yes       ,3.0                  ,1999.0
+191 ,Shockwave                             ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Steel                 ,35.3568 ,97.2   ,1097.0 ,Yes       ,2.0                  ,1978.0
+192 ,Tigre                                 ,Parque de la Costa                                 ,"Buenos Aires, BA"                           ,Argentina  ,Latin America ,Steel                 ,35.5    ,75.6   ,285.0  ,Yes       ,3.0                  ,1998.0
+193 ,Boomerang                             ,Playcenter Sao Paulo                               ,Sao Paulo                                    ,Brazil     ,Latin America ,Steel                 ,35.5    ,75.6   ,285.0  ,Yes       ,3.0                  ,1997.0
+194 ,Boomerang                             ,Fantasilandia                                      ,"Santiago, Santiago"                         ,Chile      ,Latin America ,Steel                 ,35.5    ,75.6   ,285.0  ,Yes       ,3.0                  ,1998.0
+195 ,Bumeran                               ,Parque Diversiones                                 ,"San Jose, CR"                               ,Costa Rica ,Latin America ,Steel                 ,35.5    ,75.6   ,285.0  ,Yes       ,3.0                  ,2012.0
+196 ,Boomerang                             ,Freizeit-Land Geiselwind                           ,"Geiselwind, Bavaria"                        ,Germany    ,Europe        ,Steel                 ,35.5    ,75.6   ,285.0  ,Yes       ,3.0                  ,2000.0
+197 ,Boomerang                             ,Walibi Aquitaine                                   ,"Roquefort, Aquitaine"                       ,France     ,Europe        ,Steel                 ,35.5    ,75.6   ,285.0  ,Yes       ,3.0                  ,1992.0
+198 ,Boomerang                             ,Six Flags Mexico                                   ,Mexico City                                  ,Mexico     ,Latin America ,Steel                 ,35.5    ,75.6   ,285.0  ,Yes       ,3.0                  ,1982.0
+199 ,Boomerang                             ,Walibi Rhone-Alpes                                 ,"Les Avenieres, Rhône-Alpes"                 ,France     ,Europe        ,Steel                 ,35.5    ,76.0   ,285.0  ,Yes       ,3.0                  ,1992.0
+200 ,Boomerang                             ,Knott's Berry Farm                                 ,Buena Park                                   ,USA        ,North America ,Steel                 ,35.5092 ,76.14  ,285.0  ,Yes       ,3.0                  ,1990.0
+201 ,Boomerang Coast to Coaster            ,Six Flags Discovery Kingdom                        ,Vallejo                                      ,USA        ,North America ,Steel                 ,35.5092 ,76.14  ,285.0  ,Yes       ,3.0                  ,1998.0
+202 ,GhostRider                            ,Knott's Berry Farm                                 ,Buena Park                                   ,USA        ,North America ,Wood                  ,35.9664 ,90.72  ,1382.0 ,No        ,0.0                  ,1998.0
+203 ,Goudurix                              ,Parc Asterix                                       ,"Plailly, Picardie"                          ,France     ,Europe        ,Steel                 ,36.0    ,90.0   ,950.0  ,Yes       ,7.0                  ,1989.0
+204 ,Aconcagua                             ,Parque de la Ciudad                                ,"Buenos Aires, BA"                           ,Argentina  ,Latin America ,Steel                 ,36.2    ,93.2   ,751.0  ,No        ,0.0                  ,1982.0
+205 ,Vertigorama                           ,Parque de la Ciudad                                ,"Buenos Aires, BA"                           ,Argentina  ,Latin America ,Steel                 ,38.0    ,91.0   ,1816.0 ,No        ,0.0                  ,1983.0
+206 ,blue fire Megacoaster                 ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,38.0    ,100.0  ,1056.0 ,Yes       ,4.0                  ,2009.0
+207 ,Gemini                                ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,38.1    ,97.2   ,1199.0 ,No        ,0.0                  ,1978.0
+208 ,Colossus                              ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Wood                  ,38.1    ,100.44 ,1318.0 ,No        ,0.0                  ,1978.0
+209 ,American Eagle                        ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Wood                  ,38.7096 ,106.92 ,1417.0 ,No        ,0.0                  ,1981.0
+210 ,Invertigo                             ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Steel                 ,39.9288 ,81.0   ,309.0  ,Yes       ,3.0                  ,1999.0
+211 ,Invertigo                             ,California's Great America                         ,Santa Clara                                  ,USA        ,North America ,Steel                 ,39.9288 ,81.0   ,309.0  ,Yes       ,3.0                  ,1998.0
+212 ,Black Mamba                           ,Phantasialand                                      ,"Bruhl, North Rhine-Westphalia"              ,Germany    ,Europe        ,Steel                 ,26.0    ,80.0   ,768.0  ,Yes       ,4.0                  ,2006.0
+213 ,Raptor                                ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,41.7576 ,92.34  ,1155.0 ,Yes       ,6.0                  ,1994.0
+214 ,Katapul                               ,Hopi Hari                                          ,Sao Paulo                                    ,Brazil     ,Latin America ,Steel                 ,42.0    ,85.3   ,220.0  ,Yes       ,1.0                  ,1999.0
+215 ,Montezum                              ,Hopi hari                                          ,Sao Paulo                                    ,Brazil     ,Latin America ,Wood                  ,42.4    ,103.0  ,1030.0 ,No        ,0.0                  ,1999.0
+216 ,Texas Giant                           ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Wood                  ,43.5864 ,100.44 ,1500.0 ,No        ,0.0                  ,1990.0
+217 ,Mantis                                ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,44.196  ,97.2   ,1189.0 ,Yes       ,4.0                  ,1996.0
+218 ,Silver Bullet                         ,Knott's Berry Farm                                 ,Buena Park                                   ,USA        ,North America ,Steel                 ,44.5008 ,89.1   ,953.0  ,Yes       ,6.0                  ,2004.0
+219 ,Montezooma's Revenge                  ,Knott's Berry Farm                                 ,Buena Park                                   ,USA        ,North America ,Steel                 ,45.1104 ,89.1   ,244.0  ,Yes       ,1.0                  ,1978.0
+220 ,Vortex                                ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Steel                 ,45.1104 ,89.1   ,1158.0 ,Yes       ,6.0                  ,1987.0
+221 ,Scream!                               ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,45.72   ,102.06 ,1215.0 ,Yes       ,7.0                  ,2003.0
+222 ,Steel Eel                             ,SeaWorld San Antonio                               ,San Antonio                                  ,USA        ,North America ,Steel                 ,45.72   ,105.3  ,1128.0 ,No        ,0.0                  ,1999.0
+223 ,Medusa                                ,Six Flags Discovery Kingdom                        ,Vallejo                                      ,USA        ,North America ,Steel                 ,45.72   ,105.3  ,1200.0 ,Yes       ,7.0                  ,2000.0
+224 ,V2: Vertical Velocity                 ,Six Flags Discovery Kingdom                        ,Vallejo                                      ,USA        ,North America ,Steel                 ,45.72   ,105.3  ,192.0  ,No        ,0.0                  ,2001.0
+225 ,Sky Wheel                             ,Skyline Park                                       ,"Bad Worishofen, Bavaria"                    ,Germany    ,Europe        ,Steel                 ,46.0    ,105.0  ,150.0  ,Yes       ,2.0                  ,2004.0
+226 ,Riddler's Revenge                     ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,47.5488 ,105.3  ,1332.0 ,Yes       ,6.0                  ,1998.0
+227 ,Mean Streak                           ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Wood                  ,49.0728 ,105.3  ,1654.0 ,No        ,0.0                  ,1991.0
+228 ,Voyage                                ,Holiday World                                      ,Santa Claus                                  ,USA        ,North America ,Wood                  ,49.6824 ,108.54 ,1964.0 ,No        ,0.0                  ,2006.0
+229 ,Superman Krypton Coaster              ,Six Flags Fiesta Texas                             ,San Antonio                                  ,USA        ,North America ,Steel                 ,51.2064 ,113.4  ,1227.0 ,Yes       ,6.0                  ,2000.0
+230 ,Tatsu                                 ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,51.816  ,100.44 ,1098.0 ,Yes       ,4.0                  ,2006.0
+231 ,Expedition GeForce                    ,Holiday Park                                       ,"Hassloch, Rhineland-Palatinate"             ,Germany    ,Europe        ,Steel                 ,53.0    ,120.0  ,1220.0 ,No        ,0.0                  ,2001.0
+232 ,X2                                    ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,53.34   ,123.12 ,1100.0 ,Yes       ,2.0                  ,2002.0
+233 ,Rattler                               ,Six Flags Fiesta Texas                             ,San Antonio                                  ,USA        ,North America ,Wood                  ,54.5592 ,105.3  ,1548.0 ,No        ,0.0                  ,1992.0
+234 ,Vertical Velocity                     ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Steel                 ,56.388  ,113.4  ,192.0  ,No        ,0.0                  ,2001.0
+235 ,Viper                                 ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,57.3024 ,113.4  ,1167.0 ,Yes       ,7.0                  ,1990.0
+236 ,Deja Vu                               ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,58.2168 ,105.3  ,367.0  ,Yes       ,3.0                  ,2001.0
+237 ,Colossos                              ,Heide-Park Soltau                                  ,"Soltau, Lower Saxony"                       ,Germany    ,Europe        ,Wood                  ,60.0    ,120.0  ,1344.0 ,No        ,0.0                  ,2001.0
+238 ,Batman                                ,Beto Carrero World                                 ,"Penha, SC"                                  ,Brazil     ,Latin America ,Steel                 ,61.0    ,104.6  ,347.0  ,Yes       ,1.0                  ,2013.0
+239 ,Robin                                 ,Beto Carrero World                                 ,"Penha, SC"                                  ,Brazil     ,Latin America ,Steel                 ,61.0    ,104.6  ,375.0  ,Yes       ,2.0                  ,2014.0
+240 ,Raging Bull                           ,Six Flags Great America                            ,Gurnee                                       ,USA        ,North America ,Steel                 ,61.5696 ,118.26 ,1541.0 ,No        ,0.0                  ,1999.0
+241 ,Magnum XL-200                         ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,62.484  ,116.64 ,1556.0 ,No        ,0.0                  ,1989.0
+242 ,Xcelerator                            ,Knott's Berry Farm                                 ,Buena Park                                   ,USA        ,North America ,Steel                 ,62.484  ,132.84 ,671.0  ,No        ,0.0                  ,2002.0
+243 ,Steel Hawg                            ,Indiana Beach                                      ,Monticello                                   ,USA        ,North America ,Steel                 ,29.2608 ,66.42  ,823.0  ,Yes       ,2.0                  ,2008.0
+244 ,Mr. Freeze                            ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Steel                 ,66.4464 ,113.4  ,396.0  ,Yes       ,1.0                  ,1998.0
+245 ,Son Of Beast                          ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Wood                  ,66.4464 ,126.36 ,2143.0 ,Yes       ,1.0                  ,2000.0
+246 ,Supermanel el ultimo Escape           ,Six Flags Mexico                                   ,Mexico City                                  ,Mexico     ,Latin America ,Steel                 ,67.0    ,120.0  ,1700.0 ,No        ,0.0                  ,2004.0
+247 ,Diamondback                           ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Steel                 ,70.104  ,129.6  ,1610.0 ,No        ,0.0                  ,2009.0
+248 ,Goliath                               ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,71.628  ,137.7  ,1372.0 ,No        ,0.0                  ,2000.0
+249 ,Silver Star                           ,Europa Park                                        ,"Rust, Baden Wuerttemberg"                   ,Germany    ,Europe        ,Steel                 ,73.0    ,127.0  ,1620.0 ,No        ,0.0                  ,2002.0
+250 ,Titan                                 ,Six Flags Over Texas                               ,Arlington                                    ,USA        ,North America ,Steel                 ,74.676  ,137.7  ,1619.0 ,No        ,0.0                  ,2001.0
+251 ,Millennium Force                      ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,94.488  ,150.66 ,2010.0 ,No        ,0.0                  ,2000.0
+252 ,Superman The Escape                   ,Six Flags Magic Mountain                           ,Valencia                                     ,USA        ,North America ,Steel                 ,126.492 ,162.0  ,376.0  ,No        ,0.0                  ,1997.0
+253 ,Top Thrill Dragster                   ,Cedar Point                                        ,Sandusky                                     ,USA        ,North America ,Steel                 ,128.016 ,194.4  ,853.0  ,No        ,0.0                  ,2003.0
+254 ,Mulholland Madness                    ,Disney's California Adventure                      ,Anaheim                                      ,USA        ,North America ,Steel                 ,17.0    ,43.74  ,370.0  ,No        ,0.0                  ,2001.0
+255 ,Avalancha                             ,Xetulul                                            ,"Retalhuleu, Guatemala"                      ,Guatemala  ,Latin America ,Steel                 ,31.0    ,88.0   ,823.0  ,Yes       ,8.0                  ,2002.0
+256 ,California Screamin'                  ,Disney's California Adventure                      ,Anaheim                                      ,USA        ,North America ,Steel                 ,36.576  ,89.1   ,1851.0 ,Yes       ,1.0                  ,2001.0
+257 ,Racer                                 ,Kings Island                                       ,Kings Mills                                  ,USA        ,North America ,Wood                  ,26.8    ,98.82  ,1041.0 ,No        ,0.0                  ,1972.0

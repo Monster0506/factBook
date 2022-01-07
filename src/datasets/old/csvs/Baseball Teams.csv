@@ -1,0 +1,2527 @@
+id,Year,Rank,Home Games,Team Name,Baseball Field,Team ID
+1,1901.0,5.0,66.0,Baltimore Orioles,Oriole Park,BLA
+2,1901.0,2.0,69.0,Boston Americans,Huntington Avenue Grounds,BOS
+3,1901.0,3.0,68.0,Brooklyn Superbas,Washington Park III,BRO
+4,1901.0,5.0,70.0,Boston Beaneaters,South End Grounds III,BSN
+5,1901.0,1.0,71.0,Chicago White Sox,South Side Park II,CHW
+6,1901.0,6.0,70.0,Chicago Orphans,West Side Park II,CHC
+7,1901.0,8.0,72.0,Cincinnati Reds,League Park II in Cincinnati,CIN
+8,1901.0,7.0,69.0,Cleveland Blues,League Park I,CLE
+9,1901.0,3.0,70.0,Detroit Tigers,Bennett Park,DET
+10,1901.0,8.0,70.0,Milwaukee Brewers,Lloyd Street Grounds,MLA
+11,1901.0,7.0,71.0,New York Giants,Polo Grounds III,NYG
+12,1901.0,4.0,66.0,Philadelphia Athletics,Columbia Park,PHA
+13,1901.0,2.0,69.0,Philadelphia Phillies,Baker Bowl,PHI
+14,1901.0,1.0,69.0,Pittsburgh Pirates,Exposition Park,PIT
+15,1901.0,4.0,72.0,St. Louis Cardinals,Robison Field,STL
+16,1901.0,6.0,68.0,Washington Senators,American League Park I,WSH
+17,1902.0,8.0,64.0,Baltimore Orioles,Oriole Park,BLA
+18,1902.0,3.0,71.0,Boston Americans,Huntington Avenue Grounds,BOS
+19,1902.0,2.0,69.0,Brooklyn Superbas,Washington Park III,BRO
+20,1902.0,3.0,72.0,Boston Beaneaters,South End Grounds III,BSN
+21,1902.0,4.0,72.0,Chicago White Sox,South Side Park II,CHW
+22,1902.0,5.0,70.0,Chicago Orphans,West Side Park II,CHC
+23,1902.0,4.0,70.0,Cincinnati Reds,Palace of the Fans,CIN
+24,1902.0,5.0,65.0,Cleveland Bronchos,League Park I,CLE
+25,1902.0,7.0,67.0,Detroit Tigers,Bennett Park,DET
+26,1902.0,8.0,71.0,New York Giants,Polo Grounds III,NYG
+27,1902.0,1.0,73.0,Philadelphia Athletics,Columbia Park,PHA
+28,1902.0,7.0,69.0,Philadelphia Phillies,Baker Bowl,PHI
+29,1902.0,1.0,71.0,Pittsburgh Pirates,Exposition Park,PIT
+30,1902.0,2.0,73.0,St. Louis Browns,Sportsman's Park III,SLB
+31,1902.0,6.0,70.0,St. Louis Cardinals,Robison Field,STL
+32,1902.0,6.0,68.0,Washington Senators,American League Park I,WSH
+33,1903.0,1.0,70.0,Boston Americans,Huntington Avenue Grounds,BOS
+34,1903.0,5.0,73.0,Brooklyn Superbas,Washington Park III,BRO
+35,1903.0,6.0,68.0,Boston Beaneaters,South End Grounds III,BSN
+36,1903.0,7.0,70.0,Chicago White Sox,South Side Park II,CHW
+37,1903.0,3.0,73.0,Chicago Cubs,West Side Park II,CHC
+38,1903.0,4.0,76.0,Cincinnati Reds,Palace of the Fans,CIN
+39,1903.0,3.0,74.0,Cleveland Naps,League Park I,CLE
+40,1903.0,5.0,65.0,Detroit Tigers,Bennett Park,DET
+41,1903.0,2.0,70.0,New York Giants,Polo Grounds III,NYG
+42,1903.0,4.0,67.0,New York Highlanders,Hilltop Park,NYY
+43,1903.0,2.0,67.0,Philadelphia Athletics,Columbia Park,PHA
+44,1903.0,7.0,61.0,Philadelphia Phillies,Baker Bowl,PHI
+45,1903.0,1.0,70.0,Pittsburgh Pirates,Exposition Park,PIT
+46,1903.0,6.0,70.0,St. Louis Browns,Sportsman's Park III,SLB
+47,1903.0,8.0,69.0,St. Louis Cardinals,Robison Field,STL
+48,1903.0,8.0,71.0,Washington Senators,American League Park I,WSH
+49,1904.0,1.0,81.0,Boston Americans,Huntington Avenue Grounds,BOS
+50,1904.0,6.0,76.0,Brooklyn Superbas,Washington Park III,BRO
+51,1904.0,7.0,79.0,Boston Beaneaters,South End Grounds III,BSN
+52,1904.0,3.0,78.0,Chicago White Sox,South Side Park II,CHW
+53,1904.0,2.0,78.0,Chicago Cubs,West Side Park II,CHC
+54,1904.0,3.0,79.0,Cincinnati Reds,Palace of the Fans,CIN
+55,1904.0,4.0,78.0,Cleveland Naps,League Park I,CLE
+56,1904.0,7.0,79.0,Detroit Tigers,Bennett Park,DET
+57,1904.0,1.0,84.0,New York Giants,Polo Grounds III,NYG
+58,1904.0,2.0,75.0,New York Highlanders,Hilltop Park,NYY
+59,1904.0,5.0,79.0,Philadelphia Athletics,Columbia Park,PHA
+60,1904.0,8.0,73.0,Philadelphia Phillies,Baker Bowl,PHI
+61,1904.0,4.0,78.0,Pittsburgh Pirates,Exposition Park,PIT
+62,1904.0,6.0,78.0,St. Louis Browns,Sportsman's Park III,SLB
+63,1904.0,5.0,76.0,St. Louis Cardinals,Robison Field,STL
+64,1904.0,8.0,78.0,Washington Senators,American League Park II,WSH
+65,1905.0,4.0,77.0,Boston Americans,Huntington Avenue Grounds,BOS
+66,1905.0,8.0,77.0,Brooklyn Superbas,Washington Park III,BRO
+67,1905.0,7.0,76.0,Boston Beaneaters,South End Grounds III,BSN
+68,1905.0,2.0,82.0,Chicago White Sox,South Side Park II,CHW
+69,1905.0,3.0,81.0,Chicago Cubs,West Side Park II,CHC
+70,1905.0,5.0,79.0,Cincinnati Reds,Palace of the Fans,CIN
+71,1905.0,5.0,77.0,Cleveland Naps,League Park I,CLE
+72,1905.0,3.0,76.0,Detroit Tigers,Bennett Park,DET
+73,1905.0,1.0,76.0,New York Giants,Polo Grounds III,NYG
+74,1905.0,6.0,75.0,New York Highlanders,Hilltop Park,NYY
+75,1905.0,1.0,74.0,Philadelphia Athletics,Columbia Park,PHA
+76,1905.0,4.0,76.0,Philadelphia Phillies,Baker Bowl,PHI
+77,1905.0,2.0,78.0,Pittsburgh Pirates,Exposition Park,PIT
+78,1905.0,8.0,79.0,St. Louis Browns,Sportsman's Park III,SLB
+79,1905.0,6.0,77.0,St. Louis Cardinals,Robison Field,STL
+80,1905.0,7.0,77.0,Washington Senators,American League Park II,WSH
+81,1906.0,8.0,77.0,Boston Americans,Huntington Avenue Grounds,BOS
+82,1906.0,5.0,76.0,Brooklyn Superbas,Washington Park III,BRO
+83,1906.0,8.0,76.0,Boston Beaneaters,South End Grounds III,BSN
+84,1906.0,1.0,79.0,Chicago White Sox,South Side Park II,CHW
+85,1906.0,1.0,79.0,Chicago Cubs,West Side Park II,CHC
+86,1906.0,6.0,78.0,Cincinnati Reds,Palace of the Fans,CIN
+87,1906.0,3.0,79.0,Cleveland Naps,League Park I,CLE
+88,1906.0,6.0,78.0,Detroit Tigers,Bennett Park,DET
+89,1906.0,2.0,75.0,New York Giants,Polo Grounds III,NYG
+90,1906.0,2.0,76.0,New York Highlanders,Hilltop Park,NYY
+91,1906.0,4.0,73.0,Philadelphia Athletics,Columbia Park,PHA
+92,1906.0,4.0,77.0,Philadelphia Phillies,Baker Bowl,PHI
+93,1906.0,3.0,77.0,Pittsburgh Pirates,Exposition Park,PIT
+94,1906.0,5.0,76.0,St. Louis Browns,Sportsman's Park III,SLB
+95,1906.0,7.0,77.0,St. Louis Cardinals,Robison Field,STL
+96,1906.0,7.0,75.0,Washington Senators,American League Park II,WSH
+97,1907.0,7.0,78.0,Boston Americans,Huntington Avenue Grounds,BOS
+98,1907.0,5.0,77.0,Brooklyn Superbas,Washington Park III,BRO
+99,1907.0,7.0,74.0,Boston Doves,South End Grounds III,BSN
+100,1907.0,3.0,79.0,Chicago White Sox,South Side Park II,CHW
+101,1907.0,1.0,76.0,Chicago Cubs,West Side Park II,CHC
+102,1907.0,6.0,81.0,Cincinnati Reds,Palace of the Fans,CIN
+103,1907.0,4.0,82.0,Cleveland Naps,League Park I,CLE
+104,1907.0,1.0,79.0,Detroit Tigers,Bennett Park,DET
+105,1907.0,4.0,77.0,New York Giants,Polo Grounds III,NYG
+106,1907.0,5.0,75.0,New York Highlanders,Hilltop Park,NYY
+107,1907.0,2.0,73.0,Philadelphia Athletics,Columbia Park,PHA
+108,1907.0,3.0,75.0,Philadelphia Phillies,Baker Bowl,PHI
+109,1907.0,2.0,77.0,Pittsburgh Pirates,Exposition Park,PIT
+110,1907.0,6.0,76.0,St. Louis Browns,Sportsman's Park III,SLB
+111,1907.0,8.0,79.0,St. Louis Cardinals,Robison Field,STL
+112,1907.0,8.0,75.0,Washington Senators,American League Park II,WSH
+113,1908.0,5.0,77.0,Boston Red Sox,Huntington Avenue Grounds,BOS
+114,1908.0,7.0,77.0,Brooklyn Superbas,Washington Park III,BRO
+115,1908.0,6.0,78.0,Boston Doves,South End Grounds III,BSN
+116,1908.0,3.0,78.0,Chicago White Sox,South Side Park II,CHW
+117,1908.0,1.0,78.0,Chicago Cubs,West Side Park II,CHC
+118,1908.0,5.0,77.0,Cincinnati Reds,Palace of the Fans,CIN
+119,1908.0,2.0,78.0,Cleveland Naps,League Park I,CLE
+120,1908.0,1.0,78.0,Detroit Tigers,Bennett Park,DET
+121,1908.0,2.0,80.0,New York Giants,Polo Grounds III,NYG
+122,1908.0,8.0,77.0,New York Highlanders,Hilltop Park,NYY
+123,1908.0,6.0,78.0,Philadelphia Athletics,Columbia Park,PHA
+124,1908.0,4.0,78.0,Philadelphia Phillies,Baker Bowl,PHI
+125,1908.0,2.0,77.0,Pittsburgh Pirates,Exposition Park,PIT
+126,1908.0,4.0,78.0,St. Louis Browns,Sportsman's Park III,SLB
+127,1908.0,8.0,77.0,St. Louis Cardinals,Robison Field,STL
+128,1908.0,7.0,78.0,Washington Senators,American League Park II,WSH
+129,1909.0,3.0,75.0,Boston Red Sox,Huntington Avenue Grounds,BOS
+130,1909.0,6.0,79.0,Brooklyn Superbas,Washington Park III,BRO
+131,1909.0,8.0,76.0,Boston Doves,South End Grounds III,BSN
+132,1909.0,4.0,81.0,Chicago White Sox,South Side Park II,CHW
+133,1909.0,2.0,77.0,Chicago Cubs,West Side Park II,CHC
+134,1909.0,4.0,80.0,Cincinnati Reds,Palace of the Fans,CIN
+135,1909.0,6.0,77.0,Cleveland Naps,League Park I,CLE
+136,1909.0,1.0,78.0,Detroit Tigers,Bennett Park,DET
+137,1909.0,3.0,77.0,New York Giants,Polo Grounds III,NYG
+138,1909.0,5.0,77.0,New York Highlanders,Hilltop Park,NYY
+139,1909.0,2.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+140,1909.0,5.0,77.0,Philadelphia Phillies,Baker Bowl,PHI
+141,1909.0,1.0,78.0,Pittsburgh Pirates,Exposition Park/Forbes Field,PIT
+142,1909.0,7.0,79.0,St. Louis Browns,Sportsman's Park IV,SLB
+143,1909.0,7.0,76.0,St. Louis Cardinals,Robison Field,STL
+144,1909.0,8.0,77.0,Washington Senators,American League Park II,WSH
+145,1910.0,4.0,80.0,Boston Red Sox,Huntington Avenue Grounds,BOS
+146,1910.0,6.0,80.0,Brooklyn Superbas,Washington Park III,BRO
+147,1910.0,8.0,78.0,Boston Doves,South End Grounds III,BSN
+148,1910.0,6.0,79.0,Chicago White Sox,South Side Park II/Comiskey Park,CHW
+149,1910.0,1.0,77.0,Chicago Cubs,West Side Park II,CHC
+150,1910.0,5.0,77.0,Cincinnati Reds,Palace of the Fans,CIN
+151,1910.0,5.0,80.0,Cleveland Naps,League Park II,CLE
+152,1910.0,3.0,78.0,Detroit Tigers,Bennett Park,DET
+153,1910.0,2.0,79.0,New York Giants,Polo Grounds III,NYG
+154,1910.0,2.0,77.0,New York Highlanders,Hilltop Park,NYY
+155,1910.0,1.0,78.0,Philadelphia Athletics,Shibe Park,PHA
+156,1910.0,4.0,78.0,Philadelphia Phillies,Baker Bowl,PHI
+157,1910.0,3.0,76.0,Pittsburgh Pirates,Forbes Field,PIT
+158,1910.0,8.0,79.0,St. Louis Browns,Sportsman's Park IV,SLB
+159,1910.0,7.0,76.0,St. Louis Cardinals,Robison Field,STL
+160,1910.0,7.0,77.0,Washington Senators,American League Park II,WSH
+161,1911.0,4.0,76.0,Boston Red Sox,Huntington Avenue Grounds,BOS
+162,1911.0,7.0,74.0,Brooklyn Dodgers,Washington Park III,BRO
+163,1911.0,8.0,75.0,Boston Rustlers,South End Grounds III,BSN
+164,1911.0,5.0,78.0,Chicago White Sox,Comiskey Park,CHW
+165,1911.0,2.0,84.0,Chicago Cubs,West Side Park II,CHC
+166,1911.0,6.0,82.0,Cincinnati Reds,Palace of the Fans,CIN
+167,1911.0,3.0,77.0,Cleveland Naps,League Park II,CLE
+168,1911.0,2.0,76.0,Detroit Tigers,Bennett Park,DET
+169,1911.0,1.0,75.0,New York Giants,Polo Grounds III/Polo Grounds IV,NYG
+170,1911.0,6.0,77.0,New York Highlanders,Hilltop Park,NYY
+171,1911.0,1.0,75.0,Philadelphia Athletics,Shibe Park,PHA
+172,1911.0,4.0,76.0,Philadelphia Phillies,Baker Bowl,PHI
+173,1911.0,3.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+174,1911.0,8.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+175,1911.0,5.0,79.0,St. Louis Cardinals,Robison Field,STL
+176,1911.0,7.0,77.0,Washington Senators,Griffith Stadium I,WSH
+177,1912.0,1.0,78.0,Boston Red Sox,Fenway Park I,BOS
+178,1912.0,7.0,76.0,Brooklyn Dodgers,Washington Park III,BRO
+179,1912.0,8.0,79.0,Boston Braves,South End Grounds III,BSN
+180,1912.0,4.0,78.0,Chicago White Sox,Comiskey Park,CHW
+181,1912.0,3.0,78.0,Chicago Cubs,West Side Park II,CHC
+182,1912.0,4.0,77.0,Cincinnati Reds,Crosley Field,CIN
+183,1912.0,5.0,77.0,Cleveland Naps,League Park II,CLE
+184,1912.0,6.0,76.0,Detroit Tigers,Navin Field,DET
+185,1912.0,1.0,76.0,New York Giants,Polo Grounds IV,NYG
+186,1912.0,8.0,76.0,New York Highlanders,Hilltop Park,NYY
+187,1912.0,3.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+188,1912.0,5.0,75.0,Philadelphia Phillies,Baker Bowl,PHI
+189,1912.0,2.0,75.0,Pittsburgh Pirates,Forbes Field,PIT
+190,1912.0,7.0,79.0,St. Louis Browns,Sportsman's Park IV,SLB
+191,1912.0,6.0,77.0,St. Louis Cardinals,Robison Field,STL
+192,1912.0,2.0,78.0,Washington Senators,Griffith Stadium I,WSH
+193,1913.0,4.0,75.0,Boston Red Sox,Fenway Park I,BOS
+194,1913.0,6.0,77.0,Brooklyn Superbas,Ebbets Field,BRO
+195,1913.0,5.0,77.0,Boston Braves,South End Grounds III,BSN
+196,1913.0,5.0,77.0,Chicago White Sox,Comiskey Park,CHW
+197,1913.0,3.0,76.0,Chicago Cubs,West Side Park II,CHC
+198,1913.0,7.0,78.0,Cincinnati Reds,Crosley Field,CIN
+199,1913.0,3.0,80.0,Cleveland Naps,League Park II,CLE
+200,1913.0,6.0,76.0,Detroit Tigers,Navin Field,DET
+201,1913.0,1.0,81.0,New York Giants,Polo Grounds IV,NYG
+202,1913.0,7.0,75.0,New York Yankees,Polo Grounds IV,NYY
+203,1913.0,1.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+204,1913.0,2.0,78.0,Philadelphia Phillies,Baker Bowl,PHI
+205,1913.0,4.0,79.0,Pittsburgh Pirates,Forbes Field,PIT
+206,1913.0,8.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+207,1913.0,8.0,74.0,St. Louis Cardinals,Robison Field,STL
+208,1913.0,2.0,78.0,Washington Senators,Griffith Stadium I,WSH
+209,1914.0,2.0,79.0,Boston Red Sox,Fenway Park I,BOS
+210,1914.0,5.0,79.0,Brooklyn Robins,Ebbets Field,BRO
+211,1914.0,1.0,79.0,Boston Braves,South End Grounds III,BSN
+212,1914.0,6.0,81.0,Chicago White Sox,Comiskey Park,CHW
+213,1914.0,4.0,76.0,Chicago Cubs,West Side Park II,CHC
+214,1914.0,8.0,77.0,Cincinnati Reds,Crosley Field,CIN
+215,1914.0,8.0,79.0,Cleveland Naps,League Park II,CLE
+216,1914.0,4.0,78.0,Detroit Tigers,Navin Field,DET
+217,1914.0,2.0,80.0,New York Giants,Polo Grounds IV,NYG
+218,1914.0,6.0,78.0,New York Yankees,Polo Grounds IV,NYY
+219,1914.0,1.0,78.0,Philadelphia Athletics,Shibe Park,PHA
+220,1914.0,6.0,78.0,Philadelphia Phillies,Baker Bowl,PHI
+221,1914.0,7.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+222,1914.0,5.0,81.0,St. Louis Browns,Sportsman's Park IV,SLB
+223,1914.0,3.0,79.0,St. Louis Cardinals,Robison Field,STL
+224,1914.0,3.0,77.0,Washington Senators,Griffith Stadium I,WSH
+225,1915.0,1.0,76.0,Boston Red Sox,Fenway Park I,BOS
+226,1915.0,3.0,78.0,Brooklyn Robins,Ebbets Field,BRO
+227,1915.0,2.0,78.0,Boston Braves,Fenway Park I / Braves Field,BSN
+228,1915.0,3.0,79.0,Chicago White Sox,Comiskey Park,CHW
+229,1915.0,4.0,77.0,Chicago Cubs,West Side Park II,CHC
+230,1915.0,7.0,79.0,Cincinnati Reds,Crosley Field,CIN
+231,1915.0,7.0,77.0,Cleveland Indians,League Park II,CLE
+232,1915.0,2.0,77.0,Detroit Tigers,Navin Field,DET
+233,1915.0,8.0,76.0,New York Giants,Polo Grounds IV,NYG
+234,1915.0,5.0,82.0,New York Yankees,Polo Grounds IV,NYY
+235,1915.0,8.0,74.0,Philadelphia Athletics,Shibe Park,PHA
+236,1915.0,1.0,76.0,Philadelphia Phillies,Baker Bowl,PHI
+237,1915.0,5.0,79.0,Pittsburgh Pirates,Forbes Field,PIT
+238,1915.0,6.0,76.0,St. Louis Browns,Sportsman's Park IV,SLB
+239,1915.0,6.0,81.0,St. Louis Cardinals,Robison Field,STL
+240,1915.0,4.0,80.0,Washington Senators,Griffith Stadium I,WSH
+241,1916.0,1.0,78.0,Boston Red Sox,Fenway Park I,BOS
+242,1916.0,1.0,78.0,Brooklyn Robins,Ebbets Field,BRO
+243,1916.0,3.0,78.0,Boston Braves,Braves Field,BSN
+244,1916.0,2.0,77.0,Chicago White Sox,Comiskey Park,CHW
+245,1916.0,5.0,79.0,Chicago Cubs,Wrigley Field,CHC
+246,1916.0,7.0,76.0,Cincinnati Reds,Crosley Field,CIN
+247,1916.0,6.0,78.0,Cleveland Indians,League Park II,CLE
+248,1916.0,3.0,77.0,Detroit Tigers,Navin Field,DET
+249,1916.0,4.0,78.0,New York Giants,Polo Grounds IV,NYG
+250,1916.0,4.0,79.0,New York Yankees,Polo Grounds IV,NYY
+251,1916.0,8.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+252,1916.0,2.0,79.0,Philadelphia Phillies,Baker Bowl,PHI
+253,1916.0,6.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+254,1916.0,5.0,79.0,St. Louis Browns,Sportsman's Park IV,SLB
+255,1916.0,7.0,76.0,St. Louis Cardinals,Robison Field,STL
+256,1916.0,7.0,81.0,Washington Senators,Griffith Stadium I,WSH
+257,1917.0,2.0,80.0,Boston Red Sox,Fenway Park I,BOS
+258,1917.0,7.0,78.0,Brooklyn Robins,Ebbets Field,BRO
+259,1917.0,6.0,77.0,Boston Braves,Braves Field,BSN
+260,1917.0,1.0,79.0,Chicago White Sox,Comiskey Park,CHW
+261,1917.0,5.0,77.0,Chicago Cubs,Wrigley Field,CHC
+262,1917.0,4.0,80.0,Cincinnati Reds,Crosley Field,CIN
+263,1917.0,3.0,78.0,Cleveland Indians,League Park II,CLE
+264,1917.0,4.0,76.0,Detroit Tigers,Navin Field,DET
+265,1917.0,1.0,80.0,New York Giants,Polo Grounds IV,NYG
+266,1917.0,6.0,75.0,New York Yankees,Polo Grounds IV,NYY
+267,1917.0,8.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+268,1917.0,2.0,76.0,Philadelphia Phillies,Baker Bowl,PHI
+269,1917.0,8.0,79.0,Pittsburgh Pirates,Forbes Field,PIT
+270,1917.0,7.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+271,1917.0,3.0,78.0,St. Louis Cardinals,Robison Field,STL
+272,1917.0,5.0,80.0,Washington Senators,Griffith Stadium I,WSH
+273,1918.0,1.0,70.0,Boston Red Sox,Fenway Park I,BOS
+274,1918.0,5.0,54.0,Brooklyn Robins,Ebbets Field,BRO
+275,1918.0,7.0,52.0,Boston Braves,Braves Field,BSN
+276,1918.0,6.0,56.0,Chicago White Sox,Comiskey Park,CHW
+277,1918.0,1.0,74.0,Chicago Cubs,Wrigley Field,CHC
+278,1918.0,3.0,71.0,Cincinnati Reds,Crosley Field,CIN
+279,1918.0,2.0,62.0,Cleveland Indians,League Park II,CLE
+280,1918.0,7.0,58.0,Detroit Tigers,Navin Field,DET
+281,1918.0,2.0,56.0,New York Giants,Polo Grounds IV,NYG
+282,1918.0,4.0,67.0,New York Yankees,Polo Grounds IV,NYY
+283,1918.0,8.0,68.0,Philadelphia Athletics,Shibe Park,PHA
+284,1918.0,6.0,57.0,Philadelphia Phillies,Baker Bowl,PHI
+285,1918.0,4.0,71.0,Pittsburgh Pirates,Forbes Field,PIT
+286,1918.0,5.0,53.0,St. Louis Browns,Sportsman's Park IV,SLB
+287,1918.0,8.0,73.0,St. Louis Cardinals,Robison Field,STL
+288,1918.0,3.0,74.0,Washington Senators,Griffith Stadium I,WSH
+289,1919.0,6.0,66.0,Boston Red Sox,Fenway Park I,BOS
+290,1919.0,5.0,70.0,Brooklyn Robins,Ebbets Field,BRO
+291,1919.0,6.0,68.0,Boston Braves,Braves Field,BSN
+292,1919.0,1.0,70.0,Chicago White Sox,Comiskey Park,CHW
+293,1919.0,3.0,71.0,Chicago Cubs,Wrigley Field,CHC
+294,1919.0,1.0,70.0,Cincinnati Reds,Crosley Field,CIN
+295,1919.0,2.0,69.0,Cleveland Indians,League Park II,CLE
+296,1919.0,4.0,70.0,Detroit Tigers,Navin Field,DET
+297,1919.0,2.0,69.0,New York Giants,Polo Grounds IV,NYG
+298,1919.0,3.0,73.0,New York Yankees,Polo Grounds IV,NYY
+299,1919.0,8.0,70.0,Philadelphia Athletics,Shibe Park,PHA
+300,1919.0,8.0,71.0,Philadelphia Phillies,Baker Bowl,PHI
+301,1919.0,4.0,70.0,Pittsburgh Pirates,Forbes Field,PIT
+302,1919.0,5.0,70.0,St. Louis Browns,Sportsman's Park IV,SLB
+303,1919.0,7.0,69.0,St. Louis Cardinals,Robison Field,STL
+304,1919.0,7.0,72.0,Washington Senators,Griffith Stadium I,WSH
+305,1920.0,5.0,76.0,Boston Red Sox,Fenway Park I,BOS
+306,1920.0,1.0,78.0,Brooklyn Robins,Ebbets Field,BRO
+307,1920.0,7.0,74.0,Boston Braves,Braves Field,BSN
+308,1920.0,2.0,77.0,Chicago White Sox,Comiskey Park,CHW
+309,1920.0,5.0,77.0,Chicago Cubs,Wrigley Field,CHC
+310,1920.0,3.0,77.0,Cincinnati Reds,Crosley Field,CIN
+311,1920.0,1.0,78.0,Cleveland Indians,League Park II,CLE
+312,1920.0,7.0,78.0,Detroit Tigers,Navin Field,DET
+313,1920.0,2.0,80.0,New York Giants,Polo Grounds IV,NYG
+314,1920.0,3.0,77.0,New York Yankees,Polo Grounds IV,NYY
+315,1920.0,8.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+316,1920.0,8.0,77.0,Philadelphia Phillies,Baker Bowl,PHI
+317,1920.0,4.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+318,1920.0,4.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+319,1920.0,5.0,76.0,St. Louis Cardinals,Robison Field/Sportsman's Park IV,STL
+320,1920.0,6.0,76.0,Washington Senators,Griffith Stadium I,WSH
+321,1921.0,5.0,77.0,Boston Red Sox,Fenway Park I,BOS
+322,1921.0,5.0,78.0,Brooklyn Robins,Ebbets Field,BRO
+323,1921.0,4.0,74.0,Boston Braves,Braves Field,BSN
+324,1921.0,7.0,77.0,Chicago White Sox,Comiskey Park,CHW
+325,1921.0,7.0,76.0,Chicago Cubs,Wrigley Field,CHC
+326,1921.0,6.0,76.0,Cincinnati Reds,Crosley Field,CIN
+327,1921.0,2.0,77.0,Cleveland Indians,League Park II,CLE
+328,1921.0,6.0,77.0,Detroit Tigers,Navin Field,DET
+329,1921.0,1.0,79.0,New York Giants,Polo Grounds IV,NYG
+330,1921.0,1.0,78.0,New York Yankees,Polo Grounds IV,NYY
+331,1921.0,8.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+332,1921.0,8.0,76.0,Philadelphia Phillies,Baker Bowl,PHI
+333,1921.0,2.0,76.0,Pittsburgh Pirates,Forbes Field,PIT
+334,1921.0,3.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+335,1921.0,3.0,78.0,St. Louis Cardinals,Sportsman's Park IV,STL
+336,1921.0,4.0,76.0,Washington Senators,Griffith Stadium I,WSH
+337,1922.0,8.0,73.0,Boston Red Sox,Fenway Park I,BOS
+338,1922.0,6.0,78.0,Brooklyn Robins,Ebbets Field,BRO
+339,1922.0,8.0,76.0,Boston Braves,Braves Field,BSN
+340,1922.0,5.0,77.0,Chicago White Sox,Comiskey Park,CHW
+341,1922.0,5.0,76.0,Chicago Cubs,Wrigley Field,CHC
+342,1922.0,2.0,79.0,Cincinnati Reds,Crosley Field,CIN
+343,1922.0,4.0,80.0,Cleveland Indians,League Park II,CLE
+344,1922.0,3.0,77.0,Detroit Tigers,Navin Field,DET
+345,1922.0,1.0,79.0,New York Giants,Polo Grounds IV,NYG
+346,1922.0,1.0,77.0,New York Yankees,Polo Grounds IV,NYY
+347,1922.0,7.0,78.0,Philadelphia Athletics,Shibe Park,PHA
+348,1922.0,7.0,77.0,Philadelphia Phillies,Baker Bowl,PHI
+349,1922.0,3.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+350,1922.0,2.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+351,1922.0,3.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+352,1922.0,6.0,79.0,Washington Senators,Griffith Stadium I,WSH
+353,1923.0,8.0,78.0,Boston Red Sox,Fenway Park I,BOS
+354,1923.0,6.0,78.0,Brooklyn Robins,Ebbets Field,BRO
+355,1923.0,7.0,77.0,Boston Braves,Braves Field,BSN
+356,1923.0,7.0,75.0,Chicago White Sox,Comiskey Park,CHW
+357,1923.0,4.0,77.0,Chicago Cubs,Wrigley Field,CHC
+358,1923.0,2.0,78.0,Cincinnati Reds,Crosley Field,CIN
+359,1923.0,3.0,78.0,Cleveland Indians,League Park II,CLE
+360,1923.0,2.0,77.0,Detroit Tigers,Navin Field,DET
+361,1923.0,1.0,77.0,New York Giants,Polo Grounds IV,NYG
+362,1923.0,1.0,76.0,New York Yankees,Yankee Stadium I,NYY
+363,1923.0,6.0,75.0,Philadelphia Athletics,Shibe Park,PHA
+364,1923.0,8.0,75.0,Philadelphia Phillies,Baker Bowl,PHI
+365,1923.0,3.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+366,1923.0,5.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+367,1923.0,5.0,78.0,St. Louis Cardinals,Sportsman's Park IV,STL
+368,1923.0,4.0,79.0,Washington Senators,Griffith Stadium I,WSH
+369,1924.0,7.0,77.0,Boston Red Sox,Fenway Park I,BOS
+370,1924.0,2.0,77.0,Brooklyn Robins,Ebbets Field,BRO
+371,1924.0,8.0,76.0,Boston Braves,Braves Field,BSN
+372,1924.0,8.0,77.0,Chicago White Sox,Comiskey Park,CHW
+373,1924.0,5.0,78.0,Chicago Cubs,Wrigley Field,CHC
+374,1924.0,4.0,76.0,Cincinnati Reds,Crosley Field,CIN
+375,1924.0,6.0,75.0,Cleveland Indians,League Park II,CLE
+376,1924.0,3.0,78.0,Detroit Tigers,Navin Field,DET
+377,1924.0,1.0,77.0,New York Giants,Polo Grounds IV,NYG
+378,1924.0,2.0,78.0,New York Yankees,Yankee Stadium I,NYY
+379,1924.0,5.0,75.0,Philadelphia Athletics,Shibe Park,PHA
+380,1924.0,7.0,76.0,Philadelphia Phillies,Baker Bowl,PHI
+381,1924.0,3.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+382,1924.0,4.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+383,1924.0,6.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+384,1924.0,1.0,79.0,Washington Senators,Griffith Stadium I,WSH
+385,1925.0,8.0,75.0,Boston Red Sox,Fenway Park I,BOS
+386,1925.0,6.0,77.0,Brooklyn Robins,Ebbets Field,BRO
+387,1925.0,5.0,76.0,Boston Braves,Braves Field,BSN
+388,1925.0,5.0,77.0,Chicago White Sox,Comiskey Park,CHW
+389,1925.0,8.0,77.0,Chicago Cubs,Wrigley Field,CHC
+390,1925.0,3.0,76.0,Cincinnati Reds,Crosley Field,CIN
+391,1925.0,6.0,77.0,Cleveland Indians,League Park II,CLE
+392,1925.0,4.0,77.0,Detroit Tigers,Navin Field,DET
+393,1925.0,2.0,76.0,New York Giants,Polo Grounds IV,NYG
+394,1925.0,7.0,79.0,New York Yankees,Yankee Stadium I,NYY
+395,1925.0,2.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+396,1925.0,6.0,77.0,Philadelphia Phillies,Baker Bowl,PHI
+397,1925.0,1.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+398,1925.0,3.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+399,1925.0,4.0,76.0,St. Louis Cardinals,Sportsman's Park IV,STL
+400,1925.0,1.0,76.0,Washington Senators,Griffith Stadium I,WSH
+401,1926.0,8.0,77.0,Boston Red Sox,Fenway Park I,BOS
+402,1926.0,6.0,76.0,Brooklyn Robins,Ebbets Field,BRO
+403,1926.0,7.0,77.0,Boston Braves,Braves Field,BSN
+404,1926.0,5.0,79.0,Chicago White Sox,Comiskey Park,CHW
+405,1926.0,4.0,78.0,Chicago Cubs,Wrigley Field,CHC
+406,1926.0,2.0,77.0,Cincinnati Reds,Crosley Field,CIN
+407,1926.0,2.0,80.0,Cleveland Indians,League Park II,CLE
+408,1926.0,6.0,81.0,Detroit Tigers,Navin Field,DET
+409,1926.0,5.0,76.0,New York Giants,Polo Grounds IV,NYG
+410,1926.0,1.0,75.0,New York Yankees,Yankee Stadium I,NYY
+411,1926.0,3.0,71.0,Philadelphia Athletics,Shibe Park,PHA
+412,1926.0,8.0,76.0,Philadelphia Phillies,Baker Bowl,PHI
+413,1926.0,3.0,79.0,Pittsburgh Pirates,Forbes Field,PIT
+414,1926.0,7.0,79.0,St. Louis Browns,Sportsman's Park IV,SLB
+415,1926.0,1.0,79.0,St. Louis Cardinals,Sportsman's Park IV,STL
+416,1926.0,4.0,74.0,Washington Senators,Griffith Stadium I,WSH
+417,1927.0,8.0,78.0,Boston Red Sox,Fenway Park I,BOS
+418,1927.0,6.0,74.0,Brooklyn Robins,Ebbets Field,BRO
+419,1927.0,7.0,74.0,Boston Braves,Braves Field,BSN
+420,1927.0,5.0,75.0,Chicago White Sox,Comiskey Park,CHW
+421,1927.0,4.0,78.0,Chicago Cubs,Wrigley Field,CHC
+422,1927.0,5.0,80.0,Cincinnati Reds,Crosley Field,CIN
+423,1927.0,6.0,77.0,Cleveland Indians,League Park II,CLE
+424,1927.0,4.0,78.0,Detroit Tigers,Navin Field,DET
+425,1927.0,3.0,74.0,New York Giants,Polo Grounds IV,NYG
+426,1927.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+427,1927.0,2.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+428,1927.0,8.0,78.0,Philadelphia Phillies,Baker Bowl,PHI
+429,1927.0,1.0,79.0,Pittsburgh Pirates,Forbes Field,PIT
+430,1927.0,7.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+431,1927.0,2.0,80.0,St. Louis Cardinals,Sportsman's Park IV,STL
+432,1927.0,3.0,79.0,Washington Senators,Griffith Stadium I,WSH
+433,1928.0,8.0,74.0,Boston Red Sox,Fenway Park I,BOS
+434,1928.0,6.0,77.0,Brooklyn Robins,Ebbets Field,BRO
+435,1928.0,7.0,76.0,Boston Braves,Braves Field,BSN
+436,1928.0,5.0,78.0,Chicago White Sox,Comiskey Park,CHW
+437,1928.0,3.0,77.0,Chicago Cubs,Wrigley Field,CHC
+438,1928.0,5.0,78.0,Cincinnati Reds,Crosley Field,CIN
+439,1928.0,7.0,77.0,Cleveland Indians,League Park II,CLE
+440,1928.0,6.0,77.0,Detroit Tigers,Navin Field,DET
+441,1928.0,2.0,77.0,New York Giants,Polo Grounds IV,NYG
+442,1928.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+443,1928.0,2.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+444,1928.0,8.0,75.0,Philadelphia Phillies,Baker Bowl,PHI
+445,1928.0,4.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+446,1928.0,3.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+447,1928.0,1.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+448,1928.0,4.0,80.0,Washington Senators,Griffith Stadium I,WSH
+449,1929.0,8.0,78.0,Boston Red Sox,Fenway Park I,BOS
+450,1929.0,6.0,77.0,Brooklyn Robins,Ebbets Field,BRO
+451,1929.0,8.0,77.0,Boston Braves,Braves Field,BSN
+452,1929.0,7.0,76.0,Chicago White Sox,Comiskey Park,CHW
+453,1929.0,1.0,78.0,Chicago Cubs,Wrigley Field,CHC
+454,1929.0,7.0,78.0,Cincinnati Reds,Crosley Field,CIN
+455,1929.0,3.0,76.0,Cleveland Indians,League Park II,CLE
+456,1929.0,6.0,77.0,Detroit Tigers,Navin Field,DET
+457,1929.0,3.0,77.0,New York Giants,Polo Grounds IV,NYG
+458,1929.0,2.0,77.0,New York Yankees,Yankee Stadium I,NYY
+459,1929.0,1.0,74.0,Philadelphia Athletics,Shibe Park,PHA
+460,1929.0,5.0,76.0,Philadelphia Phillies,Baker Bowl,PHI
+461,1929.0,2.0,76.0,Pittsburgh Pirates,Forbes Field,PIT
+462,1929.0,4.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+463,1929.0,4.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+464,1929.0,5.0,78.0,Washington Senators,Griffith Stadium I,WSH
+465,1930.0,8.0,76.0,Boston Red Sox,Fenway Park I,BOS
+466,1930.0,4.0,77.0,Brooklyn Robins,Ebbets Field,BRO
+467,1930.0,6.0,77.0,Boston Braves,Braves Field,BSN
+468,1930.0,7.0,78.0,Chicago White Sox,Comiskey Park,CHW
+469,1930.0,2.0,79.0,Chicago Cubs,Wrigley Field,CHC
+470,1930.0,7.0,77.0,Cincinnati Reds,Crosley Field,CIN
+471,1930.0,4.0,77.0,Cleveland Indians,League Park II,CLE
+472,1930.0,5.0,78.0,Detroit Tigers,Navin Field,DET
+473,1930.0,3.0,77.0,New York Giants,Polo Grounds IV,NYG
+474,1930.0,3.0,76.0,New York Yankees,Yankee Stadium I,NYY
+475,1930.0,1.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+476,1930.0,8.0,77.0,Philadelphia Phillies,Baker Bowl,PHI
+477,1930.0,5.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+478,1930.0,6.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+479,1930.0,1.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+480,1930.0,2.0,77.0,Washington Senators,Griffith Stadium I,WSH
+481,1931.0,6.0,80.0,Boston Red Sox,Fenway Park I,BOS
+482,1931.0,4.0,76.0,Brooklyn Robins,Ebbets Field,BRO
+483,1931.0,7.0,78.0,Boston Braves,Braves Field,BSN
+484,1931.0,8.0,77.0,Chicago White Sox,Comiskey Park,CHW
+485,1931.0,3.0,77.0,Chicago Cubs,Wrigley Field,CHC
+486,1931.0,8.0,77.0,Cincinnati Reds,Crosley Field,CIN
+487,1931.0,4.0,76.0,Cleveland Indians,League Park II,CLE
+488,1931.0,7.0,77.0,Detroit Tigers,Navin Field,DET
+489,1931.0,2.0,78.0,New York Giants,Polo Grounds IV,NYG
+490,1931.0,2.0,77.0,New York Yankees,Yankee Stadium I,NYY
+491,1931.0,1.0,75.0,Philadelphia Athletics,Shibe Park,PHA
+492,1931.0,6.0,76.0,Philadelphia Phillies,Baker Bowl,PHI
+493,1931.0,5.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+494,1931.0,5.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+495,1931.0,1.0,78.0,St. Louis Cardinals,Sportsman's Park IV,STL
+496,1931.0,3.0,79.0,Washington Senators,Griffith Stadium I,WSH
+497,1932.0,8.0,77.0,Boston Red Sox,Fenway Park I,BOS
+498,1932.0,3.0,78.0,Brooklyn Dodgers,Ebbets Field,BRO
+499,1932.0,5.0,77.0,Boston Braves,Braves Field,BSN
+500,1932.0,7.0,77.0,Chicago White Sox,Comiskey Park,CHW
+501,1932.0,1.0,77.0,Chicago Cubs,Wrigley Field,CHC
+502,1932.0,8.0,77.0,Cincinnati Reds,Crosley Field,CIN
+503,1932.0,4.0,77.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+504,1932.0,5.0,78.0,Detroit Tigers,Navin Field,DET
+505,1932.0,6.0,77.0,New York Giants,Polo Grounds IV,NYG
+506,1932.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+507,1932.0,2.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+508,1932.0,4.0,77.0,Philadelphia Phillies,Baker Bowl,PHI
+509,1932.0,2.0,76.0,Pittsburgh Pirates,Forbes Field,PIT
+510,1932.0,6.0,75.0,St. Louis Browns,Sportsman's Park IV,SLB
+511,1932.0,6.0,79.0,St. Louis Cardinals,Sportsman's Park IV,STL
+512,1932.0,3.0,77.0,Washington Senators,Griffith Stadium I,WSH
+513,1933.0,7.0,72.0,Boston Red Sox,Fenway Park I,BOS
+514,1933.0,6.0,80.0,Brooklyn Dodgers,Ebbets Field,BRO
+515,1933.0,4.0,77.0,Boston Braves,Braves Field,BSN
+516,1933.0,6.0,77.0,Chicago White Sox,Comiskey Park,CHW
+517,1933.0,3.0,79.0,Chicago Cubs,Wrigley Field,CHC
+518,1933.0,8.0,79.0,Cincinnati Reds,Crosley Field,CIN
+519,1933.0,4.0,77.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+520,1933.0,5.0,78.0,Detroit Tigers,Navin Field,DET
+521,1933.0,1.0,77.0,New York Giants,Polo Grounds IV,NYG
+522,1933.0,2.0,75.0,New York Yankees,Yankee Stadium I,NYY
+523,1933.0,3.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+524,1933.0,7.0,72.0,Philadelphia Phillies,Baker Bowl,PHI
+525,1933.0,2.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+526,1933.0,8.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+527,1933.0,5.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+528,1933.0,1.0,76.0,Washington Senators,Griffith Stadium I,WSH
+529,1934.0,4.0,77.0,Boston Red Sox,Fenway Park II,BOS
+530,1934.0,6.0,77.0,Brooklyn Dodgers,Ebbets Field,BRO
+531,1934.0,4.0,75.0,Boston Braves,Braves Field,BSN
+532,1934.0,8.0,75.0,Chicago White Sox,Comiskey Park,CHW
+533,1934.0,3.0,77.0,Chicago Cubs,Wrigley Field,CHC
+534,1934.0,8.0,78.0,Cincinnati Reds,Crosley Field,CIN
+535,1934.0,3.0,78.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+536,1934.0,1.0,80.0,Detroit Tigers,Navin Field,DET
+537,1934.0,2.0,75.0,New York Giants,Polo Grounds IV,NYG
+538,1934.0,2.0,77.0,New York Yankees,Yankee Stadium I,NYY
+539,1934.0,5.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+540,1934.0,7.0,71.0,Philadelphia Phillies,Baker Bowl,PHI
+541,1934.0,5.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+542,1934.0,6.0,76.0,St. Louis Browns,Sportsman's Park IV,SLB
+543,1934.0,1.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+544,1934.0,7.0,76.0,Washington Senators,Griffith Stadium I,WSH
+545,1935.0,4.0,79.0,Boston Red Sox,Fenway Park II,BOS
+546,1935.0,5.0,77.0,Brooklyn Dodgers,Ebbets Field,BRO
+547,1935.0,8.0,75.0,Boston Braves,Braves Field,BSN
+548,1935.0,5.0,77.0,Chicago White Sox,Comiskey Park,CHW
+549,1935.0,1.0,77.0,Chicago Cubs,Wrigley Field,CHC
+550,1935.0,6.0,76.0,Cincinnati Reds,Crosley Field,CIN
+551,1935.0,3.0,77.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+552,1935.0,1.0,79.0,Detroit Tigers,Navin Field,DET
+553,1935.0,3.0,79.0,New York Giants,Polo Grounds IV,NYG
+554,1935.0,2.0,74.0,New York Yankees,Yankee Stadium I,NYY
+555,1935.0,8.0,72.0,Philadelphia Athletics,Shibe Park,PHA
+556,1935.0,7.0,79.0,Philadelphia Phillies,Baker Bowl,PHI
+557,1935.0,4.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+558,1935.0,7.0,76.0,St. Louis Browns,Sportsman's Park IV,SLB
+559,1935.0,2.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+560,1935.0,6.0,77.0,Washington Senators,Griffith Stadium I,WSH
+561,1936.0,6.0,77.0,Boston Red Sox,Fenway Park II,BOS
+562,1936.0,7.0,79.0,Brooklyn Dodgers,Ebbets Field,BRO
+563,1936.0,6.0,79.0,Boston Bees,Braves Field,BSN
+564,1936.0,4.0,75.0,Chicago White Sox,Comiskey Park,CHW
+565,1936.0,2.0,77.0,Chicago Cubs,Wrigley Field,CHC
+566,1936.0,5.0,76.0,Cincinnati Reds,Crosley Field,CIN
+567,1936.0,5.0,81.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+568,1936.0,2.0,77.0,Detroit Tigers,Navin Field,DET
+569,1936.0,1.0,78.0,New York Giants,Polo Grounds IV,NYG
+570,1936.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+571,1936.0,8.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+572,1936.0,8.0,78.0,Philadelphia Phillies,Baker Bowl,PHI
+573,1936.0,4.0,76.0,Pittsburgh Pirates,Forbes Field,PIT
+574,1936.0,7.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+575,1936.0,2.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+576,1936.0,3.0,77.0,Washington Senators,Griffith Stadium I,WSH
+577,1937.0,5.0,74.0,Boston Red Sox,Fenway Park II,BOS
+578,1937.0,6.0,76.0,Brooklyn Dodgers,Ebbets Field,BRO
+579,1937.0,5.0,76.0,Boston Bees,Braves Field,BSN
+580,1937.0,3.0,77.0,Chicago White Sox,Comiskey Park,CHW
+581,1937.0,2.0,78.0,Chicago Cubs,Wrigley Field,CHC
+582,1937.0,8.0,80.0,Cincinnati Reds,Crosley Field,CIN
+583,1937.0,4.0,78.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+584,1937.0,2.0,77.0,Detroit Tigers,Navin Field,DET
+585,1937.0,1.0,75.0,New York Giants,Polo Grounds IV,NYG
+586,1937.0,1.0,79.0,New York Yankees,Yankee Stadium I,NYY
+587,1937.0,7.0,79.0,Philadelphia Athletics,Shibe Park,PHA
+588,1937.0,7.0,74.0,Philadelphia Phillies,Baker Bowl,PHI
+589,1937.0,3.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+590,1937.0,8.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+591,1937.0,4.0,80.0,St. Louis Cardinals,Sportsman's Park IV,STL
+592,1937.0,6.0,80.0,Washington Senators,Griffith Stadium I,WSH
+593,1938.0,2.0,75.0,Boston Red Sox,Fenway Park II,BOS
+594,1938.0,7.0,74.0,Brooklyn Dodgers,Ebbets Field,BRO
+595,1938.0,5.0,75.0,Boston Bees,Braves Field,BSN
+596,1938.0,6.0,73.0,Chicago White Sox,Comiskey Park,CHW
+597,1938.0,1.0,77.0,Chicago Cubs,Wrigley Field,CHC
+598,1938.0,4.0,77.0,Cincinnati Reds,Crosley Field,CIN
+599,1938.0,3.0,76.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+600,1938.0,4.0,79.0,Detroit Tigers,Briggs Stadium,DET
+601,1938.0,3.0,73.0,New York Giants,Polo Grounds IV,NYG
+602,1938.0,1.0,79.0,New York Yankees,Yankee Stadium I,NYY
+603,1938.0,8.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+604,1938.0,8.0,75.0,Philadelphia Phillies,Baker Bowl/Shibe Park,PHI
+605,1938.0,2.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+606,1938.0,7.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+607,1938.0,6.0,81.0,St. Louis Cardinals,Sportsman's Park IV,STL
+608,1938.0,5.0,78.0,Washington Senators,Griffith Stadium I,WSH
+609,1939.0,2.0,75.0,Boston Red Sox,Fenway Park II,BOS
+610,1939.0,3.0,78.0,Brooklyn Dodgers,Ebbets Field,BRO
+611,1939.0,7.0,73.0,Boston Bees,Braves Field,BSN
+612,1939.0,4.0,77.0,Chicago White Sox,Comiskey Park,CHW
+613,1939.0,4.0,80.0,Chicago Cubs,Wrigley Field,CHC
+614,1939.0,1.0,81.0,Cincinnati Reds,Crosley Field,CIN
+615,1939.0,3.0,77.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+616,1939.0,5.0,78.0,Detroit Tigers,Briggs Stadium,DET
+617,1939.0,5.0,74.0,New York Giants,Polo Grounds IV,NYG
+618,1939.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+619,1939.0,7.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+620,1939.0,8.0,74.0,Philadelphia Phillies,Shibe Park,PHI
+621,1939.0,6.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+622,1939.0,8.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+623,1939.0,2.0,79.0,St. Louis Cardinals,Sportsman's Park IV,STL
+624,1939.0,6.0,77.0,Washington Senators,Griffith Stadium I,WSH
+625,1940.0,4.0,79.0,Boston Red Sox,Fenway Park II,BOS
+626,1940.0,2.0,81.0,Brooklyn Dodgers,Ebbets Field,BRO
+627,1940.0,7.0,75.0,Boston Bees,Braves Field,BSN
+628,1940.0,4.0,78.0,Chicago White Sox,Comiskey Park,CHW
+629,1940.0,5.0,77.0,Chicago Cubs,Wrigley Field,CHC
+630,1940.0,1.0,77.0,Cincinnati Reds,Crosley Field,CIN
+631,1940.0,2.0,82.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+632,1940.0,1.0,79.0,Detroit Tigers,Briggs Stadium,DET
+633,1940.0,6.0,76.0,New York Giants,Polo Grounds IV,NYG
+634,1940.0,3.0,76.0,New York Yankees,Yankee Stadium I,NYY
+635,1940.0,8.0,71.0,Philadelphia Athletics,Shibe Park,PHA
+636,1940.0,8.0,79.0,Philadelphia Phillies,Shibe Park,PHI
+637,1940.0,4.0,75.0,Pittsburgh Pirates,Forbes Field,PIT
+638,1940.0,6.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+639,1940.0,3.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+640,1940.0,7.0,77.0,Washington Senators,Griffith Stadium I,WSH
+641,1941.0,2.0,77.0,Boston Red Sox,Fenway Park II,BOS
+642,1941.0,1.0,79.0,Brooklyn Dodgers,Ebbets Field,BRO
+643,1941.0,7.0,76.0,Boston Braves,Braves Field,BSN
+644,1941.0,3.0,79.0,Chicago White Sox,Comiskey Park,CHW
+645,1941.0,6.0,77.0,Chicago Cubs,Wrigley Field,CHC
+646,1941.0,3.0,79.0,Cincinnati Reds,Crosley Field,CIN
+647,1941.0,4.0,77.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+648,1941.0,4.0,77.0,Detroit Tigers,Briggs Stadium,DET
+649,1941.0,5.0,78.0,New York Giants,Polo Grounds IV,NYG
+650,1941.0,1.0,78.0,New York Yankees,Yankee Stadium I,NYY
+651,1941.0,8.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+652,1941.0,8.0,76.0,Philadelphia Phillies,Shibe Park,PHI
+653,1941.0,4.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+654,1941.0,6.0,79.0,St. Louis Browns,Sportsman's Park IV,SLB
+655,1941.0,2.0,79.0,St. Louis Cardinals,Sportsman's Park IV,STL
+656,1941.0,6.0,78.0,Washington Senators,Griffith Stadium I,WSH
+657,1942.0,2.0,77.0,Boston Red Sox,Fenway Park II,BOS
+658,1942.0,2.0,79.0,Brooklyn Dodgers,Ebbets Field,BRO
+659,1942.0,7.0,71.0,Boston Braves,Braves Field,BSN
+660,1942.0,6.0,70.0,Chicago White Sox,Comiskey Park,CHW
+661,1942.0,6.0,78.0,Chicago Cubs,Wrigley Field,CHC
+662,1942.0,4.0,77.0,Cincinnati Reds,Crosley Field,CIN
+663,1942.0,4.0,80.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+664,1942.0,5.0,77.0,Detroit Tigers,Briggs Stadium,DET
+665,1942.0,3.0,79.0,New York Giants,Polo Grounds IV,NYG
+666,1942.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+667,1942.0,8.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+668,1942.0,8.0,74.0,Philadelphia Phillies,Shibe Park,PHI
+669,1942.0,5.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+670,1942.0,3.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+671,1942.0,1.0,78.0,St. Louis Cardinals,Sportsman's Park IV,STL
+672,1942.0,7.0,77.0,Washington Senators,Griffith Stadium I,WSH
+673,1943.0,7.0,77.0,Boston Red Sox,Fenway Park II,BOS
+674,1943.0,3.0,77.0,Brooklyn Dodgers,Ebbets Field,BRO
+675,1943.0,6.0,77.0,Boston Braves,Braves Field,BSN
+676,1943.0,4.0,76.0,Chicago White Sox,Comiskey Park,CHW
+677,1943.0,5.0,75.0,Chicago Cubs,Wrigley Field,CHC
+678,1943.0,2.0,78.0,Cincinnati Reds,Crosley Field,CIN
+679,1943.0,3.0,77.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+680,1943.0,5.0,78.0,Detroit Tigers,Briggs Stadium,DET
+681,1943.0,8.0,77.0,New York Giants,Polo Grounds IV,NYG
+682,1943.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+683,1943.0,8.0,79.0,Philadelphia Athletics,Shibe Park,PHA
+684,1943.0,7.0,78.0,Philadelphia Blue Jays,Shibe Park,PHI
+685,1943.0,4.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+686,1943.0,6.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+687,1943.0,1.0,81.0,St. Louis Cardinals,Sportsman's Park IV,STL
+688,1943.0,2.0,76.0,Washington Senators,Griffith Stadium I,WSH
+689,1944.0,4.0,78.0,Boston Red Sox,Fenway Park II,BOS
+690,1944.0,7.0,77.0,Brooklyn Dodgers,Ebbets Field,BRO
+691,1944.0,6.0,78.0,Boston Braves,Braves Field,BSN
+692,1944.0,7.0,77.0,Chicago White Sox,Comiskey Park,CHW
+693,1944.0,4.0,78.0,Chicago Cubs,Wrigley Field,CHC
+694,1944.0,3.0,78.0,Cincinnati Reds,Crosley Field,CIN
+695,1944.0,5.0,78.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+696,1944.0,2.0,78.0,Detroit Tigers,Briggs Stadium,DET
+697,1944.0,5.0,75.0,New York Giants,Polo Grounds IV,NYG
+698,1944.0,3.0,78.0,New York Yankees,Yankee Stadium I,NYY
+699,1944.0,5.0,76.0,Philadelphia Athletics,Shibe Park,PHA
+700,1944.0,8.0,79.0,Philadelphia Blue Jays,Shibe Park,PHI
+701,1944.0,2.0,81.0,Pittsburgh Pirates,Forbes Field,PIT
+702,1944.0,1.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+703,1944.0,1.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+704,1944.0,8.0,77.0,Washington Senators,Griffith Stadium I,WSH
+705,1945.0,7.0,78.0,Boston Red Sox,Fenway Park II,BOS
+706,1945.0,3.0,78.0,Brooklyn Dodgers,Ebbets Field,BRO
+707,1945.0,6.0,75.0,Boston Braves,Braves Field,BSN
+708,1945.0,6.0,74.0,Chicago White Sox,Comiskey Park,CHW
+709,1945.0,1.0,76.0,Chicago Cubs,Wrigley Field,CHC
+710,1945.0,7.0,77.0,Cincinnati Reds,Crosley Field,CIN
+711,1945.0,5.0,77.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+712,1945.0,1.0,76.0,Detroit Tigers,Briggs Stadium,DET
+713,1945.0,5.0,78.0,New York Giants,Polo Grounds IV,NYG
+714,1945.0,4.0,76.0,New York Yankees,Yankee Stadium I,NYY
+715,1945.0,8.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+716,1945.0,8.0,77.0,Philadelphia Phillies,Shibe Park,PHI
+717,1945.0,4.0,79.0,Pittsburgh Pirates,Forbes Field,PIT
+718,1945.0,3.0,76.0,St. Louis Browns,Sportsman's Park IV,SLB
+719,1945.0,2.0,78.0,St. Louis Cardinals,Sportsman's Park IV,STL
+720,1945.0,2.0,78.0,Washington Senators,Griffith Stadium I,WSH
+721,1946.0,1.0,78.0,Boston Red Sox,Fenway Park II,BOS
+722,1946.0,2.0,79.0,Brooklyn Dodgers,Ebbets Field,BRO
+723,1946.0,4.0,77.0,Boston Braves,Braves Field,BSN
+724,1946.0,5.0,79.0,Chicago White Sox,Comiskey Park,CHW
+725,1946.0,3.0,77.0,Chicago Cubs,Wrigley Field,CHC
+726,1946.0,6.0,77.0,Cincinnati Reds,Crosley Field,CIN
+727,1946.0,6.0,77.0,Cleveland Indians,League Park II/Cleveland Stadium,CLE
+728,1946.0,2.0,79.0,Detroit Tigers,Briggs Stadium,DET
+729,1946.0,8.0,77.0,New York Giants,Polo Grounds IV,NYG
+730,1946.0,3.0,77.0,New York Yankees,Yankee Stadium I,NYY
+731,1946.0,8.0,78.0,Philadelphia Athletics,Shibe Park,PHA
+732,1946.0,5.0,78.0,Philadelphia Phillies,Shibe Park,PHI
+733,1946.0,7.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+734,1946.0,7.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+735,1946.0,1.0,78.0,St. Louis Cardinals,Sportsman's Park IV,STL
+736,1946.0,4.0,76.0,Washington Senators,Griffith Stadium I,WSH
+737,1947.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+738,1947.0,1.0,78.0,Brooklyn Dodgers,Ebbets Field,BRO
+739,1947.0,3.0,77.0,Boston Braves,Braves Field,BSN
+740,1947.0,6.0,75.0,Chicago White Sox,Comiskey Park,CHW
+741,1947.0,6.0,79.0,Chicago Cubs,Wrigley Field,CHC
+742,1947.0,5.0,77.0,Cincinnati Reds,Crosley Field,CIN
+743,1947.0,4.0,78.0,Cleveland Indians,Cleveland Stadium,CLE
+744,1947.0,2.0,80.0,Detroit Tigers,Briggs Stadium,DET
+745,1947.0,4.0,76.0,New York Giants,Polo Grounds IV,NYG
+746,1947.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+747,1947.0,5.0,78.0,Philadelphia Athletics,Shibe Park,PHA
+748,1947.0,7.0,77.0,Philadelphia Phillies,Shibe Park,PHI
+749,1947.0,7.0,79.0,Pittsburgh Pirates,Forbes Field,PIT
+750,1947.0,8.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+751,1947.0,2.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+752,1947.0,7.0,77.0,Washington Senators,Griffith Stadium I,WSH
+753,1948.0,2.0,78.0,Boston Red Sox,Fenway Park II,BOS
+754,1948.0,3.0,78.0,Brooklyn Dodgers,Ebbets Field,BRO
+755,1948.0,1.0,76.0,Boston Braves,Braves Field,BSN
+756,1948.0,8.0,76.0,Chicago White Sox,Comiskey Park,CHW
+757,1948.0,8.0,78.0,Chicago Cubs,Wrigley Field,CHC
+758,1948.0,7.0,77.0,Cincinnati Reds,Crosley Field,CIN
+759,1948.0,1.0,79.0,Cleveland Indians,Cleveland Stadium,CLE
+760,1948.0,5.0,77.0,Detroit Tigers,Briggs Stadium,DET
+761,1948.0,5.0,77.0,New York Giants,Polo Grounds IV,NYG
+762,1948.0,3.0,77.0,New York Yankees,Yankee Stadium I,NYY
+763,1948.0,4.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+764,1948.0,6.0,76.0,Philadelphia Phillies,Shibe Park,PHI
+765,1948.0,4.0,80.0,Pittsburgh Pirates,Forbes Field,PIT
+766,1948.0,6.0,76.0,St. Louis Browns,Sportsman's Park IV,SLB
+767,1948.0,2.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+768,1948.0,7.0,78.0,Washington Senators,Griffith Stadium I,WSH
+769,1949.0,2.0,77.0,Boston Red Sox,Fenway Park II,BOS
+770,1949.0,1.0,78.0,Brooklyn Dodgers,Ebbets Field,BRO
+771,1949.0,4.0,77.0,Boston Braves,Braves Field,BSN
+772,1949.0,6.0,77.0,Chicago White Sox,Comiskey Park,CHW
+773,1949.0,8.0,77.0,Chicago Cubs,Wrigley Field,CHC
+774,1949.0,7.0,78.0,Cincinnati Reds,Crosley Field,CIN
+775,1949.0,3.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+776,1949.0,4.0,78.0,Detroit Tigers,Briggs Stadium,DET
+777,1949.0,5.0,79.0,New York Giants,Polo Grounds IV,NYG
+778,1949.0,1.0,78.0,New York Yankees,Yankee Stadium I,NYY
+779,1949.0,5.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+780,1949.0,3.0,77.0,Philadelphia Phillies,Shibe Park,PHI
+781,1949.0,6.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+782,1949.0,7.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+783,1949.0,2.0,79.0,St. Louis Cardinals,Sportsman's Park IV,STL
+784,1949.0,8.0,77.0,Washington Senators,Griffith Stadium I,WSH
+785,1950.0,3.0,77.0,Boston Red Sox,Fenway Park II,BOS
+786,1950.0,2.0,78.0,Brooklyn Dodgers,Ebbets Field,BRO
+787,1950.0,4.0,79.0,Boston Braves,Braves Field,BSN
+788,1950.0,6.0,79.0,Chicago White Sox,Comiskey Park,CHW
+789,1950.0,7.0,78.0,Chicago Cubs,Wrigley Field,CHC
+790,1950.0,6.0,76.0,Cincinnati Reds,Crosley Field,CIN
+791,1950.0,4.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+792,1950.0,2.0,81.0,Detroit Tigers,Briggs Stadium,DET
+793,1950.0,3.0,76.0,New York Giants,Polo Grounds IV,NYG
+794,1950.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+795,1950.0,8.0,77.0,Philadelphia Athletics,Shibe Park,PHA
+796,1950.0,1.0,78.0,Philadelphia Phillies,Shibe Park,PHI
+797,1950.0,8.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+798,1950.0,7.0,74.0,St. Louis Browns,Sportsman's Park IV,SLB
+799,1950.0,5.0,76.0,St. Louis Cardinals,Sportsman's Park IV,STL
+800,1950.0,5.0,78.0,Washington Senators,Griffith Stadium I,WSH
+801,1951.0,3.0,75.0,Boston Red Sox,Fenway Park II,BOS
+802,1951.0,2.0,78.0,Brooklyn Dodgers,Ebbets Field,BRO
+803,1951.0,4.0,78.0,Boston Braves,Braves Field,BSN
+804,1951.0,4.0,78.0,Chicago White Sox,Comiskey Park,CHW
+805,1951.0,8.0,77.0,Chicago Cubs,Wrigley Field,CHC
+806,1951.0,6.0,77.0,Cincinnati Reds,Crosley Field,CIN
+807,1951.0,2.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+808,1951.0,5.0,77.0,Detroit Tigers,Briggs Stadium,DET
+809,1951.0,1.0,78.0,New York Giants,Polo Grounds IV,NYG
+810,1951.0,1.0,78.0,New York Yankees,Yankee Stadium I,NYY
+811,1951.0,6.0,79.0,Philadelphia Athletics,Shibe Park,PHA
+812,1951.0,5.0,77.0,Philadelphia Phillies,Shibe Park,PHI
+813,1951.0,7.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+814,1951.0,8.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+815,1951.0,3.0,79.0,St. Louis Cardinals,Sportsman's Park IV,STL
+816,1951.0,7.0,76.0,Washington Senators,Griffith Stadium I,WSH
+817,1952.0,6.0,77.0,Boston Red Sox,Fenway Park II,BOS
+818,1952.0,1.0,80.0,Brooklyn Dodgers,Ebbets Field,BRO
+819,1952.0,7.0,77.0,Boston Braves,Braves Field,BSN
+820,1952.0,3.0,79.0,Chicago White Sox,Comiskey Park,CHW
+821,1952.0,5.0,77.0,Chicago Cubs,Wrigley Field,CHC
+822,1952.0,6.0,77.0,Cincinnati Reds,Crosley Field,CIN
+823,1952.0,2.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+824,1952.0,8.0,77.0,Detroit Tigers,Briggs Stadium,DET
+825,1952.0,2.0,77.0,New York Giants,Polo Grounds IV,NYG
+826,1952.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+827,1952.0,4.0,78.0,Philadelphia Athletics,Shibe Park,PHA
+828,1952.0,4.0,76.0,Philadelphia Phillies,Shibe Park,PHI
+829,1952.0,8.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+830,1952.0,7.0,78.0,St. Louis Browns,Sportsman's Park IV,SLB
+831,1952.0,3.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+832,1952.0,5.0,78.0,Washington Senators,Griffith Stadium I,WSH
+833,1953.0,4.0,76.0,Boston Red Sox,Fenway Park II,BOS
+834,1953.0,1.0,78.0,Brooklyn Dodgers,Ebbets Field,BRO
+835,1953.0,3.0,78.0,Chicago White Sox,Comiskey Park,CHW
+836,1953.0,7.0,77.0,Chicago Cubs,Wrigley Field,CHC
+837,1953.0,6.0,78.0,Cincinnati Reds,Crosley Field,CIN
+838,1953.0,2.0,78.0,Cleveland Indians,Cleveland Stadium,CLE
+839,1953.0,6.0,79.0,Detroit Tigers,Briggs Stadium,DET
+840,1953.0,2.0,79.0,Milwaukee Braves,County Stadium,MLN
+841,1953.0,5.0,77.0,New York Giants,Polo Grounds IV,NYG
+842,1953.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+843,1953.0,7.0,78.0,Philadelphia Athletics,Connie Mack Stadium,PHA
+844,1953.0,3.0,78.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+845,1953.0,8.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+846,1953.0,8.0,77.0,St. Louis Browns,Sportsman's Park IV,SLB
+847,1953.0,3.0,78.0,St. Louis Cardinals,Sportsman's Park IV,STL
+848,1953.0,5.0,75.0,Washington Senators,Griffith Stadium I,WSH
+849,1954.0,7.0,77.0,Baltimore Orioles,Memorial Stadium,BAL
+850,1954.0,4.0,79.0,Boston Red Sox,Fenway Park II,BOS
+851,1954.0,2.0,77.0,Brooklyn Dodgers,Ebbets Field,BRO
+852,1954.0,3.0,78.0,Chicago White Sox,Comiskey Park,CHW
+853,1954.0,7.0,77.0,Chicago Cubs,Wrigley Field,CHC
+854,1954.0,5.0,77.0,Cincinnati Redlegs,Crosley Field,CIN
+855,1954.0,1.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+856,1954.0,5.0,77.0,Detroit Tigers,Briggs Stadium,DET
+857,1954.0,3.0,77.0,Milwaukee Braves,County Stadium,MLN
+858,1954.0,1.0,76.0,New York Giants,Polo Grounds IV,NYG
+859,1954.0,2.0,78.0,New York Yankees,Yankee Stadium I,NYY
+860,1954.0,8.0,77.0,Philadelphia Athletics,Connie Mack Stadium,PHA
+861,1954.0,4.0,78.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+862,1954.0,8.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+863,1954.0,6.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+864,1954.0,6.0,78.0,Washington Senators,Griffith Stadium I,WSH
+865,1955.0,7.0,79.0,Baltimore Orioles,Memorial Stadium,BAL
+866,1955.0,4.0,78.0,Boston Red Sox,Fenway Park II,BOS
+867,1955.0,1.0,77.0,Brooklyn Dodgers,Ebbets Field,BRO
+868,1955.0,3.0,77.0,Chicago White Sox,Comiskey Park,CHW
+869,1955.0,6.0,77.0,Chicago Cubs,Wrigley Field,CHC
+870,1955.0,5.0,77.0,Cincinnati Redlegs,Crosley Field,CIN
+871,1955.0,2.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+872,1955.0,5.0,77.0,Detroit Tigers,Briggs Stadium,DET
+873,1955.0,6.0,76.0,Kansas City Athletics,Municipal Stadium I,KCA
+874,1955.0,2.0,77.0,Milwaukee Braves,County Stadium,MLN
+875,1955.0,3.0,79.0,New York Giants,Polo Grounds IV,NYG
+876,1955.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+877,1955.0,4.0,77.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+878,1955.0,8.0,75.0,Pittsburgh Pirates,Forbes Field,PIT
+879,1955.0,7.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+880,1955.0,8.0,77.0,Washington Senators,Griffith Stadium I,WSH
+881,1956.0,6.0,77.0,Baltimore Orioles,Memorial Stadium,BAL
+882,1956.0,4.0,78.0,Boston Red Sox,Fenway Park II,BOS
+883,1956.0,1.0,77.0,Brooklyn Dodgers,Ebbets Field,BRO
+884,1956.0,3.0,77.0,Chicago White Sox,Comiskey Park,CHW
+885,1956.0,8.0,80.0,Chicago Cubs,Wrigley Field,CHC
+886,1956.0,3.0,77.0,Cincinnati Redlegs,Crosley Field,CIN
+887,1956.0,2.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+888,1956.0,5.0,78.0,Detroit Tigers,Briggs Stadium,DET
+889,1956.0,8.0,77.0,Kansas City Athletics,Municipal Stadium I,KCA
+890,1956.0,2.0,77.0,Milwaukee Braves,County Stadium,MLN
+891,1956.0,6.0,77.0,New York Giants,Polo Grounds IV,NYG
+892,1956.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+893,1956.0,5.0,77.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+894,1956.0,7.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+895,1956.0,4.0,78.0,St. Louis Cardinals,Sportsman's Park IV,STL
+896,1956.0,7.0,77.0,Washington Senators,Griffith Stadium II,WSH
+897,1957.0,5.0,77.0,Baltimore Orioles,Memorial Stadium,BAL
+898,1957.0,3.0,77.0,Boston Red Sox,Fenway Park II,BOS
+899,1957.0,3.0,77.0,Brooklyn Dodgers,Ebbets Field,BRO
+900,1957.0,2.0,77.0,Chicago White Sox,Comiskey Park,CHW
+901,1957.0,7.0,78.0,Chicago Cubs,Wrigley Field,CHC
+902,1957.0,4.0,77.0,Cincinnati Redlegs,Crosley Field,CIN
+903,1957.0,6.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+904,1957.0,4.0,77.0,Detroit Tigers,Briggs Stadium,DET
+905,1957.0,7.0,77.0,Kansas City Athletics,Municipal Stadium I,KCA
+906,1957.0,1.0,78.0,Milwaukee Braves,County Stadium,MLN
+907,1957.0,6.0,77.0,New York Giants,Polo Grounds IV,NYG
+908,1957.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+909,1957.0,5.0,78.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+910,1957.0,7.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+911,1957.0,2.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+912,1957.0,8.0,77.0,Washington Senators,Griffith Stadium II,WSH
+913,1958.0,6.0,78.0,Baltimore Orioles,Memorial Stadium,BAL
+914,1958.0,3.0,77.0,Boston Red Sox,Fenway Park II,BOS
+915,1958.0,2.0,77.0,Chicago White Sox,Comiskey Park,CHW
+916,1958.0,5.0,77.0,Chicago Cubs,Wrigley Field,CHC
+917,1958.0,4.0,77.0,Cincinnati Redlegs,Crosley Field,CIN
+918,1958.0,4.0,76.0,Cleveland Indians,Cleveland Stadium,CLE
+919,1958.0,5.0,77.0,Detroit Tigers,Briggs Stadium,DET
+920,1958.0,7.0,78.0,Kansas City Athletics,Municipal Stadium I,KCA
+921,1958.0,7.0,77.0,Los Angeles Dodgers,Los Angeles Memorial Coliseum,LAD
+922,1958.0,1.0,77.0,Milwaukee Braves,County Stadium,MLN
+923,1958.0,1.0,78.0,New York Yankees,Yankee Stadium I,NYY
+924,1958.0,8.0,77.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+925,1958.0,2.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+926,1958.0,3.0,77.0,San Francisco Giants,Seals Stadium,SFG
+927,1958.0,5.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+928,1958.0,8.0,78.0,Washington Senators,Griffith Stadium II,WSH
+929,1959.0,6.0,78.0,Baltimore Orioles,Memorial Stadium,BAL
+930,1959.0,5.0,77.0,Boston Red Sox,Fenway Park II,BOS
+931,1959.0,1.0,78.0,Chicago White Sox,Comiskey Park,CHW
+932,1959.0,5.0,77.0,Chicago Cubs,Wrigley Field,CHC
+933,1959.0,5.0,77.0,Cincinnati Redlegs,Crosley Field,CIN
+934,1959.0,2.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+935,1959.0,4.0,77.0,Detroit Tigers,Briggs Stadium,DET
+936,1959.0,7.0,77.0,Kansas City Athletics,Municipal Stadium I,KCA
+937,1959.0,1.0,78.0,Los Angeles Dodgers,Los Angeles Memorial Coliseum,LAD
+938,1959.0,2.0,79.0,Milwaukee Braves,County Stadium,MLN
+939,1959.0,3.0,77.0,New York Yankees,Yankee Stadium I,NYY
+940,1959.0,8.0,78.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+941,1959.0,4.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+942,1959.0,3.0,77.0,San Francisco Giants,Seals Stadium,SFG
+943,1959.0,7.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+944,1959.0,8.0,77.0,Washington Senators,Griffith Stadium II,WSH
+945,1960.0,2.0,77.0,Baltimore Orioles,Memorial Stadium,BAL
+946,1960.0,7.0,77.0,Boston Red Sox,Fenway Park II,BOS
+947,1960.0,3.0,77.0,Chicago White Sox,Comiskey Park,CHW
+948,1960.0,7.0,79.0,Chicago Cubs,Wrigley Field,CHC
+949,1960.0,6.0,77.0,Cincinnati Reds,Crosley Field,CIN
+950,1960.0,4.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+951,1960.0,6.0,77.0,Detroit Tigers,Briggs Stadium,DET
+952,1960.0,8.0,78.0,Kansas City Athletics,Municipal Stadium I,KCA
+953,1960.0,4.0,77.0,Los Angeles Dodgers,Los Angeles Memorial Coliseum,LAD
+954,1960.0,2.0,77.0,Milwaukee Braves,County Stadium,MLN
+955,1960.0,1.0,77.0,New York Yankees,Yankee Stadium I,NYY
+956,1960.0,8.0,77.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+957,1960.0,1.0,78.0,Pittsburgh Pirates,Forbes Field,PIT
+958,1960.0,5.0,77.0,San Francisco Giants,Candlestick Park,SFG
+959,1960.0,3.0,77.0,St. Louis Cardinals,Sportsman's Park IV,STL
+960,1960.0,5.0,77.0,Washington Senators,Griffith Stadium II,WSH
+961,1961.0,3.0,82.0,Baltimore Orioles,Memorial Stadium,BAL
+962,1961.0,6.0,82.0,Boston Red Sox,Fenway Park II,BOS
+963,1961.0,4.0,81.0,Chicago White Sox,Comiskey Park,CHW
+964,1961.0,7.0,78.0,Chicago Cubs,Wrigley Field,CHC
+965,1961.0,1.0,77.0,Cincinnati Reds,Crosley Field,CIN
+966,1961.0,5.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+967,1961.0,2.0,82.0,Detroit Tigers,Tiger Stadium,DET
+968,1961.0,9.0,80.0,Kansas City Athletics,Municipal Stadium I,KCA
+969,1961.0,8.0,82.0,Los Angeles Angels,Wrigley Field (LA),LAA
+970,1961.0,2.0,77.0,Los Angeles Dodgers,Los Angeles Memorial Coliseum,LAD
+971,1961.0,7.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+972,1961.0,4.0,77.0,Milwaukee Braves,County Stadium,MLN
+973,1961.0,1.0,81.0,New York Yankees,Yankee Stadium I,NYY
+974,1961.0,8.0,78.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+975,1961.0,6.0,77.0,Pittsburgh Pirates,Forbes Field,PIT
+976,1961.0,3.0,77.0,San Francisco Giants,Candlestick Park,SFG
+977,1961.0,5.0,78.0,St. Louis Cardinals,Sportsman's Park IV,STL
+978,1961.0,9.0,79.0,Washington Senators,Griffith Stadium II,WSA
+979,1962.0,7.0,82.0,Baltimore Orioles,Memorial Stadium,BAL
+980,1962.0,8.0,79.0,Boston Red Sox,Fenway Park II,BOS
+981,1962.0,5.0,81.0,Chicago White Sox,Comiskey Park,CHW
+982,1962.0,9.0,81.0,Chicago Cubs,Wrigley Field,CHC
+983,1962.0,3.0,81.0,Cincinnati Reds,Crosley Field,CIN
+984,1962.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+985,1962.0,4.0,82.0,Detroit Tigers,Tiger Stadium,DET
+986,1962.0,8.0,82.0,Houston Colt .45's,Colt Stadium,HOU
+987,1962.0,9.0,81.0,Kansas City Athletics,Municipal Stadium I,KCA
+988,1962.0,3.0,81.0,Los Angeles Angels,Dodger Stadium,LAA
+989,1962.0,2.0,83.0,Los Angeles Dodgers,Dodger Stadium,LAD
+990,1962.0,2.0,82.0,Minnesota Twins,Metropolitan Stadium,MIN
+991,1962.0,5.0,81.0,Milwaukee Braves,County Stadium,MLN
+992,1962.0,1.0,80.0,New York Yankees,Yankee Stadium I,NYY
+993,1962.0,10.0,80.0,New York Mets,Polo Grounds IV,NYM
+994,1962.0,7.0,80.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+995,1962.0,4.0,81.0,Pittsburgh Pirates,Forbes Field,PIT
+996,1962.0,1.0,82.0,San Francisco Giants,Candlestick Park,SFG
+997,1962.0,6.0,81.0,St. Louis Cardinals,Sportsman's Park IV,STL
+998,1962.0,10.0,80.0,Washington Senators,R.F.K. Stadium,WSA
+999,1963.0,4.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1000,1963.0,7.0,80.0,Boston Red Sox,Fenway Park II,BOS
+1001,1963.0,2.0,82.0,Chicago White Sox,Comiskey Park,CHW
+1002,1963.0,7.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1003,1963.0,5.0,81.0,Cincinnati Reds,Crosley Field,CIN
+1004,1963.0,5.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1005,1963.0,5.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1006,1963.0,9.0,81.0,Houston Colt .45's,Colt Stadium,HOU
+1007,1963.0,8.0,81.0,Kansas City Athletics,Municipal Stadium I,KCA
+1008,1963.0,9.0,81.0,Los Angeles Angels,Dodger Stadium,LAA
+1009,1963.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1010,1963.0,3.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1011,1963.0,6.0,82.0,Milwaukee Braves,County Stadium,MLN
+1012,1963.0,1.0,80.0,New York Yankees,Yankee Stadium I,NYY
+1013,1963.0,10.0,81.0,New York Mets,Polo Grounds IV,NYM
+1014,1963.0,4.0,81.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+1015,1963.0,8.0,81.0,Pittsburgh Pirates,Forbes Field,PIT
+1016,1963.0,3.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1017,1963.0,2.0,81.0,St. Louis Cardinals,Sportsman's Park IV,STL
+1018,1963.0,10.0,80.0,Washington Senators,R.F.K. Stadium,WSA
+1019,1964.0,3.0,82.0,Baltimore Orioles,Memorial Stadium,BAL
+1020,1964.0,8.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1021,1964.0,2.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1022,1964.0,8.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1023,1964.0,2.0,82.0,Cincinnati Reds,Crosley Field,CIN
+1024,1964.0,6.0,82.0,Cleveland Indians,Cleveland Stadium,CLE
+1025,1964.0,4.0,82.0,Detroit Tigers,Tiger Stadium,DET
+1026,1964.0,9.0,81.0,Houston Colt .45's,Colt Stadium,HOU
+1027,1964.0,10.0,81.0,Kansas City Athletics,Municipal Stadium I,KCA
+1028,1964.0,5.0,81.0,Los Angeles Angels,Dodger Stadium,LAA
+1029,1964.0,6.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1030,1964.0,6.0,82.0,Minnesota Twins,Metropolitan Stadium,MIN
+1031,1964.0,5.0,81.0,Milwaukee Braves,County Stadium,MLN
+1032,1964.0,1.0,81.0,New York Yankees,Yankee Stadium I,NYY
+1033,1964.0,10.0,82.0,New York Mets,Shea Stadium,NYM
+1034,1964.0,2.0,81.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+1035,1964.0,6.0,81.0,Pittsburgh Pirates,Forbes Field,PIT
+1036,1964.0,4.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1037,1964.0,1.0,81.0,St. Louis Cardinals,Sportsman's Park IV,STL
+1038,1964.0,9.0,81.0,Washington Senators,R.F.K. Stadium,WSA
+1039,1965.0,3.0,79.0,Baltimore Orioles,Memorial Stadium,BAL
+1040,1965.0,9.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1041,1965.0,7.0,80.0,California Angels,Dodger Stadium,CAL
+1042,1965.0,2.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1043,1965.0,8.0,83.0,Chicago Cubs,Wrigley Field,CHC
+1044,1965.0,4.0,81.0,Cincinnati Reds,Crosley Field,CIN
+1045,1965.0,5.0,82.0,Cleveland Indians,Cleveland Stadium,CLE
+1046,1965.0,4.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1047,1965.0,9.0,81.0,Houston Astros,Astrodome,HOU
+1048,1965.0,10.0,81.0,Kansas City Athletics,Municipal Stadium I,KCA
+1049,1965.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1050,1965.0,1.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1051,1965.0,5.0,81.0,Milwaukee Braves,County Stadium,MLN
+1052,1965.0,6.0,83.0,New York Yankees,Yankee Stadium I,NYY
+1053,1965.0,10.0,82.0,New York Mets,Shea Stadium,NYM
+1054,1965.0,6.0,80.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+1055,1965.0,3.0,82.0,Pittsburgh Pirates,Forbes Field,PIT
+1056,1965.0,2.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1057,1965.0,7.0,81.0,St. Louis Cardinals,Sportsman's Park IV,STL
+1058,1965.0,8.0,81.0,Washington Senators,R.F.K. Stadium,WSA
+1059,1966.0,5.0,82.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1060,1966.0,1.0,79.0,Baltimore Orioles,Memorial Stadium,BAL
+1061,1966.0,9.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1062,1966.0,6.0,81.0,California Angels,Anaheim Stadium,CAL
+1063,1966.0,4.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1064,1966.0,10.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1065,1966.0,7.0,79.0,Cincinnati Reds,Crosley Field,CIN
+1066,1966.0,5.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1067,1966.0,3.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1068,1966.0,8.0,81.0,Houston Astros,Astrodome,HOU
+1069,1966.0,7.0,81.0,Kansas City Athletics,Municipal Stadium I,KCA
+1070,1966.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1071,1966.0,2.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1072,1966.0,10.0,82.0,New York Yankees,Yankee Stadium I,NYY
+1073,1966.0,9.0,81.0,New York Mets,Shea Stadium,NYM
+1074,1966.0,4.0,81.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+1075,1966.0,3.0,81.0,Pittsburgh Pirates,Forbes Field,PIT
+1076,1966.0,2.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1077,1966.0,6.0,81.0,St. Louis Cardinals,Sportsman's Park IV/Busch Stadium II,STL
+1078,1966.0,8.0,78.0,Washington Senators,R.F.K. Stadium,WSA
+1079,1967.0,7.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1080,1967.0,6.0,77.0,Baltimore Orioles,Memorial Stadium,BAL
+1081,1967.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1082,1967.0,5.0,83.0,California Angels,Anaheim Stadium,CAL
+1083,1967.0,4.0,82.0,Chicago White Sox,Comiskey Park,CHW
+1084,1967.0,3.0,84.0,Chicago Cubs,Wrigley Field,CHC
+1085,1967.0,4.0,81.0,Cincinnati Reds,Crosley Field,CIN
+1086,1967.0,8.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1087,1967.0,2.0,82.0,Detroit Tigers,Tiger Stadium,DET
+1088,1967.0,9.0,81.0,Houston Astros,Astrodome,HOU
+1089,1967.0,10.0,81.0,Kansas City Athletics,Municipal Stadium I,KCA
+1090,1967.0,8.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1091,1967.0,2.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1092,1967.0,9.0,82.0,New York Yankees,Yankee Stadium I,NYY
+1093,1967.0,10.0,78.0,New York Mets,Shea Stadium,NYM
+1094,1967.0,5.0,80.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+1095,1967.0,6.0,81.0,Pittsburgh Pirates,Forbes Field,PIT
+1096,1967.0,2.0,82.0,San Francisco Giants,Candlestick Park,SFG
+1097,1967.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1098,1967.0,6.0,80.0,Washington Senators,R.F.K. Stadium,WSA
+1099,1968.0,5.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1100,1968.0,2.0,80.0,Baltimore Orioles,Memorial Stadium,BAL
+1101,1968.0,4.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1102,1968.0,8.0,81.0,California Angels,Anaheim Stadium,CAL
+1103,1968.0,8.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1104,1968.0,3.0,82.0,Chicago Cubs,Wrigley Field,CHC
+1105,1968.0,4.0,82.0,Cincinnati Reds,Crosley Field,CIN
+1106,1968.0,3.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1107,1968.0,1.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1108,1968.0,10.0,81.0,Houston Astros,Astrodome,HOU
+1109,1968.0,7.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1110,1968.0,7.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1111,1968.0,5.0,82.0,New York Yankees,Yankee Stadium I,NYY
+1112,1968.0,9.0,82.0,New York Mets,Shea Stadium,NYM
+1113,1968.0,6.0,83.0,Oakland Athletics,Oakland Coliseum,OAK
+1114,1968.0,7.0,81.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+1115,1968.0,6.0,81.0,Pittsburgh Pirates,Forbes Field,PIT
+1116,1968.0,2.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1117,1968.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1118,1968.0,10.0,81.0,Washington Senators,R.F.K. Stadium,WSA
+1119,1969.0,1.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1120,1969.0,1.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1121,1969.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1122,1969.0,3.0,81.0,California Angels,Anaheim Stadium,CAL
+1123,1969.0,5.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1124,1969.0,2.0,82.0,Chicago Cubs,Wrigley Field,CHC
+1125,1969.0,3.0,81.0,Cincinnati Reds,Crosley Field,CIN
+1126,1969.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1127,1969.0,2.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1128,1969.0,5.0,81.0,Houston Astros,Astrodome,HOU
+1129,1969.0,4.0,82.0,Kansas City Royals,Municipal Stadium II,KCR
+1130,1969.0,4.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1131,1969.0,1.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1132,1969.0,6.0,81.0,Montreal Expos,Jarry Park,MON
+1133,1969.0,5.0,80.0,New York Yankees,Yankee Stadium I,NYY
+1134,1969.0,1.0,82.0,New York Mets,Shea Stadium,NYM
+1135,1969.0,2.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1136,1969.0,5.0,81.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+1137,1969.0,3.0,81.0,Pittsburgh Pirates,Forbes Field,PIT
+1138,1969.0,6.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1139,1969.0,6.0,82.0,Seattle Pilots,Sicks Stadium,SEP
+1140,1969.0,2.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1141,1969.0,4.0,80.0,St. Louis Cardinals,Busch Stadium II,STL
+1142,1969.0,4.0,81.0,Washington Senators,R.F.K. Stadium,WSA
+1143,1970.0,5.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1144,1970.0,1.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1145,1970.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1146,1970.0,3.0,81.0,California Angels,Anaheim Stadium,CAL
+1147,1970.0,6.0,84.0,Chicago White Sox,Comiskey Park,CHW
+1148,1970.0,2.0,80.0,Chicago Cubs,Wrigley Field,CHC
+1149,1970.0,1.0,81.0,Cincinnati Reds,Crosley Field/Riverfront Stadium,CIN
+1150,1970.0,5.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1151,1970.0,4.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1152,1970.0,4.0,81.0,Houston Astros,Astrodome,HOU
+1153,1970.0,4.0,79.0,Kansas City Royals,Municipal Stadium II,KCR
+1154,1970.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1155,1970.0,1.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1156,1970.0,4.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1157,1970.0,6.0,80.0,Montreal Expos,Jarry Park,MON
+1158,1970.0,2.0,81.0,New York Yankees,Yankee Stadium I,NYY
+1159,1970.0,3.0,82.0,New York Mets,Shea Stadium,NYM
+1160,1970.0,2.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1161,1970.0,5.0,80.0,Philadelphia Phillies,Connie Mack Stadium,PHI
+1162,1970.0,1.0,82.0,Pittsburgh Pirates,Forbes Field/Three Rivers Stadium,PIT
+1163,1970.0,6.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1164,1970.0,3.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1165,1970.0,4.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1166,1970.0,6.0,81.0,Washington Senators,R.F.K. Stadium,WSA
+1167,1971.0,3.0,82.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1168,1971.0,1.0,77.0,Baltimore Orioles,Memorial Stadium,BAL
+1169,1971.0,3.0,80.0,Boston Red Sox,Fenway Park II,BOS
+1170,1971.0,4.0,81.0,California Angels,Anaheim Stadium,CAL
+1171,1971.0,3.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1172,1971.0,3.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1173,1971.0,4.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1174,1971.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1175,1971.0,2.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1176,1971.0,4.0,81.0,Houston Astros,Astrodome,HOU
+1177,1971.0,2.0,81.0,Kansas City Royals,Municipal Stadium II,KCR
+1178,1971.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1179,1971.0,5.0,79.0,Minnesota Twins,Metropolitan Stadium,MIN
+1180,1971.0,6.0,82.0,Milwaukee Brewers,County Stadium,MIL
+1181,1971.0,5.0,80.0,Montreal Expos,Jarry Park,MON
+1182,1971.0,4.0,81.0,New York Yankees,Yankee Stadium I,NYY
+1183,1971.0,3.0,81.0,New York Mets,Shea Stadium,NYM
+1184,1971.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1185,1971.0,6.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1186,1971.0,1.0,80.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1187,1971.0,6.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1188,1971.0,1.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1189,1971.0,2.0,82.0,St. Louis Cardinals,Busch Stadium II,STL
+1190,1971.0,5.0,81.0,Washington Senators,R.F.K. Stadium,WSA
+1191,1972.0,4.0,78.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1192,1972.0,3.0,77.0,Baltimore Orioles,Memorial Stadium,BAL
+1193,1972.0,2.0,78.0,Boston Red Sox,Fenway Park II,BOS
+1194,1972.0,5.0,80.0,California Angels,Anaheim Stadium,CAL
+1195,1972.0,2.0,78.0,Chicago White Sox,Comiskey Park,CHW
+1196,1972.0,2.0,77.0,Chicago Cubs,Wrigley Field,CHC
+1197,1972.0,1.0,76.0,Cincinnati Reds,Riverfront Stadium,CIN
+1198,1972.0,5.0,77.0,Cleveland Indians,Cleveland Stadium,CLE
+1199,1972.0,1.0,78.0,Detroit Tigers,Tiger Stadium,DET
+1200,1972.0,3.0,77.0,Houston Astros,Astrodome,HOU
+1201,1972.0,4.0,77.0,Kansas City Royals,Municipal Stadium II,KCR
+1202,1972.0,2.0,75.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1203,1972.0,3.0,74.0,Minnesota Twins,Metropolitan Stadium,MIN
+1204,1972.0,6.0,79.0,Milwaukee Brewers,County Stadium,MIL
+1205,1972.0,5.0,78.0,Montreal Expos,Jarry Park,MON
+1206,1972.0,4.0,77.0,New York Yankees,Yankee Stadium I,NYY
+1207,1972.0,3.0,78.0,New York Mets,Shea Stadium,NYM
+1208,1972.0,1.0,77.0,Oakland Athletics,Oakland Coliseum,OAK
+1209,1972.0,6.0,79.0,Philadelphia Phillies,Veterans Stadium,PHI
+1210,1972.0,1.0,78.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1211,1972.0,6.0,80.0,San Diego Padres,Jack Murphy Stadium,SDP
+1212,1972.0,5.0,77.0,San Francisco Giants,Candlestick Park,SFG
+1213,1972.0,4.0,77.0,St. Louis Cardinals,Busch Stadium II,STL
+1214,1972.0,6.0,77.0,Texas Rangers,Arlington Stadium,TEX
+1215,1973.0,5.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1216,1973.0,1.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1217,1973.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1218,1973.0,4.0,81.0,California Angels,Anaheim Stadium,CAL
+1219,1973.0,5.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1220,1973.0,5.0,80.0,Chicago Cubs,Wrigley Field,CHC
+1221,1973.0,1.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1222,1973.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1223,1973.0,3.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1224,1973.0,4.0,81.0,Houston Astros,Astrodome,HOU
+1225,1973.0,2.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1226,1973.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1227,1973.0,3.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1228,1973.0,5.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1229,1973.0,4.0,81.0,Montreal Expos,Jarry Park,MON
+1230,1973.0,4.0,81.0,New York Yankees,Yankee Stadium I,NYY
+1231,1973.0,1.0,81.0,New York Mets,Shea Stadium,NYM
+1232,1973.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1233,1973.0,6.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1234,1973.0,3.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1235,1973.0,6.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1236,1973.0,3.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1237,1973.0,2.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1238,1973.0,6.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1239,1974.0,3.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1240,1974.0,1.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1241,1974.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1242,1974.0,6.0,81.0,California Angels,Anaheim Stadium,CAL
+1243,1974.0,4.0,82.0,Chicago White Sox,Comiskey Park,CHW
+1244,1974.0,6.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1245,1974.0,2.0,82.0,Cincinnati Reds,Riverfront Stadium,CIN
+1246,1974.0,4.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1247,1974.0,6.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1248,1974.0,4.0,81.0,Houston Astros,Astrodome,HOU
+1249,1974.0,5.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1250,1974.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1251,1974.0,3.0,82.0,Minnesota Twins,Metropolitan Stadium,MIN
+1252,1974.0,5.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1253,1974.0,4.0,80.0,Montreal Expos,Jarry Park,MON
+1254,1974.0,2.0,81.0,New York Yankees,Shea Stadium,NYY
+1255,1974.0,5.0,81.0,New York Mets,Shea Stadium,NYM
+1256,1974.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1257,1974.0,3.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1258,1974.0,1.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1259,1974.0,6.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1260,1974.0,5.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1261,1974.0,2.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1262,1974.0,2.0,80.0,Texas Rangers,Arlington Stadium,TEX
+1263,1975.0,5.0,80.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1264,1975.0,2.0,77.0,Baltimore Orioles,Memorial Stadium,BAL
+1265,1975.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1266,1975.0,6.0,81.0,California Angels,Anaheim Stadium,CAL
+1267,1975.0,5.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1268,1975.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1269,1975.0,1.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1270,1975.0,4.0,80.0,Cleveland Indians,Cleveland Stadium,CLE
+1271,1975.0,6.0,80.0,Detroit Tigers,Tiger Stadium,DET
+1272,1975.0,6.0,81.0,Houston Astros,Astrodome,HOU
+1273,1975.0,2.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1274,1975.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1275,1975.0,4.0,82.0,Minnesota Twins,Metropolitan Stadium,MIN
+1276,1975.0,5.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1277,1975.0,5.0,81.0,Montreal Expos,Jarry Park,MON
+1278,1975.0,3.0,78.0,New York Yankees,Shea Stadium,NYY
+1279,1975.0,3.0,81.0,New York Mets,Shea Stadium,NYM
+1280,1975.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1281,1975.0,2.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1282,1975.0,1.0,80.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1283,1975.0,4.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1284,1975.0,3.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1285,1975.0,3.0,82.0,St. Louis Cardinals,Busch Stadium II,STL
+1286,1975.0,3.0,80.0,Texas Rangers,Arlington Stadium,TEX
+1287,1976.0,6.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1288,1976.0,2.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1289,1976.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1290,1976.0,4.0,81.0,California Angels,Anaheim Stadium,CAL
+1291,1976.0,6.0,80.0,Chicago White Sox,Comiskey Park,CHW
+1292,1976.0,4.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1293,1976.0,1.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1294,1976.0,4.0,79.0,Cleveland Indians,Cleveland Stadium,CLE
+1295,1976.0,5.0,80.0,Detroit Tigers,Tiger Stadium,DET
+1296,1976.0,3.0,82.0,Houston Astros,Astrodome,HOU
+1297,1976.0,1.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1298,1976.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1299,1976.0,3.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1300,1976.0,6.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1301,1976.0,6.0,80.0,Montreal Expos,Jarry Park,MON
+1302,1976.0,1.0,80.0,New York Yankees,Yankee Stadium II,NYY
+1303,1976.0,3.0,82.0,New York Mets,Shea Stadium,NYM
+1304,1976.0,2.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1305,1976.0,1.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1306,1976.0,2.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1307,1976.0,5.0,80.0,San Diego Padres,Jack Murphy Stadium,SDP
+1308,1976.0,4.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1309,1976.0,5.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1310,1976.0,4.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1311,1977.0,6.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1312,1977.0,2.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1313,1977.0,2.0,80.0,Boston Red Sox,Fenway Park II,BOS
+1314,1977.0,5.0,81.0,California Angels,Anaheim Stadium,CAL
+1315,1977.0,3.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1316,1977.0,4.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1317,1977.0,2.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1318,1977.0,5.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1319,1977.0,4.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1320,1977.0,3.0,81.0,Houston Astros,Astrodome,HOU
+1321,1977.0,1.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1322,1977.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1323,1977.0,4.0,80.0,Minnesota Twins,Metropolitan Stadium,MIN
+1324,1977.0,6.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1325,1977.0,5.0,81.0,Montreal Expos,Stade Olympique,MON
+1326,1977.0,1.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1327,1977.0,6.0,79.0,New York Mets,Shea Stadium,NYM
+1328,1977.0,7.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1329,1977.0,1.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1330,1977.0,2.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1331,1977.0,5.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1332,1977.0,6.0,81.0,Seattle Mariners,Kingdome,SEA
+1333,1977.0,4.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1334,1977.0,3.0,83.0,St. Louis Cardinals,Busch Stadium II,STL
+1335,1977.0,2.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1336,1977.0,7.0,80.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1337,1978.0,6.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1338,1978.0,4.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1339,1978.0,2.0,82.0,Boston Red Sox,Fenway Park II,BOS
+1340,1978.0,2.0,81.0,California Angels,Anaheim Stadium,CAL
+1341,1978.0,5.0,80.0,Chicago White Sox,Comiskey Park,CHW
+1342,1978.0,3.0,82.0,Chicago Cubs,Wrigley Field,CHC
+1343,1978.0,2.0,80.0,Cincinnati Reds,Riverfront Stadium,CIN
+1344,1978.0,6.0,78.0,Cleveland Indians,Cleveland Stadium,CLE
+1345,1978.0,5.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1346,1978.0,5.0,81.0,Houston Astros,Astrodome,HOU
+1347,1978.0,1.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1348,1978.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1349,1978.0,4.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1350,1978.0,3.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1351,1978.0,4.0,80.0,Montreal Expos,Stade Olympique,MON
+1352,1978.0,1.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1353,1978.0,6.0,80.0,New York Mets,Shea Stadium,NYM
+1354,1978.0,6.0,80.0,Oakland Athletics,Oakland Coliseum,OAK
+1355,1978.0,1.0,82.0,Philadelphia Phillies,Veterans Stadium,PHI
+1356,1978.0,2.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1357,1978.0,4.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1358,1978.0,7.0,81.0,Seattle Mariners,Kingdome,SEA
+1359,1978.0,3.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1360,1978.0,5.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1361,1978.0,2.0,82.0,Texas Rangers,Arlington Stadium,TEX
+1362,1978.0,7.0,81.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1363,1979.0,6.0,79.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1364,1979.0,1.0,79.0,Baltimore Orioles,Memorial Stadium,BAL
+1365,1979.0,3.0,80.0,Boston Red Sox,Fenway Park II,BOS
+1366,1979.0,1.0,81.0,California Angels,Anaheim Stadium,CAL
+1367,1979.0,5.0,79.0,Chicago White Sox,Comiskey Park,CHW
+1368,1979.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1369,1979.0,1.0,80.0,Cincinnati Reds,Riverfront Stadium,CIN
+1370,1979.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1371,1979.0,5.0,80.0,Detroit Tigers,Tiger Stadium,DET
+1372,1979.0,2.0,81.0,Houston Astros,Astrodome,HOU
+1373,1979.0,2.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1374,1979.0,3.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1375,1979.0,4.0,81.0,Minnesota Twins,Metropolitan Stadium,MIN
+1376,1979.0,2.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1377,1979.0,2.0,81.0,Montreal Expos,Stade Olympique,MON
+1378,1979.0,4.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1379,1979.0,6.0,82.0,New York Mets,Shea Stadium,NYM
+1380,1979.0,7.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1381,1979.0,4.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1382,1979.0,1.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1383,1979.0,5.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1384,1979.0,6.0,81.0,Seattle Mariners,Kingdome,SEA
+1385,1979.0,4.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1386,1979.0,3.0,82.0,St. Louis Cardinals,Busch Stadium II,STL
+1387,1979.0,3.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1388,1979.0,7.0,81.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1389,1980.0,4.0,80.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1390,1980.0,2.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1391,1980.0,5.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1392,1980.0,6.0,81.0,California Angels,Anaheim Stadium,CAL
+1393,1980.0,5.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1394,1980.0,6.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1395,1980.0,3.0,82.0,Cincinnati Reds,Riverfront Stadium,CIN
+1396,1980.0,6.0,79.0,Cleveland Indians,Cleveland Stadium,CLE
+1397,1980.0,4.0,82.0,Detroit Tigers,Tiger Stadium,DET
+1398,1980.0,1.0,81.0,Houston Astros,Astrodome,HOU
+1399,1980.0,1.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1400,1980.0,2.0,82.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1401,1980.0,3.0,80.0,Minnesota Twins,Metropolitan Stadium,MIN
+1402,1980.0,3.0,82.0,Milwaukee Brewers,County Stadium,MIL
+1403,1980.0,2.0,80.0,Montreal Expos,Stade Olympique,MON
+1404,1980.0,1.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1405,1980.0,5.0,82.0,New York Mets,Shea Stadium,NYM
+1406,1980.0,2.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1407,1980.0,1.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1408,1980.0,3.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1409,1980.0,6.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1410,1980.0,7.0,81.0,Seattle Mariners,Kingdome,SEA
+1411,1980.0,5.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1412,1980.0,4.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1413,1980.0,4.0,80.0,Texas Rangers,Arlington Stadium,TEX
+1414,1980.0,7.0,81.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1415,1981.0,5.0,50.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1416,1981.0,2.0,55.0,Baltimore Orioles,Memorial Stadium,BAL
+1417,1981.0,5.0,53.0,Boston Red Sox,Fenway Park II,BOS
+1418,1981.0,5.0,54.0,California Angels,Anaheim Stadium,CAL
+1419,1981.0,3.0,49.0,Chicago White Sox,Comiskey Park,CHW
+1420,1981.0,6.0,58.0,Chicago Cubs,Wrigley Field,CHC
+1421,1981.0,1.0,54.0,Cincinnati Reds,Riverfront Stadium,CIN
+1422,1981.0,6.0,54.0,Cleveland Indians,Cleveland Stadium,CLE
+1423,1981.0,3.0,55.0,Detroit Tigers,Tiger Stadium,DET
+1424,1981.0,3.0,51.0,Houston Astros,Astrodome,HOU
+1425,1981.0,4.0,47.0,Kansas City Royals,Royals Stadium,KCR
+1426,1981.0,2.0,56.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1427,1981.0,7.0,61.0,Minnesota Twins,Metropolitan Stadium,MIN
+1428,1981.0,1.0,49.0,Milwaukee Brewers,County Stadium,MIL
+1429,1981.0,2.0,56.0,Montreal Expos,Stade Olympique,MON
+1430,1981.0,4.0,51.0,New York Yankees,Yankee Stadium II,NYY
+1431,1981.0,5.0,52.0,New York Mets,Shea Stadium,NYM
+1432,1981.0,1.0,56.0,Oakland Athletics,Oakland Coliseum,OAK
+1433,1981.0,3.0,55.0,Philadelphia Phillies,Veterans Stadium,PHI
+1434,1981.0,4.0,51.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1435,1981.0,6.0,55.0,San Diego Padres,Jack Murphy Stadium,SDP
+1436,1981.0,6.0,57.0,Seattle Mariners,Kingdome,SEA
+1437,1981.0,4.0,53.0,San Francisco Giants,Candlestick Park,SFG
+1438,1981.0,1.0,53.0,St. Louis Cardinals,Busch Stadium II,STL
+1439,1981.0,2.0,56.0,Texas Rangers,Arlington Stadium,TEX
+1440,1981.0,7.0,53.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1441,1982.0,1.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1442,1982.0,2.0,82.0,Baltimore Orioles,Memorial Stadium,BAL
+1443,1982.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1444,1982.0,1.0,81.0,California Angels,Anaheim Stadium,CAL
+1445,1982.0,3.0,80.0,Chicago White Sox,Comiskey Park,CHW
+1446,1982.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1447,1982.0,6.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1448,1982.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1449,1982.0,4.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1450,1982.0,5.0,81.0,Houston Astros,Astrodome,HOU
+1451,1982.0,2.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1452,1982.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1453,1982.0,7.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1454,1982.0,1.0,82.0,Milwaukee Brewers,County Stadium,MIL
+1455,1982.0,3.0,81.0,Montreal Expos,Stade Olympique,MON
+1456,1982.0,5.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1457,1982.0,6.0,81.0,New York Mets,Shea Stadium,NYM
+1458,1982.0,5.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1459,1982.0,2.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1460,1982.0,4.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1461,1982.0,4.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1462,1982.0,4.0,81.0,Seattle Mariners,Kingdome,SEA
+1463,1982.0,3.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1464,1982.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1465,1982.0,6.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1466,1982.0,6.0,81.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1467,1983.0,2.0,80.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1468,1983.0,1.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1469,1983.0,6.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1470,1983.0,5.0,81.0,California Angels,Anaheim Stadium,CAL
+1471,1983.0,1.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1472,1983.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1473,1983.0,6.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1474,1983.0,7.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1475,1983.0,2.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1476,1983.0,3.0,82.0,Houston Astros,Astrodome,HOU
+1477,1983.0,2.0,82.0,Kansas City Royals,Royals Stadium,KCR
+1478,1983.0,1.0,80.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1479,1983.0,5.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1480,1983.0,5.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1481,1983.0,3.0,81.0,Montreal Expos,Stade Olympique,MON
+1482,1983.0,3.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1483,1983.0,6.0,82.0,New York Mets,Shea Stadium,NYM
+1484,1983.0,4.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1485,1983.0,1.0,82.0,Philadelphia Phillies,Veterans Stadium,PHI
+1486,1983.0,2.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1487,1983.0,4.0,82.0,San Diego Padres,Jack Murphy Stadium,SDP
+1488,1983.0,7.0,81.0,Seattle Mariners,Kingdome,SEA
+1489,1983.0,5.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1490,1983.0,4.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1491,1983.0,3.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1492,1983.0,4.0,81.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1493,1984.0,2.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1494,1984.0,5.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1495,1984.0,4.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1496,1984.0,2.0,81.0,California Angels,Anaheim Stadium,CAL
+1497,1984.0,5.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1498,1984.0,1.0,80.0,Chicago Cubs,Wrigley Field,CHC
+1499,1984.0,5.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1500,1984.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1501,1984.0,1.0,82.0,Detroit Tigers,Tiger Stadium,DET
+1502,1984.0,2.0,81.0,Houston Astros,Astrodome,HOU
+1503,1984.0,1.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1504,1984.0,4.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1505,1984.0,2.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1506,1984.0,7.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1507,1984.0,5.0,81.0,Montreal Expos,Stade Olympique,MON
+1508,1984.0,3.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1509,1984.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+1510,1984.0,4.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1511,1984.0,4.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1512,1984.0,6.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1513,1984.0,1.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1514,1984.0,5.0,81.0,Seattle Mariners,Kingdome,SEA
+1515,1984.0,6.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1516,1984.0,3.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1517,1984.0,7.0,80.0,Texas Rangers,Arlington Stadium,TEX
+1518,1984.0,2.0,81.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1519,1985.0,5.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1520,1985.0,4.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1521,1985.0,5.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1522,1985.0,2.0,79.0,California Angels,Anaheim Stadium,CAL
+1523,1985.0,3.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1524,1985.0,4.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1525,1985.0,2.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1526,1985.0,7.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1527,1985.0,3.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1528,1985.0,3.0,81.0,Houston Astros,Astrodome,HOU
+1529,1985.0,1.0,82.0,Kansas City Royals,Royals Stadium,KCR
+1530,1985.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1531,1985.0,4.0,84.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1532,1985.0,6.0,80.0,Milwaukee Brewers,County Stadium,MIL
+1533,1985.0,3.0,81.0,Montreal Expos,Stade Olympique,MON
+1534,1985.0,2.0,80.0,New York Yankees,Yankee Stadium II,NYY
+1535,1985.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+1536,1985.0,4.0,79.0,Oakland Athletics,Oakland Coliseum,OAK
+1537,1985.0,5.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1538,1985.0,6.0,80.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1539,1985.0,3.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1540,1985.0,6.0,83.0,Seattle Mariners,Kingdome,SEA
+1541,1985.0,6.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1542,1985.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1543,1985.0,7.0,80.0,Texas Rangers,Arlington Stadium,TEX
+1544,1985.0,1.0,80.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1545,1986.0,6.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1546,1986.0,7.0,79.0,Baltimore Orioles,Memorial Stadium,BAL
+1547,1986.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1548,1986.0,1.0,82.0,California Angels,Anaheim Stadium,CAL
+1549,1986.0,5.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1550,1986.0,5.0,80.0,Chicago Cubs,Wrigley Field,CHC
+1551,1986.0,2.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1552,1986.0,5.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1553,1986.0,3.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1554,1986.0,1.0,81.0,Houston Astros,Astrodome,HOU
+1555,1986.0,3.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1556,1986.0,5.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1557,1986.0,6.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1558,1986.0,6.0,80.0,Milwaukee Brewers,County Stadium,MIL
+1559,1986.0,4.0,80.0,Montreal Expos,Stade Olympique,MON
+1560,1986.0,2.0,80.0,New York Yankees,Yankee Stadium II,NYY
+1561,1986.0,1.0,81.0,New York Mets,Shea Stadium,NYM
+1562,1986.0,3.0,83.0,Oakland Athletics,Oakland Coliseum,OAK
+1563,1986.0,2.0,80.0,Philadelphia Phillies,Veterans Stadium,PHI
+1564,1986.0,6.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1565,1986.0,4.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1566,1986.0,7.0,82.0,Seattle Mariners,Kingdome,SEA
+1567,1986.0,3.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1568,1986.0,3.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1569,1986.0,2.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1570,1986.0,4.0,81.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1571,1987.0,5.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1572,1987.0,6.0,82.0,Baltimore Orioles,Memorial Stadium,BAL
+1573,1987.0,5.0,80.0,Boston Red Sox,Fenway Park II,BOS
+1574,1987.0,6.0,81.0,California Angels,Anaheim Stadium,CAL
+1575,1987.0,5.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1576,1987.0,6.0,80.0,Chicago Cubs,Wrigley Field,CHC
+1577,1987.0,2.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1578,1987.0,7.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1579,1987.0,1.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1580,1987.0,3.0,81.0,Houston Astros,Astrodome,HOU
+1581,1987.0,2.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1582,1987.0,4.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1583,1987.0,1.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1584,1987.0,3.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1585,1987.0,3.0,81.0,Montreal Expos,Stade Olympique,MON
+1586,1987.0,4.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1587,1987.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+1588,1987.0,3.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1589,1987.0,4.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1590,1987.0,4.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1591,1987.0,6.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1592,1987.0,4.0,81.0,Seattle Mariners,Kingdome,SEA
+1593,1987.0,1.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1594,1987.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1595,1987.0,6.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1596,1987.0,2.0,81.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1597,1988.0,6.0,79.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1598,1988.0,7.0,80.0,Baltimore Orioles,Memorial Stadium,BAL
+1599,1988.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1600,1988.0,4.0,81.0,California Angels,Anaheim Stadium,CAL
+1601,1988.0,5.0,81.0,Chicago White Sox,Comiskey Park,CHW
+1602,1988.0,4.0,82.0,Chicago Cubs,Wrigley Field,CHC
+1603,1988.0,2.0,80.0,Cincinnati Reds,Riverfront Stadium,CIN
+1604,1988.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1605,1988.0,2.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1606,1988.0,5.0,81.0,Houston Astros,Astrodome,HOU
+1607,1988.0,3.0,80.0,Kansas City Royals,Royals Stadium,KCR
+1608,1988.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1609,1988.0,2.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1610,1988.0,3.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1611,1988.0,3.0,81.0,Montreal Expos,Stade Olympique,MON
+1612,1988.0,5.0,80.0,New York Yankees,Yankee Stadium II,NYY
+1613,1988.0,1.0,80.0,New York Mets,Shea Stadium,NYM
+1614,1988.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1615,1988.0,6.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1616,1988.0,2.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1617,1988.0,3.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1618,1988.0,7.0,81.0,Seattle Mariners,Kingdome,SEA
+1619,1988.0,4.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1620,1988.0,5.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1621,1988.0,6.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1622,1988.0,3.0,81.0,Toronto Blue Jays,Exhibition Stadium,TOR
+1623,1989.0,6.0,79.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1624,1989.0,2.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1625,1989.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1626,1989.0,3.0,81.0,California Angels,Anaheim Stadium,CAL
+1627,1989.0,7.0,80.0,Chicago White Sox,Comiskey Park,CHW
+1628,1989.0,1.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1629,1989.0,5.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1630,1989.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1631,1989.0,7.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1632,1989.0,3.0,82.0,Houston Astros,Astrodome,HOU
+1633,1989.0,2.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1634,1989.0,4.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1635,1989.0,5.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1636,1989.0,4.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1637,1989.0,4.0,81.0,Montreal Expos,Stade Olympique,MON
+1638,1989.0,5.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1639,1989.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+1640,1989.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1641,1989.0,6.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1642,1989.0,5.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1643,1989.0,2.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1644,1989.0,6.0,81.0,Seattle Mariners,Kingdome,SEA
+1645,1989.0,1.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1646,1989.0,3.0,83.0,St. Louis Cardinals,Busch Stadium II,STL
+1647,1989.0,4.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1648,1989.0,1.0,81.0,Toronto Blue Jays,Exhibition Stadium /Skydome,TOR
+1649,1990.0,6.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1650,1990.0,5.0,80.0,Baltimore Orioles,Memorial Stadium,BAL
+1651,1990.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1652,1990.0,4.0,81.0,California Angels,Anaheim Stadium,CAL
+1653,1990.0,2.0,80.0,Chicago White Sox,Comiskey Park,CHW
+1654,1990.0,4.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1655,1990.0,1.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1656,1990.0,4.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1657,1990.0,3.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1658,1990.0,4.0,81.0,Houston Astros,Astrodome,HOU
+1659,1990.0,6.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1660,1990.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1661,1990.0,7.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1662,1990.0,6.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1663,1990.0,3.0,81.0,Montreal Expos,Stade Olympique,MON
+1664,1990.0,7.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1665,1990.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+1666,1990.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1667,1990.0,4.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1668,1990.0,1.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1669,1990.0,4.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1670,1990.0,5.0,81.0,Seattle Mariners,Kingdome,SEA
+1671,1990.0,3.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1672,1990.0,6.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1673,1990.0,3.0,82.0,Texas Rangers,Arlington Stadium,TEX
+1674,1990.0,2.0,81.0,Toronto Blue Jays,Skydome,TOR
+1675,1991.0,1.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1676,1991.0,6.0,81.0,Baltimore Orioles,Memorial Stadium,BAL
+1677,1991.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1678,1991.0,7.0,81.0,California Angels,Anaheim Stadium,CAL
+1679,1991.0,2.0,81.0,Chicago White Sox,Comiskey Park II,CHW
+1680,1991.0,4.0,83.0,Chicago Cubs,Wrigley Field,CHC
+1681,1991.0,5.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1682,1991.0,7.0,82.0,Cleveland Indians,Cleveland Stadium,CLE
+1683,1991.0,2.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1684,1991.0,6.0,81.0,Houston Astros,Astrodome,HOU
+1685,1991.0,6.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1686,1991.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1687,1991.0,1.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1688,1991.0,4.0,80.0,Milwaukee Brewers,County Stadium,MIL
+1689,1991.0,6.0,68.0,Montreal Expos,Stade Olympique,MON
+1690,1991.0,5.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1691,1991.0,5.0,82.0,New York Mets,Shea Stadium,NYM
+1692,1991.0,4.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1693,1991.0,3.0,83.0,Philadelphia Phillies,Veterans Stadium,PHI
+1694,1991.0,1.0,84.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1695,1991.0,3.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1696,1991.0,5.0,81.0,Seattle Mariners,Kingdome,SEA
+1697,1991.0,4.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1698,1991.0,2.0,84.0,St. Louis Cardinals,Busch Stadium II,STL
+1699,1991.0,3.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1700,1991.0,1.0,81.0,Toronto Blue Jays,Skydome,TOR
+1701,1992.0,1.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1702,1992.0,3.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1703,1992.0,7.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1704,1992.0,5.0,81.0,California Angels,Anaheim Stadium,CAL
+1705,1992.0,3.0,82.0,Chicago White Sox,Comiskey Park II,CHW
+1706,1992.0,4.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1707,1992.0,2.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1708,1992.0,4.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1709,1992.0,6.0,80.0,Detroit Tigers,Tiger Stadium,DET
+1710,1992.0,4.0,81.0,Houston Astros,Astrodome,HOU
+1711,1992.0,5.0,81.0,Kansas City Royals,Royals Stadium,KCR
+1712,1992.0,6.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1713,1992.0,2.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1714,1992.0,2.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1715,1992.0,2.0,81.0,Montreal Expos,Stade Olympique,MON
+1716,1992.0,4.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1717,1992.0,5.0,81.0,New York Mets,Shea Stadium,NYM
+1718,1992.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1719,1992.0,6.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1720,1992.0,1.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1721,1992.0,3.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1722,1992.0,7.0,81.0,Seattle Mariners,Kingdome,SEA
+1723,1992.0,5.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1724,1992.0,3.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1725,1992.0,4.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1726,1992.0,1.0,81.0,Toronto Blue Jays,Skydome,TOR
+1727,1993.0,1.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1728,1993.0,3.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1729,1993.0,5.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1730,1993.0,5.0,81.0,California Angels,Anaheim Stadium,CAL
+1731,1993.0,1.0,81.0,Chicago White Sox,Comiskey Park II,CHW
+1732,1993.0,4.0,82.0,Chicago Cubs,Wrigley Field,CHC
+1733,1993.0,5.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1734,1993.0,6.0,81.0,Cleveland Indians,Cleveland Stadium,CLE
+1735,1993.0,6.0,81.0,Colorado Rockies,Mile High Stadium,COL
+1736,1993.0,3.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1737,1993.0,6.0,81.0,Florida Marlins,Joe Robbie Stadium,FLA
+1738,1993.0,3.0,81.0,Houston Astros,Astrodome,HOU
+1739,1993.0,3.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+1740,1993.0,4.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1741,1993.0,5.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1742,1993.0,7.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1743,1993.0,2.0,81.0,Montreal Expos,Stade Olympique,MON
+1744,1993.0,2.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1745,1993.0,7.0,81.0,New York Mets,Shea Stadium,NYM
+1746,1993.0,7.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1747,1993.0,1.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1748,1993.0,5.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1749,1993.0,7.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1750,1993.0,4.0,81.0,Seattle Mariners,Kingdome,SEA
+1751,1993.0,2.0,81.0,San Francisco Giants,Candlestick Park,SFG
+1752,1993.0,3.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1753,1993.0,2.0,81.0,Texas Rangers,Arlington Stadium,TEX
+1754,1993.0,1.0,81.0,Toronto Blue Jays,Skydome,TOR
+1755,1994.0,2.0,55.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1756,1994.0,2.0,55.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1757,1994.0,4.0,64.0,Boston Red Sox,Fenway Park II,BOS
+1758,1994.0,4.0,63.0,California Angels,Anaheim Stadium,CAL
+1759,1994.0,1.0,53.0,Chicago White Sox,Comiskey Park II,CHW
+1760,1994.0,5.0,59.0,Chicago Cubs,Wrigley Field,CHC
+1761,1994.0,1.0,60.0,Cincinnati Reds,Riverfront Stadium,CIN
+1762,1994.0,2.0,51.0,Cleveland Indians,Jacobs Field,CLE
+1763,1994.0,3.0,57.0,Colorado Rockies,Mile High Stadium,COL
+1764,1994.0,5.0,58.0,Detroit Tigers,Tiger Stadium,DET
+1765,1994.0,5.0,59.0,Florida Marlins,Joe Robbie Stadium,FLA
+1766,1994.0,2.0,59.0,Houston Astros,Astrodome,HOU
+1767,1994.0,3.0,59.0,Kansas City Royals,Kauffman Stadium,KCR
+1768,1994.0,1.0,55.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1769,1994.0,4.0,59.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1770,1994.0,5.0,56.0,Milwaukee Brewers,County Stadium,MIL
+1771,1994.0,1.0,52.0,Montreal Expos,Stade Olympique,MON
+1772,1994.0,1.0,57.0,New York Yankees,Yankee Stadium II,NYY
+1773,1994.0,3.0,53.0,New York Mets,Shea Stadium,NYM
+1774,1994.0,2.0,56.0,Oakland Athletics,Oakland Coliseum,OAK
+1775,1994.0,4.0,60.0,Philadelphia Phillies,Veterans Stadium,PHI
+1776,1994.0,3.0,61.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1777,1994.0,4.0,57.0,San Diego Padres,Jack Murphy Stadium,SDP
+1778,1994.0,3.0,44.0,Seattle Mariners,Kingdome,SEA
+1779,1994.0,2.0,60.0,San Francisco Giants,Candlestick Park,SFG
+1780,1994.0,3.0,56.0,St. Louis Cardinals,Busch Stadium II,STL
+1781,1994.0,1.0,63.0,Texas Rangers,The Ballpark at Arlington,TEX
+1782,1994.0,3.0,59.0,Toronto Blue Jays,Skydome,TOR
+1783,1995.0,1.0,72.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1784,1995.0,3.0,72.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1785,1995.0,1.0,72.0,Boston Red Sox,Fenway Park II,BOS
+1786,1995.0,2.0,72.0,California Angels,Anaheim Stadium,CAL
+1787,1995.0,3.0,72.0,Chicago White Sox,Comiskey Park II,CHW
+1788,1995.0,3.0,72.0,Chicago Cubs,Wrigley Field,CHC
+1789,1995.0,1.0,72.0,Cincinnati Reds,Riverfront Stadium,CIN
+1790,1995.0,1.0,72.0,Cleveland Indians,Jacobs Field,CLE
+1791,1995.0,2.0,72.0,Colorado Rockies,Coors Field,COL
+1792,1995.0,4.0,72.0,Detroit Tigers,Tiger Stadium,DET
+1793,1995.0,4.0,71.0,Florida Marlins,Joe Robbie Stadium,FLA
+1794,1995.0,2.0,72.0,Houston Astros,Astrodome,HOU
+1795,1995.0,2.0,72.0,Kansas City Royals,Kauffman Stadium,KCR
+1796,1995.0,1.0,72.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1797,1995.0,5.0,72.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1798,1995.0,4.0,72.0,Milwaukee Brewers,County Stadium,MIL
+1799,1995.0,5.0,72.0,Montreal Expos,Stade Olympique,MON
+1800,1995.0,2.0,73.0,New York Yankees,Yankee Stadium II,NYY
+1801,1995.0,2.0,72.0,New York Mets,Shea Stadium,NYM
+1802,1995.0,4.0,72.0,Oakland Athletics,Oakland Coliseum,OAK
+1803,1995.0,2.0,72.0,Philadelphia Phillies,Veterans Stadium,PHI
+1804,1995.0,5.0,72.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1805,1995.0,3.0,72.0,San Diego Padres,Jack Murphy Stadium,SDP
+1806,1995.0,1.0,73.0,Seattle Mariners,Kingdome,SEA
+1807,1995.0,4.0,72.0,San Francisco Giants,Candlestick Park,SFG
+1808,1995.0,4.0,72.0,St. Louis Cardinals,Busch Stadium II,STL
+1809,1995.0,3.0,72.0,Texas Rangers,The Ballpark at Arlington,TEX
+1810,1995.0,5.0,72.0,Toronto Blue Jays,Skydome,TOR
+1811,1996.0,1.0,81.0,Atlanta Braves,Atlanta-Fulton County Stadium,ATL
+1812,1996.0,2.0,82.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1813,1996.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1814,1996.0,4.0,81.0,California Angels,Anaheim Stadium,CAL
+1815,1996.0,2.0,81.0,Chicago White Sox,Comiskey Park II,CHW
+1816,1996.0,4.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1817,1996.0,3.0,81.0,Cincinnati Reds,Riverfront Stadium,CIN
+1818,1996.0,1.0,80.0,Cleveland Indians,Jacobs Field,CLE
+1819,1996.0,3.0,81.0,Colorado Rockies,Coors Field,COL
+1820,1996.0,5.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1821,1996.0,3.0,81.0,Florida Marlins,Joe Robbie Stadium,FLA
+1822,1996.0,2.0,81.0,Houston Astros,Astrodome,HOU
+1823,1996.0,5.0,80.0,Kansas City Royals,Kauffman Stadium,KCR
+1824,1996.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1825,1996.0,4.0,82.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1826,1996.0,3.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1827,1996.0,2.0,81.0,Montreal Expos,Stade Olympique,MON
+1828,1996.0,1.0,80.0,New York Yankees,Yankee Stadium II,NYY
+1829,1996.0,4.0,81.0,New York Mets,Shea Stadium,NYM
+1830,1996.0,3.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1831,1996.0,5.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1832,1996.0,5.0,80.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1833,1996.0,1.0,81.0,San Diego Padres,Jack Murphy Stadium,SDP
+1834,1996.0,2.0,81.0,Seattle Mariners,Kingdome,SEA
+1835,1996.0,4.0,82.0,San Francisco Giants,Candlestick Park,SFG
+1836,1996.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1837,1996.0,1.0,81.0,Texas Rangers,The Ballpark at Arlington,TEX
+1838,1996.0,4.0,81.0,Toronto Blue Jays,Skydome,TOR
+1839,1997.0,2.0,82.0,Anaheim Angels,Edison International Field,ANA
+1840,1997.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+1841,1997.0,1.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1842,1997.0,4.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1843,1997.0,2.0,81.0,Chicago White Sox,Comiskey Park II,CHW
+1844,1997.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1845,1997.0,3.0,81.0,Cincinnati Reds,Cinergy Field,CIN
+1846,1997.0,1.0,81.0,Cleveland Indians,Jacobs Field,CLE
+1847,1997.0,3.0,81.0,Colorado Rockies,Coors Field,COL
+1848,1997.0,3.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1849,1997.0,2.0,81.0,Florida Marlins,Joe Robbie Stadium,FLA
+1850,1997.0,1.0,81.0,Houston Astros,Astrodome,HOU
+1851,1997.0,5.0,80.0,Kansas City Royals,Kauffman Stadium,KCR
+1852,1997.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1853,1997.0,4.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1854,1997.0,3.0,80.0,Milwaukee Brewers,County Stadium,MIL
+1855,1997.0,4.0,81.0,Montreal Expos,Stade Olympique,MON
+1856,1997.0,2.0,80.0,New York Yankees,Yankee Stadium II,NYY
+1857,1997.0,3.0,81.0,New York Mets,Shea Stadium,NYM
+1858,1997.0,4.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1859,1997.0,5.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1860,1997.0,2.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1861,1997.0,4.0,81.0,San Diego Padres,Qualcomm Stadium,SDP
+1862,1997.0,1.0,81.0,Seattle Mariners,Kingdome,SEA
+1863,1997.0,1.0,81.0,San Francisco Giants,3Com Park,SFG
+1864,1997.0,4.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1865,1997.0,3.0,81.0,Texas Rangers,The Ballpark at Arlington,TEX
+1866,1997.0,5.0,81.0,Toronto Blue Jays,Skydome,TOR
+1867,1998.0,2.0,81.0,Anaheim Angels,Edison International Field,ANA
+1868,1998.0,5.0,81.0,Arizona Diamondbacks,Bank One Ballpark,ARI
+1869,1998.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+1870,1998.0,4.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1871,1998.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1872,1998.0,2.0,81.0,Chicago White Sox,Comiskey Park II,CHW
+1873,1998.0,2.0,82.0,Chicago Cubs,Wrigley Field,CHC
+1874,1998.0,4.0,81.0,Cincinnati Reds,Cinergy Field,CIN
+1875,1998.0,1.0,81.0,Cleveland Indians,Jacobs Field,CLE
+1876,1998.0,4.0,81.0,Colorado Rockies,Coors Field,COL
+1877,1998.0,5.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1878,1998.0,5.0,81.0,Florida Marlins,Joe Robbie Stadium,FLA
+1879,1998.0,1.0,81.0,Houston Astros,Astrodome,HOU
+1880,1998.0,3.0,80.0,Kansas City Royals,Kauffman Stadium,KCR
+1881,1998.0,3.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1882,1998.0,5.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1883,1998.0,4.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1884,1998.0,4.0,81.0,Montreal Expos,Stade Olympique,MON
+1885,1998.0,1.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1886,1998.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+1887,1998.0,4.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1888,1998.0,3.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1889,1998.0,6.0,80.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1890,1998.0,1.0,81.0,San Diego Padres,Qualcomm Stadium,SDP
+1891,1998.0,3.0,81.0,Seattle Mariners,Kingdome,SEA
+1892,1998.0,2.0,81.0,San Francisco Giants,3Com Park,SFG
+1893,1998.0,3.0,82.0,St. Louis Cardinals,Busch Stadium II,STL
+1894,1998.0,5.0,81.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+1895,1998.0,1.0,81.0,Texas Rangers,The Ballpark at Arlington,TEX
+1896,1998.0,3.0,81.0,Toronto Blue Jays,Skydome,TOR
+1897,1999.0,4.0,81.0,Anaheim Angels,Edison International Field,ANA
+1898,1999.0,1.0,81.0,Arizona Diamondbacks,Bank One Ballpark,ARI
+1899,1999.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+1900,1999.0,4.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1901,1999.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1902,1999.0,2.0,81.0,Chicago White Sox,Comiskey Park II,CHW
+1903,1999.0,6.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1904,1999.0,2.0,82.0,Cincinnati Reds,Cinergy Field,CIN
+1905,1999.0,1.0,81.0,Cleveland Indians,Jacobs Field,CLE
+1906,1999.0,5.0,81.0,Colorado Rockies,Coors Field,COL
+1907,1999.0,3.0,81.0,Detroit Tigers,Tiger Stadium,DET
+1908,1999.0,5.0,80.0,Florida Marlins,Pro Player Stadium,FLA
+1909,1999.0,1.0,82.0,Houston Astros,Astrodome,HOU
+1910,1999.0,4.0,80.0,Kansas City Royals,Kauffman Stadium,KCR
+1911,1999.0,3.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1912,1999.0,5.0,80.0,Milwaukee Brewers,County Stadium,MIL
+1913,1999.0,5.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1914,1999.0,4.0,81.0,Montreal Expos,Stade Olympique,MON
+1915,1999.0,1.0,81.0,New York Yankees,Yankee Stadium II,NYY
+1916,1999.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+1917,1999.0,2.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1918,1999.0,3.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1919,1999.0,3.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1920,1999.0,4.0,81.0,San Diego Padres,Qualcomm Stadium,SDP
+1921,1999.0,3.0,81.0,Seattle Mariners,Kingdome / Safeco Field,SEA
+1922,1999.0,2.0,81.0,San Francisco Giants,3Com Park,SFG
+1923,1999.0,4.0,80.0,St. Louis Cardinals,Busch Stadium II,STL
+1924,1999.0,5.0,81.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+1925,1999.0,1.0,81.0,Texas Rangers,The Ballpark at Arlington,TEX
+1926,1999.0,3.0,81.0,Toronto Blue Jays,Skydome,TOR
+1927,2000.0,3.0,81.0,Anaheim Angels,Edison International Field,ANA
+1928,2000.0,3.0,81.0,Arizona Diamondbacks,Bank One Ballpark,ARI
+1929,2000.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+1930,2000.0,4.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1931,2000.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1932,2000.0,1.0,81.0,Chicago White Sox,Comiskey Park II,CHW
+1933,2000.0,6.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1934,2000.0,2.0,82.0,Cincinnati Reds,Cinergy Field,CIN
+1935,2000.0,2.0,81.0,Cleveland Indians,Jacobs Field,CLE
+1936,2000.0,4.0,81.0,Colorado Rockies,Coors Field,COL
+1937,2000.0,3.0,81.0,Detroit Tigers,Comerica Park,DET
+1938,2000.0,3.0,81.0,Florida Marlins,Pro Player Stadium,FLA
+1939,2000.0,4.0,81.0,Houston Astros,Enron Field,HOU
+1940,2000.0,4.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+1941,2000.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1942,2000.0,3.0,81.0,Milwaukee Brewers,County Stadium,MIL
+1943,2000.0,5.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1944,2000.0,4.0,81.0,Montreal Expos,Stade Olympique,MON
+1945,2000.0,1.0,80.0,New York Yankees,Yankee Stadium II,NYY
+1946,2000.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+1947,2000.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1948,2000.0,5.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1949,2000.0,5.0,81.0,Pittsburgh Pirates,Three Rivers Stadium,PIT
+1950,2000.0,5.0,81.0,San Diego Padres,Qualcomm Stadium,SDP
+1951,2000.0,2.0,81.0,Seattle Mariners,Safeco Field,SEA
+1952,2000.0,1.0,81.0,San Francisco Giants,PacBell Park,SFG
+1953,2000.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+1954,2000.0,5.0,80.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+1955,2000.0,4.0,81.0,Texas Rangers,The Ballpark at Arlington,TEX
+1956,2000.0,3.0,81.0,Toronto Blue Jays,Skydome,TOR
+1957,2001.0,3.0,81.0,Anaheim Angels,Edison International Field,ANA
+1958,2001.0,1.0,81.0,Arizona Diamondbacks,Bank One Ballpark,ARI
+1959,2001.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+1960,2001.0,4.0,80.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1961,2001.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1962,2001.0,3.0,81.0,Chicago White Sox,Comiskey Park II,CHW
+1963,2001.0,3.0,81.0,Chicago Cubs,Wrigley Field,CHC
+1964,2001.0,5.0,81.0,Cincinnati Reds,Cinergy Field,CIN
+1965,2001.0,1.0,80.0,Cleveland Indians,Jacobs Field,CLE
+1966,2001.0,5.0,81.0,Colorado Rockies,Coors Field,COL
+1967,2001.0,4.0,81.0,Detroit Tigers,Comerica Park,DET
+1968,2001.0,4.0,80.0,Florida Marlins,Pro Player Stadium,FLA
+1969,2001.0,1.0,81.0,Houston Astros,Enron Field,HOU
+1970,2001.0,5.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+1971,2001.0,3.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+1972,2001.0,4.0,81.0,Milwaukee Brewers,Miller Park,MIL
+1973,2001.0,2.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+1974,2001.0,5.0,81.0,Montreal Expos,Stade Olympique,MON
+1975,2001.0,1.0,80.0,New York Yankees,Yankee Stadium II,NYY
+1976,2001.0,3.0,81.0,New York Mets,Shea Stadium,NYM
+1977,2001.0,2.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+1978,2001.0,2.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+1979,2001.0,6.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+1980,2001.0,4.0,81.0,San Diego Padres,Qualcomm Stadium,SDP
+1981,2001.0,1.0,81.0,Seattle Mariners,Safeco Field,SEA
+1982,2001.0,2.0,81.0,San Francisco Giants,PacBell Park,SFG
+1983,2001.0,2.0,82.0,St. Louis Cardinals,Busch Stadium II,STL
+1984,2001.0,5.0,81.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+1985,2001.0,4.0,82.0,Texas Rangers,The Ballpark at Arlington,TEX
+1986,2001.0,3.0,82.0,Toronto Blue Jays,Skydome,TOR
+1987,2002.0,2.0,81.0,Anaheim Angels,Edison International Field,ANA
+1988,2002.0,1.0,81.0,Arizona Diamondbacks,Bank One Ballpark,ARI
+1989,2002.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+1990,2002.0,4.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+1991,2002.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+1992,2002.0,2.0,81.0,Chicago White Sox,Comiskey Park II,CHW
+1993,2002.0,5.0,78.0,Chicago Cubs,Wrigley Field,CHC
+1994,2002.0,3.0,80.0,Cincinnati Reds,Cinergy Field,CIN
+1995,2002.0,3.0,81.0,Cleveland Indians,Jacobs Field,CLE
+1996,2002.0,4.0,81.0,Colorado Rockies,Coors Field,COL
+1997,2002.0,5.0,80.0,Detroit Tigers,Comerica Park,DET
+1998,2002.0,4.0,81.0,Florida Marlins,Pro Player Stadium,FLA
+1999,2002.0,2.0,81.0,Houston Astros,Minute Maid Park,HOU
+2000,2002.0,4.0,77.0,Kansas City Royals,Kauffman Stadium,KCR
+2001,2002.0,3.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2002,2002.0,6.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2003,2002.0,1.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+2004,2002.0,2.0,81.0,Montreal Expos,Stade Olympique,MON
+2005,2002.0,1.0,80.0,New York Yankees,Yankee Stadium II,NYY
+2006,2002.0,5.0,78.0,New York Mets,Shea Stadium,NYM
+2007,2002.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+2008,2002.0,3.0,79.0,Philadelphia Phillies,Veterans Stadium,PHI
+2009,2002.0,4.0,79.0,Pittsburgh Pirates,PNC Park,PIT
+2010,2002.0,5.0,81.0,San Diego Padres,Qualcomm Stadium,SDP
+2011,2002.0,3.0,81.0,Seattle Mariners,Safeco Field,SEA
+2012,2002.0,2.0,81.0,San Francisco Giants,PacBell Park,SFG
+2013,2002.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+2014,2002.0,5.0,81.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+2015,2002.0,4.0,80.0,Texas Rangers,The Ballpark at Arlington,TEX
+2016,2002.0,3.0,81.0,Toronto Blue Jays,Skydome,TOR
+2017,2003.0,3.0,82.0,Anaheim Angels,Edison International Field,ANA
+2018,2003.0,3.0,81.0,Arizona Diamondbacks,Bank One Ballpark,ARI
+2019,2003.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+2020,2003.0,4.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2021,2003.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2022,2003.0,2.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2023,2003.0,1.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2024,2003.0,5.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2025,2003.0,4.0,81.0,Cleveland Indians,Jacobs Field,CLE
+2026,2003.0,4.0,81.0,Colorado Rockies,Coors Field,COL
+2027,2003.0,5.0,81.0,Detroit Tigers,Comerica Park,DET
+2028,2003.0,2.0,81.0,Florida Marlins,Pro Player Stadium,FLA
+2029,2003.0,2.0,81.0,Houston Astros,Minute Maid Park,HOU
+2030,2003.0,3.0,80.0,Kansas City Royals,Kauffman Stadium,KCR
+2031,2003.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2032,2003.0,6.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2033,2003.0,1.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+2034,2003.0,4.0,81.0,Montreal Expos,Stade Olympique/Hiram Bithorn Stadium,MON
+2035,2003.0,1.0,82.0,New York Yankees,Yankee Stadium II,NYY
+2036,2003.0,5.0,80.0,New York Mets,Shea Stadium,NYM
+2037,2003.0,1.0,81.0,Oakland Athletics,Oakland Coliseum,OAK
+2038,2003.0,3.0,81.0,Philadelphia Phillies,Veterans Stadium,PHI
+2039,2003.0,4.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2040,2003.0,5.0,81.0,San Diego Padres,Qualcomm Stadium,SDP
+2041,2003.0,2.0,81.0,Seattle Mariners,Safeco Field,SEA
+2042,2003.0,1.0,81.0,San Francisco Giants,PacBell Park,SFG
+2043,2003.0,3.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+2044,2003.0,5.0,81.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+2045,2003.0,4.0,81.0,Texas Rangers,The Ballpark at Arlington,TEX
+2046,2003.0,3.0,81.0,Toronto Blue Jays,Skydome,TOR
+2047,2004.0,1.0,81.0,Anaheim Angels,Angels Stadium of Anaheim,ANA
+2048,2004.0,5.0,81.0,Arizona Diamondbacks,Bank One Ballpark,ARI
+2049,2004.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+2050,2004.0,3.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2051,2004.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2052,2004.0,2.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2053,2004.0,3.0,82.0,Chicago Cubs,Wrigley Field,CHC
+2054,2004.0,4.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2055,2004.0,3.0,81.0,Cleveland Indians,Jacobs Field,CLE
+2056,2004.0,4.0,81.0,Colorado Rockies,Coors Field,COL
+2057,2004.0,4.0,81.0,Detroit Tigers,Comerica Park,DET
+2058,2004.0,3.0,80.0,Florida Marlins,Pro Player Stadium,FLA
+2059,2004.0,2.0,81.0,Houston Astros,Minute Maid Park,HOU
+2060,2004.0,5.0,80.0,Kansas City Royals,Kauffman Stadium,KCR
+2061,2004.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2062,2004.0,6.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2063,2004.0,1.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+2064,2004.0,5.0,80.0,Montreal Expos,Stade Olympique/Hiram Bithorn Stadium,MON
+2065,2004.0,1.0,81.0,New York Yankees,Yankee Stadium II,NYY
+2066,2004.0,4.0,81.0,New York Mets,Shea Stadium,NYM
+2067,2004.0,2.0,81.0,Oakland Athletics,Network Associates Coliseum,OAK
+2068,2004.0,2.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2069,2004.0,5.0,80.0,Pittsburgh Pirates,PNC Park,PIT
+2070,2004.0,3.0,81.0,San Diego Padres,Petco Park,SDP
+2071,2004.0,4.0,82.0,Seattle Mariners,Safeco Field,SEA
+2072,2004.0,2.0,82.0,San Francisco Giants,SBC Park,SFG
+2073,2004.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+2074,2004.0,4.0,80.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+2075,2004.0,3.0,81.0,Texas Rangers,The Ballpark at Arlington,TEX
+2076,2004.0,5.0,81.0,Toronto Blue Jays,Skydome,TOR
+2077,2005.0,2.0,81.0,Arizona Diamondbacks,Bank One Ballpark,ARI
+2078,2005.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+2079,2005.0,4.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2080,2005.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2081,2005.0,1.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2082,2005.0,4.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2083,2005.0,5.0,82.0,Cincinnati Reds,Great American Ball Park,CIN
+2084,2005.0,2.0,81.0,Cleveland Indians,Jacobs Field,CLE
+2085,2005.0,5.0,81.0,Colorado Rockies,Coors Field,COL
+2086,2005.0,4.0,81.0,Detroit Tigers,Comerica Park,DET
+2087,2005.0,3.0,81.0,Florida Marlins,Dolphin Stadium,FLA
+2088,2005.0,2.0,81.0,Houston Astros,Minute Maid Park,HOU
+2089,2005.0,5.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2090,2005.0,1.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium,LAA
+2091,2005.0,4.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2092,2005.0,3.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2093,2005.0,3.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+2094,2005.0,1.0,81.0,New York Yankees,Yankee Stadium II,NYY
+2095,2005.0,3.0,81.0,New York Mets,Shea Stadium,NYM
+2096,2005.0,2.0,81.0,Oakland Athletics,McAfee Coliseum,OAK
+2097,2005.0,2.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2098,2005.0,6.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2099,2005.0,1.0,81.0,San Diego Padres,Petco Park,SDP
+2100,2005.0,4.0,81.0,Seattle Mariners,Safeco Field,SEA
+2101,2005.0,3.0,81.0,San Francisco Giants,SBC Park,SFG
+2102,2005.0,1.0,81.0,St. Louis Cardinals,Busch Stadium II,STL
+2103,2005.0,5.0,81.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+2104,2005.0,3.0,81.0,Texas Rangers,Ameriquest Field,TEX
+2105,2005.0,3.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2106,2005.0,5.0,81.0,Washington Nationals,R.F.K. Stadium,WSN
+2107,2006.0,4.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2108,2006.0,3.0,81.0,Atlanta Braves,Turner Field,ATL
+2109,2006.0,4.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2110,2006.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2111,2006.0,3.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2112,2006.0,6.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2113,2006.0,3.0,82.0,Cincinnati Reds,Great American Ball Park,CIN
+2114,2006.0,4.0,81.0,Cleveland Indians,Jacobs Field,CLE
+2115,2006.0,4.0,81.0,Colorado Rockies,Coors Field,COL
+2116,2006.0,2.0,81.0,Detroit Tigers,Comerica Park,DET
+2117,2006.0,4.0,81.0,Florida Marlins,Dolphin Stadium,FLA
+2118,2006.0,2.0,81.0,Houston Astros,Minute Maid Park,HOU
+2119,2006.0,5.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2120,2006.0,2.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium,LAA
+2121,2006.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2122,2006.0,4.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2123,2006.0,1.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+2124,2006.0,1.0,81.0,New York Yankees,Yankee Stadium II,NYY
+2125,2006.0,1.0,81.0,New York Mets,Shea Stadium,NYM
+2126,2006.0,1.0,81.0,Oakland Athletics,McAfee Coliseum,OAK
+2127,2006.0,2.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2128,2006.0,5.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2129,2006.0,1.0,81.0,San Diego Padres,Petco Park,SDP
+2130,2006.0,4.0,81.0,Seattle Mariners,Safeco Field,SEA
+2131,2006.0,3.0,81.0,San Francisco Giants,AT&T Park,SFG
+2132,2006.0,1.0,80.0,St. Louis Cardinals,Busch Stadium III,STL
+2133,2006.0,5.0,81.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+2134,2006.0,3.0,81.0,Texas Rangers,Ameriquest Field,TEX
+2135,2006.0,2.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2136,2006.0,5.0,81.0,Washington Nationals,R.F.K. Stadium,WSN
+2137,2007.0,1.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2138,2007.0,3.0,81.0,Atlanta Braves,Turner Field,ATL
+2139,2007.0,4.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2140,2007.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2141,2007.0,4.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2142,2007.0,1.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2143,2007.0,5.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2144,2007.0,1.0,80.0,Cleveland Indians,Jacobs Field,CLE
+2145,2007.0,2.0,82.0,Colorado Rockies,Coors Field,COL
+2146,2007.0,2.0,81.0,Detroit Tigers,Comerica Park,DET
+2147,2007.0,5.0,81.0,Florida Marlins,Dolphin Stadium,FLA
+2148,2007.0,4.0,81.0,Houston Astros,Minute Maid Park,HOU
+2149,2007.0,5.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2150,2007.0,1.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium,LAA
+2151,2007.0,4.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2152,2007.0,2.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2153,2007.0,3.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+2154,2007.0,2.0,81.0,New York Yankees,Yankee Stadium II,NYY
+2155,2007.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+2156,2007.0,3.0,81.0,Oakland Athletics,McAfee Coliseum,OAK
+2157,2007.0,1.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2158,2007.0,6.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2159,2007.0,3.0,81.0,San Diego Padres,Petco Park,SDP
+2160,2007.0,2.0,82.0,Seattle Mariners,Safeco Field,SEA
+2161,2007.0,5.0,81.0,San Francisco Giants,AT&T Park,SFG
+2162,2007.0,3.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2163,2007.0,5.0,81.0,Tampa Bay Devil Rays,Tropicana Field,TBD
+2164,2007.0,4.0,81.0,Texas Rangers,Rangers Ballpark in Arlington,TEX
+2165,2007.0,3.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2166,2007.0,4.0,81.0,Washington Nationals,R.F.K. Stadium,WSN
+2167,2008.0,2.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2168,2008.0,4.0,81.0,Atlanta Braves,Turner Field,ATL
+2169,2008.0,5.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2170,2008.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2171,2008.0,1.0,82.0,Chicago White Sox,U.S. Cellular Field,CHW
+2172,2008.0,1.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2173,2008.0,5.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2174,2008.0,3.0,81.0,Cleveland Indians,Jacobs Field,CLE
+2175,2008.0,3.0,81.0,Colorado Rockies,Coors Field,COL
+2176,2008.0,5.0,81.0,Detroit Tigers,Comerica Park,DET
+2177,2008.0,3.0,81.0,Florida Marlins,Dolphin Stadium,FLA
+2178,2008.0,3.0,80.0,Houston Astros,Minute Maid Park,HOU
+2179,2008.0,4.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2180,2008.0,1.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium,LAA
+2181,2008.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2182,2008.0,2.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2183,2008.0,2.0,81.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+2184,2008.0,3.0,81.0,New York Yankees,Yankee Stadium II,NYY
+2185,2008.0,2.0,81.0,New York Mets,Shea Stadium,NYM
+2186,2008.0,3.0,81.0,Oakland Athletics,McAfee Coliseum,OAK
+2187,2008.0,1.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2188,2008.0,6.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2189,2008.0,5.0,81.0,San Diego Padres,Petco Park,SDP
+2190,2008.0,4.0,81.0,Seattle Mariners,Safeco Field,SEA
+2191,2008.0,4.0,81.0,San Francisco Giants,AT&T Park,SFG
+2192,2008.0,4.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2193,2008.0,1.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2194,2008.0,2.0,81.0,Texas Rangers,Rangers Ballpark in Arlington,TEX
+2195,2008.0,4.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2196,2008.0,5.0,80.0,Washington Nationals,Nationals Park,WSN
+2197,2009.0,5.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2198,2009.0,3.0,81.0,Atlanta Braves,Turner Field,ATL
+2199,2009.0,5.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2200,2009.0,2.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2201,2009.0,3.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2202,2009.0,2.0,80.0,Chicago Cubs,Wrigley Field,CHC
+2203,2009.0,4.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2204,2009.0,4.0,81.0,Cleveland Indians,Jacobs Field,CLE
+2205,2009.0,2.0,81.0,Colorado Rockies,Coors Field,COL
+2206,2009.0,2.0,81.0,Detroit Tigers,Comerica Park,DET
+2207,2009.0,2.0,81.0,Florida Marlins,Dolphin Stadium,FLA
+2208,2009.0,5.0,81.0,Houston Astros,Minute Maid Park,HOU
+2209,2009.0,4.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2210,2009.0,1.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium,LAA
+2211,2009.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2212,2009.0,3.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2213,2009.0,1.0,82.0,Minnesota Twins,Hubert H Humphrey Metrodome,MIN
+2214,2009.0,1.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2215,2009.0,4.0,81.0,New York Mets,Citi Field,NYM
+2216,2009.0,4.0,81.0,Oakland Athletics,Oakland-Alameda County Coliseum,OAK
+2217,2009.0,1.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2218,2009.0,6.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2219,2009.0,4.0,81.0,San Diego Padres,Petco Park,SDP
+2220,2009.0,3.0,81.0,Seattle Mariners,Safeco Field,SEA
+2221,2009.0,3.0,81.0,San Francisco Giants,AT&T Park,SFG
+2222,2009.0,1.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2223,2009.0,3.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2224,2009.0,2.0,81.0,Texas Rangers,Rangers Ballpark in Arlington,TEX
+2225,2009.0,4.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2226,2009.0,5.0,81.0,Washington Nationals,Nationals Park,WSN
+2227,2010.0,5.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2228,2010.0,2.0,81.0,Atlanta Braves,Turner Field,ATL
+2229,2010.0,5.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2230,2010.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2231,2010.0,2.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2232,2010.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2233,2010.0,1.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2234,2010.0,4.0,81.0,Cleveland Indians,Jacobs Field,CLE
+2235,2010.0,3.0,81.0,Colorado Rockies,Coors Field,COL
+2236,2010.0,3.0,81.0,Detroit Tigers,Comerica Park,DET
+2237,2010.0,3.0,81.0,Florida Marlins,Dolphin Stadium,FLA
+2238,2010.0,4.0,81.0,Houston Astros,Minute Maid Park,HOU
+2239,2010.0,5.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2240,2010.0,3.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium,LAA
+2241,2010.0,4.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2242,2010.0,3.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2243,2010.0,1.0,81.0,Minnesota Twins,Target Field,MIN
+2244,2010.0,2.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2245,2010.0,4.0,81.0,New York Mets,Citi Field,NYM
+2246,2010.0,2.0,81.0,Oakland Athletics,Oakland-Alameda County Coliseum,OAK
+2247,2010.0,1.0,84.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2248,2010.0,6.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2249,2010.0,2.0,81.0,San Diego Padres,Petco Park,SDP
+2250,2010.0,4.0,81.0,Seattle Mariners,Safeco Field,SEA
+2251,2010.0,1.0,81.0,San Francisco Giants,AT&T Park,SFG
+2252,2010.0,2.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2253,2010.0,1.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2254,2010.0,1.0,81.0,Texas Rangers,Rangers Ballpark in Arlington,TEX
+2255,2010.0,4.0,78.0,Toronto Blue Jays,Rogers Centre,TOR
+2256,2010.0,5.0,81.0,Washington Nationals,Nationals Park,WSN
+2257,2011.0,1.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2258,2011.0,2.0,81.0,Atlanta Braves,Turner Field,ATL
+2259,2011.0,5.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2260,2011.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2261,2011.0,3.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2262,2011.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2263,2011.0,3.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2264,2011.0,2.0,81.0,Cleveland Indians,Jacobs Field,CLE
+2265,2011.0,4.0,81.0,Colorado Rockies,Coors Field,COL
+2266,2011.0,1.0,81.0,Detroit Tigers,Comerica Park,DET
+2267,2011.0,5.0,78.0,Florida Marlins,Sun Life Stadium,FLA
+2268,2011.0,6.0,81.0,Houston Astros,Minute Maid Park,HOU
+2269,2011.0,4.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2270,2011.0,2.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium,LAA
+2271,2011.0,3.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2272,2011.0,1.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2273,2011.0,5.0,81.0,Minnesota Twins,Target Field,MIN
+2274,2011.0,1.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2275,2011.0,4.0,81.0,New York Mets,Citi Field,NYM
+2276,2011.0,3.0,81.0,Oakland Athletics,Oakland-Alameda County Coliseum,OAK
+2277,2011.0,1.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2278,2011.0,4.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2279,2011.0,5.0,81.0,San Diego Padres,Petco Park,SDP
+2280,2011.0,4.0,84.0,Seattle Mariners,Safeco Field,SEA
+2281,2011.0,2.0,81.0,San Francisco Giants,AT&T Park,SFG
+2282,2011.0,2.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2283,2011.0,2.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2284,2011.0,1.0,81.0,Texas Rangers,Rangers Ballpark in Arlington,TEX
+2285,2011.0,4.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2286,2011.0,3.0,80.0,Washington Nationals,Nationals Park,WSN
+2287,2012.0,3.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2288,2012.0,2.0,81.0,Atlanta Braves,Turner Field,ATL
+2289,2012.0,2.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2290,2012.0,5.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2291,2012.0,2.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2292,2012.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2293,2012.0,1.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2294,2012.0,4.0,81.0,Cleveland Indians,Progressive Field,CLE
+2295,2012.0,5.0,81.0,Colorado Rockies,Coors Field,COL
+2296,2012.0,1.0,81.0,Detroit Tigers,Comerica Park,DET
+2297,2012.0,6.0,81.0,Houston Astros,Minute Maid Park,HOU
+2298,2012.0,3.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2299,2012.0,3.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,LAA
+2300,2012.0,2.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2301,2012.0,5.0,81.0,Miami Marlins,Marlins Park,MIA
+2302,2012.0,3.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2303,2012.0,5.0,81.0,Minnesota Twins,Target Field,MIN
+2304,2012.0,1.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2305,2012.0,4.0,81.0,New York Mets,Citi Field,NYM
+2306,2012.0,1.0,81.0,Oakland Athletics,O.co Coliseum,OAK
+2307,2012.0,3.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2308,2012.0,4.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2309,2012.0,4.0,81.0,San Diego Padres,Petco Park,SDP
+2310,2012.0,4.0,81.0,Seattle Mariners,Safeco Field,SEA
+2311,2012.0,1.0,81.0,San Francisco Giants,AT&T Park,SFG
+2312,2012.0,2.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2313,2012.0,3.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2314,2012.0,2.0,81.0,Texas Rangers,Rangers Ballpark in Arlington,TEX
+2315,2012.0,4.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2316,2012.0,1.0,81.0,Washington Nationals,Nationals Park,WSN
+2317,2013.0,2.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2318,2013.0,1.0,81.0,Atlanta Braves,Turner Field,ATL
+2319,2013.0,3.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2320,2013.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2321,2013.0,5.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2322,2013.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2323,2013.0,3.0,80.0,Cincinnati Reds,Great American Ball Park,CIN
+2324,2013.0,2.0,81.0,Cleveland Indians,Progressive Field,CLE
+2325,2013.0,5.0,81.0,Colorado Rockies,Coors Field,COL
+2326,2013.0,1.0,81.0,Detroit Tigers,Comerica Park,DET
+2327,2013.0,5.0,81.0,Houston Astros,Minute Maid Park,HOU
+2328,2013.0,3.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2329,2013.0,3.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,LAA
+2330,2013.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2331,2013.0,5.0,81.0,Miami Marlins,Marlins Park,MIA
+2332,2013.0,4.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2333,2013.0,4.0,81.0,Minnesota Twins,Target Field,MIN
+2334,2013.0,4.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2335,2013.0,4.0,81.0,New York Mets,Citi Field,NYM
+2336,2013.0,1.0,81.0,Oakland Athletics,O.co Coliseum,OAK
+2337,2013.0,4.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2338,2013.0,2.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2339,2013.0,3.0,81.0,San Diego Padres,Petco Park,SDP
+2340,2013.0,4.0,81.0,Seattle Mariners,Safeco Field,SEA
+2341,2013.0,4.0,82.0,San Francisco Giants,AT&T Park,SFG
+2342,2013.0,1.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2343,2013.0,2.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2344,2013.0,2.0,82.0,Texas Rangers,Rangers Ballpark in Arlington,TEX
+2345,2013.0,5.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2346,2013.0,2.0,81.0,Washington Nationals,Nationals Park,WSN
+2347,2014.0,5.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2348,2014.0,2.0,81.0,Atlanta Braves,Turner Field,ATL
+2349,2014.0,1.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2350,2014.0,5.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2351,2014.0,4.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2352,2014.0,5.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2353,2014.0,4.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2354,2014.0,3.0,81.0,Cleveland Indians,Progressive Field,CLE
+2355,2014.0,4.0,81.0,Colorado Rockies,Coors Field,COL
+2356,2014.0,1.0,81.0,Detroit Tigers,Comerica Park,DET
+2357,2014.0,4.0,81.0,Houston Astros,Minute Maid Park,HOU
+2358,2014.0,2.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2359,2014.0,1.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,LAA
+2360,2014.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2361,2014.0,4.0,81.0,Miami Marlins,Marlins Park,MIA
+2362,2014.0,3.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2363,2014.0,5.0,81.0,Minnesota Twins,Target Field,MIN
+2364,2014.0,2.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2365,2014.0,3.0,81.0,New York Mets,Citi Field,NYM
+2366,2014.0,2.0,81.0,Oakland Athletics,O.co Coliseum,OAK
+2367,2014.0,5.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2368,2014.0,2.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2369,2014.0,3.0,81.0,San Diego Padres,Petco Park,SDP
+2370,2014.0,3.0,81.0,Seattle Mariners,Safeco Field,SEA
+2371,2014.0,2.0,81.0,San Francisco Giants,AT&T Park,SFG
+2372,2014.0,1.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2373,2014.0,4.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2374,2014.0,5.0,81.0,Texas Rangers,Globe Life Park in Arlington,TEX
+2375,2014.0,3.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2376,2014.0,1.0,81.0,Washington Nationals,Nationals Park,WSN
+2377,2015.0,3.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2378,2015.0,4.0,81.0,Atlanta Braves,Turner Field,ATL
+2379,2015.0,3.0,78.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2380,2015.0,5.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2381,2015.0,4.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2382,2015.0,3.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2383,2015.0,5.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2384,2015.0,3.0,80.0,Cleveland Indians,Progressive Field,CLE
+2385,2015.0,5.0,81.0,Colorado Rockies,Coors Field,COL
+2386,2015.0,5.0,81.0,Detroit Tigers,Comerica Park,DET
+2387,2015.0,2.0,81.0,Houston Astros,Minute Maid Park,HOU
+2388,2015.0,1.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2389,2015.0,3.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,LAA
+2390,2015.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2391,2015.0,3.0,81.0,Miami Marlins,Marlins Park,MIA
+2392,2015.0,4.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2393,2015.0,2.0,81.0,Minnesota Twins,Target Field,MIN
+2394,2015.0,2.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2395,2015.0,1.0,81.0,New York Mets,Citi Field,NYM
+2396,2015.0,5.0,81.0,Oakland Athletics,O.co Coliseum,OAK
+2397,2015.0,5.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2398,2015.0,2.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2399,2015.0,4.0,81.0,San Diego Padres,Petco Park,SDP
+2400,2015.0,4.0,81.0,Seattle Mariners,Safeco Field,SEA
+2401,2015.0,2.0,81.0,San Francisco Giants,AT&T Park,SFG
+2402,2015.0,1.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2403,2015.0,4.0,84.0,Tampa Bay Rays,Tropicana Field,TBR
+2404,2015.0,1.0,81.0,Texas Rangers,Globe Life Park in Arlington,TEX
+2405,2015.0,1.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2406,2015.0,2.0,81.0,Washington Nationals,Nationals Park,WSN
+2407,2016.0,4.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2408,2016.0,5.0,81.0,Atlanta Braves,Turner Field,ATL
+2409,2016.0,2.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2410,2016.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2411,2016.0,4.0,81.0,Chicago White Sox,U.S. Cellular Field,CHW
+2412,2016.0,1.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2413,2016.0,5.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2414,2016.0,1.0,80.0,Cleveland Indians,Progressive Field,CLE
+2415,2016.0,3.0,81.0,Colorado Rockies,Coors Field,COL
+2416,2016.0,2.0,81.0,Detroit Tigers,Comerica Park,DET
+2417,2016.0,3.0,81.0,Houston Astros,Minute Maid Park,HOU
+2418,2016.0,3.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2419,2016.0,4.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,LAA
+2420,2016.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2421,2016.0,3.0,80.0,Miami Marlins,Marlins Park,MIA
+2422,2016.0,4.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2423,2016.0,5.0,81.0,Minnesota Twins,Target Field,MIN
+2424,2016.0,4.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2425,2016.0,2.0,81.0,New York Mets,Citi Field,NYM
+2426,2016.0,5.0,81.0,Oakland Athletics,O.co Coliseum,OAK
+2427,2016.0,4.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2428,2016.0,3.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2429,2016.0,5.0,81.0,San Diego Padres,Petco Park,SDP
+2430,2016.0,2.0,81.0,Seattle Mariners,Safeco Field,SEA
+2431,2016.0,2.0,81.0,San Francisco Giants,AT&T Park,SFG
+2432,2016.0,2.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2433,2016.0,5.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2434,2016.0,1.0,81.0,Texas Rangers,Globe Life Park in Arlington,TEX
+2435,2016.0,2.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2436,2016.0,1.0,81.0,Washington Nationals,Nationals Park,WSN
+2437,2017.0,2.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2438,2017.0,3.0,81.0,Atlanta Braves,SunTrust Park,ATL
+2439,2017.0,5.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2440,2017.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2441,2017.0,4.0,81.0,Chicago White Sox,Guaranteed Rate Field,CHW
+2442,2017.0,1.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2443,2017.0,5.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2444,2017.0,1.0,81.0,Cleveland Indians,Progressive Field,CLE
+2445,2017.0,3.0,81.0,Colorado Rockies,Coors Field,COL
+2446,2017.0,5.0,81.0,Detroit Tigers,Comerica Park,DET
+2447,2017.0,1.0,81.0,Houston Astros,Minute Maid Park,HOU
+2448,2017.0,3.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2449,2017.0,2.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,LAA
+2450,2017.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2451,2017.0,2.0,78.0,Miami Marlins,Marlins Park,MIA
+2452,2017.0,2.0,84.0,Milwaukee Brewers,Miller Park,MIL
+2453,2017.0,2.0,81.0,Minnesota Twins,Target Field,MIN
+2454,2017.0,2.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2455,2017.0,4.0,81.0,New York Mets,Citi Field,NYM
+2456,2017.0,5.0,81.0,Oakland Athletics,O.co Coliseum,OAK
+2457,2017.0,5.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2458,2017.0,4.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2459,2017.0,4.0,81.0,San Diego Padres,Petco Park,SDP
+2460,2017.0,3.0,81.0,Seattle Mariners,Safeco Field,SEA
+2461,2017.0,5.0,81.0,San Francisco Giants,AT&T Park,SFG
+2462,2017.0,3.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2463,2017.0,3.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2464,2017.0,4.0,81.0,Texas Rangers,Globe Life Park in Arlington,TEX
+2465,2017.0,4.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2466,2017.0,1.0,81.0,Washington Nationals,Nationals Park,WSN
+2467,2018.0,3.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2468,2018.0,1.0,81.0,Atlanta Braves,SunTrust Park,ATL
+2469,2018.0,5.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2470,2018.0,1.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2471,2018.0,4.0,81.0,Chicago White Sox,Guaranteed Rate Field,CHW
+2472,2018.0,2.0,82.0,Chicago Cubs,Wrigley Field,CHC
+2473,2018.0,5.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2474,2018.0,1.0,81.0,Cleveland Indians,Progressive Field,CLE
+2475,2018.0,2.0,81.0,Colorado Rockies,Coors Field,COL
+2476,2018.0,3.0,81.0,Detroit Tigers,Comerica Park,DET
+2477,2018.0,1.0,81.0,Houston Astros,Minute Maid Park,HOU
+2478,2018.0,5.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2479,2018.0,4.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,LAA
+2480,2018.0,1.0,82.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2481,2018.0,5.0,81.0,Miami Marlins,Marlins Park,MIA
+2482,2018.0,1.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2483,2018.0,2.0,81.0,Minnesota Twins,Target Field,MIN
+2484,2018.0,2.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2485,2018.0,4.0,81.0,New York Mets,Citi Field,NYM
+2486,2018.0,2.0,81.0,Oakland Athletics,O.co Coliseum,OAK
+2487,2018.0,3.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2488,2018.0,4.0,80.0,Pittsburgh Pirates,PNC Park,PIT
+2489,2018.0,5.0,81.0,San Diego Padres,Petco Park,SDP
+2490,2018.0,3.0,81.0,Seattle Mariners,Safeco Field,SEA
+2491,2018.0,4.0,81.0,San Francisco Giants,AT&T Park,SFG
+2492,2018.0,3.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2493,2018.0,3.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2494,2018.0,5.0,81.0,Texas Rangers,Globe Life Park in Arlington,TEX
+2495,2018.0,4.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2496,2018.0,2.0,81.0,Washington Nationals,Nationals Park,WSN
+2497,2019.0,2.0,81.0,Arizona Diamondbacks,Chase Field,ARI
+2498,2019.0,1.0,81.0,Atlanta Braves,SunTrust Park,ATL
+2499,2019.0,5.0,81.0,Baltimore Orioles,Oriole Park at Camden Yards,BAL
+2500,2019.0,3.0,81.0,Boston Red Sox,Fenway Park II,BOS
+2501,2019.0,3.0,80.0,Chicago White Sox,Guaranteed Rate Field,CHW
+2502,2019.0,3.0,81.0,Chicago Cubs,Wrigley Field,CHC
+2503,2019.0,4.0,81.0,Cincinnati Reds,Great American Ball Park,CIN
+2504,2019.0,2.0,81.0,Cleveland Indians,Progressive Field,CLE
+2505,2019.0,4.0,81.0,Colorado Rockies,Coors Field,COL
+2506,2019.0,5.0,81.0,Detroit Tigers,Comerica Park,DET
+2507,2019.0,1.0,81.0,Houston Astros,Minute Maid Park,HOU
+2508,2019.0,4.0,81.0,Kansas City Royals,Kauffman Stadium,KCR
+2509,2019.0,4.0,81.0,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,LAA
+2510,2019.0,1.0,81.0,Los Angeles Dodgers,Dodger Stadium,LAD
+2511,2019.0,5.0,81.0,Miami Marlins,Marlins Park,MIA
+2512,2019.0,2.0,81.0,Milwaukee Brewers,Miller Park,MIL
+2513,2019.0,1.0,81.0,Minnesota Twins,Target Field,MIN
+2514,2019.0,1.0,81.0,New York Yankees,Yankee Stadium III,NYY
+2515,2019.0,3.0,81.0,New York Mets,Citi Field,NYM
+2516,2019.0,2.0,81.0,Oakland Athletics,O.co Coliseum,OAK
+2517,2019.0,4.0,81.0,Philadelphia Phillies,Citizens Bank Park,PHI
+2518,2019.0,5.0,81.0,Pittsburgh Pirates,PNC Park,PIT
+2519,2019.0,5.0,81.0,San Diego Padres,Petco Park,SDP
+2520,2019.0,5.0,81.0,Seattle Mariners,T-Mobile Park,SEA
+2521,2019.0,3.0,81.0,San Francisco Giants,Oracle Park,SFG
+2522,2019.0,1.0,81.0,St. Louis Cardinals,Busch Stadium III,STL
+2523,2019.0,2.0,81.0,Tampa Bay Rays,Tropicana Field,TBR
+2524,2019.0,3.0,81.0,Texas Rangers,Globe Life Park in Arlington,TEX
+2525,2019.0,4.0,81.0,Toronto Blue Jays,Rogers Centre,TOR
+2526,2019.0,2.0,81.0,Washington Nationals,Nationals Park,WSN
