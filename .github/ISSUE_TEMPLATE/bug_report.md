@@ -9,6 +9,21 @@ assignees: ''
 
 # 1. Bug Report
 
+## 1.1. Table of Contents
+
+Please follow the order listed below.
+
+- [1. Bug Report](#1-bug-report)
+  - [1.1. Table of Contents](#11-table-of-contents)
+  - [1.2. Describe the bug](#12-describe-the-bug)
+  - [1.3. Steps To Reproduce](#13-steps-to-reproduce)
+  - [1.4. Expected behavior](#14-expected-behavior)
+  - [1.5. Screenshots](#15-screenshots)
+  - [1.6. Machine](#16-machine)
+    - [1.6.1. Desktop (please complete the following information if applicable)](#161-desktop-please-complete-the-following-information-if-applicable)
+    - [1.6.2. Smartphone (please complete the following information if applicable)](#162-smartphone-please-complete-the-following-information-if-applicable)
+  - [1.7. Additional context](#17-additional-context)
+
 ## 1.2. Describe the bug
 
 A clear and concise description of what the bug is.
