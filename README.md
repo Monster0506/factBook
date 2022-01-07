@@ -82,10 +82,11 @@ Other useful notes about the FactBook.
 
 A section of tasks to complete.
 
-- Add Header Numbers to each md file and update table of contents in each as well
-- Add dataset viewer
-- Update about in Github
+- ~~Add Header Numbers to each md file and update table of contents in each as well~~
+- ~~Update about in Github~~
 - ~~Add README style to filename conventions~~
+- Add dataset viewer
+- Add main Index page
 
 ### 1.2.4. License
 
