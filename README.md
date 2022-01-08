@@ -1,6 +1,10 @@
 # 1. Monster0506 World FactBook Edit
 
-![GitHub last commit](https://img.shields.io/github/last-commit/monster0506/factBook) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/monster0506/factBook) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/monster0506/factBook) [![GitHub license](https://img.shields.io/github/license/monster0506/factBook)](https://github.com/Monster0506/factBook/blob/master/LICENSE) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/monster0506/factbook)
+![GitHub last commit](https://img.shields.io/github/last-commit/monster0506/factBook)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/monster0506/factBook)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/monster0506/factBook)
+[![GitHub license](https://img.shields.io/github/license/monster0506/factBook)](https://github.com/Monster0506/factBook/blob/master/LICENSE)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/monster0506/factbook)
 
 This is a FactBook/Knowledge Base by Monster0506. It contains a large amount of information in a convenently accessable index. This information includes the CIA World Factbook, information on past events, taken from the [code.org](code.org) free tables. The tables that are normally updated every day are included, however, they are not current.
 
