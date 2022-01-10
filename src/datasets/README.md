@@ -25,5 +25,6 @@ This is an incomplete file, and does not follow the style guidelines.
 ## Sources
 
 - [https://code.org](https://code.org/) - All datasets not listed
-- [https://perso.telecom-paristech.fr/eagan/class/igr204/datasets](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets) - [cars](csvs/cars) and [film](csvs/film)
+- [https://perso.telecom-paristech.fr/](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets) - [cars](csvs/cars) and [film](csvs/film)
 - [(https://github.com/openai/grade-school-math](https://github.com/openai/grade-school-math) - [gradeSchoolMath](gradeSchoolMath/)
+- [https://arcgis.com](https://www.arcgis.com/home/item.html?id=d9b5ad2312a742489462994eab02c730) - Jazz/Blues map
