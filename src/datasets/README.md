@@ -11,7 +11,8 @@ This is an incomplete file, and does not follow the style guidelines.
 - [rockyou.txt](rockyou.txt) - large list of commonly used passwords.
 - [csvs/](csvs/) - All of the csvs in the FactBook. Taken from [code.org](code.org)
 - [gradeSchoolMath/](gradeSchoolMath/) - Grade school math facts. Taken from [OpenAi](https://github.com/openai/grade-school-math)
-- [htms/](htms/) - All of the htms in the FactBook. Taken from [code.org](code.org) and converted to html.
-- [Outdated Files](outdated/)
+- [htms/](htms/) - All of the htms in the FactBook. Taken from [code.org](code.org) and converted to html
 - [README.md](README.md) - This file.
 - [Old/](old/) - Original files.
+- [stylesheets/](stylesheets/) - All of the stylesheets in the datasets folder
+- [javascripts/](javascripts/) - All of the javascripts in the datasets folder

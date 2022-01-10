@@ -1,0 +1,27 @@
+.outdated {
+    color: red;
+}
+
+.outdated a {
+    color: red;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+.outdated:hover {
+    text-decoration: underline;
+}
+
+.or {
+    color: #ff9900;
+}
+
+.or:hover {
+    color: #000;
+}
