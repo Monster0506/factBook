@@ -21,264 +21,416 @@
         <span>
             <p id="results"></p>
         </span>
+        <span>
+            <!-- create a dropdown and populate it with the text inside the helpful class -->
+            <select id="hunt-select" onselect="huntDropdown()">
+                <option>
+                    USA
+                </option>
+                <option>
+                    World
+                </option>
+                <option>
+                    Music
+                </option>
+                <option>
+                    Entertainment
+                </option>
+                <option>
+                    Television
+                </option>
+                <option>
+                    Movies
+                </option>
+                <option>
+                    Sports
+                </option>
+                <option>
+                    Language
+                </option>
+                <option>
+                    Food
+                </option>
+                <option>
+                    Disease
+                </option>
+                <option>
+                    Animals
+                </option>
+                <option>
+                    Books
+                </option>
+                <option>
+                    Plants
+                </option>
+            </select>
+        </span>
     </div>
     <ul>
         <li class="list-item">
+            <span class="helpful" hidden>Countries Data</span>
             <a href="../countries/index.html">CIA World Factbook</a>
         </li>
-        <li class="list-item"><a href="htms/100 Birds of the World.htm">100 Birds of the World.htm</a><span class="or"> OR </span> <a href="csvs/100 Birds of the World.csv">100 Birds of the World.csv</a></li>
         <li class="list-item">
-            <a href="htms/2017 Women_s March Attendance by US City.htm">2017 Women's March Attendance by US City.htm</a><span class="or"> OR </span>
+            <span class="helpful" hidden></span><a href="htms/100 Birds of the World.htm">100 Birds of the
+                World.htm</a><span class="or"> OR </span> <a href="csvs/100 Birds of the World.csv">100 Birds of the
+                World.csv</a>
+        </li>
+        <li class="list-item">
+            <span class="helpful" hidden></span>
+            <a href="htms/2017 Women_s March Attendance by US City.htm">2017 Women's March Attendance by US
+                City.htm</a><span class="or"> OR </span>
             <a href="csvs/2017 Women_s March Attendance by US City.csv">2017 Women's March Attendance by US City.csv</a>
         </li>
         <li class="list-item">
-            <a href="htms/Air Quality Index by US County.htm">Air Quality Index by US County.htm</a><span class="or"> OR </span>
+            <span class="helpful" hidden>USA</span>
+            <a href="htms/Air Quality Index by US County.htm">Air Quality Index by US County.htm</a><span class="or"> OR
+            </span>
             <a href="csvs/Air Quality Index by US County.csv">Air Quality Index by US County.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>Entertainment Television TV</span>
             <a href="htms/American Ninja Warrior Obstacles.htm">American Ninja Warrior Obstacles.htm</a><span class="or"> OR </span>
             <a href="csvs/American Ninja Warrior Obstacles.csv">American Ninja Warrior Obstacles.csv</a>
         </li>
         <li class="list-item">
-            <a href="htms/American Sign Language Alphabet.htm">American Sign Language Alphabet.htm</a><span class="or"> OR </span>
+            <span class="helpful" hidden></span>
+            <a href="htms/American Sign Language Alphabet.htm">American Sign Language Alphabet.htm</a><span class="or">
+                OR </span>
             <a href="csvs/American Sign Language Alphabet.csv">American Sign Language Alphabet.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden></span>
             <a href="htms/AP Computer Science Test Taker Demographics by State (2019).htm">AP Computer Science Test
                 Taker Demographics by State (2019).htm</a><span class="or"> OR </span>
             <a href="csvs/AP Computer Science Test Taker Demographics by State (2019).csv">AP Computer Science Test
                 Taker Demographics by State (2019).csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>Sports Entertainment</span>
             <a href="htms/Baseball Teams.htm">Baseball Teams.htm</a><span class="or"> OR </span>
             <a href="csvs/Baseball Teams.csv">Baseball Teams.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden></span>
             <a href="htms/Best Selling Video Games.htm">Best Selling Video Games.htm</a><span class="or"> OR </span>
             <a href="csvs/Best Selling Video Games.csv">Best Selling Video Games.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>Animals Felines Kittens</span>
             <a href="htms/Cats.htm">Cats.htm</a><span class="or"> OR </span>
             <a href="csvs/Cats.csv">Cats.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>Food</span>
             <a href="htms/Cereal Nutrition.htm">Cereal Nutrition.htm</a><span class="or"> OR </span>
             <a href="csvs/Cereal Nutrition.csv">Cereal Nutrition.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden></span>
             <a href="htms/Countries and Territories.htm">Countries and Territories.htm</a><span class="or"> OR </span>
             <a href="csvs/Countries and Territories.csv">Countries and Territories.csv</a>
         </li>
         <li class="list-item outdated">
+            <span class="helpful" hidden>Coronavirus Disease Infection</span>
             <a href="htms/COVID-19 Cases per Country.htm">COVID-19 Cases per Country.htm</a><span class="or"> OR </span>
-            <a href="csvs/COVID-19 Cases per Country.csv">COVID-19 Cases per Country.csv</a><span class="outdated"> OUTDATED </span>
+            <a href="csvs/COVID-19 Cases per Country.csv">COVID-19 Cases per Country.csv</a><span class="outdated">
+                OUTDATED </span>
         </li>
         <li class="list-item outdated">
-            <a href="htms/COVID-19 Cases per US State.htm">COVID-19 Cases per US State.htm</a><span class="or"> OR </span>
-            <a href="csvs/COVID-19 Cases per US State.csv">COVID-19 Cases per US State.csv</a><span class="outdated"> OUTDATED </span>
+            <span class="helpful" hidden>Coronavirus Disease Infection</span>
+            <a href="htms/COVID-19 Cases per US State.htm">COVID-19 Cases per US State.htm</a><span class="or"> OR
+            </span>
+            <a href="csvs/COVID-19 Cases per US State.csv">COVID-19 Cases per US State.csv</a><span class="outdated">
+                OUTDATED </span>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>Animals</span>
             <a href="htms/Dinosaur Fossils.htm">Dinosaur Fossils.htm</a><span class="or"> OR </span>
             <a href="csvs/Dinosaur Fossils.csv">Dinosaur Fossils.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>Animals Puppies Puppy Hounds Canines</span>
             <a href="htms/Dogs.htm">Dogs.htm</a><span class="or"> OR </span>
             <a href="csvs/Dogs.csv">Dogs.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>USA</span>
             <a href="htms/Female State Legislators.htm">Female State Legislators.htm</a><span class="or"> OR </span>
             <a href="csvs/Female State Legislators.csv">Female State Legislators.csv</a>
         </li>
         <li class="list-item outdated">
-            <a href="htms/FIFA Men_s World Cup Results.htm">FIFA Men's World Cup Results.htm</a><span class="or"> OR </span>
-            <a href="csvs/FIFA Men_s World Cup Results.csv">FIFA Men's World Cup Results.htm</a><span class="outdated"> OUTDATED </span>
+            <span class="helpful" hidden>Sports Entertainment</span>
+            <a href="htms/FIFA Men_s World Cup Results.htm">FIFA Men's World Cup Results.htm</a><span class="or"> OR
+            </span>
+            <a href="csvs/FIFA Men_s World Cup Results.csv">FIFA Men's World Cup Results.htm</a><span class="outdated">
+                OUTDATED </span>
         </li>
         <li class="list-item outdated">
-            <a href="htms/FIFA Women_s World Cup Results.htm">FIFA Women's World Cup Results.htm</a><span class="or"> OR </span>
+            <span class="helpful" hidden>Sports Entertainment</span>
+            <a href="htms/FIFA Women_s World Cup Results.htm">FIFA Women's World Cup Results.htm</a><span class="or"> OR
+            </span>
             <a href="csvs/FIFA Women_s World Cup Results.csv">FIFA FIFA Women's World Cup Results.htm</a><span class="outdated"> OUTDATED </span>
         </li>
         <li class="list-item outdated">
+            <span class="helpful" hidden>Music Entertainment</span>
             <a href="htms/Grammy Winners.htm">Grammy Winners.htm</a><span class="or"> OR </span>
             <a href="csvs/Grammy Winners.csv">Grammy Winners.csv</a><span class="outdated"> OUTDATED </span>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden></span>
             <a href="htms/Historical Non-violent Resistances.htm">Historical Non-violent Resistances.htm</a><span class="or"> OR </span>
             <a href="csvs/Historical Non-violent Resistances.csv">Historical Non-violent Resistances.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden></span>
             <a href="htms/Internet Usage and Access Worldwide.htm">Internet Usage and Access Worldwide.htm</a><span class="or"> OR </span>
             <a href="csvs/Internet Usage and Access Worldwide.csv">Internet Usage and Access Worldwide.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden></span>
             <a href="htms/Ivy League Universities.htm">Ivy League Universities.htm</a><span class="or"> OR </span>
             <a href="csvs/Ivy League Universities.csv">Ivy League Universities.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>USA</span>
             <a href="htms/Major US Airlines.htm">Major US Airlines.htm</a><span class="or"> OR </span>
             <a href="csvs/Major US Airlines.csv">Major US Airlines.csv</a>
         </li>
         <li class="list-item outdated">
+            <span class="helpful" hidden></span>
             <a href="htms/Most Followed Instagram Accounts.htm">Most Followed Instagram Accounts.htm</a><span class="or"> OR </span>
             <a href="csvs/Most Followed Instagram Accounts.csv">Most Followed Instagram Accounts.csv</a><span class="outdated"> OUTDATED </span>
         </li>
         <li class="list-item">
-            <a href="htms/Most Spoken Languages Worldwide.htm">Most Spoken Languages Worldwide.htm</a><span class="or"> OR </span>
-            <a href="csvs/Most Spoken Languages Worldwide.csv">Most Spoken Languages Worldwide.csv</a>
+            <span class="helpful" hidden>World's</span>
+            <a href="htms/Most Spoken Languages Worldwide.htm">Most Spoken Languages Worldwide.htm</a><span class="or">
+                OR </span>
+            <a href="csvs/Most Spoken `ges Worldwide.csv">Most Spoken Languages Worldwide.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>Sports Entertainment</span>
             <a href="htms/NBA Teams.htm">NBA Teams.htm</a><span class="or"> OR </span>
             <a href="csvs/NBA Teams.csv">NBA Teams.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>Sports Entertainment</span>
             <a href="htms/NCAA Division I Teams.htm">NCAA Division I Teams.htm</a><span class="or"> OR </span>
             <a href="csvs/NCAA Division I Teams.csv">NCAA Division I Teams.csv</a>
         </li>
         <li class="list-item outdated">
+            <span class="helpful" hidden>Entertainment Television TV</span>
             <a href="htms/Netflix Content.htm">Netflix Content.htm</a><span class="or"> OR </span>
             <a href="csvs/Netflix Content.csv">Netflix Content.csv</a><span class="outdated"> OUTDATED </span>
             <li class="list-item">
+                <span class="helpful" hidden>Books Entertainment</span>
                 <a href="htms/New York Times Bestsellers 2011-2018.htm">New York Times Bestsellers 2011-2018.htm</a><span class="or"> OR </span>
                 <a href="csvs/New York Times Bestsellers 2011-2018.csv">New York Times Bestsellers 2011-2018.csv</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden>Sports Entertainment</span>
                 <a href="htms/NFL Teams.htm">NFL Teams.htm</a><span class="or"> OR </span>
                 <a href="csvs/NFL Teams.csv">NFL Teams.csv</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden>Sports Entertainment</span>
                 <a href="htms/NHL Teams.htm">NHL Teams.htm</a><span class="or"> OR </span>
                 <a href="csvs/NHL Teams.csv">NHL Teams.csv</a>
             </li>
             <li class="list-item">
-                <a href="htms/Nobel Prize Winners 1901-2016.htm">Nobel Prize Winners 1901-2016.htm</a><span class="or"> OR </span>
+                <span class="helpful" hidden>Books Entertainment</span>
+                <a href="htms/Nobel Prize Winners 1901-2016.htm">Nobel Prize Winners 1901-2016.htm</a><span class="or"> OR
+            </span>
                 <a href="csvs/Nobel Prize Winners 1901-2016.csv">Nobel Prize Winners 1901-2016.csv</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden></span>
                 <a href="htms/NYC Public Wifi Locations.htm">NYC Public Wifi Locations.htm</a><span class="or"> OR </span>
                 <a href="csvs/NYC Public Wifi Locations.csv">NYC Public Wifi Locations.csv</a>
             </li>
             <li class="list-item outdated">
+                <span class="helpful" hidden>Sports Entertainment Television TV</span>
                 <a href="htms/Olympic Medals.htm">Olympic Medals.htm</a><span class="or"> OR </span>
                 <a href="csvs/Olympic Medals.csv">Olympic Medals.csv</a><span class="outdated"> OUTDATED </span>
             </li>
             <li class="list-item outdated">
+                <span class="helpful" hidden>Television TV Entertainment</span>
                 <a href="htms/Oscar Winners.htm">Oscar Winners.htm</a><span class="or"> OR </span>
                 <a href="csvs/Oscar Winners.csv">Oscar Winners.csv</a><span class="outdated"> OUTDATED </span>
             </li>
             <li class="list-item outdated">
+                <span class="helpful" hidden>Sports Entertainment Television TV</span>
                 <a href="htms/Paralympic Games All-Time Medal Count.htm">Paralympic Games All-Time Medal Count.htm</a><span class="or"> OR </span>
                 <a href="csvs/Paralympic Games All-Time Medal Count.csv">Paralympic Games All-Time Medal Count.csv</a><span class="outdated"> OUTDATED </span>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden></span>
                 <a href="htms/Periodic Table Elements.htm">Periodic Table Elements.htm</a><span class="or"> OR </span>
                 <a href="csvs/Periodic Table Elements.csv">Periodic Table Elements.csv</a>
             </li>
             <li class="list-item">
-                <a href="htms/Planets of our Solar System.htm">Planets of our Solar System.htm</a><span class="or"> OR </span>
+                <span class="helpful" hidden></span>
+                <a href="htms/Planets of our Solar System.htm">Planets of our Solar System.htm</a><span class="or"> OR
+            </span>
                 <a href="csvs/Planets of our Solar System.csv">Planets of our Solar System.csv</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden></span>
                 <a href="htms/Rollercoasters.htm">Rollercoasters.htm</a><span class="or"> OR </span>
                 <a href="csvs/Rollercoasters.csv">Rollercoasters.csv</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden>Music Entertainment</span>
                 <a href="htms/RollingStone_ 500 Albums.htm">RollingStone 500 Albums.htm</a><span class="or"> OR </span>
                 <a href="csvs/RollingStone_ 500 Albums.csv">RollingStone 500 Albums.csv</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden></span>
                 <a href="htms/Target Store Locations.htm">Target Store Locations</a><span class="or"> OR </span>
                 <a href="csvs/Target Store Locations.csv">Target Store Locations</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden></span>
                 <a href="htms/Tate Museum Artworks.htm">Tate Museum Artworks.htm</a><span class="or"> OR </span>
                 <a href="csvs/Tate Museum Artworks.csv">Tate Museum Artworks.csv</a>
             </li>
             <li class="list-item">
-                <a href="htms/TheRoot_ 100 Influential African Americans.htm">TheRoot 100 Influential African Americans.htm</a><span class="or"> OR </span>
-                <a href="csvs/TheRoot_ 100 Influential African Americans.csv">TheRoot 100 Influential African Americans.csv</a>
+                <span class="helpful" hidden>Movies Television TV Entertainment</span>
+                <a href="htms/films.htm">films.htm</a><span class="or"> OR </span>
+                <a href="csvs/films.csv">films.csv</a>
+            </li>
+            <li class="list-item">
+                <span class="helpful" hidden>Plants</span>
+                <a href="htms/Complete Plants Checklist.htm">Complete Plants Checklist.htm</a><span class="or"> OR </span>
+                <a href="csvs/Complete Plants Checklist.csv">Complete Plants Checklist.csv</a>
+            </li>
+            <li class="list-item">
+                <span class="helpful" hidden>Black</span>
+                <a href="htms/TheRoot_ 100 Influential African Americans.htm">TheRoot 100 Influential African
+                Americans.htm</a><span class="or"> OR </span>
+                <a href="csvs/TheRoot_ 100 Influential African Americans.csv">TheRoot 100 Influential African
+                Americans.csv</a>
             </li>
             <li class="list-item outdated">
+                <span class="helpful" hidden>Music Entertainment</span>
                 <a href="htms/Top 50 USA.htm">Top 50 Songs USA.htm</a><span class="or"> OR </span>
                 <a href="csvs/Top 50 USA.csv">Top 50 Songs USA.csv</a><span class="outdated"> OUTDATED </span>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden>World's Music Entertainment</span>
                 <a href="htms/Top 50 Worldwide.htm">Top 50 Songs Worldwide.htm</a><span class="or"> OR </span>
                 <a href="csvs/Top 50 Worldwide.csv">Top 50 Songs Worldwide.csv</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden>USA</span>
                 <a href="htms/US 2016 Presidential Election Results.htm">US 2016 Presidential Election Results</a><span class="or"> OR </span>
                 <a href="csvs/US 2016 Presidential Election Results.csv">US 2016 Presidential Election Results</a>
             </li>
             <li class="list-item outdated">
+                <span class="helpful" hidden>Plants</span>
                 <a href="htms/US Agricultural Crops.htm">US Agricultural Crops.htm</a><span class="or"> OR </span>
-                <a href="csvs/US Agricultural Crops.csv">US Agricultural Crops.csv</a><span class="outdated"> OUTDATED </span>
+                <a href="csvs/US Agricultural Crops.csv">US Agricultural Crops.csv</a><span class="outdated"> OUTDATED
+            </span>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden>USA</span>
                 <a href="htms/US Congressional Members.htm">US Congressional Members.htm</a><span class="or"> OR </span>
                 <a href="csvs/US Congressional Members.csv">US Congressional Members.csv</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden>USA Money</span>
                 <a href="htms/US Household Income.htm">US Household Income.htm</a><span class="or"> OR </span>
                 <a href="csvs/US Household Income.csv">US Household Income.csv</a>
             </li>
             <li class="list-item">
-                <a href="htms/US Incarcerated Population, Per Race, Ethnicity, and Region.htm">US Incarcerated Population, Per Race, Ethnicity, and Region.htm</a><span class="or"> OR </span>
-                <a href="csvs/US Incarcerated Population, Per Race, Ethnicity, and Region.csv">US Incarcerated Population, Per Race, Ethnicity, and Region.csv</a>
+                <span class="helpful" hidden>USA Prision</span>
+                <a href="htms/US Incarcerated Population, Per Race, Ethnicity, and Region.htm">US Incarcerated Population,
+                Per Race, Ethnicity, and Region.htm</a><span class="or"> OR </span>
+                <a href="csvs/US Incarcerated Population, Per Race, Ethnicity, and Region.csv">US Incarcerated Population,
+                Per Race, Ethnicity, and Region.csv</a>
             </li>
             <li class="list-item">
+                <span class="helpful" hidden>USA</span>
                 <a href="htms/US National Parks.htm">US National Parks.htm</a><span class="or"> OR </span>
                 <a href="csvs/US National Parks.csv"></a>
             </li>
             <li class="list-item outdated">
+                <span class="helpful" hidden>USA</span>
                 <a href="htms/US Presidents.htm">US Presidents.htm</a><span class="or"> OR </span>
                 <a href="csvs/US Presidents.csv">US Presidents.csv</a><span class="outdated"> OUTDATED </span>
             </li>
             <li class="list-item outdated">
+                <span class="helpful" hidden>USA</span>
                 <a href="htms/US States.htm">US States.htm</a><span class="or"> OR </span>
                 <a href="csvs/US States.csv">US States.csv</a><span class="outdated"> OUTDATED </span>
             </li>
             <li class="list-item outdated">
+                <span class="helpful" hidden>USA</span>
                 <a href="htms/US Supreme Court Justices.htm">US Supreme Court Justices</a><span class="or"> OR </span>
-                <a href="csvs/US Supreme Court Justices.csv">US Supreme Court Justices</a><span class="outdated"> OUTDATED </span>
+                <a href="csvs/US Supreme Court Justices.csv">US Supreme Court Justices</a><span class="outdated"> OUTDATED
+            </span>
             </li>
             <li class="list-item outdated">
-                <a href="htms/US Voter Registration and Demographics By State.htm">US Voter Registration and Demographics By State.htm</a><span class="or"> OR </span>
-                <a href="csvs/US Voter Registration and Demographics By State.csv">US Voter Registration and Demographics By State.csv</a><span class="outdated"> OUTDATED </span>
+                <span class="helpful" hidden>USA</span>
+                <a href="htms/US Voter Registration and Demographics By State.htm">US Voter Registration and Demographics By
+                State.htm</a><span class="or"> OR </span>
+                <a href="csvs/US Voter Registration and Demographics By State.csv">US Voter Registration and Demographics By
+                State.csv</a><span class="outdated"> OUTDATED </span>
             </li>
             <li class="list-item">
-                <a href="htms/US Women Running for Elected Office in 2020.htm">US Women Running for Elected Office in 2020.htm</a><span class="or"> OR </span>
-                <a href="csvs/US Women Running for Elected Office in 2020.csv">US Women Running for Elected Office in 2020.csv</a>
+                <span class="helpful" hidden>USA</span>
+                <a href="htms/US Women Running for Elected Office in 2020.htm">US Women Running for Elected Office in
+                2020.htm</a><span class="or"> OR </span>
+                <a href="csvs/US Women Running for Elected Office in 2020.csv">US Women Running for Elected Office in
+                2020.csv</a>
             </li>
             <li class="list-item outdated">
-                <a href="htms/US Workers with Disabilities.htm">US Workers with Disabilities.htm</a>
-                <a href="csvs/US Workers with Disabilities.csv">US Workers with Disabilities.csv</a><span class="outdated"> OUTDATED </span>
+                <span class="helpful" hidden>USA</span>
+                <a href="htms/US Workers with Disabilities.htm">US Workers with Disabilities.htm</a><span class="or"> OR
+            </span>
+                <a href="csvs/US Workers with Disabilities.csv">US Workers with Disabilities.csv</a><span class="outdated">
+                OUTDATED </span>
+            </li>
+            <li class="list-item">
+                <span class="helpful" hidden>Entertainment</span>
+                <a href="htms/cars.htm">cars.htm</a><span class="or"> OR </span>
+                <a href="csvs/cars.csv">cars.csv</a>
             </li>
             <li class="list-item outdated">
-                <a href="htms/Viral 50 USA.htm">Viral 50 Songs USA.htm</a><span class="or"> OR </span>
-                <a href="csvs/Viral 50 USA.csv">Viral 50 Songs USA.csv</a><span class="outdated"> OUTDATED </span>
+                <span class="helpful" hidden>Music Entertainment TV Television USA</span>
+                <a href="htms/Viral 50 USA.htm ">Viral 50 Songs USA.htm</a><span class="or "> OR </span>
+                <a href="csvs/Viral 50 USA.csv ">Viral 50 Songs USA.csv</a><span class="outdated "> OUTDATED </span>
             </li>
             <li class="list-item outdated">
-                <a href="htms/Viral 50 Worldwide.htm">Viral 50 Songs Worldwide.htm</a><span class="or"> OR </span>
-                <a href="csvs/Viral 50 Worldwide.csv">Viral 50 Songs Worldwide.csv</a><span class="outdated"> OUTDATED </span>
+                <span class="helpful" hidden> World's Music Entertainment TV Television</span>
+                <a href="htms/Viral 50 Worldwide.htm ">Viral 50 Songs Worldwide.htm</a><span class="or "> OR </span>
+                <a href="csvs/Viral 50 Worldwide.csv ">Viral 50 Songs Worldwide.csv</a><span class="outdated "> OUTDATED
+            </span>
             </li>
             <li class="list-item">
-                <a href="htms/Volcano Eruptions.htm">Volcano Eruptions.htm</a><span class="or"> OR </span>
-                <a href="csvs/Volcano Eruptions.csv">Volcano Eruptions.csv</a>
+                <span class="helpful" hidden></span>
+                <a href="htms/Volcano Eruptions.htm ">Volcano Eruptions.htm</a><span class="or "> OR </span>
+                <a href="csvs/Volcano Eruptions.csv ">Volcano Eruptions.csv</a>
             </li>
             <li class="list-item">
-                <a href="htms/WNBA Teams.htm">WNBA Teams.htm</a><span class="or"> OR </span>
-                <a href="csvs/WNBA Teams.csv">WNBA Teams.csv</a>
+                <span class="helpful" hidden>Sports Entertainment</span>
+                <a href="htms/WNBA Teams.htm ">WNBA Teams.htm</a><span class="or "> OR </span>
+                <a href="csvs/WNBA Teams.csv ">WNBA Teams.csv</a>
             </li>
             <li class="list-item">
-                <a href="htms/Words.htm">Words.htm</a><span class="or"> OR </span>
-                <a href="csvs/Words.csv">Words.csv</a>
+                <span class="helpful" hidden>Language</span>
+                <a href="htms/Words.htm ">Words.htm</a><span class="or "> OR </span>
+                <a href="csvs/Words.csv ">Words.csv</a>
             </li>
             <li class="list-item">
-                <a href="htms/World_s Tallest Buildings.htm">World's Tallest Buildings.htm</a><span class="or"> OR </span>
-                <a href="csvs/World_s Tallest Buildings.csv">World's Tallest Buildings.csv</a>
+                <span class="helpful" hidden></span>
+                <a href="htms/World_s Tallest Buildings.htm ">World's Tallest Buildings.htm</a><span class="or "> OR </span>
+                <a href="csvs/World_s Tallest Buildings.csv ">World's Tallest Buildings.csv</a>
             </li>
             <li class="list-item">
-                <a href="htms/World_s Tallest Mountains.htm">World's Tallest Mountains.htm</a><span class="or"> OR </span>
-                <a href="csvs/World_s Tallest Mountains.csv">World's Tallest Mountains.csv</a>
+                <span class="helpful" hidden></span>
+                <a href="htms/World_s Tallest Mountains.htm ">World's Tallest Mountains.htm</a><span class="or "> OR </span>
+                <a href="csvs/World_s Tallest Mountains.csv ">World's Tallest Mountains.csv</a>
             </li>
 
 
