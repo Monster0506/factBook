@@ -14,7 +14,6 @@
     <h1>Datasets</h1>
     <p>To use this page, select a dataset from the list to open the htm table, or download the csv. You can also search for a file.</p>
     <div>
-
         <input id="search" type="text" name="search" placeholder="Search..." onkeyup="search()">
     </div>
     <div class="results-counter">
@@ -22,10 +21,14 @@
             <p id="results"></p>
         </span>
         <span>
+            <!-- ID FILTER:<td align="right">[0-9]+</td> regexp -->
             <!-- create a dropdown and populate it with the text inside the helpful class -->
-            <select id="hunt-select" onselect="huntDropdown()">
+            <select id="hunt-select" onchange="huntDropdown()">
                 <option>
                     USA
+                </option>
+                <option>
+                    Outdated
                 </option>
                 <option>
                     World
