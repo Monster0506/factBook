@@ -20,67 +20,104 @@
         <span>
             <p id="results"></p>
         </span>
-        <span>
-            <!-- ID FILTER:<td align="right">[0-9]+</td> regexp -->
-            <!-- create a dropdown and populate it with the text inside the helpful class -->
-            <select id="hunt-select" onchange="huntDropdown()">
-                <option>
-                    USA
-                </option>
-                <option>
-                    Outdated
-                </option>
-                <option>
-                    World
-                </option>
-                <option>
-                    Music
-                </option>
-                <option>
-                    Entertainment
-                </option>
-                <option>
-                    Television
-                </option>
-                <option>
-                    Movies
-                </option>
-                <option>
-                    Sports
-                </option>
-                <option>
-                    Language
-                </option>
-                <option>
-                    Food
-                </option>
-                <option>
-                    Disease
-                </option>
-                <option>
-                    Animals
-                </option>
-                <option>
-                    Books
-                </option>
-                <option>
-                    Plants
-                </option>
-            </select>
-        </span>
+
     </div>
+    <span>
+        <!-- create a dropdown and populate it with the text inside the helpful class -->
+        <select id="hunt-select" onchange="huntDropdown()">
+            <option>
+                USA
+            </option>
+            <option>
+                Outdated
+            </option>
+            <option>
+                World
+            </option>
+            <option>
+                Airlines
+            </option>
+            <option>
+                Music
+            </option>
+            <option>
+                Entertainment
+            </option>
+            <option>
+                Television
+            </option>
+            <option>
+                Movies
+            </option>
+            <option>
+                Sports
+            </option>
+            <option>
+                Language
+            </option>
+            <option>
+                Food
+            </option>
+            <option>
+                Disease
+            </option>
+            <option>
+                Animals
+            </option>
+            <option>
+                Books
+            </option>
+            <option>
+                Plants
+            </option>
+        </select>
+    </span>
     <ul>
         <li class="list-item">
             <span class="helpful" hidden>Countries Country Data</span>
             <a href="../countries/index.html">CIA World Factbook</a>
         </li>
+        <li>
+
+        </li>
         <li class="list-item">
-            <span class="helpful" hidden></span><a href="htms/100 Birds of the World.htm">100 Birds of the
+            <span class="helpful" hidden>Animals</span><a href="htms/100 Birds of the World.htm">100 Birds of the
                 World.htm</a><span class="or"> OR </span> <a href="csvs/100 Birds of the World.csv">100 Birds of the
                 World.csv</a>
         </li>
         <li class="list-item">
+            <span class="helpful" hidden>USA</span>
+            <a href="htms/US_births_1994-2003_CDC_NCHS.htm">US_births_1994-2003_CDC_NCHS.htm</a><span class="or"> OR
+            </span>
+            <a href="csvs/US_births_1994-2003_CDC_NCHS.csv">US_births_1994-2003_CDC_NCHS.csv</a>
+        </li>
+        <li class="list-item outdated">
             <span class="helpful" hidden></span>
+            <a href="htms/most_common_surnames.html">most_common_surnames.html</a><span class="or"> OR </span>
+            <a href="csvs/most_common_surnames.csv">most_common_surnames.csv</a> <span class="outdated">(outdated)</span>
+        </li>
+        <li class="list-item">
+            <span class="helpful" hidden>USA</span>
+            <a href="htms/US_births_2000-2014_SSA.htm">US_births_2000-2014_SSA.htm</a><span class="or"> OR </span>
+            <a href="csvs/US_births_2000-2014_SSA.csv">US_births_2000-2014_SSA.csv</a>
+        </li>
+        <li class="list-item">
+            <span class="helpful" hidden>Movies Films TV Television Entertainment</span>
+            <a href="htms/avengers.htm">avengers.htm</a><span class="or"> OR </span>
+            <a href="csvs/avengers.csv">avengers.csv</a>
+        </li>
+        <li class="list-item">
+            <span class="helpful" hidden>Airlines Flight</span>
+            <a href="htms/flying_etiquette.htm">flying_etiquette.htm</a><span class="or"> OR </span>
+            <a href="csvs/flying_etiquette.csv">flying_etiquette.csv</a>
+        </li>
+        <li class="list-item">
+            <span class="helpful" hidden>Airlines FLight</span>
+            <a href="htms/airline-safety.htm">airline-safety.htm</a><span class="or"> OR </span>
+            <a href="csvs/airline-safety.csv">airline-safety.csv</a>
+        </li>
+        <li class="list-item">
+            <span class="helpful" hidden>USA</span>
             <a href="htms/2017 Women_s March Attendance by US City.htm">2017 Women's March Attendance by US
                 City.htm</a><span class="or"> OR </span>
             <a href="csvs/2017 Women_s March Attendance by US City.csv">2017 Women's March Attendance by US City.csv</a>
@@ -104,7 +141,8 @@
         </li>
         <li class="list-item">
             <span class="helpful" hidden>Music</span>
-            <a href="htms/ChicagoBluesJazz_StoryMap_Data.htm">ChicagoBluesJazz StoryMap Data.htm</a><span class="or"> OR </span>
+            <a href="htms/ChicagoBluesJazz_StoryMap_Data.htm">ChicagoBluesJazz StoryMap Data.htm</a><span class="or"> OR
+            </span>
             <a href="htms/ChicagoBluesJazz_StoryMap_Data.csv">ChicagoBluesJazz StoryMap Data.csv</a>
         </li>
         <li class="list-item">
@@ -143,14 +181,19 @@
             <span class="helpful" hidden>Coronavirus Disease Infection</span>
             <a href="htms/COVID-19 Cases per Country.htm">COVID-19 Cases per Country.htm</a><span class="or"> OR </span>
             <a href="csvs/COVID-19 Cases per Country.csv">COVID-19 Cases per Country.csv</a><span class="outdated">
-                OUTDATED </span>
+                (outdated) </span>
+        </li>
+        <li class="list-item">
+            <span class="helpful"></span>
+            <a href="htms/psychiatric.htm">psychiatric.htm</a><span class="or"> OR </span>
+            <a href="csvs/psychiatric.csv">psychiatric.csv</a>
         </li>
         <li class="list-item outdated">
             <span class="helpful" hidden>Coronavirus Disease Infection</span>
             <a href="htms/COVID-19 Cases per US State.htm">COVID-19 Cases per US State.htm</a><span class="or"> OR
             </span>
             <a href="csvs/COVID-19 Cases per US State.csv">COVID-19 Cases per US State.csv</a><span class="outdated">
-                OUTDATED </span>
+                (outdated) </span>
         </li>
         <li class="list-item">
             <span class="helpful" hidden>Animals</span>
@@ -172,18 +215,18 @@
             <a href="htms/FIFA Men_s World Cup Results.htm">FIFA Men's World Cup Results.htm</a><span class="or"> OR
             </span>
             <a href="csvs/FIFA Men_s World Cup Results.csv">FIFA Men's World Cup Results.htm</a><span class="outdated">
-                OUTDATED </span>
+                (outdated) </span>
         </li>
         <li class="list-item outdated">
             <span class="helpful" hidden>Sports Entertainment</span>
             <a href="htms/FIFA Women_s World Cup Results.htm">FIFA Women's World Cup Results.htm</a><span class="or"> OR
             </span>
-            <a href="csvs/FIFA Women_s World Cup Results.csv">FIFA FIFA Women's World Cup Results.htm</a><span class="outdated"> OUTDATED </span>
+            <a href="csvs/FIFA Women_s World Cup Results.csv">FIFA FIFA Women's World Cup Results.htm</a><span class="outdated"> (outdated) </span>
         </li>
         <li class="list-item outdated">
             <span class="helpful" hidden>Music Entertainment</span>
             <a href="htms/Grammy Winners.htm">Grammy Winners.htm</a><span class="or"> OR </span>
-            <a href="csvs/Grammy Winners.csv">Grammy Winners.csv</a><span class="outdated"> OUTDATED </span>
+            <a href="csvs/Grammy Winners.csv">Grammy Winners.csv</a><span class="outdated"> (outdated) </span>
         </li>
         <li class="list-item">
             <span class="helpful" hidden></span>
@@ -201,14 +244,14 @@
             <a href="csvs/Ivy League Universities.csv">Ivy League Universities.csv</a>
         </li>
         <li class="list-item">
-            <span class="helpful" hidden>USA</span>
+            <span class="helpful" hidden>USA Flight</span>
             <a href="htms/Major US Airlines.htm">Major US Airlines.htm</a><span class="or"> OR </span>
             <a href="csvs/Major US Airlines.csv">Major US Airlines.csv</a>
         </li>
         <li class="list-item outdated">
             <span class="helpful" hidden></span>
             <a href="htms/Most Followed Instagram Accounts.htm">Most Followed Instagram Accounts.htm</a><span class="or"> OR </span>
-            <a href="csvs/Most Followed Instagram Accounts.csv">Most Followed Instagram Accounts.csv</a><span class="outdated"> OUTDATED </span>
+            <a href="csvs/Most Followed Instagram Accounts.csv">Most Followed Instagram Accounts.csv</a><span class="outdated"> (outdated) </span>
         </li>
         <li class="list-item">
             <span class="helpful" hidden>World's</span>
@@ -229,7 +272,7 @@
         <li class="list-item outdated">
             <span class="helpful" hidden>Entertainment Television TV</span>
             <a href="htms/Netflix Content.htm">Netflix Content.htm</a><span class="or"> OR </span>
-            <a href="csvs/Netflix Content.csv">Netflix Content.csv</a><span class="outdated"> OUTDATED </span>
+            <a href="csvs/Netflix Content.csv">Netflix Content.csv</a><span class="outdated"> (outdated) </span>
             <li class="list-item">
                 <span class="helpful" hidden>Books Entertainment</span>
                 <a href="htms/New York Times Bestsellers 2011-2018.htm">New York Times Bestsellers 2011-2018.htm</a><span class="or"> OR </span>
@@ -259,17 +302,17 @@
             <li class="list-item outdated">
                 <span class="helpful" hidden>Sports Entertainment Television TV</span>
                 <a href="htms/Olympic Medals.htm">Olympic Medals.htm</a><span class="or"> OR </span>
-                <a href="csvs/Olympic Medals.csv">Olympic Medals.csv</a><span class="outdated"> OUTDATED </span>
+                <a href="csvs/Olympic Medals.csv">Olympic Medals.csv</a><span class="outdated"> (outdated) </span>
             </li>
             <li class="list-item outdated">
                 <span class="helpful" hidden>Television TV Entertainment</span>
                 <a href="htms/Oscar Winners.htm">Oscar Winners.htm</a><span class="or"> OR </span>
-                <a href="csvs/Oscar Winners.csv">Oscar Winners.csv</a><span class="outdated"> OUTDATED </span>
+                <a href="csvs/Oscar Winners.csv">Oscar Winners.csv</a><span class="outdated"> (outdated) </span>
             </li>
             <li class="list-item outdated">
                 <span class="helpful" hidden>Sports Entertainment Television TV</span>
                 <a href="htms/Paralympic Games All-Time Medal Count.htm">Paralympic Games All-Time Medal Count.htm</a><span class="or"> OR </span>
-                <a href="csvs/Paralympic Games All-Time Medal Count.csv">Paralympic Games All-Time Medal Count.csv</a><span class="outdated"> OUTDATED </span>
+                <a href="csvs/Paralympic Games All-Time Medal Count.csv">Paralympic Games All-Time Medal Count.csv</a><span class="outdated"> (outdated) </span>
             </li>
             <li class="list-item">
                 <span class="helpful" hidden></span>
@@ -322,7 +365,7 @@
             <li class="list-item outdated">
                 <span class="helpful" hidden>Music Entertainment</span>
                 <a href="htms/Top 50 USA.htm">Top 50 Songs USA.htm</a><span class="or"> OR </span>
-                <a href="csvs/Top 50 USA.csv">Top 50 Songs USA.csv</a><span class="outdated"> OUTDATED </span>
+                <a href="csvs/Top 50 USA.csv">Top 50 Songs USA.csv</a><span class="outdated"> (outdated) </span>
             </li>
             <li class="list-item">
                 <span class="helpful" hidden>World's Music Entertainment</span>
@@ -337,7 +380,7 @@
             <li class="list-item outdated">
                 <span class="helpful" hidden>Plants</span>
                 <a href="htms/US Agricultural Crops.htm">US Agricultural Crops.htm</a><span class="or"> OR </span>
-                <a href="csvs/US Agricultural Crops.csv">US Agricultural Crops.csv</a><span class="outdated"> OUTDATED
+                <a href="csvs/US Agricultural Crops.csv">US Agricultural Crops.csv</a><span class="outdated"> (outdated)
             </span>
             </li>
             <li class="list-item">
@@ -365,17 +408,17 @@
             <li class="list-item outdated">
                 <span class="helpful" hidden>USA</span>
                 <a href="htms/US Presidents.htm">US Presidents.htm</a><span class="or"> OR </span>
-                <a href="csvs/US Presidents.csv">US Presidents.csv</a><span class="outdated"> OUTDATED </span>
+                <a href="csvs/US Presidents.csv">US Presidents.csv</a><span class="outdated"> (outdated) </span>
             </li>
             <li class="list-item outdated">
                 <span class="helpful" hidden>USA</span>
                 <a href="htms/US States.htm">US States.htm</a><span class="or"> OR </span>
-                <a href="csvs/US States.csv">US States.csv</a><span class="outdated"> OUTDATED </span>
+                <a href="csvs/US States.csv">US States.csv</a><span class="outdated"> (outdated) </span>
             </li>
             <li class="list-item outdated">
                 <span class="helpful" hidden>USA</span>
                 <a href="htms/US Supreme Court Justices.htm">US Supreme Court Justices</a><span class="or"> OR </span>
-                <a href="csvs/US Supreme Court Justices.csv">US Supreme Court Justices</a><span class="outdated"> OUTDATED
+                <a href="csvs/US Supreme Court Justices.csv">US Supreme Court Justices</a><span class="outdated"> (outdated)
             </span>
             </li>
             <li class="list-item outdated">
@@ -383,7 +426,7 @@
                 <a href="htms/US Voter Registration and Demographics By State.htm">US Voter Registration and Demographics By
                 State.htm</a><span class="or"> OR </span>
                 <a href="csvs/US Voter Registration and Demographics By State.csv">US Voter Registration and Demographics By
-                State.csv</a><span class="outdated"> OUTDATED </span>
+                State.csv</a><span class="outdated"> (outdated) </span>
             </li>
             <li class="list-item">
                 <span class="helpful" hidden>USA</span>
@@ -397,7 +440,7 @@
                 <a href="htms/US Workers with Disabilities.htm">US Workers with Disabilities.htm</a><span class="or"> OR
             </span>
                 <a href="csvs/US Workers with Disabilities.csv">US Workers with Disabilities.csv</a><span class="outdated">
-                OUTDATED </span>
+                (outdated) </span>
             </li>
             <li class="list-item">
                 <span class="helpful" hidden>Entertainment</span>
@@ -407,12 +450,12 @@
             <li class="list-item outdated">
                 <span class="helpful" hidden>Music Entertainment TV Television USA</span>
                 <a href="htms/Viral 50 USA.htm ">Viral 50 Songs USA.htm</a><span class="or "> OR </span>
-                <a href="csvs/Viral 50 USA.csv ">Viral 50 Songs USA.csv</a><span class="outdated "> OUTDATED </span>
+                <a href="csvs/Viral 50 USA.csv ">Viral 50 Songs USA.csv</a><span class="outdated "> (outdated) </span>
             </li>
             <li class="list-item outdated">
                 <span class="helpful" hidden> World's Music Entertainment TV Television</span>
                 <a href="htms/Viral 50 Worldwide.htm ">Viral 50 Songs Worldwide.htm</a><span class="or "> OR </span>
-                <a href="csvs/Viral 50 Worldwide.csv ">Viral 50 Songs Worldwide.csv</a><span class="outdated "> OUTDATED
+                <a href="csvs/Viral 50 Worldwide.csv ">Viral 50 Songs Worldwide.csv</a><span class="outdated "> (outdated)
             </span>
             </li>
             <li class="list-item">
