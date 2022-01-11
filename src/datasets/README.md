@@ -30,4 +30,4 @@ This is an incomplete file, and does not follow the style guidelines.
 - [https://arcgis.com](https://www.arcgis.com/home/item.html?id=d9b5ad2312a742489462994eab02c730) - Jazz/Blues map
 - [https://fivethirtyeight.com](https://data.fivethirtyeight.com/) - Avengers/US births/Airline Saftey/Flight Etiquette/Most Common Surnames
 - [https://plants.usda.gov/](https://plants.usda.gov/) - Plants Checklist
-- [https://introcs.cs.princeton.edu](https://introcs.cs.princeton.edu/java/data/) -Psycharatic
+- [https://introcs.cs.princeton.edu](https://introcs.cs.princeton.edu/java/data/) - Psycharatic
