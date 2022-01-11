@@ -32,4 +32,4 @@ This is an incomplete file, and does not follow the style guidelines.
 - [https://plants.usda.gov/](https://plants.usda.gov/) - Plants Checklist
 - [https://introcs.cs.princeton.edu](https://introcs.cs.princeton.edu/java/data/) - Psycharatic
 
-Please view the [sources.md](sources.md) file for more information.
+Please view the [sources.md](sources.md) file for a complete and updated guide to this information, as this section may not be current.

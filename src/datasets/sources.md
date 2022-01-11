@@ -71,15 +71,15 @@
 - cars.csv
 - film.csv
 
-## - [(https://github.com/openai/grade-school-math](https://github.com/openai/grade-school-math)
+## [https://github.com/openai/](https://github.com/openai/grade-school-math)
 
 - gradeSchoolMath/
 
-## [https://arcgis.com](https://www.arcgis.com/home/item.html?id=d9b5ad2312a742489462994eab02c730) 
+## [https://arcgis.com](https://www.arcgis.com/home/item.html?id=d9b5ad2312a742489462994eab02c730)
 
-- Jazz/Blues map
+- ChicagoBlues\_ StoryMap_Data.csv
 
-## [https://fivethirtyeight.com](https://data.fivethirtyeight.com/) 
+## [https://fivethirtyeight.com](https://data.fivethirtyeight.com/)
 
 - avengers.csv
 - US_births_1993-2003_CDC_NCHS.csv
@@ -88,7 +88,7 @@
 - flying_etiquette.csv
 - most_common_surnames.csv
 
-## [https://plants.usda.gov/](https://plants.usda.gov/) 
+## [https://plants.usda.gov/](https://plants.usda.gov/)
 
 - Complete Plants Checklist.csv
 
