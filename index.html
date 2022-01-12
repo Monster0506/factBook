@@ -12,71 +12,79 @@
 
 <body>
     <h1>Datasets</h1>
+    <nav>
+        <span>
+            <div>
+                <input id="search" type="text" name="search" placeholder="Search..." onkeyup="search()">
+            </div>
+    </span>
+        <span>
+            <!-- create a dropdown and populate it with the text inside the helpful class -->
+            <select id="hunt-select" onchange="huntDropdown()">
+                <option>
+                    USA
+                </option>
+                <option>
+                    Outdated
+                </option>
+                <option>
+                    World
+                </option>
+                <option>
+                    Airlines
+                </option>
+                <option>
+                    Music
+                </option>
+                <option>
+                    Entertainment
+                </option>
+                <option>
+                    Television
+                </option>
+                <option>
+                    Movies
+                </option>
+                <option>
+                    Sports
+                </option>
+                <option>
+                    Language
+                </option>
+                <option>
+                    Food
+                </option>
+                <option>
+                    Disease
+                </option>
+                <option>
+                    Animals
+                </option>
+                <option>
+                    Books
+                </option>
+                <option>
+                    Plants
+                </option>
+            </select>
+        </span>
+        <a href="../countries/index.html">CIA World Factbook Interface</a>
+
+    </nav>
     <p>To use this page, select a dataset from the list to open the htm table, or download the csv. You can also search for a file.</p>
-    <div>
-        <input id="search" type="text" name="search" placeholder="Search..." onkeyup="search()">
-    </div>
+    
     <div class="results-counter">
         <span>
             <p id="results"></p>
         </span>
 
     </div>
-    <span>
-        <!-- create a dropdown and populate it with the text inside the helpful class -->
-        <select id="hunt-select" onchange="huntDropdown()">
-            <option>
-                USA
-            </option>
-            <option>
-                Outdated
-            </option>
-            <option>
-                World
-            </option>
-            <option>
-                Airlines
-            </option>
-            <option>
-                Music
-            </option>
-            <option>
-                Entertainment
-            </option>
-            <option>
-                Television
-            </option>
-            <option>
-                Movies
-            </option>
-            <option>
-                Sports
-            </option>
-            <option>
-                Language
-            </option>
-            <option>
-                Food
-            </option>
-            <option>
-                Disease
-            </option>
-            <option>
-                Animals
-            </option>
-            <option>
-                Books
-            </option>
-            <option>
-                Plants
-            </option>
-        </select>
-    </span>
+    
     <ul>
         <!-- ID remover regext: <td align="right">[0-9]+</td> -->
         <li class="list-item">
             <span class="helpful" hidden>Countries Country Data</span>
-            <a href="../countries/index.html">CIA World Factbook Interface</a>
+            <a href="">CIA World Factbook Interface</a>
         </li>
         <li class="list-item">
             <span class="helpful" hidden>Data</span>
