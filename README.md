@@ -77,7 +77,7 @@ Other useful notes about the FactBook.
 - Clone the repository to your computer.
 - Open the countries folder
 - Open the index.html file.
-- Alternately, you can launch the page from [this link (src/countries/index.html)](src/countries/index.html), if you are currently in the repo.
+- Alternately, you can launch the page from [this link (src/countries/index.html)](src/index.html), if you are currently in the repo.
 
 ### 1.2.2. Credits
 

@@ -1,6 +1,6 @@
 # 1. Countries
 
-This is the page for the countries folder.
+This is the page for the countries folder and the FACTBOOK interface.
 
 This is an incomplete file, and does not follow the style guidelines.
 

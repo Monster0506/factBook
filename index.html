@@ -11,8 +11,9 @@
 </head>
 
 <body>
-    <h1>Datasets</h1>
+    
     <nav>
+        <h1>Datasets</h1>
         <span>
             <div>
                 <input id="search" type="text" name="search" placeholder="Search..." onkeyup="search()">
@@ -20,7 +21,7 @@
     </span>
         <span>
             <!-- create a dropdown and populate it with the text inside the helpful class -->
-            <select id="hunt-select" onchange="huntDropdown()">
+            <select id="hunt-select" onchange="huntDropdown()" title="Please select a catagory">
                 <option>
 
                 </option>
@@ -69,12 +70,16 @@
                 <option>
                     Plants
                 </option>
+                <other>
+                    Other
+                </other>
             </select>
         </span>
         <a href="../countries/index.html">CIA World Factbook Interface</a>
 
     </nav>
-    <p>To use this page, select a dataset from the list to open the htm table, or download the csv. You can also search for a file.</p>
+ <div class="body">   
+    <p>To use this page, select a dataset from the list to open the htm table, or download the csv.</p>
     
     <div class="results-counter">
         <span>
@@ -86,12 +91,12 @@
     <ul>
         <!-- ID remover regext: <td align="right">[0-9]+</td> -->
         <li class="list-item">
-            <span class="helpful" hidden>Countries Country Data</span>
+            <span class="helpful" hidden>Other Countries Country Data</span>
             <a href="">CIA World Factbook Interface</a>
         </li>
         <li class="list-item">
-            <span class="helpful" hidden>Data</span>
-            <a href="rockyou.txt">rockyou.txt</a> A large password list.
+            <span class="helpful" hidden>Other Data</span>
+            <a href="rockyou.txt">rockyou.txt - A large password list.</a> 
         </li>
         <li class="list-item">
             <span class="helpful" hidden>Animals</span><a href="datasets/htms/100 Birds of the World.htm">100 Birds of the
@@ -500,6 +505,7 @@
 
 
     Please View the sources README for more information on sources.
+    </div>
 </body>
 
 </html>
