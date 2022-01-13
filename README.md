@@ -1,4 +1,4 @@
-# 1. Monster0506 World FactBook Edit
+# 1. Monster0506 Data Store
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/monster0506/factBook)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/monster0506/factBook)
@@ -16,11 +16,11 @@ Main section information.
 
 ### 1.1.1. Table of Contents
 
-- [1. Monster0506 World FactBook Edit](#1-monster0506-world-factbook-edit)
+- [1. Monster0506 Data Store](#1-monster0506-data-store)
   - [1.1. Main Notes](#11-main-notes)
     - [1.1.1. Table of Contents](#111-table-of-contents)
     - [1.1.2. Introduction](#112-introduction)
-      - [World Factbook Edit](#world-factbook-edit)
+      - [1.1.2.1. World Factbook Edit](#1121-world-factbook-edit)
     - [1.1.3. Features](#113-features)
     - [1.1.4. Usage](#114-usage)
   - [1.2. Other Information](#12-other-information)
@@ -31,6 +31,7 @@ Main section information.
     - [1.2.5. Modifications/Contributions](#125-modificationscontributions)
     - [1.2.6. Code of Conduct](#126-code-of-conduct)
     - [1.2.7. Contributors](#127-contributors)
+    - [1.2.8. File Structure](#128-file-structure)
 
 ### 1.1.2. Introduction
 
@@ -38,7 +39,7 @@ This is a knowledge base of information about the world.
 
 It contains many datasets and tables. It also has the CIA World Factbook, and easy access to each page.
 
-#### World Factbook Edit
+#### 1.1.2.1. World Factbook Edit
 
 It is currently (1/6/22) using the version 2020 found at
 [https://www.cia.gov/the-world-factbook/about/archives/](https://www.cia.gov/the-world-factbook/about/archives/).
@@ -149,3 +150,33 @@ Made with [contrib.rocks](https://contrib.rocks).
       - [mainStyles.css](src/datasets/stylesheets/mainStyles.css) - Main styleSheet
     - [javascripts/](src/datasets/javascripts/) - All of the javascripts in the datasets folder.
       - [mainScripts.css](src/datasets/javascripts/mainScripts.js) - Main functions.
+    - [sources.md](src/datasets/sources.md) - Sources for datasets
+  - [countries/](src/countries/) - World FactBook interface.
+    - [Appendix](src/countries/appendix/) - All of the appendicies in the FactBook. Includes a [searchable appendix interface](src/countries/appendix/index.html).
+    - [Attachments](src/countries/attachments/) -  All extra files and *attachments*
+      - [docs](src/countries/attachments/docs) -  WFB information
+        - [Original](src/countries/attachments/docs/original) -  Many of the original pdfs and images
+      - [flags](src/countries/attachments/flags) -  The flag images
+      - [locator-maps](src/countries/attachments/locator-maps) - A zoomed view of the location of the seleced country.
+      - [maps](src/countries/attachments/maps) - Maps of the country
+      - [pdfs](src/countries/attachments/pdfs) - Original
+        - [Original](src/countries/attachments/pdfs/original) - PDF of country
+      - [summaries](src/countries/attachments/) - One page summaries of each country
+      - [travel](src/countries/attachments/) - Travel facts for each country.
+    - [docs](src/countries/docs/) - Miscellaneous files. Mostly ways to access other files
+    - [fonts](src/countries/fonts/) - Fonts used for the factBook
+    - [geos](src/countries/geos/) - Actual country pages
+    - [images](src/countries/images/) - Image files and resources
+    - [javascripts](src/countries/javascripts/) - Contains most scripts used in the site
+    - [old](src/countries/old/) - Contains the original factbook files.
+      - Contains similar files to this one.
+    - [stylesheets](src/countries/stylesheets/) - Contains the styles for each page
+    - [index](src/countries/index.html) - The main page of the site
+    - [README](src/countries/README.md) - Main README for the factBook interface
+    - [wfb.css](src/countries/wfb.css) - Main styles for the factBook
+- [.editorconfig](.editorconfig) - Main editorconfig file
+- [.gitattributes](.gitattributes) - gitattributes
+- [.gitignore](.gitignore) - gitignore
+- [index.html](index.html) - Main Factbook Interface
+- [LICENSE](LICENSE) - LICENCE
+- [README.md](#1-monster0506-data-store) - This File
