@@ -92,11 +92,12 @@ Other useful notes about the FactBook.
 
 A section of tasks to complete.
 
-- ~~Add Header Numbers to each md file and update table of contents in each as well~~
+- Add Header Numbers to each md file and update table of contents in each as well
+- Update MD tables of contents
 - ~~Update about in Github~~
 - ~~Add README style to filename conventions~~
-- Add dataset viewer
-- Add main Index page
+- ~~Add dataset viewer~~
+- ~~Add main Index page~~
 
 ### 1.2.4. License
 
@@ -119,3 +120,32 @@ Although this is a community effort, we take inclusiveness very seriously, and w
 [<img src="https://contrib.rocks/image?repo=monster0506/factBook" />](https://github.com/monster0506/factBook/graphs/contributors)
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+### 1.2.8. File Structure
+
+- [.gitub/](.github/) - Contains github setup and development files.
+  - [ISSUE_TEMPLATE/](.github/ISSUE_TEMPLATE/) - Bugs/Features.
+    - [bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md) - Bug Report Template.
+    - [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md) - Feature Request.
+  - [workflows/](.github/workflows/) - Workflows
+    - [codeql-analysis.yml](.github/workflows/codeql-analysis.yml) - CodeQL setup.
+- [style/](style/) - Style guidelines.
+  - [.editorconfig](style/.editorconfig) - Editor config file, please use when contributing.
+  - [majorTags.md](style/majorTags.md) - List of major tags to have newlines around them.
+  - [README.md](style/README.md) - Main style guidelines. Please use when contributing.
+- [src/](src/) - Contains main datafiles.
+  - [datasets/](src/datasets/) - Contians datasets for main page.
+    - [rockyou.txt](src/datasets/rockyou.txt) - large list of commonly used passwords.
+    - [csvs/](src/datasets/csvs/) - All of the csvs in the FactBook.
+    - [gradeSchoolMath/](src/datasets/gradeSchoolMath/) - Grade school math facts.
+      - [data/](src/datasets/gradeSchoolMath/data) - Contains the setup files for GSM.
+    - [htms/](src/datasets/htms/) - All of the htms in the FactBook. Converted to html
+    - [README.md](src/datasets/README.md) - The README for datasets
+    - [old/](src/datasets/old/) - Original files.
+      - [csvs/](src/datasets/old/csvs/) - [code.org](https://code.org) csvs, un-modified.
+      - [htms/](src/datasets/old/htms/) - [code.org](https://code.org) htms, un-modified.
+      - [gradeSchoolMath](src/datasets/old/) - Original files in gradeSchoolMath, un-modified.
+    - [stylesheets/](src/datasets/stylesheets/) - All of the stylesheets in the datasets folder.
+      - [mainStyles.css](src/datasets/stylesheets/mainStyles.css) - Main styleSheet
+    - [javascripts/](src/datasets/javascripts/) - All of the javascripts in the datasets folder.
+      - [mainScripts.css](src/datasets/javascripts/mainScripts.js) - Main functions.
