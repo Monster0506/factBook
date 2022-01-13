@@ -50,3 +50,11 @@ a {
     list-style: none;
     display: table-row;
 }
+
+.nav a{
+    color:#f3d5a7
+}
+
+.nav:hover a{
+    color:#327ae7;
+}

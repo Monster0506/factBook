@@ -1,4 +1,3 @@
-id  ,State                ,County               ,Year   ,Days with AQI ,Good Days ,Moderate Days ,Unhealthy for Sensitive Groups Days ,Unhealthy Days ,Very Unhealthy Days ,Hazardous Days ,Max AQI
 1   ,Alabama              ,Baldwin              ,2020.0 ,11.0          ,11.0      ,0.0           ,0.0                                 ,0.0            ,0.0                 ,0.0            ,48.0
 2   ,Alabama              ,Clay                 ,2020.0 ,5.0           ,5.0       ,0.0           ,0.0                                 ,0.0            ,0.0                 ,0.0            ,31.0
 3   ,Alabama              ,DeKalb               ,2020.0 ,59.0          ,59.0      ,0.0           ,0.0                                 ,0.0            ,0.0                 ,0.0            ,45.0

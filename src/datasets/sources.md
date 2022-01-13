@@ -75,7 +75,7 @@
 
 - gradeSchoolMath/
 
-## [https://arcgis.com](https://www.arcgis.com/home/item.html?id=d9b5ad2312a742489462994eab02c730)
+## [https://arcgis.com](https://www.arcgis.com/)
 
 - ChicagoBlues\_ StoryMap_Data.csv
 
@@ -99,3 +99,7 @@
 ## [https://github.com/mahkaila/songnames](https://github.com/mahkaila/songnames)
 
 - songs.csv
+
+## [https://kaggle.com](https://kaggle.com)
+
+- penguins.csv
