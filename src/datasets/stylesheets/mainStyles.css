@@ -58,3 +58,9 @@ a {
 .nav:hover a{
     color:#327ae7;
 }
+
+.helpful{
+    display:none;
+    color:blue;
+}
+
