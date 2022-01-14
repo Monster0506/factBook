@@ -38,3 +38,7 @@ In addition to the README you're reading right now, this repo includes other REA
 - [style/majorTags.md](style/majorTags.md)
 - [src/countries/README.md](src/countries/README.md)
 - [src/countries/old/README.md](src/old/README.md)
+- [src/datasets/README.md](src/datasets/README.md)
+- [src/datasets/sources.md](src/datasets/sources.md)
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)

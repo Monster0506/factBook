@@ -1,6 +1,20 @@
-# Sources
+# 1. Sources
 
-## [code.org](https://code.org/)
+## 1.1. Table of Contents
+
+- [1. Sources](#1-sources)
+  - [1.1. Table of Contents](#11-table-of-contents)
+  - [1.2. code.org](#12-codeorg)
+  - [1.3. https://perso.telecom-paristech.fr/](#13-httpspersotelecom-paristechfr)
+  - [1.4. https://github.com/openai/](#14-httpsgithubcomopenai)
+  - [1.5. https://arcgis.com](#15-httpsarcgiscom)
+  - [1.6. https://fivethirtyeight.com](#16-httpsfivethirtyeightcom)
+  - [1.7. https://plants.usda.gov/](#17-httpsplantsusdagov)
+  - [1.8. https://introcs.cs.princeton.edu](#18-httpsintrocscsprincetonedu)
+  - [1.9. https://github.com/mahkaila/songnames](#19-httpsgithubcommahkailasongnames)
+  - [1.10. https://kaggle.com](#110-httpskagglecom)
+
+## 1.2. [code.org](https://code.org/)
 
 - 100 Birds of the World.csv
 - 2017 Women_s March Attendance by US City.csv
@@ -66,20 +80,20 @@
 - World_s Tallest Buildings.csv
 - World_s Tallest Mountians.csv
 
-## [https://perso.telecom-paristech.fr/](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets)
+## 1.3. [https://perso.telecom-paristech.fr/](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets)
 
 - cars.csv
 - film.csv
 
-## [https://github.com/openai/](https://github.com/openai/grade-school-math)
+## 1.4. [https://github.com/openai/](https://github.com/openai/grade-school-math)
 
 - gradeSchoolMath/
 
-## [https://arcgis.com](https://www.arcgis.com/)
+## 1.5. [https://arcgis.com](https://www.arcgis.com/)
 
 - ChicagoBlues\_ StoryMap_Data.csv
 
-## [https://fivethirtyeight.com](https://data.fivethirtyeight.com/)
+## 1.6. [https://fivethirtyeight.com](https://data.fivethirtyeight.com/)
 
 - avengers.csv
 - US_births_1993-2003_CDC_NCHS.csv
@@ -88,18 +102,18 @@
 - flying_etiquette.csv
 - most_common_surnames.csv
 
-## [https://plants.usda.gov/](https://plants.usda.gov/)
+## 1.7. [https://plants.usda.gov/](https://plants.usda.gov/)
 
 - Complete Plants Checklist.csv
 
-## [https://introcs.cs.princeton.edu](https://introcs.cs.princeton.edu/java/data/)
+## 1.8. [https://introcs.cs.princeton.edu](https://introcs.cs.princeton.edu/java/data/)
 
 - psychiatric.csv
 
-## [https://github.com/mahkaila/songnames](https://github.com/mahkaila/songnames)
+## 1.9. [https://github.com/mahkaila/songnames](https://github.com/mahkaila/songnames)
 
 - songs.csv
 
-## [https://kaggle.com](https://kaggle.com)
+## 1.10. [https://kaggle.com](https://kaggle.com)
 
 - penguins.csv

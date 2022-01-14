@@ -21,7 +21,7 @@ Main section information.
     - [1.1.1. Table of Contents](#111-table-of-contents)
     - [1.1.2. Introduction](#112-introduction)
       - [1.1.2.1. World Factbook Edit](#1121-world-factbook-edit)
-    - [1.1.3. Features](#113-features)
+    - [1.1.3. Feature Matrix](#113-feature-matrix)
     - [1.1.4. Usage](#114-usage)
   - [1.2. Other Information](#12-other-information)
     - [1.2.1. To install/use](#121-to-installuse)
@@ -32,6 +32,7 @@ Main section information.
     - [1.2.6. Code of Conduct](#126-code-of-conduct)
     - [1.2.7. Contributors](#127-contributors)
     - [1.2.8. File Structure](#128-file-structure)
+    - [1.2.9. READMEs](#129-readmes)
 
 ### 1.1.2. Introduction
 
@@ -50,7 +51,7 @@ The intention of this project is to simply provide a simple way to open and acce
 
 This also provides all of the original documents, in the ["old"](src/countries/old/) folder.
 
-### 1.1.3. Features
+### 1.1.3. Feature Matrix
 
 | Includes?      | Pros  |             Includes?          | Cons  |
 |--- |--- |---                     |--- |
@@ -180,3 +181,17 @@ Made with [contrib.rocks](https://contrib.rocks).
 - [index.html](index.html) - Main Factbook Interface
 - [LICENSE](LICENSE) - LICENCE
 - [README.md](#1-monster0506-data-store) - This File
+
+### 1.2.9. READMEs
+
+In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail: You can go through among them for specified details regarding the topics listed below.
+
+- [README.md](README.md)
+- [style/README.md](style/README.md)
+- [style/majorTags.md](style/majorTags.md)
+- [src/countries/README.md](src/countries/README.md)
+- [src/countries/old/README.md](src/old/README.md)
+- [src/datasets/README.md](src/datasets/README.md)
+- [src/datasets/sources.md](src/datasets/sources.md)
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
