@@ -1,9 +1,5 @@
-.outdated {
-    color: red;
-}
-
-.outdated a {
-    color: red;
+a:visited {
+    color: blue;
 }
 
 a:hover {
@@ -12,6 +8,19 @@ a:hover {
 
 a {
     text-decoration: none;
+    color: blue
+}
+
+.outdated {
+    color: red;
+}
+
+html {
+    font-family: 'Fira Code', monospace;
+}
+
+.outdated a {
+    color: red;
 }
 
 .outdated:hover {
@@ -25,6 +34,7 @@ a {
 .or:hover {
     color: #000;
 }
+
 .nav {
     display: flex;
     flex-direction: row;
@@ -33,34 +43,30 @@ a {
     background-color: #327ae7;
     height: 80px;
     width: 100%;
-    
     top: 0;
     left: 0;
     z-index: 1;
     list-style: none;
 }
 
-.nav:hover{
+.nav:hover {
     background-color: #f3d5a7
 }
 
-
-
-.list-item{
+.list-item {
     list-style: none;
     display: table-row;
 }
 
-.nav a{
-    color:#f3d5a7
+.nav a {
+    color: #f3d5a7
 }
 
-.nav:hover a{
-    color:#327ae7;
+.nav:hover a {
+    color: #327ae7;
 }
 
-.helpful{
-    display:none;
-    color:blue;
+.helpful {
+    display: none;
+    color: blue;
 }
-
