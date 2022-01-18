@@ -117,3 +117,6 @@
 ## 1.10. [https://kaggle.com](https://kaggle.com)
 
 - penguins.csv
+- starwars.csv
+- dog-names-over-time.csv
+- song_data.csv
