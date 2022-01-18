@@ -1,4 +1,2 @@
 rockyou.txt filter=lfs diff=lfs merge=lfs -text
 *.txt filder=lft diff=lft merge=lft -text
-*.csv filter=lfs diff=lfs merge=lfs -csv
-

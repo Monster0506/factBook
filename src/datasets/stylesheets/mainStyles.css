@@ -70,3 +70,17 @@ html {
     display: none;
     color: blue;
 }
+
+.horiz {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #327ae7;
+    height: 80px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    list-style: none;
+}

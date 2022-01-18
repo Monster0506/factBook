@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+
+<form method="GET" action="https://www.thefreedictionary.com/_/partner.aspx" style="display:inline;" onsubmit="return this.Word.value>''">
+    <input type="hidden" name="pid" value="aff23">
+    <input type="text" name="Word" size="22" maxlength="70"><br>
+    <span class="small_text">
+        <input type="radio" name="Set" value="" checked="">Dictionary/Thesaurus<br>
+        <input type="radio" name="Set" value="computing-dictionary">Computing Dictionary<br>
+        <input type="radio" name="Set" value="medical-dictionary">Medical Dictionary<br>
+        <input type="radio" name="Set" value="legal-dictionary">Legal Dictionary<br>
+        <input type="radio" name="Set" value="financial-dictionary">Financial Dictionary<br>
+        <input type="radio" name="Set" value="acronyms">Acronyms<br>
+        <input type="radio" name="Set" value="encyclopedia">Wikipedia Encyclopedia<br>
+        <input type="radio" name="Set" value="columbia">Columbia Encyclopedia<br>
+    </span>
+    <input type="submit" value="Search">
+</form>
+</body>
+
+</html>
