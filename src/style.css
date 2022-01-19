@@ -2,6 +2,7 @@
     border: 1px solid #ccc;
     border-radius: 10px;
     height: 160px;
+    display: flex;
 }
 
 #dictionary {

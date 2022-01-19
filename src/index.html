@@ -36,7 +36,6 @@
         </form>
 
     </div>
-
     <div id="dictionary">
         <div>
             <h1>Dictionary</h1>
@@ -63,39 +62,41 @@
                 </p>
                 <form class="searchbox" method="GET" action="https://www.onelook.com/thesaurus" accept-charset="utf-8" enctype="multipart/form-data">
                     <input placeholder="Quick search" type="text" name="s" size="22" maxlength="70"><input type="submit" value="Go!">
-
-
-
-
-
                 </form>
             </div>
+            <div>
+                <form class="searchbox"method="get" action="https://search.nlm.nih.gov/medlineplus/query" target="_self" id="form1" name="form1">
+                    Medical Dictionary<br>
+                    <input name="MAX" type="hidden" value="500">
+                    <input name="SERVER1" type="hidden" value="server1">
+                    <input name="SERVER2" type="hidden" value="server2">
+                    <input name="PARAMETER" type="text" size="15" value="">
+                    <input name="DISAMBIGUATION" type="hidden" value="true">
+                    <input type="hidden" name="FUNCTION" value="search">
+                    <input type="submit" name="submit" value="Go">
+                  </form>
+                </div>
+            
         </div>
     </div>
     <div id="wikipedia">
-        <form action="https://en.wikipedia.org/wiki/Special:Search" class="bodySearch" id="bodySearchMP" name="bodySearchMP">
-            <table class="gsc-search-box" cellspacing="0" cellpadding="0">
-                <tbody>
-                    <tr>
-                        <td class="gsc-input" style="padding: 0px 0px 0px 5px;">
+        <h1>
+            Wikipedia
+        </h1>
+        <form class = "searchbox" action="https://en.wikipedia.org/wiki/Special:Search" class="bodySearch" id="bodySearchMP" name="bodySearchMP">
+            
+                
                             <div class="gsc-input-box" id="bing_search_input_box">
-                                <input type="text" size="10" class="gsc-input" name="search" title="search" id="bing_search_input_field" spellcheck="false" style="width: 100%; padding: 0px; border: none; margin: 0px; height: 1.25em; outline: none;">
+                                <input placeholder="Quick search" type="text" name="search" size="22" maxlength="70"><input type="submit" value="Go!">
                             </div>
-                        </td>
-                        <td class="gsc-search-button">
-                            <button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13"
-                                    viewBox="0 0 13 13">
-                                    <title>search</title>
-                                    <path
-                                        d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z">
-                                    </path>
-                                </svg></button>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+
         </form>
+
     </div>
+    <form action="https://www.webopedia.com/" method="GET">
+        <input type="text" size="20" name="s" maxlength="512" placeholder="Enter a tech term...">
+        <input type="submit" value="Go!" name="submit">
+      </form>
 </div>
 
 
