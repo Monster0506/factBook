@@ -10,6 +10,8 @@
     <title>Home</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
     <link rel="stylesheet" href="stylesheets/mainStyle.css">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
 </head>
 
@@ -17,7 +19,11 @@
     <noscript>Please enable Javascript for this page to work</noscript>
 
     <nav class="navBar">
+
         <ul class="navBar">
+            <li>
+                <a href="../index.html"><i class="fa fa-home"> HOME</i></a>
+            </li>
             <li>
                 <button class="nav" onclick="modeT()" class="mode">Toggle Light/Dark Mode</button>
 
@@ -25,39 +31,45 @@
 
             <li>
 
-                <a class="nav" href="docs/history.html">History</a></li>
+                <a class="nav" href="docs/history.html">History</a>
+            </li>
 
             <li>
 
-                <a class="nav" href="docs/contributor_copyright.html">Copyright and Contributors</a></li>
+                <a class="nav" href="docs/contributor_copyright.html">Copyright and Contributors</a>
+            </li>
 
             <li>
 
-                <a class="nav" href="docs/didyouknow.html">Did You Know?</a></li>
+                <a class="nav" href="docs/didyouknow.html">Did You Know?</a>
+            </li>
 
             <li>
 
-                <a class="nav" href="docs/customer_comments.html">Customer Comments</a></li>
+                <a class="nav" href="docs/customer_comments.html">Customer Comments</a>
+            </li>
 
             <li>
 
-                <a class="nav" href="docs/faqs.html">FAQs</a></li>
+                <a class="nav" href="docs/faqs.html">FAQs</a>
+            </li>
 
             <li>
-                <a class="nav" href="appendix/index.html">More</a></li>
+                <a class="nav" href="appendix/index.html">More</a>
+            </li>
             <li>
 
-                <a href="https://github.com/monster0506/factBook" class="github-corner" aria-label="View source on GitHub"><svg
-                width="80" height="80" viewBox="0 0 250 250"
-                style="fill:#FD6C6C; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true">
-                <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
-                <path
-                    d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
-                    fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
-                <path
-                    d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"
-                    fill="currentColor" class="octo-body"></path>
-            </svg></a>
+                <a href="https://github.com/monster0506/factBook" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250"
+                        style="fill:#FD6C6C; color:#fff; position: absolute; top: 0; border: 0; right: 0;"
+                        aria-hidden="true">
+                        <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+                        <path
+                            d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
+                            fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
+                        <path
+                            d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"
+                            fill="currentColor" class="octo-body"></path>
+                    </svg></a>
 
             </li>
         </ul>
@@ -908,1333 +920,1599 @@
         <li class="item">
             <a href="geos/af.html">
                 Afghanistan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ax.html">
                 Akrotiri
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/al.html">
                 Albania
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ag.html">
                 Algeria
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/aq.html">
                 American Samoa
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/an.html">
                 Andorra
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ao.html">
                 Angola
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/av.html">
                 Anguilla
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ay.html">
                 Antarctica
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ac.html">
                 Antigua and Barbuda
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/xq.html">
                 Arctic Ocean
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ar.html">
                 Argentina
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/am.html">
                 Armenia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/aa.html">
                 Aruba
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/at.html">
                 Ashmore and Cartier Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/zh.html">
                 Atlantic Ocean
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/as.html">
                 Australia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/au.html">
                 Austria
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/aj.html">
                 Azerbaijan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bf.html">
                 Bahamas, The
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ba.html">
                 Bahrain
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/um.html">
                 Baker Island
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bg.html">
                 Bangladesh
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bb.html">
                 Barbados
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bo.html">
                 Belarus
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/be.html">
                 Belgium
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bh.html">
                 Belize
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bn.html">
                 Benin
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bd.html">
                 Bermuda
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bt.html">
                 Bhutan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bl.html">
                 Bolivia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bk.html">
                 Bosnia and Herzegovina
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bc.html">
                 Botswana
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bv.html">
                 Bouvet Island
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/br.html">
                 Brazil
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/io.html">
                 British Indian Ocean Territory
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/vi.html">
                 British Virgin Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bx.html">
                 Brunei
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bu.html">
                 Bulgaria
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/uv.html">
                 Burkina Faso
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bm.html">
                 Burma
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/by.html">
                 Burundi
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cv.html">
                 Cabo Verde
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cb.html">
                 Cambodia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cm.html">
                 Cameroon
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ca.html">
                 Canada
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cj.html">
                 Cayman Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ct.html">
                 Central African Republic
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cd.html">
                 Chad
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ci.html">
                 Chile
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ch.html">
                 China
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/kt.html">
                 Christmas Island
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ip.html">
                 Clipperton Island
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ck.html">
                 Cocos (Keeling) Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/co.html">
                 Colombia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cn.html">
                 Comoros
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cg.html">
                 Congo, Democratic Republic of the
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cf.html">
                 Congo, Republic of the
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cw.html">
                 Cook Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cr.html">
                 Coral Sea Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cs.html">
                 Costa Rica
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/iv.html">
                 Cote d&#39;Ivoire
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/hr.html">
                 Croatia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cu.html">
                 Cuba
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/uc.html">
                 Curacao
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cy.html">
                 Cyprus
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ez.html">
                 Czechia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/da.html">
                 Denmark
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/dx.html">
                 Dhekelia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/dj.html">
                 Djibouti
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/do.html">
                 Dominica
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/dr.html">
                 Dominican Republic
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ec.html">
                 Ecuador
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/eg.html">
                 Egypt
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/es.html">
                 El Salvador
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ek.html">
                 Equatorial Guinea
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/er.html">
                 Eritrea
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/en.html">
                 Estonia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/wz.html">
                 Eswatini
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/et.html">
                 Ethiopia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/fk.html">
                 Falkland Islands (Islas Malvinas)
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/fo.html">
                 Faroe Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/fj.html">
                 Fiji
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/fi.html">
                 Finland
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/fr.html">
                 France
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/fp.html">
                 French Polynesia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/fs.html">
                 French Southern and Antarctic Lands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gb.html">
                 Gabon
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ga.html">
                 Gambia, The
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gz.html">
                 Gaza Strip
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gg.html">
                 Georgia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gm.html">
                 Germany
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gh.html">
                 Ghana
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gi.html">
                 Gibraltar
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gr.html">
                 Greece
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gl.html">
                 Greenland
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gj.html">
                 Grenada
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gq.html">
                 Guam
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gt.html">
                 Guatemala
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gk.html">
                 Guernsey
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gv.html">
                 Guinea
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pu.html">
                 Guinea-Bissau
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/gy.html">
                 Guyana
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ha.html">
                 Haiti
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/hm.html">
                 Heard Island and McDonald Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/vt.html">
                 Holy See (Vatican City)
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ho.html">
                 Honduras
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/hk.html">
                 Hong Kong
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/um.html">
                 Howland Island
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/hu.html">
                 Hungary
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ic.html">
                 Iceland
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/in.html">
                 India
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/xo.html">
                 Indian Ocean
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/id.html">
                 Indonesia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ir.html">
                 Iran
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/iz.html">
                 Iraq
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ei.html">
                 Ireland
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/im.html">
                 Isle of Man
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/is.html">
                 Israel
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/it.html">
                 Italy
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/jm.html">
                 Jamaica
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/jn.html">
                 Jan Mayen
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ja.html">
                 Japan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/um.html">
                 Jarvis Island
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/je.html">
                 Jersey
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/um.html">
                 Johnston Atoll
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/jo.html">
                 Jordan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/kz.html">
                 Kazakhstan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ke.html">
                 Kenya
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/um.html">
                 Kingman Reef
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/kr.html">
                 Kiribati
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/kn.html">
                 Korea, North
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ks.html">
                 Korea, South
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/kv.html">
                 Kosovo
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ku.html">
                 Kuwait
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/kg.html">
                 Kyrgyzstan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/la.html">
                 Laos
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/lg.html">
                 Latvia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/le.html">
                 Lebanon
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/lt.html">
                 Lesotho
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/li.html">
                 Liberia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ly.html">
                 Libya
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ls.html">
                 Liechtenstein
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/lh.html">
                 Lithuania
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/lu.html">
                 Luxembourg
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mc.html">
                 Macau
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ma.html">
                 Madagascar
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mi.html">
                 Malawi
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/my.html">
                 Malaysia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mv.html">
                 Maldives
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ml.html">
                 Mali
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mt.html">
                 Malta
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/rm.html">
                 Marshall Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mr.html">
                 Mauritania
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mp.html">
                 Mauritius
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mx.html">
                 Mexico
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/fm.html">
                 Micronesia, Federated States of
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/um.html">
                 Midway Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/md.html">
                 Moldova
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mn.html">
                 Monaco
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mg.html">
                 Mongolia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mj.html">
                 Montenegro
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mh.html">
                 Montserrat
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mo.html">
                 Morocco
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mz.html">
                 Mozambique
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/wa.html">
                 Namibia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/nr.html">
                 Nauru
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bq.html">
                 Navassa Island
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/np.html">
                 Nepal
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/nl.html">
                 Netherlands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/nc.html">
                 New Caledonia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/nz.html">
                 New Zealand
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/nu.html">
                 Nicaragua
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ng.html">
                 Niger
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ni.html">
                 Nigeria
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ne.html">
                 Niue
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/nf.html">
                 Norfolk Island
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mk.html">
                 North Macedonia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/cq.html">
                 Northern Mariana Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/no.html">
                 Norway
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/mu.html">
                 Oman
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/zn.html">
                 Pacific Ocean
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pk.html">
                 Pakistan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ps.html">
                 Palau
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/um.html">
                 Palmyra Atoll
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pm.html">
                 Panama
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pp.html">
                 Papua New Guinea
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pf.html">
                 Paracel Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pa.html">
                 Paraguay
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pe.html">
                 Peru
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/rp.html">
                 Philippines
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pc.html">
                 Pitcairn Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pl.html">
                 Poland
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/po.html">
                 Portugal
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/rq.html">
                 Puerto Rico
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/qa.html">
                 Qatar
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ro.html">
                 Romania
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/rs.html">
                 Russia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/rw.html">
                 Rwanda
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tb.html">
                 Saint Barthelemy
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sh.html">
                 Saint Helena, Ascension, and Tristan da Cunha
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sc.html">
                 Saint Kitts and Nevis
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/st.html">
                 Saint Lucia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/rn.html">
                 Saint Martin
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sb.html">
                 Saint Pierre and Miquelon
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/vc.html">
                 Saint Vincent and the Grenadines
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ws.html">
                 Samoa
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sm.html">
                 San Marino
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tp.html">
                 Sao Tome and Principe
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sa.html">
                 Saudi Arabia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sg.html">
                 Senegal
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ri.html">
                 Serbia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/se.html">
                 Seychelles
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sl.html">
                 Sierra Leone
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sn.html">
                 Singapore
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/nn.html">
                 Sint Maarten
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/lo.html">
                 Slovakia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/si.html">
                 Slovenia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/bp.html">
                 Solomon Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/so.html">
                 Somalia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sf.html">
                 South Africa
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sx.html">
                 South Georgia and South Sandwich Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/od.html">
                 South Sudan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/oo.html">
                 Southern Ocean
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sp.html">
                 Spain
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/pg.html">
                 Spratly Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ce.html">
                 Sri Lanka
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/su.html">
                 Sudan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ns.html">
                 Suriname
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sv.html">
                 Svalbard
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sw.html">
                 Sweden
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sz.html">
                 Switzerland
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/sy.html">
                 Syria
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tw.html">
                 Taiwan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ti.html">
                 Tajikistan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tz.html">
                 Tanzania
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/th.html">
                 Thailand
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tt.html">
                 Timor-Leste
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/to.html">
                 Togo
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tl.html">
                 Tokelau
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tn.html">
                 Tonga
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/td.html">
                 Trinidad and Tobago
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ts.html">
                 Tunisia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tu.html">
                 Turkey
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tx.html">
                 Turkmenistan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tk.html">
                 Turks and Caicos Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/tv.html">
                 Tuvalu
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ug.html">
                 Uganda
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/up.html">
                 Ukraine
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ae.html">
                 United Arab Emirates
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/uk.html">
                 United Kingdom
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/us.html">
                 United States
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/um.html">
                 United States Pacific Island Wildlife Refuges
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/uy.html">
                 Uruguay
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/uz.html">
                 Uzbekistan
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/nh.html">
                 Vanuatu
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ve.html">
                 Venezuela
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/vm.html">
                 Vietnam
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/vq.html">
                 Virgin Islands
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/wq.html">
                 Wake Island
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/wf.html">
                 Wallis and Futuna
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/we.html">
                 West Bank
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ym.html">
                 Yemen
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/za.html">
                 Zambia
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/zi.html">
                 Zimbabwe
-            </a></li>
+            </a>
+        </li>
 
         <li class="item">
             <a href="geos/ee.html">
                 European Union
 
-            </a></li>
+            </a>
+        </li>
 
     </ul>
     <!-- add a number of results counter -->
@@ -2250,22 +2528,28 @@
                 </li>
 
                 <li>
-                    <a class="nav" href="docs/gallery.html">Gallery of Covers</a></li>
+                    <a class="nav" href="docs/gallery.html">Gallery of Covers</a>
+                </li>
 
                 <li>
-                    <a class="nav" href="docs/flagsoftheworld.html">Flags of the World</a></li>
+                    <a class="nav" href="docs/flagsoftheworld.html">Flags of the World</a>
+                </li>
 
                 <li>
-                    <a class="nav" href="docs/notesanddefs.html">Definitions and Notes</a></li>
+                    <a class="nav" href="docs/notesanddefs.html">Definitions and Notes</a>
+                </li>
 
                 <li>
-                    <a class="nav" href="docs/profileguide.html">Guide to Country Profiles</a></li>
+                    <a class="nav" href="docs/profileguide.html">Guide to Country Profiles</a>
+                </li>
 
                 <li>
-                    <a class="nav" href="docs/rankorderguide.html">Guide to Country Comparisons</a></li>
+                    <a class="nav" href="docs/rankorderguide.html">Guide to Country Comparisons</a>
+                </li>
 
                 <li>
-                    <a class="nav" href="../old/index.html">View Original</a></li>
+                    <a class="nav" href="../old/index.html">View Original</a>
+                </li>
             </ul>
         </footer>
 
