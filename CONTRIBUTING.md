@@ -12,6 +12,8 @@
 
 To learn the proper style and structure of this project, please see the [style README.md](style/README.md) file.
 
+Also, follow the [Code of Conduct](CODE_OF_CONDUCT.md)
+
 If you contribute, make sure to follow the guidelines linked above.
 
 __DO NOT__ contribute to this project without following the guidelines, as they are there for a reason, and must not be ignored.
@@ -25,9 +27,11 @@ You can contribute to this project in many ways.
 - Fix bugs.
 - Create an issue.
 - Translate files.
-- Suggest datasets
-- Implement datasets
-- Promote the FactBook
+- Suggest datasets.
+- Implement datasets.
+- Promote the FactBook.
+- Update Datasets.
+- Make files conform to style guidelines.
 
 ## 1.3. READMEs
 
@@ -42,3 +46,4 @@ In addition to the README you're reading right now, this repo includes other REA
 - [src/datasets/sources.md](src/datasets/sources.md)
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 - [CONTRIBUTING.md](CONTRIBUTING.md)
+- [knowledgeTree.md](knowledgeTree.md)
