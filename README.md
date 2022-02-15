@@ -6,8 +6,6 @@
 [![GitHub license](https://img.shields.io/github/license/monster0506/factBook)](https://github.com/Monster0506/factBook/blob/master/LICENSE)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/monster0506/factbook)
 
-__*Knowledge is Power*/Scientia potentia est__
-
 This is a FactBook/Knowledge Base by Monster0506. It contains a large amount of information in a convenently accessable index. This information includes the CIA World Factbook, information on past events, taken from the [code.org](code.org) free tables. The tables that are normally updated every day are included, however, they are not current.
 
 Created by Monster0506.
@@ -177,13 +175,12 @@ Made with [contrib.rocks](https://contrib.rocks).
     - [index](src/countries/index.html) - The main page of the site
     - [README](src/countries/README.md) - Main README for the factBook interface
     - [wfb.css](src/countries/wfb.css) - Main styles for the factBook
-  - [index.html](src/index.html) - Main Interface
 - [.editorconfig](.editorconfig) - Main editorconfig file
 - [.gitattributes](.gitattributes) - gitattributes
 - [.gitignore](.gitignore) - gitignore
+- [index.html](index.html) - Main Factbook Interface
 - [LICENSE](LICENSE) - LICENCE
 - [README.md](#1-monster0506-data-store) - This File
-- [knowledgeTree.md](knowledgeTree.md) - A tree of knowledge
 
 ### 1.2.9. READMEs
 
@@ -198,4 +195,3 @@ In addition to the README you're reading right now, this repo includes other REA
 - [src/datasets/sources.md](src/datasets/sources.md)
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 - [CONTRIBUTING.md](CONTRIBUTING.md)
-- [knowledgeTree.md](knowledgeTree.md)
