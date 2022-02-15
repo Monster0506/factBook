@@ -5,102 +5,177 @@
     <link rel="stylesheet" href="style.css">
     <title>Home</title>
     <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-
-<nav>
-    <!-- Display the current date -->
-    <span>
+<body>
+    <nav>
+        <span>
         Today is <span id='date'></span></span>
-    <script>
-        n = new Date();
-        n = n.toDateString();
-        document.getElementById("date").innerHTML = n
-    </script>
-
-    <a href="index.html">Home</a>
-    <a href="datasets/">Data</a>
-    <a href="countries/">World FactBook Interface</a>
-
-</nav>
-<div>
-    <div id="books">
-        <h1>Books</h1>
-        <p>
-            Search Free Books with Project Guteberg
-        </p>
-        <form method="get" action="https://www.gutenberg.org/ebooks/search/" accept-charset="utf-8" enctype="multipart/form-data" class="searchbox"><input type="text" value="" id="menu-book-search" name="searchBooks" class="searchInput" title="Quick search" tabindex="20" size="20" maxlength="80" placeholder="Quick search">
-            <input type="submit" name="submit_search" value="Go!">
-        </form>
-
-    </div>
-    <div id="dictionary">
-        <div>
-            <h1>Dictionary</h1>
-            <p>
-                Search TheFreeDictionary
+        <script>
+            n = new Date();
+            n = n.toDateString();
+            document.getElementById("date").innerHTML = n
+        </script>
+        <a href="index.html">Home</a>
+        <a href="datasets/">Data</a>
+        <a href="countries/">World FactBook Interface</a>
+    </nav>
+    <div id="all">
+        <div class="content" id="books">
+            <h1>Books</h1>
+            <p class='desc'>
+                Search Free Books with Project Guteberg
             </p>
-            <form class="searchbox" method="GET" action="https://www.thefreedictionary.com/_/partner.aspx" onsubmit="return this.Word.value>''">
-                <input placeholder="Quick search" type="text" name="Word" size="22" maxlength="70"><input type="submit" value="Go!">
-                <div class="small_text">
-                    <input type="radio" name="Set" value="" checked="true">Dictionary/Thesaurus<br>
-                    <input type="radio" name="Set" value="computing-dictionary">Computing Dictionary<br>
-                    <input type="radio" name="Set" value="medical-dictionary">Medical Dictionary<br>
-                    <input type="radio" name="Set" value="legal-dictionary">Legal Dictionary<br>
-                    <input type="radio" name="Set" value="financial-dictionary">Financial Dictionary<br>
-                    <input type="radio" name="Set" value="acronyms">Acronyms<br>
-                    <input type="radio" name="Set" value="encyclopedia">Wikipedia Encyclopedia<br>
-                    <input type="radio" name="Set" value="columbia">Columbia Encyclopedia<br>
-                </div>
+
+            <form method="get" action="https://www.gutenberg.org/ebooks/search/" accept-charset="utf-8" enctype="multipart/form-data" class="searchform">
+                <input type="text" value="" id="menu-book-search" name="searchBooks" class="searchInput" title="Quick search" tabindex="20" size="20" maxlength="800" placeholder="Quick search">
+                <input type="submit" name="submit_search" value="Go!">
             </form>
-            <p></p>
-            <div>
-                <p>
+        </div>
+        <div class="content" id="dictionary">
+            <div class="cont">
+                <h1>Dictionary</h1>
+                <p class='desc'>
+                    Search TheFreeDictionary
+                </p>
+                <form class="searchform" method="GET" action="https://www.thefreedictionary.com/_/partner.aspx" onsubmit="return this.Word.value>''">
+                    <input placeholder="Quick search" type="text" name="Word" size="22" maxlength="70"><input type="submit" value="Go!">
+                    <div class="small_text">
+                        <input type="radio" name="Set" value="" checked="true">Dictionary/Thesaurus<br>
+                        <input type="radio" name="Set" value="computing-dictionary">Computing Dictionary<br>
+                        <input type="radio" name="Set" value="medical-dictionary">Medical Dictionary<br>
+                        <input type="radio" name="Set" value="legal-dictionary">Legal Dictionary<br>
+                        <input type="radio" name="Set" value="financial-dictionary">Financial Dictionary<br>
+                        <input type="radio" name="Set" value="acronyms">Acronyms<br>
+                        <input type="radio" name="Set" value="encyclopedia">Wikipedia Encyclopedia<br>
+                        <input type="radio" name="Set" value="columbia">Columbia Encyclopedia<br>
+                </form>
+                </div>
+            </div>
+            <br>
+            <div class="cont">
+                <p class='desc'>
                     Reverse Dictionary
                 </p>
-                <form class="searchbox" method="GET" action="https://www.onelook.com/thesaurus" accept-charset="utf-8" enctype="multipart/form-data">
-                    <input placeholder="Quick search" type="text" name="s" size="22" maxlength="70"><input type="submit" value="Go!">
+                <form class="searchform" method="GET" action="https://www.onelook.com/thesaurus" accept-charset="utf-8" enctype="multipart/form-data"><input placeholder="Quick search" type="text" name="s" size="22" maxlength="70"><input type="submit" value="Go!">
                 </form>
             </div>
-            <div>
-                <form class="searchbox"method="get" action="https://search.nlm.nih.gov/medlineplus/query" target="_self" id="form1" name="form1">
-                    Medical Dictionary<br>
-                    <input name="MAX" type="hidden" value="500">
-                    <input name="SERVER1" type="hidden" value="server1">
-                    <input name="SERVER2" type="hidden" value="server2">
-                    <input name="PARAMETER" type="text" size="15" value="">
-                    <input name="DISAMBIGUATION" type="hidden" value="true">
-                    <input type="hidden" name="FUNCTION" value="search">
-                    <input type="submit" name="submit" value="Go">
-                  </form>
-                </div>
-            
+            <br>
+            <div class="cont">
+                <p class='desc'>
+                    Medical Dictionary
+                </p>
+                <form class="searchform" method="get" action="https://search.nlm.nih.gov/medlineplus/query" target="_self" id="form1" name="form1">
+                    <input placeholder="Quick Search" name="PARAMETER" type="text" size="15" value="">
+                    <input type="submit" name="submit" value="Go!">
+                </form>
+            </div>
+            <div class="cont">
+                <!--Word Finder lookup box by TheFreeDictionary.com-->
+                <p class='desc'>
+                    Scrabble Word Finder
+                </p>
+                <form class="searchform" action="https://www.thefreedictionary.com/_/partner.aspx" method="get" target="_blank" name="wordfinder">
+                    <input type="hidden" name="LookupSrc" value="wf">
+
+
+                    <a style="text-decoration:none;color:#000000" href="https://www.thefreedictionary.com/Word-Finder.htm" rel="nofollow">
+
+                    </a>
+
+                    <input placeholder="Quick Search" type="text" name="Word" value="" size="26" /><input id=box_submit12 style="font-size: 10pt" type=submit value="Go!"></td>
+                    <br>
+                    <input type="radio" name="mode" id="opt112" value="s" checked><label for=opt112>Starts With</label><br>
+                    <input type="radio" name="mode" id="opt113" value="e"><label for=opt113>Ends With</label><br>
+                    <input type="radio" name="mode" id="opt114" value="c"><label for=opt114>Contains</label><br>
+                    <input type="radio" name="mode" id="opt115" value="u"><label for=opt115>Unscramble</label><br>
+
+                </form>
+                <!--end of Word Finder lookup box-->
+            </div>
         </div>
     </div>
-    <div id="wikipedia">
+    <div class="content" id="wikipedia">
         <h1>
             Wikipedia
         </h1>
-        <form class = "searchbox" action="https://en.wikipedia.org/wiki/Special:Search" class="bodySearch" id="bodySearchMP" name="bodySearchMP">
-            
-                
-                            <div class="gsc-input-box" id="bing_search_input_box">
-                                <input placeholder="Quick search" type="text" name="search" size="22" maxlength="70"><input type="submit" value="Go!">
-                            </div>
-
+        <p class='desc'>
+            Search Wikipedia
+        </p>
+        <form class="searchform" action="https://en.wikipedia.org/wiki/Special:Search" class="bodySearch" id="bodySearchMP" name="bodySearchMP">
+            <input placeholder="Quick search" type="text" name="search" size="22" maxlength="70"><input type="submit" value="Go!">
+        </form>
+    </div>
+    <div class="content" id="tech">
+        <h1>
+            Tech
+        </h1>
+        <p class='desc'>
+            Search Tech Terms with Webopedia
+        </p>
+        <form class="searchform" action="https://www.webopedia.com/" method="GET">
+            <input type="text" size="20" name="s" maxlength="512" placeholder="Quick Search ">
+            <input type="submit" value="Go!" name="submit">
         </form>
 
     </div>
-    <form action="https://www.webopedia.com/" method="GET">
-        <input type="text" size="20" name="s" maxlength="512" placeholder="Enter a tech term...">
-        <input type="submit" value="Go!" name="submit">
-      </form>
-</div>
+    <div class="extra">
+        <h1>
+            Extra Content
+        </h1>
+        <div class="cont" id="wod">
+            <div>Word of the Day</div>
 
+            <div id="tfd_wod_div">
+                <table aria-label="" id="WordOfTheDay">
+                    <th scope="" colspan="2">
+                    </th>
+                    <tr>
+                        <td colspan="2">
+                            <h3>
+                                <a href="https://www.thefreedictionary.com/vitreous" rel="nofollow">vitreous</a>
+                            </h3>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="WoDLeft">Definition:</td>
+                        <td>Of, relating to, resembling, or having the nature of glass.</td>
+                    </tr>
+                    <tr>
+                        <td class="WoDLeft">Synonyms:</td>
+                        <td>
+                            <a href="https://www.freethesaurus.com/glassy" rel="nofollow">glassy</a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script type="text/javascript">
+                document.getElementById("tfd_wod_div").style.visibility = "hidden"
+            </script>
+            <script type="text/javascript" async src="//img.tfd.com/daily/wod-top.js" charset="UTF-8"></script>
+        </div>
+        <div class="cont" id="dgl">
+            <div>Daily Grammar Lesson</div>
+            <div id=tfd_grammar_div></div>
+            <script type="text/javascript" async src="//img.tfd.com/daily/grammar-top.js" charset="UTF-8"></script>
+        </div>
+        <div class="cont">
+            <div>This Day in History</div>
+            <div id=tfd_history_div></div>
+            <script type="text/javascript" async src="//img.tfd.com/daily/history-top.js" charset="UTF-8"></script>
 
+        </div>
+        <div class="cont">
+            <div>Today's Birthday</div>
+            <div id=tfd_birthday_div></div>
+            <script type="text/javascript" async src="//img.tfd.com/daily/birthday-top.js" charset="UTF-8"></script>
 
+        </div>
+    </div>
+    </div>
 </body>
 
 </html>

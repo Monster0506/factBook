@@ -1,36 +1,55 @@
-#books {
+.content {
     border: 1px solid #ccc;
-    border-radius: 10px;
-    height: 160px;
+    border-radius: 25px;
+    height: fit-content;
     display: flex;
+    flex-direction: column;
+    padding: 5px
 }
 
 #dictionary {
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    height: 400px;
     display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
 }
 
-#wikipedia {
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    height: 400px;
+#dictionarybox12 TD,
+INPUT,
+SELECT {
+    font-size: 10pt;
+}
+
+.extra {
     display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 35px;
+    padding: 25px;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.desc {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    color: blue
 }
 
 .small_text {
     font-size: 0.78em;
 }
 
-.searchbox {
+.searchform {
     position: relative;
     float: left;
     width: 28em;
     padding: 0.2em;
 }
 
-.searchbox input[type="text"] {
+.searchform input[type="text"] {
     height: 1.8em;
     width: 18em;
     border-radius: 1em;
@@ -41,7 +60,7 @@
     border: none;
 }
 
-.searchbox input[type="submit"] {
+.searchform input[type="submit"] {
     color: #fff;
     text-decoration: none;
     background: #60a3bc;
@@ -67,7 +86,7 @@ nav {
     padding: 10px;
     text-align: center;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Fira Code', monospace;
     font-weight: bold;
     list-style: none;
     display: flex;
@@ -81,4 +100,78 @@ nav a {
 
 nav a:visited {
     color: blue;
+}
+
+#WordOfTheDay {
+    width: 100%;
+    border: none;
+}
+
+#WordOfTheDay H3 {
+    font: bold 12pt '';
+    color: #000000
+}
+
+#WordOfTheDay TD.WoDLeft {
+    font: bold 10pt '';
+    color: #000000
+}
+
+#WordOfTheDay TD {
+    font: normal 10pt '';
+    color: #000000
+}
+
+#WordOfTheDay A {
+    color: #0000FF
+}
+
+#Grammar {
+    width: 100%;
+    border: none;
+    background-color: #fff;
+}
+
+#Grammar H3 {
+    margin-top: 0px;
+    font: bold 12pt '';
+    color: #000000
+}
+
+#Grammar TD {
+    font: normal 10pt '';
+    color: #000000
+}
+
+#Grammar A {
+    color: #0000FF
+}
+
+#TodaysBirthday {
+    width: 100%;
+    border: none;
+    background-color: #fff;
+}
+
+#TodaysBirthday H3 {
+    margin-top: 0px;
+    font: bold 12pt '';
+    color: #000000
+}
+
+#TodaysBirthday TD {
+    font: normal 10pt '';
+    color: #000000
+}
+
+#TodaysBirthday A {
+    color: #0000FF
+}
+
+.cont {
+    border: 1px solid #ea8cf3;
+    border-radius: 25px;
+    padding: 25px;
+    width: 95%;
+    width: fit-content;
 }

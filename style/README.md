@@ -72,8 +72,8 @@ Please also make sure that the page follows the
 [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist).
 This takes lowest priority, but is a good way to ensure that the page is ready for the frontend.
 
-Each [major HTML tag](majorTags.md) should have a line of whitespace before it, and a line of whitespace after it,
-and should be on its own line.
+~~Each [major HTML tag](majorTags.md) should have a line of whitespace before it, and a line of whitespace after it,
+and should be on its own line.~~  __Please disregard this rule, as it is just kept in for posterity.__
 
 ## 1.4. JavaScript
 
